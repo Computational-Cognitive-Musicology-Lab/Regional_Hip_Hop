@@ -1,0 +1,297 @@
+**recip	**stress**rhyme	**CMPD	**lyrics
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM127	*MM127	*MM127	*MM127	*MM127
+*	*	*	*	*
+=0	=0	=0	=0	=0
+4	.	.	R	.
+12	1			Rac-
+12	0			kings 
+12	0			on 
+12	1			rac-
+12	0			kings 
+12	0			got 
+12	1			bac-
+12	0			kends 
+12	0			on 
+=1	=1	=1	=1	=1
+12	1			bac-
+12	0			kends
+12	0			I'm 
+12	1			ri-
+12	0			din' 
+12	0			a-
+12	1			round 
+12	0			in 
+12	0			a 
+4	1			coupe
+=2	=2	=2	=2	=2
+4	.	.	R	.
+12	1			I 
+12	0			take 
+12	0			your 
+12	1			bitch 
+12	0			right 
+12	0			from 
+4	1			you
+=3	=3	=3	=3	=3
+4	.	.	R	.
+12	1			Bitch 
+12	0			I'm 
+12	0			a 
+4	1			dog 
+4	1			woof
+=4	=4	=4	=4	=4
+4	.	.	R	.
+12	1			Beat 
+12	0			that 
+12	0			hoe
+4	1			walls 
+4	1			loose
+=5	=5	=5	=5	=5
+4	.	.	R	.
+12	1			Hop 
+12	0			in 
+12	0			the 
+4	1			frog 
+4	1			whoo
+=6	=6	=6	=6	=6
+4	.	.	R	.
+12	1			I 
+12	0			tell 
+12	0			that 
+12	1			bitch 
+12	0			to
+12	0			come,
+12	1			come 
+12	0			for 
+12	0			me
+=7	=7	=7	=7	=7
+4	.	.	R	.
+12	1			I 
+12	0			swear 
+12	0			these 
+12	1			nig-
+12	0			gas 
+12	0			is 
+12	1			un-
+12	0			der 
+12	0			me
+=8	=8	=8	=8	=8
+6	.	.	R	.
+12	0			They 
+12	1			hate 
+12	0			and 
+12	0			the 
+12	1			de-
+12	0			vil 
+12	0			keep 
+12	1			jum-
+12	0			pin'
+12	0			me
+=9	=9	=9	=9	=9
+4	.	.	R	.
+12	1			Bank-
+12	0			rolls 
+12	0			on 
+12	1			me 
+12	0			keep 
+12	0			me 
+12	1			com-
+12	0			pa-
+12	0			ny
+=10	=10	=10	=10	=10
+4	.	.	R	.
+4	1			Ay 
+12	1			we 
+12	0			do 
+12	0			the 
+4	1			most 
+=11	=11	=11	=11	=11
+4	.	.	R	.
+4	1			yeah
+12	1			Pull 
+12	0			up 
+12	0			in 
+4	1			Ghosts 
+=12	=12	=12	=12	=12
+4	.	.	R	.
+6	1			yeah
+12	0			My 
+12	1			dia-
+12	0			monds 
+12	0			a 
+6	1			cho-
+12	0			ker
+=13	=13	=13	=13	=13
+4	.	.	R	.
+12	1			Hol-
+12	0			din' 
+12	0			the 
+12	1			fire 
+12	0			with 
+12	0			no 
+12	1			hol-
+6	0			ster
+=14	=14	=14	=14	=14
+4	.	.	R	.
+12	1			Rick 
+12	0			The 
+12	1			Ru-
+12	0			ler 
+12	1			dia-
+12	0			monds 
+12	1			coo-
+6	0			ler
+=15	=15	=15	=15	=15
+4	.	.	R	.
+12	1			This 
+12	0			a 
+12	1			Rol-
+12	0			lie 
+12	1			not 
+12	0			a 
+12	1			Muel-
+6	0			ler
+=16	=16	=16	=16	=16
+4	.	.	R	.
+12	1			Dab-
+12	0			bin' 
+12	1			on 
+12	0			'em 
+12	1			like 
+12	0			the 
+12	1			u-
+6	0			sual
+=17	=17	=17	=17	=17
+4	.	.	R	.
+12	1			Ma-
+12	0			gic 
+12	1			with 
+12	0			the 
+12	1			brick 
+12	0			do 
+12	1			voo-
+6	0			doo
+=18	=18	=18	=18	=18
+4	.	.	R	.
+6	1			Court 
+6	1			side 
+12	1			with 
+12	0			a 
+6	1			bad 
+12	1			bitch
+=19	=19	=19	=19	=19
+4	.	.	R	.
+12	1			Then 
+12	0			I 
+12	1			send 
+12	0			the 
+12	1			bitch 
+12	0			through 
+12	1			U-
+6	0			ber
+=20	=20	=20	=20	=20
+6	.	.	R	.
+12	0			I'm 
+12	1			young 
+12	0			and 
+12	0			rich 
+12	1			and 
+12	0			plus 
+12	0			I'm 
+12	1			bou-
+6	0			jee
+=21	=21	=21	=21	=21
+12	.	.	R	.
+12	0			I'm 
+12	0			not 
+12	1			stu-
+12	0			pid 
+12	0			so 
+12	1			I 
+12	0			keep 
+12	0			the 
+12	1			U-
+6	0			zi
+=22	=22	=22	=22	=22
+12	1			Rac-
+12	0			kings 
+12	0			on 
+12	1			rac-
+12	0			kings 
+12	0			got 
+12	1			bac-
+12	0			kends 
+12	0			on 
+12	1			bac-
+12	0			kends
+12	0			So 
+=23	=23	=23	=23	=23
+12	1			my 
+12	0			mo-
+12	0			ney 
+12	1			ma-
+12	0			kin' 
+12	0			my 
+6	1			back 
+12	0			ache
+4	.	.	R	.
+=24	=24	=24	=24	=24
+12	1			You 
+12	0			nig-
+12	0			gas 
+12	1			got 
+12	0			a 
+12	0			low 
+6	1			Act' 
+12	0			rate
+4	.	.	R	.
+=25	=25	=25	=25	=25
+12	1			We 
+12	0			from 
+12	0			the 
+6	1			North 
+12	0			yeah 
+6	1			that 
+12	0			way
+4	.	.	R	.
+=26	=26	=26	=26	=26
+12	1			Fat 
+12	0			coo-
+12	0			kie 
+12	1			blunt 
+12	0			in 
+12	0			the 
+6	1			ash 
+4	0			tray
+12	0			Two 
+=27	=27	=27	=27	=27
+12	1			bit-
+12	0			ches 
+12	0			just 
+12	1			na-
+12	0			tio-
+12	0			nal 
+6	1			smash 
+12	0			day
+4	.	.	R	.
+=28	=28	=28	=28	=28
+12	1			Hop 
+12	0			in 
+12	0			the 
+12	1			Lamb' 
+12	0			have 
+12	0			a 
+6	1			drag 
+12	0			race
+4	.	.	R	.
+=29	=29	=29	=29	=29
+12	1			I 
+12	0			let 
+12	0			them 
+12	1			birds 
+12	0			take 
+12	0			a 
+6	1			bath 
+12	0			bae
+4	.	.	R	.
