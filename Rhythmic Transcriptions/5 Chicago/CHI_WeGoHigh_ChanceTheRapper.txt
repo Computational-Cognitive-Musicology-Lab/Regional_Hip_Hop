@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM85	*MM85	*MM85	*MM85	*MM85
 *	*	*	*	*
@@ -152,7 +152,7 @@
 8	1	.	.	damn
 16	1	.	.	there
 16	0	.	.	he
-8..	1	.	.	go
+8.	1	.	.	go
 16	1	.	.	pra-
 =11	=11	=11	=11	=11
 16	0	.	.	yin

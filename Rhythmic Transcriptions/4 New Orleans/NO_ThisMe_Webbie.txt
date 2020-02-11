@@ -1,9 +1,9 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM132	*MM132	*MM132	*MM132	*MM132
 *	*	*	*	*
 =0	=0	=0	=0	=0
-4..	.	.	R	.
+4.	.	.	R	.
 16	0	.	.	If
 16	0	.	.	you
 8	1	.	.	think
@@ -238,7 +238,7 @@
 8	0	.	.	rin
 =20	=20	=20	=20	=20
 4	.	.	R	.
-8..	.	.	R	.
+8.	.	.	R	.
 16	0	.	.	And
 8	1	.	.	I'm
 8	0	.	.	so
@@ -260,7 +260,7 @@
 12	0	.	.	ous
 =22	=22	=22	=22	=22
 2	.	.	R	.
-8..	1	.	.	Young
+8.	1	.	.	Young
 16	1	.	.	sweet
 4	.	.	R	.
 =23	=23	=23	=23	=23

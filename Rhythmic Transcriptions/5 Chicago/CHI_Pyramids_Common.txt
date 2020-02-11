@@ -1,10 +1,10 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM99	*MM99	*MM99	*MM99	*MM99
 *	*	*	*	*
 =0	=0	=0	=0	=0
 4	.	.	R	.
-8..	.	.	R	.
+8.	.	.	R	.
 16	0	.	.	A
 16	1	.	.	nig-
 16	0	.	.	ga
@@ -16,7 +16,7 @@
 16	0	.	.	for
 =1	=1	=1	=1	=1
 8	1	.	.	nine-
-16..	1	.	.	teen-
+16.	1	.	.	teen-
 32	0	.	.	year-
 8	1	.	.	olds
 8	.	.	R	.
@@ -60,7 +60,7 @@
 8	1	.	.	al
 8	.	.	R	.
 8	1	.	.	In
-16..	1	.	.	theo-
+16.	1	.	.	theo-
 32	0	.	.	ry
 8	1	.	.	though
 16	0	.	.	low
@@ -77,7 +77,7 @@
 8	0	.	.	boy
 16	1	.	.	bu-
 16	0	.	.	ri-
-8		.	.	al
+8	0	.	.	al
 =6	=6	=6	=6	=6
 8	1	.	.	drove
 16	1	.	.	me
@@ -102,20 +102,20 @@
 16	1	.	.	ste-
 16	0	.	.	re-
 16	0	.	.	o-
-8..	1	.	.	types
+8.	1	.	.	types
 16	1	.	.	For
 16	0	.	.	e-
 =8	=8	=8	=8	=8
 16	1	.	.	the-
 16	0	.	.	re-
 16	0	.	.	al
-8..	1	.	.	heights
+8.	1	.	.	heights
 16	0	.	.	I
 16	1	.	.	write
 8	.	.	R	.
 8	1	.	.	like
 16	1	.	.	Ri-
-8..	0	.	.	chard
+8.	0	.	.	chard
 16	0	.	.	In-
 =9	=9	=9	=9	=9
 16	1	.	.	vi-
@@ -256,7 +256,7 @@
 16	0	.	.	ver
 16	0	.	.	and
 16	0	.	.	I
-8..	1	.	.	stay
+8.	1	.	.	stay
 16	0	.	.	I'm
 16	1	.	.	from
 16	0	.	.	the
@@ -369,7 +369,7 @@
 16	0	.	.	was
 8	1	.	.	born
 16	.	.	R	.
-16	0			It's
+16	0	.	.	It's
 =27	=27	=27	=27	=27
 8	1	.	.	hard
 16	0	.	.	to

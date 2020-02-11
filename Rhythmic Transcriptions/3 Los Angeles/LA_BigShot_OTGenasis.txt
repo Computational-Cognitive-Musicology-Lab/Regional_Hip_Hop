@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM101	*MM101	*MM101	*MM101	*MM101
 *	*	*	*	*
@@ -71,8 +71,8 @@
 16	0	.	.	mies
 8	.	.	R	.
 =6	=6	=6	=6	=6
-8	1			Bands
-8	0			up
+8	1	.	.	Bands
+8	0	.	.	up
 8	.	.	R	.
 16	1	.	.	yeah
 16	0	.	.	my
@@ -148,7 +148,7 @@
 8	1	.	.	one
 8	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	BigShot			
+!!!OTL:	BigShot		
 !!!COM:	O.T.Genasis			
 !!!ARE:	LosAngeles			
 !!!RRD:	2019			

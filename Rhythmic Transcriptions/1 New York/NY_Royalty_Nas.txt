@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM94	*MM94	*MM94	*MM94	*MM94
 *	*	*	*	*
@@ -24,7 +24,7 @@
 16	0	.	.	on
 16	0	.	.	his
 8	1	.	.	own
-8..	1	.	.	broad
+8.	1	.	.	broad
 16	0	.	.	His
 =2	=2	=2	=2	=2
 8	1	.	.	la-
@@ -50,7 +50,7 @@
 16	0	.	.	ba-
 16	0	.	.	by
 16	1	.	.	ug-
-8..	0	.	.	ly
+8.	0	.	.	ly
 =4	=4	=4	=4	=4
 8	1	.	.	Less
 16	0	.	.	than
@@ -84,12 +84,12 @@
 16	0	.	.	be-
 16	1	.	.	fore
 16	0	.	.	he
-32..	1	.	.	cleaned
-32..	1	.	.	up
+32.	1	.	.	cleaned
+32.	1	.	.	up
 16	0	.	.	his
 8	1	.	.	girl
 16	1	.	.	creeped
-8..	0	.	.	up
+8.	0	.	.	up
 16	1	.	.	Swung
 16	0	.	.	a
 =7	=7	=7	=7	=7
@@ -103,7 +103,7 @@
 8	1	.	.	deep
 4	1	.	.	cut
 =8	=8	=8	=8	=8
-8..	.	.	R	.
+8.	.	.	R	.
 16	0	.	.	He
 16	1	.	.	hol-
 16	0	.	.	din'
@@ -112,7 +112,7 @@
 16	0	.	.	he
 16	1	.	.	out
 16	0	.	.	the
-8..	1	.	.	door
+8.	1	.	.	door
 16	0	.	.	She
 =9	=9	=9	=9	=9
 16	1	.	.	yel-

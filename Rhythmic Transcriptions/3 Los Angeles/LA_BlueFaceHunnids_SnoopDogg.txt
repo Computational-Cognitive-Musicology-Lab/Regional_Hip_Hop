@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM104	*MM104	*MM104	*MM104	*MM104
 *	*	*	*	*
@@ -30,7 +30,7 @@
 8	1	.	.	don't
 16	1	.	.	go
 8	0	.	.	so
-8..	1	.	.	hard
+8.	1	.	.	hard
 16	0	.	.	But
 16	0	.	.	my
 =3	=3	=3	=3	=3
@@ -77,8 +77,8 @@
 16	0	.	.	you
 16	1	.	.	wan-
 16	0	.	.	na
-8..	1	.	.	start
-8..	0	.	.	shit
+8.	1	.	.	start
+8.	0	.	.	shit
 8	0	.	.	Blue
 =7	=7	=7	=7	=7
 8	1	.	.	Chucks
@@ -137,7 +137,7 @@
 24	0	.	.	a
 8	1	.	.	row
 =12	=12	=12	=12	=12
-4..	.	.	R	.
+4.	.	.	R	.
 8	1	.	.	Bang-
 8	1	.	.	bang,
 8	.	.	R	.

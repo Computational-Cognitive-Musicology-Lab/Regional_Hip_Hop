@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM112	*MM112	*MM112	*MM112	*MM112
 *	*	*	*	*
@@ -38,7 +38,7 @@
 12	0	.	.	a
 12	1	.	.	knot
 12	.	.	R	.
-12	0			I
+12	0	.	.	I
 =3	=3	=3	=3	=3
 12	1	.	.	cre-
 12	0	.	.	a-
@@ -75,7 +75,7 @@
 12	0	.	.	na
 12	1	.	.	chop
 12	.	.	R	.
-12	0			Took
+12	0	,	.	Took
 =6	=6	=6	=6	=6
 12	1	.	.	her
 12	0	.	.	out
@@ -88,7 +88,7 @@
 12	0	.	.	sy
 12	1	.	.	pop
 12	.	.	R	.
-12				I
+12	0	.	.	I
 =7	=7	=7	=7	=7
 12	1	.	.	run
 12	0	.	.	it

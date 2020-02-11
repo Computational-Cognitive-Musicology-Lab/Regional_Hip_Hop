@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM84	*MM84	*MM84	*MM84	*MM84
 *	*	*	*	*
@@ -66,7 +66,7 @@
 16	1	.	.	let
 16	0	.	.	it
 =5	=5	=5	=5	=5
-8..	1	.	.	pass
+8.	1	.	.	pass
 16	0	.	.	so
 16	1	.	.	I
 16	0	.	.	con-
@@ -124,7 +124,7 @@
 16	1	.	.	Sold
 16	0	.	.	a
 16	0	.	.	new
-8..	1	.	.	house
+8.	1	.	.	house
 16	0	.	.	for
 16	0	.	.	my
 8	1	.	.	moms
@@ -176,7 +176,7 @@
 16	0	.	.	Don't
 16	1	.	.	be
 16	0	.	.	sur-
-16..	1	.	.	prised
+16.	1	.	.	prised
 32	0	.	.	that
 16	0	.	.	I
 8	1	.	.	built
@@ -210,8 +210,8 @@
 16	0	.	.	to
 16	0	.	.	my
 16	1	.	.	di-
-8	0	.	.	a-
-	0	.	.	ry
+16	0	.	.	a-
+8	0	.	.	ry
 =16	=16	=16	=16	=16
 4	.	.	R	.
 16	.	.	R	.

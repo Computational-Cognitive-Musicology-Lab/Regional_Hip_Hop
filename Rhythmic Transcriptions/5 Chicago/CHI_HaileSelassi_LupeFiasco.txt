@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM112	*MM112	*MM112	*MM112	*MM112
 *	*	*	*	*
@@ -61,7 +61,7 @@
 16	.	.	.	step
 16	.	.	.	up-
 8	.	.	.	on
-4..	.	.	R	.
+4.	.	.	R	.
 16	.	.	.	If
 16	.	.	.	I
 16	.	.	.	tri-
@@ -143,7 +143,7 @@
 16	.	.	.	rest
 8	.	.	R	.
 =11	=11	=11	=11	=11
-4..	.	.	R	.
+4.	.	.	R	.
 16	.	.	.	Or
 16	.	.	.	the
 16	.	.	.	fo-

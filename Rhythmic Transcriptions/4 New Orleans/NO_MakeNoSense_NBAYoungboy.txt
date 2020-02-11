@@ -1,9 +1,9 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM155	*MM155	*MM155	*MM155	*MM155
 *	*	*	*	*
 =0	=0	=0	=0	=0
-2..	.	.	R	.
+2.	.	.	R	.
 8	1	.	.	I
 8	0	.	.	could
 =1	=1	=1	=1	=1

@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM125	*MM125	*MM125	*MM125	*MM125
 *	*	*	*	*
@@ -59,7 +59,7 @@
 12	0	.	.	an
 12	0	.	.	a-
 12	1	.	.	bun-
-6	0			dance
+6	0	.	.	dance
 =5	=5	=5	=5	=5
 12	1	.	.	Guc-
 12	0	.	.	ci
@@ -71,7 +71,7 @@
 12	0	.	.	and
 12	0	.	.	the
 12	1	.	.	bu-
-6	0			nions
+6	0	.	.	nions
 =6	=6	=6	=6	=6
 12	1	.	.	Coun-
 12	0	.	.	ting

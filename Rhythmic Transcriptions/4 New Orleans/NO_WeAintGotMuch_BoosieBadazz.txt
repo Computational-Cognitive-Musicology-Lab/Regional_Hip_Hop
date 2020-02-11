@@ -1,9 +1,9 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM99	*MM99	*MM99	*MM99	*MM99
 *	*	*	*	*
 =0	=0	=0	=0	=0
-2..	.	.	R	.
+2.	.	.	R	.
 16	.	.	R	.
 16	0	.	.	When
 16	1	.	.	I

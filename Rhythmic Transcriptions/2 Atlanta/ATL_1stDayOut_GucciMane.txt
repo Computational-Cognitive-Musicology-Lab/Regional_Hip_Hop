@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM138	*MM138	*MM138	*MM138	*MM138
 *	*	*	*	*
@@ -191,7 +191,7 @@
 8	1	.	.	in
 4	0	.	.	my
 4	1	.	.	way
-4..	.	.	R	.
+4.	.	.	R	.
 *-	*-	*-	*-	*-
 !!!OTL:	1stDayOutThaFeds			
 !!!COM:	GucciMane			

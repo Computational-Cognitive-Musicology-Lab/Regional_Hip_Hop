@@ -1,10 +1,10 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM90	*MM90	*MM90	*MM90	*MM90
 *	*	*	*	*
 =0	=0	=0	=0	=0
 3	.	.	R	.
-8..	.	.	R	.
+8.	.	.	R	.
 16	0	.	.	That
 =1	=1	=1	=1	=1
 8	1	.	.	street
@@ -132,14 +132,14 @@
 16	0	.	.	ga
 16	1	.	.	played
 16	0	.	.	with
-8..	1	.	.	Dur-
+8.	1	.	.	Dur-
 16	0	.	.	ki-
 16	1	.	.	o
 16	0	.	.	he
 16	1	.	.	in
 16	0	.	.	a
 8	1	.	.	back-
-16..	0	.	.	wood
+16.	0	.	.	wood
 32	0	.	.	Chi-
 =11	=11	=11	=11	=11
 16	1	.	.	ca-

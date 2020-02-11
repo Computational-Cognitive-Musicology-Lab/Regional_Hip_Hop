@@ -1,16 +1,16 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM132	*MM132	*MM132	*MM132	*MM132
 *	*	*	*	*
 =0	=0	=0	=0	=0
-8..	.	.	R	.
+8.	.	.	R	.
 8	0	.	.	I'm
 16	1	.	.	kil-
-8..	0	.	.	ling
+8.	0	.	.	ling
 4	1	.	.	these
 =1	=1	=1	=1	=1
 16	1	.	.	nig-
-8..	0	.	.	gas
+8.	0	.	.	gas
 8	1	.	.	shit
 8	0	.	.	that
 8	1	.	.	they
@@ -24,9 +24,9 @@
 8	0	.	.	the
 =3	=3	=3	=3	=3
 16	1	.	.	thir-
-8..	0	.	.	ty
+8.	0	.	.	ty
 16	1	.	.	he
-8..	0	.	.	ain't
+8.	0	.	.	ain't
 8	1	.	.	try-
 8	0	.	.	na
 4	1	.	.	fight
@@ -70,7 +70,7 @@
 8	0	.	.	to-
 4	1	.	.	night
 =10	=10	=10	=10	=10
-4..	.	.	R	.
+4.	.	.	R	.
 8	0	.	.	I
 8	1	.	.	on-
 8	0	.	.	ly
@@ -84,7 +84,7 @@
 8	0	.	.	na
 4	1	.	.	pipe
 =12	=12	=12	=12	=12
-4..	.	.	R	.
+4.	.	.	R	.
 8	0	.	.	Them
 8	1	.	.	young-
 8	0	.	.	ings
@@ -110,7 +110,7 @@
 4	1	.	.	take
 4	1	.	.	flight
 =16	=16	=16	=16	=16
-4..	.	.	R	.
+4.	.	.	R	.
 8	0	.	.	three-
 8	1	.	.	Hun-
 8	0	.	.	na

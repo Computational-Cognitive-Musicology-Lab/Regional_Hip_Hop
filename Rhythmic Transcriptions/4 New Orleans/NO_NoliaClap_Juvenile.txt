@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM80	*MM80	*MM80	*MM80	*MM80
 *	*	*	*	*
@@ -41,7 +41,7 @@
 16	0	.	.	the
 =3	=3	=3	=3	=3
 16	1	.	.	D-
-8..	1	.	.	B's
+8.	1	.	.	B's
 16	1	.	.	tell
 16	0	.	.	em'
 16	1	.	.	Wac-
@@ -94,7 +94,7 @@
 8	0	.	.	gum
 16	1	.	.	pic-
 8	0	.	.	kup
-8..	1	.	.	truck
+8.	1	.	.	truck
 16	1	.	.	Slide
 16	0	.	.	on
 =7	=7	=7	=7	=7
@@ -254,7 +254,7 @@
 16	0	.	.	the
 16	1	.	.	'Yo-
 16	0	.	.	la
-8..	.	.	R	.
+8.	.	.	R	.
 *-	*-	*-	*-	*-
 !!!OTL:	NoliaClap			
 !!!COM:	Juvenile			

@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM150	*MM150	*MM150	*MM150	*MM150
 *	*	*	*	*
@@ -37,7 +37,7 @@
 8	1	.	.	now
 8	0	.	.	I'm
 =4	=4	=4	=4	=4
-	1	.	.	coun-
+8	1	.	.	coun-
 8	0	.	.	ting
 4	1	.	.	this
 8	1	.	.	Par-

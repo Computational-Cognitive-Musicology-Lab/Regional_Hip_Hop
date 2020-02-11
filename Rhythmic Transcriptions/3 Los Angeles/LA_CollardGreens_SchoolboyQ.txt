@@ -1,9 +1,9 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM154	*MM154	*MM154	*MM154	*MM154
 *	*	*	*	*
 =0	=0	=0	=0	=0
-2..	.	.	R	.
+2.	.	.	R	.
 4	1	.	.	Smoke
 =1	=1	=1	=1	=1
 4	0	.	.	this

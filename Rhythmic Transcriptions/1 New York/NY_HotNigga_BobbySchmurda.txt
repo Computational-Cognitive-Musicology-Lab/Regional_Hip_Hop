@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM84	*MM84	*MM84	*MM84	*MM84
 *	*	*	*	*
@@ -80,7 +80,7 @@
 8	1	.	.	fall
 8	0	.	.	out
 =6	=6	=6	=6	=6
-8..	.	.	R	.
+8.	.	.	R	.
 16	0	.	.	You
 16	1	.	.	tal-
 16	0	.	.	king
@@ -102,7 +102,7 @@
 8	1	.	.	floss
 8	0	.	.	out
 =8	=8	=8	=8	=8
-8..	.	.	R	.
+8.	.	.	R	.
 16	0	.	.	Free
 16	1	.	.	Gree-
 16	0	.	.	zy
@@ -142,7 +142,7 @@
 8	1	.	.	dog
 8	0	.	.	pound
 =11	=11	=11	=11	=11
-8..	.	.	R	.
+8.	.	.	R	.
 16	0	.	.	Free
 16	1	.	.	Phan-
 16	0	.	.	tom

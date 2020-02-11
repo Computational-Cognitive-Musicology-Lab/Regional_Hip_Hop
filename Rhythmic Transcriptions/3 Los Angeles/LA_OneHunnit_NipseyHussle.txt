@@ -1,4 +1,4 @@
-**recip	**stress**rhyme	**CMPD	**lyrics
+**recip	**stress	**rhyme	**CMPD	**lyrics
 *M4/4	*M4/4	*M4/4	*M4/4	*M4/4
 *MM90	*MM90	*MM90	*MM90	*MM90
 *	*	*	*	*
@@ -97,7 +97,7 @@
 8	0	.	.	shine
 =7	=7	=7	=7	=7
 16	1	.	.	nig-
-16		.	.	ga
+16	0	.	.	ga
 16	1	.	.	that's
 16	0	.	.	a
 16	1	.	.	pro-
@@ -182,7 +182,7 @@
 8	1	.	.	C's
 16	0	.	.	on
 16	0	.	.	her
-8..	1	.	.	waist
+8.	1	.	.	waist
 16	0	.	.	Gold
 =13	=13	=13	=13	=13
 8	1	.	.	spikes
@@ -220,7 +220,7 @@
 16	0	.	.	in
 16	0	.	.	the
 =16	=16	=16	=16	=16
-8	1			six
+8	1	.	.	six
 16	.	.	R	.
 16	1	.	.	Bit-
 16	0	.	.	ches
@@ -230,7 +230,7 @@
 16	0	.	.	lin'
 16	0	.	.	for
 16	0	.	.	the
-8..	1	.	.	Crip
+8.	1	.	.	Crip
 16	0	.	.	She
 =17	=17	=17	=17	=17
 16	1	.	.	want
@@ -303,7 +303,7 @@
 16	0	.	.	ver
 8	1	.	.	bust
 16	0	.	.	a
-8..	1	.	.	itch
+8.	1	.	.	itch
 =22	=22	=22	=22	=22
 16	.	.	R	.
 16	0	.	.	And
