@@ -230,7 +230,7 @@
 8	1	.	.	an-
 8	0	.	.	swer
 *-	*-	*-	*-	*-
-!!!OTL:	NeighborhoodHero			
-!!!COM:	LilDurk			
-!!!ARE:	Chicago			
-!!!RRD:	2018			
+!!!OTL:	NeighborhoodHero
+!!!COM:	LilDurk
+!!!ARE:	Chicago
+!!!RRD:	2018

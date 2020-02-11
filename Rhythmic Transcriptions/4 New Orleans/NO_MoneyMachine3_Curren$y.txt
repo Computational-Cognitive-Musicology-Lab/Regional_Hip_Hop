@@ -240,7 +240,7 @@
 16	1	.	.	wo-
 16	0	.	.	man
 *-	*-	*-	*-	*-
-!!!OTL:	MoneyMachine3			
-!!!COM:	Curren$y			
-!!!ARE:	NewOrleans			
-!!!RRD:	2019			
+!!!OTL:	MoneyMachine3
+!!!COM:	Curren$y
+!!!ARE:	New Orleans
+!!!RRD:	2019

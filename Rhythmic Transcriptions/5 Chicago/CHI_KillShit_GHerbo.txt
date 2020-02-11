@@ -500,7 +500,7 @@
 6	1	.	.	side
 6	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	KillShit			
-!!!COM:	GHerbo			
-!!!ARE:	Chicago			
-!!!RRD:	2016			
+!!!OTL:	KillShit
+!!!COM:	GHerbo
+!!!ARE:	Chicago
+!!!RRD:	2016

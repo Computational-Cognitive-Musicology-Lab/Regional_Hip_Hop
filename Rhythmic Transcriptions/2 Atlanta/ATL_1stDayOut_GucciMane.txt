@@ -193,7 +193,7 @@
 4	1	.	.	way
 4.	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	1stDayOutThaFeds			
-!!!COM:	GucciMane			
-!!!ARE:	Atlanta			
-!!!RRD:	2016			
+!!!OTL:	1stDayOutThaFeds
+!!!COM:	GucciMane
+!!!ARE:	Atlanta
+!!!RRD:	2016

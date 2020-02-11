@@ -256,7 +256,7 @@
 16	0	.	.	la
 8.	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	NoliaClap			
-!!!COM:	Juvenile			
-!!!ARE:	NewOrleans			
-!!!RRD:	2013			
+!!!OTL:	NoliaClap
+!!!COM:	Juvenile
+!!!ARE:	New Orleans
+!!!RRD:	2013

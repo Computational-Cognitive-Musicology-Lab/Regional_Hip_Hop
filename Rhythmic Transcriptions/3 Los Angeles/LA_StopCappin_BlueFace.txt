@@ -223,7 +223,7 @@
 16	0	.	.	sions
 8	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	StopCappin'			
-!!!COM:	BlueFace			
-!!!ARE:	LosAngeles			
-!!!RRD:	2019			
+!!!OTL:	StopCappin'
+!!!COM:	BlueFace
+!!!ARE:	LosAngeles
+!!!RRD:	2019

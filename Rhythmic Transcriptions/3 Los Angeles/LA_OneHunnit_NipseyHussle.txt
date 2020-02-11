@@ -333,7 +333,7 @@
 12	0	.	.	you
 12	1	.	.	think
 *-	*-	*-	*-	*-
-!!!OTL:	OneHunnit			
-!!!COM:	NipseyHussle			
-!!!ARE:	LosAngeles			
-!!!RRD:	2017			
+!!!OTL:	OneHunnit
+!!!COM:	NipseyHussle
+!!!ARE:	LosAngeles
+!!!RRD:	2017

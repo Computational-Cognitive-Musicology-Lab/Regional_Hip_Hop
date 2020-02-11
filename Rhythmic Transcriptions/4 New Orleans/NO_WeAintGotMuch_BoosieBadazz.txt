@@ -271,7 +271,7 @@
 8	1	.	.	cash
 2	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	WeAin'tGotMuch			
-!!!COM:	BoosieBadazz			
-!!!ARE:	NewOrleans			
-!!!RRD:	2019			
+!!!OTL:	WeAin'tGotMuch
+!!!COM:	BoosieBadazz
+!!!ARE:	New Orleans
+!!!RRD:	2019

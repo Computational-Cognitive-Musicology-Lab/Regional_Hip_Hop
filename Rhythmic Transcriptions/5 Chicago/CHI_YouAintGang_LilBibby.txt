@@ -190,7 +190,7 @@
 4	1	.	.	Von-
 4	1	.	.	dell
 *-	*-	*-	*-	*-
-!!!OTL:	YouAin'tGang			
-!!!COM:	LilBibby			
-!!!ARE:	Chicago			
-!!!RRD:	2016			
+!!!OTL:	YouAin'tGang
+!!!COM:	LilBibby
+!!!ARE:	Chicago
+!!!RRD:	2016

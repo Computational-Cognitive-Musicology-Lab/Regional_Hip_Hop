@@ -194,7 +194,7 @@
 16	0	.	.	spray
 4.	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	PopOut			
-!!!COM:	PoloG			
-!!!ARE:	Chicago			
-!!!RRD:	2019			
+!!!OTL:	PopOut
+!!!COM:	PoloG
+!!!ARE:	Chicago
+!!!RRD:	2019

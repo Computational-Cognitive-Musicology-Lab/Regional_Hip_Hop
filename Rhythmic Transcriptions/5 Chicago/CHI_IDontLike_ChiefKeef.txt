@@ -160,7 +160,7 @@
 4	1	.	.	bitch
 4	1	.	.	like
 *-	*-	*-	*-	*-
-!!!OTL:	IDon'tLike			
-!!!COM:	ChiefKeef			
-!!!ARE:	Chicago			
-!!!RRD:	2012			
+!!!OTL:	IDon'tLike
+!!!COM:	ChiefKeef
+!!!ARE:	Chicago
+!!!RRD:	2012

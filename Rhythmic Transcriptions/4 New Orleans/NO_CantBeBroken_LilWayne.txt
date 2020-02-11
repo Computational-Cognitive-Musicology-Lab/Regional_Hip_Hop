@@ -195,7 +195,7 @@
 8	1	.	.	you
 4	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	Can'tBeBroken			
-!!!COM:	LilWayne			
-!!!ARE:	NewOrleans			
-!!!RRD:	2018			
+!!!OTL:	Can'tBeBroken
+!!!COM:	LilWayne
+!!!ARE:	New Orleans
+!!!RRD:	2018

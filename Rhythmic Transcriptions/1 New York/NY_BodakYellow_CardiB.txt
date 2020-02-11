@@ -284,7 +284,7 @@
 4	1	.	.	bill
 4	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	BodakYellow			
-!!!COM:	CardiB			
-!!!ARE:	NewYork			
-!!!RRD:	2018			
+!!!OTL:	BodakYellow
+!!!COM:	CardiB
+!!!ARE:	New York
+!!!RRD:	2018

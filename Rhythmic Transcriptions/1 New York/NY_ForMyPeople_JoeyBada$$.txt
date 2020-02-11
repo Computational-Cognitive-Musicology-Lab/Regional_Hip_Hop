@@ -207,7 +207,7 @@
 16	0	.	.	ga
 8	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	ForMyPeople			
-!!!COM:	JoeyBada$$			
-!!!ARE:	NewYork			
-!!!RRD:	2017			
+!!!OTL:	ForMyPeople
+!!!COM:	JoeyBada$$
+!!!ARE:	New York
+!!!RRD:	2017

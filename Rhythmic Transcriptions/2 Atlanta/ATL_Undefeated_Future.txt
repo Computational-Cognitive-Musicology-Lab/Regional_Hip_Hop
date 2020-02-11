@@ -185,7 +185,7 @@
 12	0	.	.	the
 4	1	.	.	sport
 *-	*-	*-	*-	*-
-!!!OTL:	Undefeated			
-!!!COM:	Future			
-!!!ARE:	Atlanta			
-!!!RRD:	2019			
+!!!OTL:	Undefeated
+!!!COM:	Future
+!!!ARE:	Atlanta
+!!!RRD:	2019

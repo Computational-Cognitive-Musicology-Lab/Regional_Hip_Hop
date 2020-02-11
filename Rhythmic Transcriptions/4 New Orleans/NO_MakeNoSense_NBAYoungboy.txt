@@ -179,7 +179,7 @@
 8	0	.	.	wel-
 4	1	.	.	ry
 *-	*-	*-	*-	*-
-!!!OTL:	MakeNoSense			
-!!!COM:	YoungboyNeverBrokeAgain			
-!!!ARE:	NewOrleans			
-!!!RRD:	2019			
+!!!OTL:	MakeNoSense
+!!!COM:	YoungboyNeverBrokeAgain
+!!!ARE:	New Orleans
+!!!RRD:	2019

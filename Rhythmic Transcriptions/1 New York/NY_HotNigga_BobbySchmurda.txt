@@ -213,5 +213,5 @@
 *-	*-	*-	*-	*-
 !!!OTL:	HotNigga
 !!!COM:	BobbyShmurda
-!!!ARE:	NewYork
+!!!ARE:	New York
 !!!RRD:	2014

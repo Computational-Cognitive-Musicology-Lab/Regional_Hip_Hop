@@ -182,7 +182,7 @@
 8	1	.	.	arched
 8	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	InTheDark			
-!!!COM:	YG			
-!!!ARE:	LosAngeles			
-!!!RRD:	2019			
+!!!OTL:	InTheDark
+!!!COM:	YG
+!!!ARE:	LosAngeles
+!!!RRD:	2019

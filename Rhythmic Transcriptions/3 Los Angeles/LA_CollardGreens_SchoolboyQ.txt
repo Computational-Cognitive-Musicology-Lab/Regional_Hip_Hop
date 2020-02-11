@@ -217,7 +217,7 @@
 4	1	.	.	tem-
 4	0	.	.	po
 *-	*-	*-	*-	*-
-!!!OTL:	CollardGreens			
-!!!COM:	SchoolboyQ			
-!!!ARE:	LosAngeles			
-!!!RRD:	2014			
+!!!OTL:	CollardGreens
+!!!COM:	SchoolboyQ
+!!!ARE:	LosAngeles
+!!!RRD:	2014

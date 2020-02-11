@@ -165,7 +165,7 @@
 8	1	.	.	run-
 8	0	.	.	nin'
 *-	*-	*-	*-	*-
-!!!OTL:	Drip Too Hard			
-!!!COM:	Lil Baby			
-!!!ARE:	Atlanta			
-!!!RRD:	2018			
+!!!OTL:	Drip Too Hard
+!!!COM:	Lil Baby
+!!!ARE:	Atlanta
+!!!RRD:	2018

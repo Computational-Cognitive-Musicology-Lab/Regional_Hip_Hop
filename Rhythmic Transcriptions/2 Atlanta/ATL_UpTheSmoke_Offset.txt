@@ -270,7 +270,7 @@
 12	1	.	.	piece
 6	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	UpTheSmoke			
-!!!COM:	Offset			
-!!!ARE:	Atlanta			
-!!!RRD:	2020			
+!!!OTL:	UpTheSmoke
+!!!COM:	Offset
+!!!ARE:	Atlanta
+!!!RRD:	2020

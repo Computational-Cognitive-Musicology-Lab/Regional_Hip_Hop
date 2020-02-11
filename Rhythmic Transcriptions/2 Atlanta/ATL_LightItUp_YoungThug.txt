@@ -170,7 +170,7 @@
 12	0	.	.	ties
 4	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	LightItUp			
-!!!COM:	YoungThug			
-!!!ARE:	Atlanta			
-!!!RRD:	2019			
+!!!OTL:	LightItUp
+!!!COM:	YoungThug
+!!!ARE:	Atlanta
+!!!RRD:	2019

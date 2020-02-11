@@ -235,7 +235,7 @@
 16	0	.	.	his
 4	1	.	.	mans
 *-	*-	*-	*-	*-
-!!!OTL:	LookinAss			
-!!!COM:	NickiMinaj			
-!!!ARE:	NewYork			
-!!!RRD:	2014			
+!!!OTL:	LookinAss
+!!!COM:	NickiMinaj
+!!!ARE:	New York
+!!!RRD:	2014

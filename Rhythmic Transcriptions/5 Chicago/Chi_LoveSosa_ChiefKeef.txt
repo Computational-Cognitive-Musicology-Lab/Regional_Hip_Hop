@@ -177,7 +177,7 @@
 4	0	.	.	nored
 2	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	LoveSosa			
-!!!COM:	ChiefKeef			
-!!!ARE:	Chicago			
-!!!RRD:	2012			
+!!!OTL:	LoveSosa
+!!!COM:	ChiefKeef
+!!!ARE:	Chicago
+!!!RRD:	2012

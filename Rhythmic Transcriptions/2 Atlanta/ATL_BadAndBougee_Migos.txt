@@ -296,7 +296,7 @@
 12	0	.	.	bae
 4	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	BadandBougee			
-!!!COM:	Migos			
-!!!ARE:	Atlanta			
-!!!RRD:	2017			
+!!!OTL:	BadandBougee
+!!!COM:	Migos
+!!!ARE:	Atlanta
+!!!RRD:	2017

@@ -243,7 +243,7 @@
 8	1	.	.	say-
 8	0	.	.	in
 *-	*-	*-	*-	*-
-!!!OTL:	Power			
-!!!COM:	KanyeWest			
-!!!ARE:	Chicago			
-!!!RRD:	2010			
+!!!OTL:	Power
+!!!COM:	KanyeWest
+!!!ARE:	Chicago
+!!!RRD:	2010

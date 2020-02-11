@@ -230,7 +230,7 @@
 16	0	.	.	la
 8.	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	WestSide			
-!!!COM:	TheGame			
-!!!ARE:	LosAngeles			
-!!!RRD:	2019			
+!!!OTL:	WestSide
+!!!COM:	TheGame
+!!!ARE:	LosAngeles
+!!!RRD:	2019

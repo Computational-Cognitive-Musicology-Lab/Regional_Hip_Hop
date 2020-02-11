@@ -255,7 +255,7 @@
 4	1	.	.	ble
 3	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	HUMBLE.			
-!!!COM:	KendrickLamar			
-!!!ARE:	LosAngeles			
-!!!RRD:	2017			
+!!!OTL:	HUMBLE.
+!!!COM:	KendrickLamar
+!!!ARE:	LosAngeles
+!!!RRD:	2017

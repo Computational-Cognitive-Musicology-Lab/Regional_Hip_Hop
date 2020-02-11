@@ -148,7 +148,7 @@
 8	1	.	.	one
 8	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	BigShot		
-!!!COM:	O.T.Genasis			
-!!!ARE:	LosAngeles			
-!!!RRD:	2019			
+!!!OTL:	BigShot
+!!!COM:	O.T.Genasis
+!!!ARE:	LosAngeles
+!!!RRD:	2019

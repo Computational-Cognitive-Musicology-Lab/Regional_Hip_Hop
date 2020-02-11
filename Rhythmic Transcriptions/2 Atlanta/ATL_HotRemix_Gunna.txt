@@ -297,7 +297,7 @@
 2	.	.	R	.
 .	.	.	.	.
 *-	*-	*-	*-	*-
-!!!OTL:	Hot(Remix)			
-!!!COM:	YoungThug			
-!!!ARE:	Atlanta			
-!!!RRD:	2019			
+!!!OTL:	Hot(Remix)
+!!!COM:	YoungThug
+!!!ARE:	Atlanta
+!!!RRD:	2019

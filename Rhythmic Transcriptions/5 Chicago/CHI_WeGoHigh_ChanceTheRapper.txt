@@ -208,7 +208,7 @@
 16	1	.	.	way
 4	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	WeGoHigh			
-!!!COM:	ChanceTheRapper			
-!!!ARE:	Chicago			
-!!!RRD:	2019			
+!!!OTL:	WeGoHigh
+!!!COM:	ChanceTheRapper
+!!!ARE:	Chicago
+!!!RRD:	2019

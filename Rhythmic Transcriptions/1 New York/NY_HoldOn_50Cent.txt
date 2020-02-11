@@ -220,7 +220,7 @@
 16	0	.	.	pics
 8	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	HoldOn			
-!!!COM:	50Cent			
-!!!ARE:	NewYork			
-!!!RRD:	2014			
+!!!OTL:	HoldOn
+!!!COM:	50Cent
+!!!ARE:	New York
+!!!RRD:	2014

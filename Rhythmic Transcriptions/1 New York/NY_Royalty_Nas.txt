@@ -201,7 +201,7 @@
 16	1	.	.	bo-
 16	0	.	.	dy
 *-	*-	*-	*-	*-
-!!!OTL:	Royalty			
-!!!COM:	Nas		
-!!!ARE:	New York			
+!!!OTL:	Royalty
+!!!COM:	Nas
+!!!ARE:	New York
 !!!RRD:	2019

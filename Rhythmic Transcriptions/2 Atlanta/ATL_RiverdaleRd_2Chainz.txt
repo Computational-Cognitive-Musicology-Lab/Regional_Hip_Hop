@@ -158,7 +158,7 @@
 12	0	.	.	ter
 4	1	.	.	sacks
 *-	*-	*-	*-	*-
-!!!OTL:	RiverdaleRd.			
-!!!COM:	2Chainz			
-!!!ARE:	Atlanta			
-!!!RRD:	2017			
+!!!OTL:	RiverdaleRd.
+!!!COM:	2Chainz
+!!!ARE:	Atlanta
+!!!RRD:	2017

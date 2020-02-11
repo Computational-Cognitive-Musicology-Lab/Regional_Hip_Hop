@@ -186,7 +186,7 @@
 4	1	.	.	in
 2.	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	StaringattheWalls			
-!!!COM:	C-Murder			
-!!!ARE:	NewOrleans			
-!!!RRD:	2016			
+!!!OTL:	StaringattheWalls
+!!!COM:	C-Murder
+!!!ARE:	New Orleans
+!!!RRD:	2016

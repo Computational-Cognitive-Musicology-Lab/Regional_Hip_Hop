@@ -386,7 +386,7 @@
 4	1	.	.	jail
 4	.	.	R	.
 *-	*-	*-	*-	*-
-!!!OTL:	Jefe			
-!!!COM:	T.I.			
-!!!ARE:	Atlanta			
-!!!RRD:	2018			
+!!!OTL:	Jefe
+!!!COM:	T.I.
+!!!ARE:	Atlanta
+!!!RRD:	2018
