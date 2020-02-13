@@ -10,7 +10,7 @@ colnames(data) <- c('NoteValue', 'Stress', 'Rest', 'Lyrics')
 data$Rhythm <- as.decimal(data$NoteValue)
 
 data$OTL <- as.matrix(corpus, fieldnames = 'OTL')[,1]
-data$COM <- as.matrix(corpus, fieldnames = 'OTL')[,1]
+data$COM <- as.matrix(corpus, fieldnames = 'COM')[,1]
 data$ARE <- as.matrix(corpus, fieldnames = 'ARE')[,1]
 data$Bar <- as.matrix(corpus, fieldnames = 'Bar')[,1]
 
