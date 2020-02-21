@@ -245,7 +245,7 @@
 8	1	.	.	ja-
 8	0	.	.	mas
 *-	*-	*-	*-	*-
-!!!OTL:	Episode3-GrandPrix			
-!!!COM:	MethodMan			
-!!!ARE:	NewYork			
-!!!RRD:	2018			
+!!!OTL:	Episode3-GrandPrix
+!!!COM:	MethodMan
+!!!ARE:	NewYork
+!!!RRD:	2018

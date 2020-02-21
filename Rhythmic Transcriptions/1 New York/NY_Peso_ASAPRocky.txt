@@ -203,7 +203,7 @@
 4	1	.	.	bles-
 4	0	.	.	sing
 *-	*-	*-	*-	*-
-!!!OTL:	Peso			
-!!!COM:	A$APRocky			
-!!!ARE:	NewYork			
-!!!RRD:	2011			
+!!!OTL:	Peso
+!!!COM:	A$APRocky
+!!!ARE:	NewYork
+!!!RRD:	2011

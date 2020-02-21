@@ -185,7 +185,7 @@
 8	1	.	.	here
 8	0	.	.	yeah
 *-	*-	*-	*-	*-
-!!!OTL:	TheStoryofO.J.			
-!!!COM:	Jay-Z			
-!!!ARE:	NewYork			
+!!!OTL:	TheStoryofO.J.
+!!!COM:	Jay-Z
+!!!ARE:	NewYork
 !!!RRD:	2017
