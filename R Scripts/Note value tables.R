@@ -1,0 +1,5 @@
+NYNoteValue <- table(data$NoteValue[data$ARE == "New York"])
+ATLNoteValue <- table(data$NoteValue[data$ARE == "Atlanta"])
+CHINoteValue <- table(data$NoteValue[data$ARE == "Chicago"])
+NONoteValue <- table(data$NoteValue[data$ARE == "New Orleans"])
+LANoteValue <- table(data$NoteValue[data$ARE == "LosAngeles"])
