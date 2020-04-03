@@ -1,0 +1,101 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%and (5:0) AE0 N D (5:1) AH0 N D
+5:0
+%the (6:0) DH AH0 (6:1) DH AH1 (6:2) DH IY0
+6:0
+%them (10:0) DH EH1 M (10:1) DH AH0 M
+10:0
+%can (14:0) K AE1 N (14:1) K AH0 N
+14:0
+%can (22:0) K AE1 N (22:1) K AH0 N
+22:0
+%an (28:0) AE1 N (28:1) AH0 N
+28:0
+%minded (36:0) M AY1 N - D AH0 D (36:1) M AY1 N - D IH0 D
+36:0
+%is (39:0) IH1 Z (39:1) IH0 Z
+39:0
+%Napoleon (40:0) N AH0 - P OW1 - L IY0 - AH0 N (40:1) N AH0 - P OW1 - L Y AH0 N
+40:0
+%is (43:0) IH1 Z (43:1) IH0 Z
+43:0
+%Mongolian, (44:0) M AA0 NG - G OW1 - L IY0 - AH0 N (44:1) M AA0 NG - G OW1 - L Y AH0 N
+44:0
+%the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+48:0
+%in (50:0) IH0 N (50:1) IH1 N
+50:0
+%every (53:0) EH1 - V ER0 - IY0 (53:1) EH1 - V R IY0
+53:0
+%of (55:0) AH0 V (55:1) AH0 V
+55:0
+%the (56:0) DH AH0 (56:1) DH AH1 (56:2) DH IY0
+56:0
+%gifted (63:0) G IH1 F - T AH0 D (63:1) G IH1 F - T IH0 D
+63:0
+%just (65:0) JH AH1 S T (65:1) JH IH0 S T
+65:0
+%needed (66:0) N IY1 - D AH0 D (66:1) N IY1 - D IH0 D
+66:0
+%with (69:0) W IH1 DH (69:1) W IH1 TH (69:2) W IH0 TH (69:3) W IH0 DH
+69:0
+%in (75:0) IH0 N (75:1) IH1 N
+75:0
+%couldn't (79:0) K UH1 - D AH0 N T (79:1) K UH1 - D AH0 N
+79:0
+%purity (88:0) P Y UH1 - R AH0 - T IY0 (88:1) P Y UH1 - R IH0 - T IY0
+88:0
+%and (89:0) AE0 N D (89:1) AH0 N D
+89:0
+%is (91:0) IH1 Z (91:1) IH0 Z
+91:0
+%honestly (92:0) AA1 - N AH0 S T - L IY0 (92:1) AA1 - N AH0 S - L IY0
+92:0
+%crowded (94:0) K R AW1 - D AH0 D (94:1) K R AW1 - D IH0 D
+94:0
+%is (100:0) IH1 Z (100:1) IH0 Z
+100:0
+%with (103:0) W IH1 DH (103:1) W IH1 TH (103:2) W IH0 TH (103:3) W IH0 DH
+103:0
+%for (111:0) F AO1 R (111:1) F ER0 (111:2) F R ER0
+111:0
+%With (113:0) W IH1 DH (113:1) W IH1 TH (113:2) W IH0 TH (113:3) W IH0 DH
+113:0
+%that (116:0) DH AE1 T (116:1) DH AH0 T
+116:0
+%As (121:0) AE1 Z (121:1) EH1 Z
+121:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Kanye (1:0)  K AE1- N AY1
+1:0
+%SNL (4:0)  S N AH0 L
+4:0
+%Yeezy (11:0)  Y IY1- Z IY0
+11:0
+%asshole? (29:0)  AH0- SH OW1 L
+29:0
+%niggas (31:0)  N IH1- G AH0 Z
+31:0
+%jokes! (33:0)  JH OW1- K EH0 S
+33:0
+%niggas (37:0)  N IH1- G AH0 Z
+37:0
+%goalies (49:0)  G OW AH0- L AY1 Z
+49:0
+%egotistic (57:0)  IY1- G AH0- T IH1 S- T IH0 K
+57:0
+%fuckin' (62:0)  F AH1- K IH1 N
+62:0
+********End******

@@ -1,0 +1,123 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%A (2:0) AH0 (2:1) EY1
+2:0
+%on (7:0) AA1 N (7:1) AO1 N
+7:0
+%his (8:0) HH IH1 Z (8:1) HH IH0 Z
+8:0
+%as (12:0) AE1 Z (12:1) EH1 Z
+12:0
+%a (13:0) AH0 (13:1) EY1
+13:0
+%on (17:0) AA1 N (17:1) AO1 N
+17:0
+%his (18:0) HH IH1 Z (18:1) HH IH0 Z
+18:0
+%His (21:0) HH IH1 Z (21:1) HH IH0 Z
+21:0
+%that (24:0) DH AE1 T (24:1) DH AH0 T
+24:0
+%her (28:0) HH ER0 (28:1) HH ER1
+28:0
+%friends (30:0) F R EH1 N D Z (30:1) F R EH1 N Z
+30:0
+%her (34:0) HH ER0 (34:1) HH ER1
+34:0
+%than (40:0) DH AE1 N (40:1) DH AH0 N
+40:0
+%a (41:0) AH0 (41:1) EY1
+41:0
+%his (46:0) HH IH1 Z (46:1) HH IH0 Z
+46:0
+%to (48:0) T UW0 (48:1) T IH0 (48:2) T AH0
+48:0
+%a (49:0) AH0 (49:1) EY1
+49:0
+%to (55:0) T UW0 (55:1) T IH0 (55:2) T AH0
+55:0
+%him (56:0) HH IH1 M (56:1) IH0 M
+56:0
+%on (57:0) AA1 N (57:1) AO1 N
+57:0
+%before (61:0) B IH0 - F AO1 R (61:1) B IY2 - F AO1 R
+61:0
+%his (65:0) HH IH1 Z (65:1) HH IH0 Z
+65:0
+%a (70:0) AH0 (70:1) EY1
+70:0
+%his (73:0) HH IH1 Z (73:1) HH IH0 Z
+73:0
+%a (76:0) AH0 (76:1) EY1
+76:0
+%his (81:0) HH IH1 Z (81:1) HH IH0 Z
+81:0
+%the (85:0) DH AH0 (85:1) DH AH1 (85:2) DH IY0
+85:0
+%the (90:0) DH AH0 (90:1) DH AH1 (90:2) DH IY0
+90:0
+%with (95:0) W IH1 DH (95:1) W IH1 TH (95:2) W IH0 TH (95:3) W IH0 DH
+95:0
+%that (96:0) DH AE1 T (96:1) DH AH0 T
+96:0
+%Hours (98:0) AW1 - ER0 Z (98:1) AW1 R Z
+98:0
+%with (103:0) W IH1 DH (103:1) W IH1 TH (103:2) W IH0 TH (103:3) W IH0 DH
+103:0
+%the (104:0) DH AH0 (104:1) DH AH1 (104:2) DH IY0
+104:0
+%the (109:0) DH AH0 (109:1) DH AH1 (109:2) DH IY0
+109:0
+%with (113:0) W IH1 DH (113:1) W IH1 TH (113:2) W IH0 TH (113:3) W IH0 DH
+113:0
+%to (121:0) T UW0 (121:1) T IH0 (121:2) T AH0
+121:0
+%and (123:0) AE0 N D (123:1) AH0 N D
+123:0
+%on (128:0) AA1 N (128:1) AO1 N
+128:0
+%nobody (129:0) N OW1 - B AA2 - D IY2 (129:1) N OW1 - B AH0 - D IY0
+129:0
+%a (132:0) AH0 (132:1) EY1
+132:0
+%Benz (137:0) B EH1 N Z (137:1) B AE1 N Z
+137:0
+%with (138:0) W IH1 DH (138:1) W IH1 TH (138:2) W IH0 TH (138:3) W IH0 DH
+138:0
+%the (139:0) DH AH0 (139:1) DH AH1 (139:2) DH IY0
+139:0
+%to (144:0) T UW0 (144:1) T IH0 (144:2) T AH0
+144:0
+%the (145:0) DH AH0 (145:1) DH AH1 (145:2) DH IY0
+145:0
+%his (149:0) HH IH1 Z (149:1) HH IH0 Z
+149:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Nas (1:0)  N AH0 Z
+1:0
+%beatin' (45:0)  B IY1- T AH0 N
+45:0
+%creeped (67:0)  K R IY1 P T
+67:0
+%holdin' (80:0)  HH OW1- L D IH1 N
+80:0
+%"You (92:0)  Y UW1
+92:0
+%whore" (97:0)  HH AO1- R AH0
+97:0
+%smokin' (111:0)  S M OW1- K IH1 N
+111:0
+%niggas (118:0)  N IH1- G AH0 Z
+118:0
+********End******

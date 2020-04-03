@@ -1,0 +1,177 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%And (1:0) AE0 N D (1:1) AH0 N D
+1:0
+%on (5:0) AA1 N (5:1) AO1 N
+5:0
+%on (9:0) AA1 N (9:1) AO1 N
+9:0
+%around (13:0) ER0 - AW1 N D (13:1) ER0 - AW1 N
+13:0
+%in (14:0) IH0 N (14:1) IH1 N
+14:0
+%a (15:0) AH0 (15:1) EY1
+15:0
+%your (19:0) Y AO1 R (19:1) Y UH1 R
+19:0
+%from (22:0) F R AH1 M (22:1) F ER0 M
+22:0
+%a (26:0) AH0 (26:1) EY1
+26:0
+%the (30:0) DH AH0 (30:1) DH AH1 (30:2) DH IY0
+30:0
+%in (35:0) IH0 N (35:1) IH1 N
+35:0
+%the (36:0) DH AH0 (36:1) DH AH1 (36:2) DH IY0
+36:0
+%that (41:0) DH AE1 T (41:1) DH AH0 T
+41:0
+%to (43:0) T UW0 (43:1) T IH0 (43:2) T AH0
+43:0
+%for (45:0) F AO1 R (45:1) F ER0 (45:2) F R ER0
+45:0
+%and (55:0) AE0 N D (55:1) AH0 N D
+55:0
+%the (56:0) DH AH0 (56:1) DH AH1 (56:2) DH IY0
+56:0
+%on (62:0) AA1 N (62:1) AO1 N
+62:0
+%did (68:0) D IH1 D (68:1) D IH0 D
+68:0
+%the (69:0) DH AH0 (69:1) DH AH1 (69:2) DH IY0
+69:0
+%most, (70:0) M OW1 S T (70:1) M OW1 S
+70:0
+%in (74:0) IH0 N (74:1) IH1 N
+74:0
+%Ghosts, (75:0) G OW1 S T S (75:1) G OW1 S S (75:2) G OW1 S
+75:0
+%a (79:0) AH0 (79:1) EY1
+79:0
+%the (82:0) DH AH0 (82:1) DH AH1 (82:2) DH IY0
+82:0
+%fire (83:0) F AY1 - ER0 (83:1) F AY1 R
+83:0
+%with (84:0) W IH1 DH (84:1) W IH1 TH (84:2) W IH0 TH (84:3) W IH0 DH
+84:0
+%The (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+88:0
+%This (92:0) DH IH1 S (92:1) DH IH0 S
+92:0
+%a (93:0) AH0 (93:1) EY1
+93:0
+%Rollie (94:0) R OW1 - L IY0 (94:1) R AO1 - L IY0
+94:0
+%a (96:0) AH0 (96:1) EY1
+96:0
+%on (99:0) AA1 N (99:1) AO1 N
+99:0
+%the (102:0) DH AH0 (102:1) DH AH1 (102:2) DH IY0
+102:0
+%usual (103:0) Y UW1 - ZH AH0 - W AH0 L (103:1) Y UW1 - ZH UW0 - AH0 L
+103:0
+%with (105:0) W IH1 DH (105:1) W IH1 TH (105:2) W IH0 TH (105:3) W IH0 DH
+105:0
+%the (106:0) DH AH0 (106:1) DH AH1 (106:2) DH IY0
+106:0
+%with (112:0) W IH1 DH (112:1) W IH1 TH (112:2) W IH0 TH (112:3) W IH0 DH
+112:0
+%a (113:0) AH0 (113:1) EY1
+113:0
+%the (119:0) DH AH0 (119:1) DH AH1 (119:2) DH IY0
+119:0
+%and (125:0) AE0 N D (125:1) AH0 N D
+125:0
+%and (127:0) AE0 N D (127:1) AH0 N D
+127:0
+%stupid (133:0) S T UW1 - P AH0 D (133:1) S T UW1 - P IH0 D
+133:0
+%the (137:0) DH AH0 (137:1) DH AH1 (137:2) DH IY0
+137:0
+%on (140:0) AA1 N (140:1) AO1 N
+140:0
+%on (144:0) AA1 N (144:1) AO1 N
+144:0
+%a (156:0) AH0 (156:1) EY1
+156:0
+%from (161:0) F R AH1 M (161:1) F ER0 M
+161:0
+%the (162:0) DH AH0 (162:1) DH AH1 (162:2) DH IY0
+162:0
+%in (170:0) IH0 N (170:1) IH1 N
+170:0
+%the (171:0) DH AH0 (171:1) DH AH1 (171:2) DH IY0
+171:0
+%just (176:0) JH AH1 S T (176:1) JH IH0 S T
+176:0
+%national (177:0) N AE1 - SH AH0 - N AH0 L (177:1) N AE1 SH - N AH0 L
+177:0
+%in (181:0) IH0 N (181:1) IH1 N
+181:0
+%the (182:0) DH AH0 (182:1) DH AH1 (182:2) DH IY0
+182:0
+%a (185:0) AH0 (185:1) EY1
+185:0
+%them (190:0) DH EH1 M (190:1) DH AH0 M
+190:0
+%a (193:0) AH0 (193:1) EY1
+193:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Boujee (2:0)  B JH IY0
+2:0
+%Migos (3:0)  M IH1- G OW0 Z
+3:0
+%Rackings (4:0)  R AE1- K IH0 NG Z
+4:0
+%rackings, (6:0)  R AE1- K IH0 NG Z
+6:0
+%backends (8:0)  B AE1- K EH1 N D Z
+8:0
+%backends (10:0)  B AE1- K EH1 N D Z
+10:0
+%ridin' (12:0)  R AY1- D IH1 N
+12:0
+%woah (38:0)  W OW1
+38:0
+%niggas (50:0)  N IH1- G AH0 Z
+50:0
+%jumpin' (59:0)  JH AH1 M- P IH1 N
+59:0
+%choker (80:0)  CH OW1- K ER0
+80:0
+%Holdin' (81:0)  HH OW1- L D IH1 N
+81:0
+%Dabbin' (98:0)  D AE1- B IH1 N
+98:0
+%'em (100:0)  AH0 M
+100:0
+%boujee (130:0)  B JH IY0
+130:0
+%Rackings (139:0)  R AE1- K IH0 NG Z
+139:0
+%rackings, (141:0)  R AE1- K IH0 NG Z
+141:0
+%backends (143:0)  B AE1- K EH1 N D Z
+143:0
+%backends (145:0)  B AE1- K EH1 N D Z
+145:0
+%niggas (154:0)  N IH1- G AH0 Z
+154:0
+%Act' (158:0)  AE1 K T
+158:0
+%Nawf, (163:0)  N AO1 F
+163:0
+%Lamb', (183:0)  L AE1 M B
+183:0
+********End******

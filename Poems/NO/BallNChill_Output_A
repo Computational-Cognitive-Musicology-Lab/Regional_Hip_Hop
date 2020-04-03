@@ -1,0 +1,241 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+AEND: [and(1), and(24), and(42), and(69), and(78), and(137), and(148), and(208), and(216), and(237)]
+IHTS: [It's(5), It's(27), it's(32), it's(228), it's(250)]
+DHIHS: [this(7), this(13), this(270)]
+YIHR: [year(8), year(14)]
+DHAH: [the(9), the(195), the(204), the(210), the(242)]
+DRAWT: [drought(11), drought(230)]
+SIYZAHN: [season(12), season(231), season(234)]
+NOW: [no(18), no(34), know(86)]
+SOW: [so(21), so(31), So(153), so(213), So(235)]
+TUW: [to(39), to(119), too(122), two(140)]
+KAWZ: ['cause(46), 'cause(90)]
+NIHGAHZ: [niggas(47), niggas(104), niggas(147), niggas(175), niggas(180), niggas(223)]
+FAOR: [for(50), for(54), for(63), For(98), four(144), for(198)]
+AH: [a(51), a(55), a(57), a(64), a(114), a(134), a(138), a(155), a(169), a(229), a(253), a(273)]
+BERD: [bird,(52), bird(58)]
+HHAEF: [half(56), half(272)]
+AY: [I(59), I(74), I(79), I(112), I(150), I(160), I(188), I(263)]
+GAAT: [got(60), got(75), got(80), got(113), got(161), got(189), got(220), got(241)]
+JHIY: [g,(65), Gee(142)]
+MIY: [me(68), me(85), me(133), me(236)]
+GEHT: [get(71), get(262)]
+IHT: [it(76), it(81), it(130), it(152), it(247)]
+AHP: [up(83), up(97), up(157), up(245)]
+WEHN: [when(87), when(227), when(249)]
+YUW: [you(88), you(164), You(166), you(174), you(261)]
+AYM: [I'm(91), I'm(100), I'm(154), I'm(168), I'm(183)]
+HHAEV: [have(93), have(225)]
+MAY: [my(94), my(106), my(125), my(171), my(186), my(191), my(238), my(267)]
+WIHDH: [with(102), with(252)]
+SHIHT: [Shit(117), shit(149), Shit(212)]
+BIY: [be(120), be(156)]
+IHN: [in(124), in(203)]
+DAHN: [done(151), done(264)]
+AAN: [on(158), on(177), on(209)]
+DHAET: [that(162), that(182)]
+FAYER: [Fire(200), fire(248)]
+AES: [ass(232), ass(257)]
+
+
+Rule 1: ...-O[NC]'
+AOL: [Ball(0), all(190)]
+IHL: [Chill(2), lil'(254)]
+IHTS: [It's(5), It's(27), it's(32), it's(228), it's(250)]
+IHS: [this(7), this(13), this(270)]
+IHR: [year(8), year(14), beer(26)]
+AWT: [drought(11), drought(230), out(233)]
+AYND: [find(17), mind(187)]
+OW: [no(18), so(21), so(31), slow(33), no(34), o(61), know(86), So(153), so(213), So(235)]
+EY: [they(22), away,(131)]
+IHN: [rehabbin'(23), drinkin'(25), traffickin'(36), taxin'(48), beefin'(101)]
+AYM: [time,(30), I'm(91), I'm(100), I'm(154), I'm(168), I'm(183)]
+AOR: [score(45), for(50), for(54), for(63), For(98), four(144), for(198)]
+AWZ: ['cause(46), 'cause(90)]
+ERD: [bird,(52), bird(58), heard(111)]
+AEF: [half(56), half(272)]
+AY: [I(59), I(74), I(79), my(94), my(106), I(112), my(125), I(150), I(160), my(171), my(186), I(188), my(191), dry(214), my(238), I(263), my(267)]
+AAT: [got(60), got(75), got(80), got(113), bought(132), got(161), got(189), got(220), got(241)]
+IY: [g,(65), me(68), me(85), be(120), me(133), Gee(142), be(156), me(236), we(240)]
+AET: [at(67), that(162), that(182)]
+EHT: [get(71), Let(84), get(262)]
+IHT: [it(76), it(81), Shit(117), it(130), shit(149), it(152), Shit(212), it(247)]
+AHP: [up(83), up(97), up(157), up(245)]
+EHN: [when(87), when(227), when(249)]
+UW: [you(88), too(122), two(140), you(164), You(166), you(174), do(181), you(261)]
+AAN: [gon'(92), on(158), on(177), on(209)]
+AEV: [have(93), have(225)]
+IHDH: [with(102), with(252)]
+AHM: [some(103), from(105)]
+OWN: [own(107), tone(141)]
+AYN: [nine(127), shine(172), mine(178)]
+AHN: [done(151), done(264), one(271)]
+AAP: [stop(170), Wop(217)]
+AES: [ass(232), ass(257)]
+AHT: [uncut(251), what(260)]
+IHK: [brick(274), quick(275)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IYZAHN: [season(12), season(231), season(234)]
+EHKSHAHN: [election(29), protection,(99), section(108), connection(116)]
+IHGAHZ: [niggas(47), niggas(104), niggas(147), niggas(175), niggas(180), niggas(223)]
+AYER: [Fire(200), fire(248)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Ball(0) and(1) Chill(2) 
+Soulja(3) Slim(4) 
+
+It's(5) like(6) this(7) year(8) the(9) first(10) drought(11) season(12) this(13) year(14) 
+Crackheads(15) can't(16) find(17) no(18) good(19) cook(20) so(21) they(22) rehabbin'(23) and(24) drinkin'(25) beer(26) 
+It's(27) around(28) election(29) time,(30) so(31) it's(32) slow(33) no(34) drug(35) traffickin'(36) 
+Connects(37) scared(38) to(39) move(40) weight(41) and(42) hustlers(43) don't(44) score(45) 'cause(46) niggas(47) taxin'(48) 
+Thirty(49) for(50) a(51) bird,(52) seventeen(53) for(54) a(55) half(56) a(57) bird(58) 
+I(59) got(60) o(61) z's(62) for(63) a(64) g,(65) holla(66) at(67) me(68) and(69) you'll(70) get(71) served(72) 
+Proper(73) I(74) got(75) it(76) powdered(77) and(78) I(79) got(80) it(81) rocked(82) up(83) 
+Let(84) me(85) know(86) when(87) you(88) comin'(89) 'cause(90) I'm(91) gon'(92) have(93) my(94) forty(95) Glock(96) up(97) 
+For(98) protection,(99) I'm(100) beefin'(101) with(102) some(103) niggas(104) from(105) my(106) own(107) section(108) 
+Hatin'(109) situation,(110) heard(111) I(112) got(113) a(114) killer(115) connection(116) 
+Shit(117) has(118) to(119) be(120) flexin'(121) too(122) much(123) in(124) my(125) ninety(126) nine(127) Yukon(128) 
+Gave(129) it(130) away,(131) bought(132) me(133) a(134) 600(135) Benz(136) and(137) a(138) Lexus(139) two(140) tone(141) 
+Gee(142) es(143) four(144) hundred(145) snatching(146) niggas(147) and(148) shit(149) I(150) done(151) it(152) 
+So(153) I'm(154) a(155) be(156) up(157) on(158) mines(159) I(160) got(161) that(162) feeling(163) you(164) coming(165) 
+You(166) think(167) I'm(168) a(169) stop(170) my(171) shine(172) cause(173) you(174) niggas(175) hating(176) on(177) mine(178) 
+Coward(179) niggas(180) do(181) that(182) I'm(183) real(184) respect(185) my(186) mind(187) 
+I(188) got(189) all(190) my(191) workers(192) running(193) selling(194) the(195) white(196) twenties(197) for(198) slabs(199) 
+Fire(200) beige(201) coke(202) in(203) the(204) sixth(205) street(206) court(207) and(208) on(209) the(210) ave(211) 
+Shit(212) so(213) dry(214) Tonto(215) and(216) Wop(217) ain't(218) even(219) got(220) nothin'(221) 
+Them(222) niggas(223) usually(224) have(225) somethin'(226) when(227) it's(228) a(229) drought(230) season(231) ass(232) out(233) season(234) 
+So(235) me(236) and(237) my(238) souljas(239) we(240) got(241) the(242) projects(243) sewed(244) up(245) 
+Make(246) it(247) fire(248) when(249) it's(250) uncut(251) with(252) a(253) lil'(254) soda(255) 
+Solid(256) ass(257) boulder,(258) that's(259) what(260) you(261) get(262) 
+I(263) done(264) double(265) doubled(266) my(267) money(268) off(269) this(270) one(271) half(272) a(273) brick(274) quick(275) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BallNChill_Output_A_uncertainty.txt in the Poems directory
+
+and (1:0) AE0 N D (1:1) AH0 N D
+It's (5:0) IH1 T S (5:1) IH0 T S
+this (7:0) DH IH1 S (7:1) DH IH0 S
+the (9:0) DH AH0 (9:1) DH AH1 (9:2) DH IY0
+this (13:0) DH IH1 S (13:1) DH IH0 S
+good (19:0) G UH1 D (19:1) G IH0 D
+and (24:0) AE0 N D (24:1) AH0 N D
+It's (27:0) IH1 T S (27:1) IH0 T S
+around (28:0) ER0 - AW1 N D (28:1) ER0 - AW1 N
+it's (32:0) IH1 T S (32:1) IH0 T S
+to (39:0) T UW0 (39:1) T IH0 (39:2) T AH0
+and (42:0) AE0 N D (42:1) AH0 N D
+hustlers (43:0) HH AH1 - S AH0 - L ER0 Z (43:1) HH AH1 S - L ER0 Z
+don't (44:0) D OW1 N T (44:1) D OW1 N
+Thirty (49:0) TH ER1 - D IY0 (49:1) TH ER1 - T IY2
+for (50:0) F AO1 R (50:1) F ER0 (50:2) F R ER0
+a (51:0) AH0 (51:1) EY1
+for (54:0) F AO1 R (54:1) F ER0 (54:2) F R ER0
+a (55:0) AH0 (55:1) EY1
+a (57:0) AH0 (57:1) EY1
+for (63:0) F AO1 R (63:1) F ER0 (63:2) F R ER0
+a (64:0) AH0 (64:1) EY1
+and (69:0) AE0 N D (69:1) AH0 N D
+get (71:0) G EH1 T (71:1) G IH1 T
+it (76:0) IH1 T (76:1) IH0 T
+and (78:0) AE0 N D (78:1) AH0 N D
+it (81:0) IH1 T (81:1) IH0 T
+when (87:0) W EH1 N (87:1) HH W EH1 N (87:2) W IH1 N (87:3) HH W IH1 N
+For (98:0) F AO1 R (98:1) F ER0 (98:2) F R ER0
+protection, (99:0) P R AH0 - T EH1 K - SH AH0 N (99:1) P ER0 - T EH1 K - SH AH0 N
+with (102:0) W IH1 DH (102:1) W IH1 TH (102:2) W IH0 TH (102:3) W IH0 DH
+from (105:0) F R AH1 M (105:1) F ER0 M
+a (114:0) AH0 (114:1) EY1
+has (118:0) HH AE1 Z (118:1) HH AH0 Z
+to (119:0) T UW0 (119:1) T IH0 (119:2) T AH0
+be (120:0) B IY1 (120:1) B IY0
+in (124:0) IH0 N (124:1) IH1 N
+it (130:0) IH1 T (130:1) IH0 T
+bought (132:0) B AA1 T (132:1) B AO1 T
+a (134:0) AH0 (134:1) EY1
+Benz (136:0) B EH1 N Z (136:1) B AE1 N Z
+and (137:0) AE0 N D (137:1) AH0 N D
+a (138:0) AH0 (138:1) EY1
+hundred (145:0) HH AH1 N - D R AH0 D (145:1) HH AH1 N - D R IH0 D (145:2) HH AH1 - N ER0 D (145:3) HH AH1 N - D ER0 D
+and (148:0) AE0 N D (148:1) AH0 N D
+it (152:0) IH1 T (152:1) IH0 T
+a (155:0) AH0 (155:1) EY1
+be (156:0) B IY1 (156:1) B IY0
+on (158:0) AA1 N (158:1) AO1 N
+that (162:0) DH AE1 T (162:1) DH AH0 T
+a (169:0) AH0 (169:1) EY1
+cause (173:0) K AA1 Z (173:1) K AO1 Z
+on (177:0) AA1 N (177:1) AO1 N
+that (182:0) DH AE1 T (182:1) DH AH0 T
+respect (185:0) R IH0 - S P EH1 K T (185:1) R IY0 - S P EH1 K T
+the (195:0) DH AH0 (195:1) DH AH1 (195:2) DH IY0
+white (196:0) W AY1 T (196:1) HH W AY1 T
+twenties (197:0) T W EH1 N - T IY0 Z (197:1) T W EH1 - N IY0 Z
+for (198:0) F AO1 R (198:1) F ER0 (198:2) F R ER0
+Fire (200:0) F AY1 - ER0 (200:1) F AY1 R
+in (203:0) IH0 N (203:1) IH1 N
+the (204:0) DH AH0 (204:1) DH AH1 (204:2) DH IY0
+and (208:0) AE0 N D (208:1) AH0 N D
+on (209:0) AA1 N (209:1) AO1 N
+the (210:0) DH AH0 (210:1) DH AH1 (210:2) DH IY0
+ave (211:0) AE1 - V AH0 - N UW0 (211:1) AA1 - V EY2
+and (216:0) AE0 N D (216:1) AH0 N D
+Them (222:0) DH EH1 M (222:1) DH AH0 M
+usually (224:0) Y UW1 - ZH AH0 W - AH0 - L IY0 (224:1) Y UW1 - ZH AH0 - L IY0
+when (227:0) W EH1 N (227:1) HH W EH1 N (227:2) W IH1 N (227:3) HH W IH1 N
+it's (228:0) IH1 T S (228:1) IH0 T S
+a (229:0) AH0 (229:1) EY1
+and (237:0) AE0 N D (237:1) AH0 N D
+the (242:0) DH AH0 (242:1) DH AH1 (242:2) DH IY0
+projects (243:0) P R AA1 - JH EH0 K T S (243:1) P R AH0 - JH EH1 K T S (243:2) P R AA1 - JH EH0 K S (243:3) P R AH0 - JH EH1 K S
+it (247:0) IH1 T (247:1) IH0 T
+fire (248:0) F AY1 - ER0 (248:1) F AY1 R
+when (249:0) W EH1 N (249:1) HH W EH1 N (249:2) W IH1 N (249:3) HH W IH1 N
+it's (250:0) IH1 T S (250:1) IH0 T S
+with (252:0) W IH1 DH (252:1) W IH1 TH (252:2) W IH0 TH (252:3) W IH0 DH
+a (253:0) AH0 (253:1) EY1
+what (260:0) W AH1 T (260:1) HH W AH1 T
+get (262:0) G EH1 T (262:1) G IH1 T
+this (270:0) DH IH1 S (270:1) DH IH0 S
+one (271:0) W AH1 N (271:1) HH W AH1 N
+a (273:0) AH0 (273:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BallNChill_Output_A_uncertainty.txt in the Poems directory
+
+Soulja (3:0)  S UW1- L JH AH0
+Crackheads (15:0)  K R AE1 K- HH EH1 D Z
+rehabbin' (23:0)  R IY1- HH AE1- B IH1 N
+drinkin' (25:0)  D R IH1 NG- K IH1 N
+traffickin' (36:0)  T R AE1- F IH1- K IH1 N
+'cause (46:0)  K AW1 Z
+niggas (47:0)  N IH1- G AH0 Z
+taxin' (48:0)  T EY1 K- S IH1 N
+holla (66:0)  HH AA1- L AH0
+'cause (90:0)  K AW1 Z
+gon' (92:0)  G AA1 N
+beefin' (101:0)  B IY1- F IH1 N
+niggas (104:0)  N IH1- G AH0 Z
+Hatin' (109:0)  HH EY1- T AH0 N
+flexin' (121:0)  F L EH1 K- S AH0 N
+niggas (147:0)  N IH1- G AH0 Z
+niggas (175:0)  N IH1- G AH0 Z
+niggas (180:0)  N IH1- G AH0 Z
+Tonto (215:0)  T AA1 N- T OW0
+niggas (223:0)  N IH1- G AH0 Z
+souljas (239:0)  S UW1- L JH AA0 Z
+lil' (254:0)  L IH1 L

@@ -1,0 +1,123 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%this, (5:0) DH IH1 S (5:1) DH IH0 S
+5:0
+%this, (7:0) DH IH1 S (7:1) DH IH0 S
+7:0
+%to (9:0) T UW0 (9:1) T IH0 (9:2) T AH0
+9:0
+%Watch (12:0) W AA1 CH (12:1) W AO1 CH
+12:0
+%this, (13:0) DH IH1 S (13:1) DH IH0 S
+13:0
+%the (18:0) DH AH0 (18:1) DH AH1 (18:2) DH IY0
+18:0
+%Faded, (27:0) F EY1 - D AH0 D (27:1) F EY1 - D IH0 D
+27:0
+%the (31:0) DH AH0 (31:1) DH AH1 (31:2) DH IY0
+31:0
+%it, (34:0) IH1 T (34:1) IH0 T
+34:0
+%it, (36:0) IH1 T (36:1) IH0 T
+36:0
+%for (38:0) F AO1 R (38:1) F ER0 (38:2) F R ER0
+38:0
+%the (39:0) DH AH0 (39:1) DH AH1 (39:2) DH IY0
+39:0
+%Drop (41:0) D R AA1 P (41:1) D R AO1 P
+41:0
+%it, (42:0) IH1 T (42:1) IH0 T
+42:0
+%it, (44:0) IH1 T (44:1) IH0 T
+44:0
+%on (47:0) AA1 N (47:1) AO1 N
+47:0
+%your (48:0) Y AO1 R (48:1) Y UH1 R
+48:0
+%object (50:0) AA1 B - JH EH0 K T (50:1) AH0 B - JH EH1 K T
+50:0
+%it, (52:0) IH1 T (52:1) IH0 T
+52:0
+%new (54:0) N UW1 (54:1) N Y UW1
+54:0
+%remember, (61:0) R IH0 - M EH1 M - B ER0 (61:1) R IY0 - M EH1 M - B ER0
+61:0
+%the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+71:0
+%your (74:0) Y AO1 R (74:1) Y UH1 R
+74:0
+%and (83:0) AE0 N D (83:1) AH0 N D
+83:0
+%your (85:0) Y AO1 R (85:1) Y UH1 R
+85:0
+%your (88:0) Y AO1 R (88:1) Y UH1 R
+88:0
+%it (91:0) IH1 T (91:1) IH0 T
+91:0
+%it (94:0) IH1 T (94:1) IH0 T
+94:0
+%Saddam (97:0) S AA1 - D AH0 M (97:1) S AH0 - D AA1 M
+97:0
+%in (103:0) IH0 N (103:1) IH1 N
+103:0
+%the (104:0) DH AH0 (104:1) DH AH1 (104:2) DH IY0
+104:0
+%service, (106:0) S ER1 - V AH0 S (106:1) S ER1 - V IH0 S
+106:0
+%for (109:0) F AO1 R (109:1) F ER0 (109:2) F R ER0
+109:0
+%the (110:0) DH AH0 (110:1) DH AH1 (110:2) DH IY0
+110:0
+%Chromosome, (113:0) K R OW1 - M AH0 - S OW2 M (113:1) K R OW1 - M AH0 - Z OW2 M
+113:0
+%probably (116:0) P R AA1 - B AH0 - B L IY0 (116:1) P R AA1 - B L IY0
+116:0
+%a (118:0) AH0 (118:1) EY1
+118:0
+%And (120:0) AE0 N D (120:1) AH0 N D
+120:0
+%the (123:0) DH AH0 (123:1) DH AH1 (123:2) DH IY0
+123:0
+%the (127:0) DH AH0 (127:1) DH AH1 (127:2) DH IY0
+127:0
+%from (131:0) F R AH1 M (131:1) F ER0 M
+131:0
+%the (132:0) DH AH0 (132:1) DH AH1 (132:2) DH IY0
+132:0
+%favorite (136:0) F EY1 - V ER0 - IH0 T (136:1) F EY1 - V R AH0 T
+136:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%nigga (19:0)  N IH1- G AH0
+19:0
+%X-mas, (22:0)  Z M AE1 Z
+22:0
+%hot-hot (37:0)  HH AA1- T AH0 T
+37:0
+%blast-blast, (53:0)  B L AE1 S T- B L AE1 S T
+53:0
+%fiendin' (62:0)  F IY1 N- D IH1 N
+62:0
+%frenchy, (76:0)  F R EH1 N- CH IY0
+76:0
+%(icky, (98:0)  IH1- K IY0
+98:0
+%icky, (99:0)  IH1- K IY0
+99:0
+%icky, (100:0)  IH1- K IY0
+100:0
+%poppin' (125:0)  P AA1- P IH1 N
+125:0
+%shoppin' (130:0)  SH AA1- P IH1 N
+130:0
+********End******

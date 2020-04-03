@@ -1,0 +1,142 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+AH: [A(2), a(13), a(41), a(49), a(70), a(76), a(132)]
+FRAOD: [fraud(4), Fraud(116)]
+AAN: [on(7), on(17), on(57), on(128)]
+HHIHZ: [his(8), his(18), His(21), his(46), his(65), his(73), his(81), his(149)]
+OWN: [own(9), own(19)]
+DHAET: [that(24), that(96)]
+HHER: [her(28), her(34)]
+BEHST: [best(29), best(35)]
+SHIY: [she(32), She(87)]
+TUW: [to(48), to(55), to(121), to(144)]
+HHIY: [he(51), he(62), He(79), he(83)]
+AHP: [up,(64), up(68), up(102), up(143)]
+SWAHNG: [Swung(69), swung(127)]
+AWT: [out(84), out(89), out(147)]
+DHAH: [the(85), the(90), the(104), the(109), the(139), the(145)]
+WIHDH: [with(95), with(103), with(113), with(138)]
+BIHG: [big(124), Big(135)]
+NEHVER: [never(126), Never(130)]
+BAADIY: [body,(141), body(151)]
+
+
+Rule 1: ...-O[NC]'
+OWN: [known(3), own(9), own(19), phone(59)]
+AOD: [fraud(4), broad(20), Fraud(116)]
+EHL: [fell(6), tell(16)]
+AAN: [on(7), on(17), on(57), on(128)]
+IHZ: [his(8), his(18), His(21), his(46), his(65), his(73), his(81), his(149)]
+IYND: [fiend,(14), cleaned(63)]
+AET: [that(24), that(96)]
+IY: [me(26), she(32), he(51), he(62), He(79), he(83), She(87)]
+EHST: [best(29), best(35)]
+IYK: [week(42), freak(50)]
+OW: [ago,(43), know(52)]
+AOR: [before(61), door(86), store,(110), more(115)]
+AHP: [up,(64), up(68), up(102), up(143)]
+AHNG: [Swung(69), swung(127)]
+IHN: [holdin'(80), smokin'(111)]
+AWT: [out(84), out(89), out(147)]
+UW: ["You(92), who(119)]
+IHDH: [with(95), with(103), with(113), with(138)]
+IHG: [big(124), Big(135)]
+
+
+Rule 2: ...-O[NC'-ONC]
+EHVER: [never(126), Never(130)]
+AADIY: [body,(141), body(151)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Royalty(0) 
+Nas(1) 
+
+A(2) known(3) fraud(4) once(5) fell(6) on(7) his(8) own(9) sword(10) 
+Scrawny(11) as(12) a(13) fiend,(14) he'll(15) tell(16) on(17) his(18) own(19) broad(20) 
+His(21) lady's(22) crazy,(23) that(24) bugs(25) me(26) 
+Behind(27) her(28) best(29) friends(30) back,(31) she(32) call(33) her(34) best(35) friend(36) baby(37) ugly(38) 
+Less(39) than(40) a(41) week(42) ago,(43) he's(44) beatin'(45) his(46) dick(47) to(48) a(49) freak(50) he(51) know(52) 
+Talkin'(53) dirty(54) to(55) him(56) on(57) speaker(58) phone(59) 
+Right(60) before(61) he(62) cleaned(63) up,(64) his(65) girl(66) creeped(67) up(68) 
+Swung(69) a(70) knife,(71) hit(72) his(73) cheekbone,(74) made(75) a(76) deep(77) cut(78) 
+He(79) holdin'(80) his(81) face,(82) he(83) out(84) the(85) door(86) 
+She(87) yellin'(88) out(89) the(90) window,(91) "You(92) could(93) stay(94) with(95) that(96) whore"(97) 
+Hours(98) went(99) past,(100) stitched(101) up(102) with(103) the(104) gauze(105) 
+Gettin'(106) drunk(107) by(108) the(109) store,(110) smokin'(111) blunts(112) with(113) some(114) more(115) 
+Fraud(116) ass(117) niggas(118) who(119) like(120) to(121) front(122) and(123) big(124) talk,(125) never(126) swung(127) on(128) nobody(129) 
+Never(130) let(131) a(132) gun(133) spark(134) 
+Big(135) '97(136) Benz(137) with(138) the(139) old(140) body,(141) pulls(142) up(143) to(144) the(145) corner,(146) out(147) jumps(148) his(149) whole(150) body(151) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Royalty_Output_A_uncertainty.txt in the Poems directory
+
+A (2:0) AH0 (2:1) EY1
+on (7:0) AA1 N (7:1) AO1 N
+his (8:0) HH IH1 Z (8:1) HH IH0 Z
+as (12:0) AE1 Z (12:1) EH1 Z
+a (13:0) AH0 (13:1) EY1
+on (17:0) AA1 N (17:1) AO1 N
+his (18:0) HH IH1 Z (18:1) HH IH0 Z
+His (21:0) HH IH1 Z (21:1) HH IH0 Z
+that (24:0) DH AE1 T (24:1) DH AH0 T
+her (28:0) HH ER0 (28:1) HH ER1
+friends (30:0) F R EH1 N D Z (30:1) F R EH1 N Z
+her (34:0) HH ER0 (34:1) HH ER1
+than (40:0) DH AE1 N (40:1) DH AH0 N
+a (41:0) AH0 (41:1) EY1
+his (46:0) HH IH1 Z (46:1) HH IH0 Z
+to (48:0) T UW0 (48:1) T IH0 (48:2) T AH0
+a (49:0) AH0 (49:1) EY1
+to (55:0) T UW0 (55:1) T IH0 (55:2) T AH0
+him (56:0) HH IH1 M (56:1) IH0 M
+on (57:0) AA1 N (57:1) AO1 N
+before (61:0) B IH0 - F AO1 R (61:1) B IY2 - F AO1 R
+his (65:0) HH IH1 Z (65:1) HH IH0 Z
+a (70:0) AH0 (70:1) EY1
+his (73:0) HH IH1 Z (73:1) HH IH0 Z
+a (76:0) AH0 (76:1) EY1
+his (81:0) HH IH1 Z (81:1) HH IH0 Z
+the (85:0) DH AH0 (85:1) DH AH1 (85:2) DH IY0
+the (90:0) DH AH0 (90:1) DH AH1 (90:2) DH IY0
+with (95:0) W IH1 DH (95:1) W IH1 TH (95:2) W IH0 TH (95:3) W IH0 DH
+that (96:0) DH AE1 T (96:1) DH AH0 T
+Hours (98:0) AW1 - ER0 Z (98:1) AW1 R Z
+with (103:0) W IH1 DH (103:1) W IH1 TH (103:2) W IH0 TH (103:3) W IH0 DH
+the (104:0) DH AH0 (104:1) DH AH1 (104:2) DH IY0
+the (109:0) DH AH0 (109:1) DH AH1 (109:2) DH IY0
+with (113:0) W IH1 DH (113:1) W IH1 TH (113:2) W IH0 TH (113:3) W IH0 DH
+to (121:0) T UW0 (121:1) T IH0 (121:2) T AH0
+and (123:0) AE0 N D (123:1) AH0 N D
+on (128:0) AA1 N (128:1) AO1 N
+nobody (129:0) N OW1 - B AA2 - D IY2 (129:1) N OW1 - B AH0 - D IY0
+a (132:0) AH0 (132:1) EY1
+Benz (137:0) B EH1 N Z (137:1) B AE1 N Z
+with (138:0) W IH1 DH (138:1) W IH1 TH (138:2) W IH0 TH (138:3) W IH0 DH
+the (139:0) DH AH0 (139:1) DH AH1 (139:2) DH IY0
+to (144:0) T UW0 (144:1) T IH0 (144:2) T AH0
+the (145:0) DH AH0 (145:1) DH AH1 (145:2) DH IY0
+his (149:0) HH IH1 Z (149:1) HH IH0 Z
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Royalty_Output_A_uncertainty.txt in the Poems directory
+
+Nas (1:0)  N AH0 Z
+beatin' (45:0)  B IY1- T AH0 N
+creeped (67:0)  K R IY1 P T
+holdin' (80:0)  HH OW1- L D IH1 N
+"You (92:0)  Y UW1
+whore" (97:0)  HH AO1- R AH0
+smokin' (111:0)  S M OW1- K IH1 N
+niggas (118:0)  N IH1- G AH0 Z

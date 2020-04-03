@@ -1,0 +1,126 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+IHN: [In(0), In(33), in(62), in(81)]
+DHAH: [The(1), the(14), the(63), the(71), the(82), the(87), the(114)]
+DAARK: [Dark(2), dark(9), dark(18), dark(64), dark(67)]
+WAY: [Y(3), Why(26)]
+JHIY: [G(4), Jee(27)]
+AY: [I(5), I(10), I(19), I(69), I(84), I(96)]
+LAYK: [like(6), like(23), like(78), like(94), like(108)]
+MAY: [my(7), my(21), my(49), my(52), My(65)]
+HHIHT: [hit(11), hit(20)]
+AH: [a(24), a(37), a(46), a(55), a(98), a(102)]
+BAHT: [but(30), But(57), but(68)]
+LAYF: [life(35), life(66)]
+MIY: [me,(40), me(60), me(93)]
+AYM: [I'm(41), I'm(45), I'm(80)]
+AAN: [on(42), on(75), on(113)]
+DOWNT: [don't(58), don't(85)]
+AHP: [up(61), up(74), up,(119)]
+BIHCH: [bitch(77), bitch(99)]
+AES: [ass(90), ass(118)]
+
+
+Rule 1: ...-O[NC]'
+AARK: [Dark(2), dark(9), park(15), dark(18), mark(38), dark(64), dark(67)]
+AY: [Y(3), I(5), my(7), I(10), I(19), my(21), Why(26), my(49), my(52), My(65), I(69), I(84), I(96)]
+IY: [G(4), Jee(27), he(31), me,(40), me(60), see(70), me(93), be(122)]
+AYK: [like(6), like(23), like(78), like(94), like(108)]
+IHT: [hit(11), hit(20)]
+AART: [dart(25), smart(32), part"(56), heart(103)]
+OW: [go(28), yo(43)]
+AHT: [but(30), "Cut(51), But(57), but(68)]
+AYF: [life(35), life(66)]
+UW: [you(36), peek-a-boo(79), do(97)]
+AYM: [I'm(41), I'm(45), I'm(80)]
+AAN: [on(42), on(75), on(113)]
+OWNT: [don't(58), don't(85)]
+AHP: [up(61), up(74), up,(119)]
+IHCH: [bitch(77), bitch(99)]
+AES: [ass(90), ass(118)]
+AARTS: [parts(106), charts"(115)]
+
+
+Rule 2: ...-O[NC'-ONC]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+In(0) The(1) Dark(2) 
+Y(3) G(4) 
+
+I(5) like(6) my(7) bitches(8) dark(9) 
+I(10) hit(11) 'em(12) at(13) the(14) park(15) when(16) it's(17) dark(18) 
+I(19) hit(20) my(21) target(22) like(23) a(24) dart(25) 
+Why(26) Jee(27) go(28) dumb(29) but(30) he(31) smart(32) 
+In(33) real(34) life(35) you(36) a(37) mark(38) 
+Disrespect(39) me,(40) I'm(41) on(42) yo(43) head(44) I'm(45) a(46) scarf(47) 
+Told(48) my(49) barber(50) "Cut(51) my(52) hair,(53) leave(54) a(55) part"(56) 
+But(57) don't(58) line(59) me(60) up(61) in(62) the(63) dark(64) 
+My(65) life(66) dark(67) but(68) I(69) see(70) the(71) truth(72) 
+Pop(73) up(74) on(75) your(76) bitch(77) like(78) peek-a-boo(79) 
+I'm(80) in(81) the(82) coupe,(83) I(84) don't(85) need(86) the(87) roof(88) 
+Her(89) ass(90) really(91) shocked(92) me(93) like(94) Pikachu(95) 
+I(96) do(97) a(98) bitch(99) harsh(100) 
+Break(101) a(102) heart(103) to(104) thousand(105) parts(106) 
+They(107) like(108) "How(109) this(110) ghetto(111) nigga(112) on(113) the(114) charts"(115) 
+Face(116) down,(117) ass(118) up,(119) back(120) gotta(121) be(122) arched(123) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see InTheDark_Output_A_uncertainty.txt in the Poems directory
+
+In (0:0) IH0 N (0:1) IH1 N
+The (1:0) DH AH0 (1:1) DH AH1 (1:2) DH IY0
+the (14:0) DH AH0 (14:1) DH AH1 (14:2) DH IY0
+when (16:0) W EH1 N (16:1) HH W EH1 N (16:2) W IH1 N (16:3) HH W IH1 N
+it's (17:0) IH1 T S (17:1) IH0 T S
+target (22:0) T AA1 R - G AH0 T (22:1) T ER1 - G AH0 T
+a (24:0) AH0 (24:1) EY1
+Why (26:0) W AY1 (26:1) HH W AY1
+In (33:0) IH0 N (33:1) IH1 N
+a (37:0) AH0 (37:1) EY1
+on (42:0) AA1 N (42:1) AO1 N
+a (46:0) AH0 (46:1) EY1
+a (55:0) AH0 (55:1) EY1
+don't (58:0) D OW1 N T (58:1) D OW1 N
+in (62:0) IH0 N (62:1) IH1 N
+the (63:0) DH AH0 (63:1) DH AH1 (63:2) DH IY0
+the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+on (75:0) AA1 N (75:1) AO1 N
+your (76:0) Y AO1 R (76:1) Y UH1 R
+in (81:0) IH0 N (81:1) IH1 N
+the (82:0) DH AH0 (82:1) DH AH1 (82:2) DH IY0
+don't (85:0) D OW1 N T (85:1) D OW1 N
+the (87:0) DH AH0 (87:1) DH AH1 (87:2) DH IY0
+Her (89:0) HH ER0 (89:1) HH ER1
+really (91:0) R IH1 - L IY0 (91:1) R IY1 - L IY0
+a (98:0) AH0 (98:1) EY1
+a (102:0) AH0 (102:1) EY1
+to (104:0) T UW0 (104:1) T IH0 (104:2) T AH0
+thousand (105:0) TH AW1 - Z AH0 N D (105:1) TH AW1 - Z AH0 N
+this (110:0) DH IH1 S (110:1) DH IH0 S
+on (113:0) AA1 N (113:1) AO1 N
+the (114:0) DH AH0 (114:1) DH AH1 (114:2) DH IY0
+be (122:0) B IY1 (122:1) B IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see InTheDark_Output_A_uncertainty.txt in the Poems directory
+
+'em (12:0)  AH0 M
+"Cut (51:0)  K AH1 T
+part" (56:0)  P AA1 R T
+peek-a-boo (79:0)  P IY1- K AH0- B UW1
+Pikachu (95:0)  P AH0- K AH0- CH UW0
+"How (109:0)  AW1
+nigga (112:0)  N IH1- G AH0
+charts" (115:0)  CH AA1 R T S

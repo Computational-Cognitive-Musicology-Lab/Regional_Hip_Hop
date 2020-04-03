@@ -1,0 +1,145 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%The (1:0) DH AH0 (1:1) DH AH1 (1:2) DH IY0
+1:0
+%President (2:0) P R EH1 - Z AH0 - D EH2 N T (2:1) P R EH1 - Z IH0 - D AH0 N T
+2:0
+%Get (5:0) G EH1 T (5:1) G IH1 T
+5:0
+%the (8:0) DH AH0 (8:1) DH AH1 (8:2) DH IY0
+8:0
+%it (12:0) IH1 T (12:1) IH0 T
+12:0
+%get (13:0) G EH1 T (13:1) G IH1 T
+13:0
+%with (19:0) W IH1 DH (19:1) W IH1 TH (19:2) W IH0 TH (19:3) W IH0 DH
+19:0
+%a (20:0) AH0 (20:1) EY1
+20:0
+%walk, (24:0) W AO1 K (24:1) W AA1 K
+24:0
+%this (25:0) DH IH1 S (25:1) DH IH0 S
+25:0
+%is (26:0) IH1 Z (26:1) IH0 Z
+26:0
+%and (31:0) AE0 N D (31:1) AH0 N D
+31:0
+%with (40:0) W IH1 DH (40:1) W IH1 TH (40:2) W IH0 TH (40:3) W IH0 DH
+40:0
+%the (41:0) DH AH0 (41:1) DH AH1 (41:2) DH IY0
+41:0
+%wheels (42:0) W IY1 L Z (42:1) HH W IY1 L Z
+42:0
+%Always (44:0) AO1 L - W EY2 Z (44:1) AO1 L - W IY0 Z
+44:0
+%for (47:0) F AO1 R (47:1) F ER0 (47:2) F R ER0
+47:0
+%the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+48:0
+%a (51:0) AH0 (51:1) EY1
+51:0
+%boss (53:0) B AA1 S (53:1) B AO1 S
+53:0
+%than (54:0) DH AE1 N (54:1) DH AH0 N
+54:0
+%Ross (56:0) R AA1 S (56:1) R AO1 S
+56:0
+%Always (57:0) AO1 L - W EY2 Z (57:1) AO1 L - W IY0 Z
+57:0
+%get (60:0) G EH1 T (60:1) G IH1 T
+60:0
+%It's (62:0) IH1 T S (62:1) IH0 T S
+62:0
+%the (63:0) DH AH0 (63:1) DH AH1 (63:2) DH IY0
+63:0
+%the (66:0) DH AH0 (66:1) DH AH1 (66:2) DH IY0
+66:0
+%When (68:0) W EH1 N (68:1) HH W EH1 N (68:2) W IH1 N (68:3) HH W IH1 N
+68:0
+%it's (72:0) IH1 T S (72:1) IH0 T S
+72:0
+%What (76:0) W AH1 T (76:1) HH W AH1 T
+76:0
+%that (81:0) DH AE1 T (81:1) DH AH0 T
+81:0
+%the (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+88:0
+%& (90:0) AE0 N D (90:1) AH0 N D
+90:0
+%the (93:0) DH AH0 (93:1) DH AH1 (93:2) DH IY0
+93:0
+%president, (94:0) P R EH1 - Z AH0 - D EH2 N T (94:1) P R EH1 - Z IH0 - D AH0 N T
+94:0
+%the (97:0) DH AH0 (97:1) DH AH1 (97:2) DH IY0
+97:0
+%That (99:0) DH AE1 T (99:1) DH AH0 T
+99:0
+%is (101:0) IH1 Z (101:1) IH0 Z
+101:0
+%When (104:0) W EH1 N (104:1) HH W EH1 N (104:2) W IH1 N (104:3) HH W IH1 N
+104:0
+%it (105:0) IH1 T (105:1) IH0 T
+105:0
+%it (107:0) IH1 T (107:1) IH0 T
+107:0
+%Did (109:0) D IH1 D (109:1) D IH0 D
+109:0
+%the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+112:0
+%new (113:0) N UW1 (113:1) N Y UW1
+113:0
+%white (114:0) W AY1 T (114:1) HH W AY1 T
+114:0
+%was (115:0) W AA1 Z (115:1) W AH1 Z (115:2) W AH0 Z (115:3) W AO1 Z
+115:0
+%orange? (116:0) AO1 - R AH0 N JH (116:1) AO1 - R IH0 N JH
+116:0
+%you're (118:0) Y UH1 R (118:1) Y UW1 R
+118:0
+%your (120:0) Y AO1 R (120:1) Y UH1 R
+120:0
+%to (124:0) T UW0 (124:1) T IH0 (124:2) T AH0
+124:0
+%replace (125:0) R IY2 - P L EY1 S (125:1) ER0 - P L EY1 S
+125:0
+%with (128:0) W IH1 DH (128:1) W IH1 TH (128:2) W IH0 TH (128:3) W IH0 DH
+128:0
+%with (133:0) W IH1 DH (133:1) W IH1 TH (133:2) W IH0 TH (133:3) W IH0 DH
+133:0
+%your (134:0) Y AO1 R (134:1) Y UH1 R
+134:0
+%in (140:0) IH0 N (140:1) IH1 N
+140:0
+%the (141:0) DH AH0 (141:1) DH AH1 (141:2) DH IY0
+141:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%'fore (7:0)  F AO1 R
+7:0
+%'Fore (11:0)  F AO1 R
+11:0
+%'fore (15:0)  F AO1 R
+15:0
+%Niggas (37:0)  N IH1- G AH0 Z
+37:0
+%winnin', (58:0)  W IH1- N IH1 N
+58:0
+%nigga (59:0)  N IH1- G AH0
+59:0
+%nigga (100:0)  N IH1- G AH0
+100:0
+%vape (135:0)  V EY1 P
+135:0
+%apeshit (139:0)  EY1- P AH0- SH IH1 T
+139:0
+********End******

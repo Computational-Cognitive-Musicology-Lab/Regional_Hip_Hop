@@ -1,0 +1,125 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%The (4:0) DH AH0 (4:1) DH AH1 (4:2) DH IY0
+4:0
+%on (12:0) AA1 N (12:1) AO1 N
+12:0
+%couldn't (18:0) K UH1 - D AH0 N T (18:1) K UH1 - D AH0 N
+18:0
+%the (20:0) DH AH0 (20:1) DH AH1 (20:2) DH IY0
+20:0
+%of (22:0) AH0 V (22:1) AH0 V
+22:0
+%it (23:0) IH1 T (23:1) IH0 T
+23:0
+%of (25:0) AH0 V (25:1) AH0 V
+25:0
+%the (26:0) DH AH0 (26:1) DH AH1 (26:2) DH IY0
+26:0
+%every (28:0) EH1 - V ER0 - IY0 (28:1) EH1 - V R IY0
+28:0
+%an (31:0) AE1 N (31:1) AH0 N
+31:0
+%her (35:0) HH ER0 (35:1) HH ER1
+35:0
+%the (39:0) DH AH0 (39:1) DH AH1 (39:2) DH IY0
+39:0
+%of (48:0) AH0 V (48:1) AH0 V
+48:0
+%to (53:0) T UW0 (53:1) T IH0 (53:2) T AH0
+53:0
+%the (55:0) DH AH0 (55:1) DH AH1 (55:2) DH IY0
+55:0
+%the (59:0) DH AH0 (59:1) DH AH1 (59:2) DH IY0
+59:0
+%with (61:0) W IH1 DH (61:1) W IH1 TH (61:2) W IH0 TH (61:3) W IH0 DH
+61:0
+%the (62:0) DH AH0 (62:1) DH AH1 (62:2) DH IY0
+62:0
+%in (64:0) IH0 N (64:1) IH1 N
+64:0
+%fall (70:0) F AO1 L (70:1) F AA1 L
+70:0
+%than (73:0) DH AE1 N (73:1) DH AH0 N
+73:0
+%can (77:0) K AE1 N (77:1) K AH0 N
+77:0
+%hands (79:0) HH AE1 N D Z (79:1) HH AE1 N Z
+79:0
+%for (80:0) F AO1 R (80:1) F ER0 (80:2) F R ER0
+80:0
+%a (85:0) AH0 (85:1) EY1
+85:0
+%can (87:0) K AE1 N (87:1) K AH0 N
+87:0
+%just (89:0) JH AH1 S T (89:1) JH IH0 S T
+89:0
+%want (90:0) W AA1 N T (90:1) W AO1 N T
+90:0
+%the (91:0) DH AH0 (91:1) DH AH1 (91:2) DH IY0
+91:0
+%a (95:0) AH0 (95:1) EY1
+95:0
+%again, (107:0) AH0 - G EH1 N (107:1) AH0 - G EY1 N
+107:0
+%again, (108:0) AH0 - G EH1 N (108:1) AH0 - G EY1 N
+108:0
+%the (109:0) DH AH0 (109:1) DH AH1 (109:2) DH IY0
+109:0
+%that (119:0) DH AE1 T (119:1) DH AH0 T
+119:0
+%the (120:0) DH AH0 (120:1) DH AH1 (120:2) DH IY0
+120:0
+%And (124:0) AE0 N D (124:1) AH0 N D
+124:0
+%can (126:0) K AE1 N (126:1) K AH0 N
+126:0
+%your (128:0) Y AO1 R (128:1) Y UH1 R
+128:0
+%a (137:0) AH0 (137:1) EY1
+137:0
+%new (138:0) N UW1 (138:1) N Y UW1
+138:0
+%of (140:0) AH0 V (140:1) AH0 V
+140:0
+%don't (142:0) D OW1 N T (142:1) D OW1 N
+142:0
+%the (144:0) DH AH0 (144:1) DH AH1 (144:2) DH IY0
+144:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Tryna (33:0)  T R IH1- N AH0
+33:0
+%rummagin' (37:0)  R AH1- M IH0- JH IH1 N
+37:0
+%single-dad (56:0)  S IH1 NG- G AH0- L AH0- D AH0 D
+56:0
+%mingle-dance (57:0)  M IH1 NG- G AH0- L AH0- D AH0 N S
+57:0
+%I'ma (83:0)  IH1- M AH0
+83:0
+%Pringles (86:0)  P R IH1 NG- G AH0 L Z
+86:0
+%"Ah (101:0)  AH0
+101:0
+%Prayin' (106:0)  P R EY IH1 N
+106:0
+%thang" (112:0)  TH AE1 NG
+112:0
+%gon' (117:0)  G AA1 N
+117:0
+%gon' (134:0)  G AA1 N
+134:0
+%'Cause (136:0)  K AW1 Z
+136:0
+********End******

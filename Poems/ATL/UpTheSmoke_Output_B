@@ -1,0 +1,289 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AY: [my(7), fire(37)]
+AY: [my(7), hiding(76)]
+AY: [My(9), fire(37)]
+AY: [My(9), hiding(76)]
+IY: [be(15), Lamborghini,(146)]
+EY: [pray(18), baguettes(30)]
+EY: [pray(18), Baguettes(105)]
+EY: [pray(18), baguettes,(107)]
+EY: [baguettes(30), they(63)]
+AY: [fire(37), I(43)]
+AY: [fire(37), lie,(45)]
+AY: [fire(37), my(92)]
+AY: [fire(37), my(108)]
+AY: [fire(37), I(141)]
+AY: [fire(37), I(157)]
+AY: [I(43), hiding(76)]
+AY: [lie,(45), hiding(76)]
+UW: [shooters(47), you(144)]
+UW: [shooters(47), You(162)]
+IY: [She(50), Lamborghini,(146)]
+AHM: [from(51), jumpin'(138)]
+IY: [she(53), Lamborghini,(146)]
+IY: [me(56), Lamborghini,(146)]
+EY: [they(63), Baguettes(105)]
+EY: [they(63), baguettes,(107)]
+AY: [hiding(76), my(92)]
+AY: [hiding(76), my(108)]
+AY: [hiding(76), I(141)]
+AY: [hiding(76), I(157)]
+IY: [me(134), Lamborghini,(146)]
+IY: [be(137), Lamborghini,(146)]
+IY: [see(145), Lamborghini,(146)]
+IY: [Lamborghini,(146), me(152)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IHZ: [bitches(10), his(122)]
+IHZ: [bitches(10), is(168)]
+IY: [be(15), DeVry,(52)]
+IY: [be(15), ready(85)]
+IY: [be(15), Lamborghini,(146)]
+IY: [be(15), Cookie'(153)]
+IY: [be(15), casually(161)]
+IHN: [Stackin',(16), in(38)]
+IHN: [Stackin',(16), in(133)]
+OW: [go(19), fosho(67)]
+UW: [to(20), you(144)]
+UW: [to(20), You(162)]
+IHN: [in(38), jumpin'(138)]
+IY: [She(50), DeVry,(52)]
+IY: [She(50), ready(85)]
+IY: [She(50), Lamborghini,(146)]
+IY: [She(50), Cookie'(153)]
+IY: [She(50), casually(161)]
+IY: [DeVry,(52), she(53)]
+IY: [DeVry,(52), me(56)]
+IY: [DeVry,(52), me(134)]
+IY: [DeVry,(52), be(137)]
+IY: [DeVry,(52), see(145)]
+IY: [DeVry,(52), me(152)]
+IY: [she(53), ready(85)]
+IY: [she(53), Lamborghini,(146)]
+IY: [she(53), Cookie'(153)]
+IY: [she(53), casually(161)]
+IY: [me(56), ready(85)]
+IY: [me(56), Lamborghini,(146)]
+IY: [me(56), Cookie'(153)]
+IY: [me(56), casually(161)]
+UW: [to(57), you(144)]
+UW: [to(57), You(162)]
+OW: [flow,(62), fosho(67)]
+OW: [fosho(67), low(78)]
+OW: [fosho(67), go(87)]
+OW: [fosho(67), hoe,(100)]
+OW: [fosho(67), toe(104)]
+OW: [fosho(67), go(115)]
+OW: [fosho(67), no(131)]
+IY: [ready(85), me(134)]
+IY: [ready(85), be(137)]
+IY: [ready(85), see(145)]
+IY: [ready(85), me(152)]
+UW: [to(86), you(144)]
+UW: [to(86), You(162)]
+UW: [to(117), you(144)]
+UW: [to(117), You(162)]
+IHN: [in(133), jumpin'(138)]
+IY: [me(134), Lamborghini,(146)]
+IY: [me(134), Cookie'(153)]
+IY: [me(134), casually(161)]
+IY: [be(137), Lamborghini,(146)]
+IY: [be(137), Cookie'(153)]
+IY: [be(137), casually(161)]
+IY: [see(145), Lamborghini,(146)]
+IY: [see(145), Cookie'(153)]
+IY: [see(145), casually(161)]
+IY: [Lamborghini,(146), me(152)]
+IY: [me(152), Cookie'(153)]
+IY: [me(152), casually(161)]
+
+
+Rule 2: ...-ON[C]'-...
+P: [Up(0), sleep(21), top(25), top(32), creep(49), sleep(58), up(60), cap(132), Trap(136)]
+K: [Smoke(2), peak(28), suck(55), stick(70), neck(109), Take(120), like(139)]
+T: [Offset(3), feet(8), at(23), Put(29), Put(36), beat(42), got(46), that(48), bite(65), it(66), Put(68), get(74), sit(90), goat(96), rat(116), hat,(123), rat(126), get(142), get(158)]
+M: [I'm(4), I'm(22), from(51), I'm(94), I'm(111), jumpin'(138)]
+DH: [smooth(5), with(127)]
+N: [on(6), can(14), Stackin',(16), then(17), on(31), gon'(54), gon'(64), on(71), on(77), then(82), on(91), on(98), on(102), on(106), jumpin'(138), lean(156)]
+Z: [as(13), his(122), as(149), as(151), is(168)]
+TS: [baguettes(30), Baguettes(105), baguettes,(107)]
+TH: [teeth(35), athletes(140)]
+NT: [front(39), can't(44), Ain't(130), ain't(148)]
+S: [this(41), This(79), this(118), gas,(154), This(165), this(167)]
+CH: [Switch(59), bitch,(73)]
+R: [your(72), your(75), your(99), your(103), you're(113), Audemar,(166)]
+L: [Mille(89), pole(119), hole(129)]
+ST: [wrist,(93), fast(150)]
+G: [Tag(97), tag(101), bag,(160)]
+
+
+Rule 3: ...-O[N]C'-...
+AH: [Up(0), front(39), from(51), suck(55), up(60), young(83), jumpin'(138)]
+OW: [Smoke(2), go(19), flow,(62), low(78), go(87), goat(96), hoe,(100), toe(104), overload(110), go(115), pole(119), hole(129), no(131)]
+EH: [Offset(3), then(17), baguettes(30), DeVry,(52), get(74), then(82), ready(85), Baguettes(105), baguettes,(107), neck(109), get(142), get(158), embarrassing(164)]
+AY: [I'm(4), my(7), My(9), I'm(22), fire(37), I(43), lie,(45), bite(65), hiding(76), my(92), I'm(94), my(108), I'm(111), like(139), I(141), I(157)]
+UW: [smooth(5), shooters(47), you(144), You(162)]
+AA: [on(6), top(25), on(31), top(32), got(46), gon'(54), gon'(64), on(71), on(77), on(91), on(98), on(102), on(106), Audemar,(166)]
+IY: [feet(8), be(15), sleep(21), peak(28), teeth(35), beat(42), creep(49), She(50), she(53), me(56), sleep(58), leave(124), me(134), be(137), see(145), Lamborghini,(146), me(152), lean(156)]
+IH: [bitches(10), Stackin',(16), this(41), Switch(59), it(66), stick(70), bitch,(73), This(79), niggas(84), Richard(88), Mille(89), sit(90), wrist,(93), this(118), his(122), with(127), jumpin'(138), niggas(147), niggas(163), This(165), this(167), is(168)]
+AE: [bad(12), as(13), can(14), Stackin',(16), at(23), can't(44), that(48), Tag(97), tag(101), having,(112), capping,(114), rat(116), hat,(123), rat(126), cap(132), Trap(136), athletes(140), cash,(143), as(149), fast(150), as(151), gas,(154), bag,(160), casually(161), masterpiece(170)]
+EY: [pray(18), baguettes(30), they(63), Baguettes(105), baguettes,(107), Take(120), Ain't(130), ain't(148)]
+UH: [Put(29), Put(36), Put(68), you're(113), Cookie'(153)]
+AO: [fosho(67), your(72), your(75), your(99), your(103), off(121), Audemar,(166)]
+
+
+Rule 4: ...-[O']N[C']'-...
+P: [Up(0), up(60)]
+ST: [Offset(3), Stackin',(16), sit(90)]
+M: [I'm(4), my(7), My(9), I'm(22), me(56), my(92), I'm(94), my(108), I'm(111), me(134), me(152), masterpiece(170)]
+N: [on(6), on(31), on(71), on(77), niggas(84), on(91), on(98), on(102), on(106), no(131), niggas(147), niggas(163)]
+B: [bitches(10), be(15), baguettes(30), Baguettes(105), baguettes,(107), be(137), embarrassing(164)]
+Z: [as(13), as(149), as(151), is(168)]
+KN: [can(14), Stackin',(16)]
+DHN: [then(17), then(82)]
+G: [go(19), go(87), go(115), Lamborghini,(146)]
+SLP: [sleep(21), sleep(58)]
+T: [at(23), it(66), toe(104)]
+TP: [top(25), top(32)]
+PT: [Put(29), Put(36), Put(68)]
+GTS: [baguettes(30), Baguettes(105), baguettes,(107)]
+F: [fire(37), fosho(67), off(121)]
+DHS: [this(41), This(79), this(118), This(165), this(167)]
+BT: [beat(42), bite(65)]
+L: [lie,(45), low(78)]
+GT: [got(46), get(74), goat(96), get(142), get(158)]
+SH: [shooters(47), She(50), she(53)]
+GN: [gon'(54), gon'(64)]
+YR: [your(72), your(75), your(99), your(103), you're(113)]
+HH: [hiding(76), hoe,(100), having,(112)]
+R: [ready(85), Richard(88)]
+TG: [Tag(97), tag(101)]
+K: [capping,(114), Cookie'(153), casually(161)]
+RT: [rat(116), rat(126)]
+NT: [Ain't(130), ain't(148)]
+Y: [you(144), You(162)]
+
+
+
+
+Poem with word IDs:
+
+Up(0) The(1) Smoke(2) 
+Offset(3) 
+
+I'm(4) smooth(5) on(6) my(7) feet(8) 
+My(9) bitches(10) the(11) bad(12) as(13) can(14) be(15) 
+Stackin',(16) then(17) pray(18) go(19) to(20) sleep(21) 
+I'm(22) at(23) the(24) top(25) of(26) the(27) peak(28) 
+Put(29) baguettes(30) on(31) top(32) of(33) our(34) teeth(35) 
+Put(36) fire(37) in(38) front(39) of(40) this(41) beat(42) 
+I(43) can't(44) lie,(45) got(46) shooters(47) that(48) creep(49) 
+She(50) from(51) DeVry,(52) she(53) gon'(54) suck(55) me(56) to(57) sleep(58) 
+
+Switch(59) up(60) the(61) flow,(62) they(63) gon'(64) bite(65) it(66) fosho(67) 
+Put(68) the(69) stick(70) on(71) your(72) bitch,(73) get(74) your(75) hiding(76) on(77) low(78) 
+This(79) a(80) 50,(81) then(82) young(83) niggas(84) ready(85) to(86) go(87) 
+Richard(88) Mille(89) sit(90) on(91) my(92) wrist,(93) I'm(94) the(95) goat(96) 
+Tag(97) on(98) your(99) hoe,(100) tag(101) on(102) your(103) toe(104) 
+Baguettes(105) on(106) baguettes,(107) my(108) neck(109) overload(110) 
+I'm(111) having,(112) you're(113) capping,(114) go(115) rat(116) to(117) this(118) pole(119) 
+Take(120) off(121) his(122) hat,(123) leave(124) a(125) rat(126) with(127) a(128) hole(129) 
+
+Ain't(130) no(131) cap(132) in(133) me(134) 
+The(135) Trap(136) be(137) jumpin'(138) like(139) athletes(140) 
+I(141) get(142) cash,(143) you(144) see(145) 
+Lamborghini,(146) niggas(147) ain't(148) as(149) fast(150) as(151) me(152) 
+Cookie'(153) gas,(154) the(155) lean(156) 
+I(157) get(158) the(159) bag,(160) casually(161) 
+You(162) niggas(163) embarrassing(164) 
+This(165) Audemar,(166) this(167) is(168) a(169) masterpiece(170) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see UpTheSmoke_Output_B_uncertainty.txt in the Poems directory
+
+The (1:0) DH AH0 (1:1) DH AH1 (1:2) DH IY0
+Offset (3:0) AO0 F - S EH1 T (3:1) AO1 F - S EH2 T
+on (6:0) AA1 N (6:1) AO1 N
+the (11:0) DH AH0 (11:1) DH AH1 (11:2) DH IY0
+as (13:0) AE1 Z (13:1) EH1 Z
+can (14:0) K AE1 N (14:1) K AH0 N
+be (15:0) B IY1 (15:1) B IY0
+to (20:0) T UW0 (20:1) T IH0 (20:2) T AH0
+the (24:0) DH AH0 (24:1) DH AH1 (24:2) DH IY0
+top (25:0) T AA1 P (25:1) T AO1 P
+of (26:0) AH0 V (26:1) AH0 V
+the (27:0) DH AH0 (27:1) DH AH1 (27:2) DH IY0
+on (31:0) AA1 N (31:1) AO1 N
+top (32:0) T AA1 P (32:1) T AO1 P
+of (33:0) AH0 V (33:1) AH0 V
+our (34:0) AW1 - ER0 (34:1) AW1 R (34:2) AA1 R
+fire (37:0) F AY1 - ER0 (37:1) F AY1 R
+in (38:0) IH0 N (38:1) IH1 N
+of (40:0) AH0 V (40:1) AH0 V
+this (41:0) DH IH1 S (41:1) DH IH0 S
+that (48:0) DH AE1 T (48:1) DH AH0 T
+from (51:0) F R AH1 M (51:1) F ER0 M
+to (57:0) T UW0 (57:1) T IH0 (57:2) T AH0
+the (61:0) DH AH0 (61:1) DH AH1 (61:2) DH IY0
+it (66:0) IH1 T (66:1) IH0 T
+the (69:0) DH AH0 (69:1) DH AH1 (69:2) DH IY0
+on (71:0) AA1 N (71:1) AO1 N
+your (72:0) Y AO1 R (72:1) Y UH1 R
+get (74:0) G EH1 T (74:1) G IH1 T
+your (75:0) Y AO1 R (75:1) Y UH1 R
+on (77:0) AA1 N (77:1) AO1 N
+This (79:0) DH IH1 S (79:1) DH IH0 S
+a (80:0) AH0 (80:1) EY1
+to (86:0) T UW0 (86:1) T IH0 (86:2) T AH0
+on (91:0) AA1 N (91:1) AO1 N
+the (95:0) DH AH0 (95:1) DH AH1 (95:2) DH IY0
+on (98:0) AA1 N (98:1) AO1 N
+your (99:0) Y AO1 R (99:1) Y UH1 R
+on (102:0) AA1 N (102:1) AO1 N
+your (103:0) Y AO1 R (103:1) Y UH1 R
+on (106:0) AA1 N (106:1) AO1 N
+you're (113:0) Y UH1 R (113:1) Y UW1 R
+to (117:0) T UW0 (117:1) T IH0 (117:2) T AH0
+this (118:0) DH IH1 S (118:1) DH IH0 S
+his (122:0) HH IH1 Z (122:1) HH IH0 Z
+a (125:0) AH0 (125:1) EY1
+with (127:0) W IH1 DH (127:1) W IH1 TH (127:2) W IH0 TH (127:3) W IH0 DH
+a (128:0) AH0 (128:1) EY1
+in (133:0) IH0 N (133:1) IH1 N
+The (135:0) DH AH0 (135:1) DH AH1 (135:2) DH IY0
+be (137:0) B IY1 (137:1) B IY0
+get (142:0) G EH1 T (142:1) G IH1 T
+as (149:0) AE1 Z (149:1) EH1 Z
+as (151:0) AE1 Z (151:1) EH1 Z
+the (155:0) DH AH0 (155:1) DH AH1 (155:2) DH IY0
+get (158:0) G EH1 T (158:1) G IH1 T
+the (159:0) DH AH0 (159:1) DH AH1 (159:2) DH IY0
+casually (161:0) K AE1 - ZH AH0 W - AH0 - L IY0 (161:1) K AE1 - ZH W AH0 - L IY0
+This (165:0) DH IH1 S (165:1) DH IH0 S
+this (167:0) DH IH1 S (167:1) DH IH0 S
+is (168:0) IH1 Z (168:1) IH0 Z
+a (169:0) AH0 (169:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see UpTheSmoke_Output_B_uncertainty.txt in the Poems directory
+
+Stackin', (16:0)  S T AE1- K IH1 N
+baguettes (30:0)  B EY1- G EH1 T S
+gon' (54:0)  G AA1 N
+gon' (64:0)  G AA1 N
+fosho (67:0)  F AO1- SH OW0
+niggas (84:0)  N IH1- G AH0 Z
+Baguettes (105:0)  B EY1- G EH1 T S
+baguettes, (107:0)  B EY1- G EH1 T S
+jumpin' (138:0)  JH AH1 M- P IH1 N
+niggas (147:0)  N IH1- G AH0 Z
+Cookie' (153:0)  K UH1- K IY0
+niggas (163:0)  N IH1- G AH0 Z
+Audemar, (166:0)  AO1- D AH0- M AA1 R

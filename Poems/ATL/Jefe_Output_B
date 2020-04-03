@@ -1,0 +1,581 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+EHL: [welcome(4), hell(109)]
+EHL: [welcome(4), Chapelle(242)]
+EHL: [welcome(4), hell(250)]
+EHL: [welcome(4), tell,(259)]
+EHN: [Bentleys,(11), when(20)]
+EHN: [Bentleys,(11), when(27)]
+EHN: [Bentleys,(11), then(230)]
+EHN: [Bentleys,(11), then(256)]
+EY: [they(16), paper(205)]
+EY: [they(16), flavor(219)]
+EY: [they(16), hatin',(222)]
+EY: [they(16), potato,(229)]
+EY: [they(16), mayor(237)]
+EY: [they(16), David(241)]
+OW: [So(18), Okay,(34)]
+OW: [So(18), open(260)]
+OW: [Okay,(34), no(73)]
+OW: [Okay,(34), go(80)]
+OW: [Okay,(34), no(106)]
+OW: [Okay,(34), no(120)]
+OW: [Okay,(34), so(175)]
+EY: [Okay,(34), paper(205)]
+EY: [Okay,(34), flavor(219)]
+EY: [Okay,(34), hatin',(222)]
+EY: [Okay,(34), potato,(229)]
+OW: [Okay,(34), go(231)]
+EY: [Okay,(34), mayor(237)]
+EY: [Okay,(34), David(241)]
+AOR: [more(39), warmin'(154)]
+AOR: [more(39), performin'(162)]
+AOR: [more(39), formal(185)]
+AOR: [more(39), normal(194)]
+AOR: [before(41), warmin'(154)]
+AOR: [before(41), performin'(162)]
+AOR: [before(41), formal(185)]
+AOR: [before(41), normal(194)]
+AHN: [stuntin'(43), Run(251)]
+AY: [shinin'(45), my(58)]
+AY: [shinin'(45), I(97)]
+AY: [shinin'(45), I(122)]
+AY: [shinin'(45), I(141)]
+AY: [shinin'(45), my(172)]
+AY: [shinin'(45), my(207)]
+AY: [shinin'(45), I(215)]
+AY: [shinin'(45), try(224)]
+AY: [shinin'(45), I(226)]
+AEK: [back(47), actin',(158)]
+AY: [my(58), diamonds(76)]
+AY: [my(58), attire(183)]
+AHN: [hundreds(70), Run(251)]
+AW: [thousands,(72), how(140)]
+AW: [thousands,(72), How(186)]
+OW: [no(73), open(260)]
+AY: [diamonds(76), I(97)]
+AY: [diamonds(76), I(122)]
+AY: [diamonds(76), I(141)]
+AY: [diamonds(76), my(172)]
+AY: [diamonds(76), my(207)]
+AY: [diamonds(76), I(215)]
+AY: [diamonds(76), try(224)]
+AY: [diamonds(76), I(226)]
+EY: [they(79), paper(205)]
+EY: [they(79), flavor(219)]
+EY: [they(79), hatin',(222)]
+EY: [they(79), potato,(229)]
+EY: [they(79), mayor(237)]
+EY: [they(79), David(241)]
+OW: [go(80), open(260)]
+AY: [I(97), attire(183)]
+OW: [no(106), open(260)]
+EY: [way(107), paper(205)]
+EY: [way(107), flavor(219)]
+EY: [way(107), hatin',(222)]
+EY: [way(107), potato,(229)]
+EY: [way(107), mayor(237)]
+EY: [way(107), David(241)]
+OW: [no(120), open(260)]
+AY: [I(122), attire(183)]
+AW: [how(140), our(201)]
+AY: [I(141), attire(183)]
+EY: [ay,(143), paper(205)]
+EY: [ay,(143), flavor(219)]
+EY: [ay,(143), hatin',(222)]
+EY: [ay,(143), potato,(229)]
+EY: [ay,(143), mayor(237)]
+EY: [ay,(143), David(241)]
+AOR: [warmin'(154), for(163)]
+AOR: [warmin'(154), for(168)]
+EY: [they(161), paper(205)]
+EY: [they(161), flavor(219)]
+EY: [they(161), hatin',(222)]
+EY: [they(161), potato,(229)]
+EY: [they(161), mayor(237)]
+EY: [they(161), David(241)]
+AOR: [performin'(162), for(163)]
+AOR: [performin'(162), for(168)]
+AOR: [for(163), formal(185)]
+AOR: [for(163), normal(194)]
+AOR: [for(168), formal(185)]
+AOR: [for(168), normal(194)]
+AY: [my(172), attire(183)]
+OW: [so(175), open(260)]
+AY: [attire(183), my(207)]
+AY: [attire(183), I(215)]
+AY: [attire(183), try(224)]
+AY: [attire(183), I(226)]
+AW: [How(186), our(201)]
+OW: [go(231), open(260)]
+AHN: [Run(251), under(265)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [T.I.(1), city(66)]
+IY: [T.I.(1), Philly,(78)]
+IY: [T.I.(1), Milly(83)]
+IY: [T.I.(1), funny(248)]
+IY: [me(3), city(66)]
+IY: [me(3), Philly,(78)]
+IY: [me(3), Milly(83)]
+IY: [me(3), funny(248)]
+UW: [you,(5), to(8)]
+UW: [you,(5), to(252)]
+UW: [to(8), new(14)]
+UW: [to(8), you(28)]
+UW: [to(8), do(32)]
+UW: [to(8), you(61)]
+UW: [to(8), you(110)]
+UW: [to(8), do(124)]
+UW: [to(8), who(135)]
+UW: [to(8), do,(142)]
+UW: [to(8), you(146)]
+UW: [to(8), you(209)]
+UW: [to(8), you(212)]
+UW: [to(8), you(245)]
+UW: [to(8), you(264)]
+IYZ: [Bentleys,(11), these(36)]
+IYZ: [Bentleys,(11), these(95)]
+AEND: [brand(13), and(15)]
+AEND: [brand(13), and(44)]
+AEND: [brand(13), and(62)]
+AEND: [brand(13), and(88)]
+AEND: [brand(13), and(131)]
+AEND: [brand(13), and(199)]
+AEND: [brand(13), and(233)]
+AEND: [brand(13), and(255)]
+AEND: [brand(13), and(258)]
+UW: [new(14), to(252)]
+AEND: [and(15), stand(90)]
+AEND: [and(15), Grand(196)]
+OW: [So(18), thorough,(89)]
+UW: [you(28), to(252)]
+IY: [see(29), city(66)]
+IY: [see(29), Philly,(78)]
+IY: [see(29), Milly(83)]
+IY: [see(29), funny(248)]
+UW: [do(32), to(252)]
+IHN: [killin'(35), in(48)]
+IHN: [killin'(35), in(57)]
+IHN: [killin'(35), In(77)]
+IHN: [killin'(35), in(108)]
+IHN: [killin'(35), nothin'(125)]
+IHN: [killin'(35), in(239)]
+IHN: [killin'(35), runnin'(257)]
+IYZ: [these(36), nineties(50)]
+IHN: [Been(42), in(48)]
+IHN: [Been(42), in(57)]
+IHN: [Been(42), In(77)]
+IHN: [Been(42), in(108)]
+IHN: [Been(42), nothin'(125)]
+IHN: [Been(42), in(239)]
+IHN: [Been(42), runnin'(257)]
+IHN: [stuntin'(43), in(48)]
+IHN: [stuntin'(43), in(57)]
+IHN: [stuntin'(43), In(77)]
+IHN: [stuntin'(43), in(108)]
+IHN: [stuntin'(43), nothin'(125)]
+IHN: [stuntin'(43), in(239)]
+IHN: [stuntin'(43), runnin'(257)]
+AEND: [and(44), stand(90)]
+AEND: [and(44), Grand(196)]
+IHN: [shinin'(45), in(48)]
+IHN: [shinin'(45), in(57)]
+IHN: [shinin'(45), In(77)]
+IHN: [shinin'(45), in(108)]
+IHN: [shinin'(45), nothin'(125)]
+IHN: [shinin'(45), in(239)]
+IHN: [shinin'(45), runnin'(257)]
+IHN: [in(48), warmin'(154)]
+IHN: [in(48), actin',(158)]
+IHN: [in(48), performin'(162)]
+IHN: [in(48), schemin'(198)]
+IHN: [in(48), chasin'(200)]
+IHN: [in(48), stackin'(203)]
+IHN: [in(48), Hearin'(206)]
+IHN: [in(48), drippin'(217)]
+IYZ: [nineties(50), these(95)]
+IHN: [in(57), warmin'(154)]
+IHN: [in(57), actin',(158)]
+IHN: [in(57), performin'(162)]
+IHN: [in(57), schemin'(198)]
+IHN: [in(57), chasin'(200)]
+IHN: [in(57), stackin'(203)]
+IHN: [in(57), Hearin'(206)]
+IHN: [in(57), drippin'(217)]
+AHT: [pocket,(59), what(214)]
+UW: [you(61), to(252)]
+AEND: [and(62), stand(90)]
+AEND: [and(62), Grand(196)]
+IY: [city(66), me(68)]
+IY: [city(66), me(85)]
+IY: [city(66), See(94)]
+IY: [city(66), be(99)]
+IY: [city(66), me,(151)]
+IY: [city(66), be(157)]
+IY: [city(66), she(177)]
+IY: [city(66), we(187)]
+IY: [city(66), We(195)]
+IY: [city(66), see(210)]
+IY: [city(66), me,(211)]
+IY: [city(66), see(213)]
+IY: [city(66), me,(225)]
+IY: [city(66), me(244)]
+IY: [me(68), Philly,(78)]
+IY: [me(68), Milly(83)]
+IY: [me(68), funny(248)]
+OW: [no(73), thorough,(89)]
+IHN: [In(77), warmin'(154)]
+IHN: [In(77), actin',(158)]
+IHN: [In(77), performin'(162)]
+IHN: [In(77), schemin'(198)]
+IHN: [In(77), chasin'(200)]
+IHN: [In(77), stackin'(203)]
+IHN: [In(77), Hearin'(206)]
+IHN: [In(77), drippin'(217)]
+IY: [Philly,(78), me(85)]
+IY: [Philly,(78), See(94)]
+IY: [Philly,(78), be(99)]
+IY: [Philly,(78), me,(151)]
+IY: [Philly,(78), be(157)]
+IY: [Philly,(78), she(177)]
+IY: [Philly,(78), we(187)]
+IY: [Philly,(78), We(195)]
+IY: [Philly,(78), see(210)]
+IY: [Philly,(78), me,(211)]
+IY: [Philly,(78), see(213)]
+IY: [Philly,(78), me,(225)]
+IY: [Philly,(78), me(244)]
+OW: [go(80), thorough,(89)]
+IY: [Milly(83), me(85)]
+IY: [Milly(83), See(94)]
+IY: [Milly(83), be(99)]
+IY: [Milly(83), me,(151)]
+IY: [Milly(83), be(157)]
+IY: [Milly(83), she(177)]
+IY: [Milly(83), we(187)]
+IY: [Milly(83), We(195)]
+IY: [Milly(83), see(210)]
+IY: [Milly(83), me,(211)]
+IY: [Milly(83), see(213)]
+IY: [Milly(83), me,(225)]
+IY: [Milly(83), me(244)]
+IY: [me(85), funny(248)]
+AEND: [and(88), stand(90)]
+AEND: [and(88), Grand(196)]
+OW: [thorough,(89), no(106)]
+OW: [thorough,(89), no(120)]
+OW: [thorough,(89), so(175)]
+OW: [thorough,(89), go(231)]
+AEND: [stand(90), and(131)]
+AEND: [stand(90), and(199)]
+AEND: [stand(90), and(233)]
+AEND: [stand(90), and(255)]
+AEND: [stand(90), and(258)]
+IY: [See(94), funny(248)]
+IY: [be(99), funny(248)]
+IHN: [in(108), warmin'(154)]
+IHN: [in(108), actin',(158)]
+IHN: [in(108), performin'(162)]
+IHN: [in(108), schemin'(198)]
+IHN: [in(108), chasin'(200)]
+IHN: [in(108), stackin'(203)]
+IHN: [in(108), Hearin'(206)]
+IHN: [in(108), drippin'(217)]
+UW: [you(110), to(252)]
+UW: [do(124), to(252)]
+IHN: [nothin'(125), warmin'(154)]
+IHN: [nothin'(125), actin',(158)]
+IHN: [nothin'(125), performin'(162)]
+IHN: [nothin'(125), schemin'(198)]
+IHN: [nothin'(125), chasin'(200)]
+IHN: [nothin'(125), stackin'(203)]
+IHN: [nothin'(125), Hearin'(206)]
+IHN: [nothin'(125), drippin'(217)]
+AEND: [and(131), Grand(196)]
+IHZ: [bitches(134), is(184)]
+IHZ: [bitches(134), is(247)]
+UW: [who(135), to(252)]
+UW: [do,(142), to(252)]
+UW: [you(146), to(252)]
+IY: [me,(151), funny(248)]
+IHN: [warmin'(154), in(239)]
+IHN: [warmin'(154), runnin'(257)]
+IY: [be(157), funny(248)]
+IHN: [actin',(158), in(239)]
+IHN: [actin',(158), runnin'(257)]
+IHN: [performin'(162), in(239)]
+IHN: [performin'(162), runnin'(257)]
+IY: [she(177), funny(248)]
+AHN: [Aston(180), Run(251)]
+AHN: [Martin,(181), Run(251)]
+IY: [we(187), funny(248)]
+IY: [We(195), funny(248)]
+AEND: [Grand(196), and(199)]
+AEND: [Grand(196), and(233)]
+AEND: [Grand(196), and(255)]
+AEND: [Grand(196), and(258)]
+IHN: [schemin'(198), in(239)]
+IHN: [schemin'(198), runnin'(257)]
+IHN: [chasin'(200), in(239)]
+IHN: [chasin'(200), runnin'(257)]
+IHN: [stackin'(203), in(239)]
+IHN: [stackin'(203), runnin'(257)]
+IHN: [Hearin'(206), in(239)]
+IHN: [Hearin'(206), runnin'(257)]
+UW: [you(209), to(252)]
+IY: [see(210), funny(248)]
+IY: [me,(211), funny(248)]
+UW: [you(212), to(252)]
+IY: [see(213), funny(248)]
+IHN: [drippin'(217), in(239)]
+IHN: [drippin'(217), runnin'(257)]
+AHN: [hatin',(222), Run(251)]
+IY: [me,(225), funny(248)]
+IY: [me(244), funny(248)]
+UW: [you(245), to(252)]
+AHN: [Run(251), open(260)]
+UW: [to(252), you(264)]
+
+
+Rule 2: ...-ON[C]'-...
+T: [Let(2), get(6), shit(23), 'bout(52), it,(53), forgot(54), about(84), 'What(101), hit(129), right(166), it,(189), shit(191), 'bout(192), that(204), what(214), that(218), split(227), that(228), sit(232), eat(234), put(263)]
+L: [welcome(4), whole(65), hell(109), Still(128), Vail,(240), Chapelle(242), hell(250), tell,(259), jail(267)]
+ST: [introduced(7), just(98), just(153)]
+NG: [king(10), hung(136)]
+N: [Bentleys,(11), clean(17), disappointed(19), when(20), on(24), when(27), killin'(35), than(40), Been(42), stuntin'(43), shinin'(45), nineties(50), hundreds(70), on(75), can(111), warmin'(154), actin',(158), performin'(162), Man,(171), schemin'(198), chasin'(200), stackin'(203), Hearin'(206), mean,(216), drippin'(217), then(230), Run(251), then(256), under(265)]
+ND: [brand(13), remind(60), behind(67), stand(90), Grand(196)]
+K: [talk(22), back(47), Glock(56), Meek(82), fuck(93), like,(100), fuck?(103), fuck(112), Like(115), actin',(158), fuck(160), look(174), kick(188), Fuck(220), smoke(254)]
+R: [their(25), more(39), before(41), formula(148), warmin'(154), performin'(162), for(163), there(167), for(168), Martin,(181), formal(185), normal(194)]
+NT: [don't(31), Spent(69), Ain't(105), can't(123), can't(144), Don't(149), ain't(190), don't(223)]
+Z: [these(36), as(92), these(95), is(184), is(247), as(249)]
+DH: [with(38), with(113), with(119), with(126), with(137), with(235)]
+M: [I'm(51), I'm(86), them(132), I'm(152), dream,(202)]
+P: [up(91), stop(150), up(155)]
+S: [us(114), us(193)]
+D: [bad(117), bad(133), bad,(176)]
+CH: [bitch(118), bitch(173)]
+V: [give(145), Leave(164)]
+
+
+Rule 3: ...-O[N]C'-...
+IY: [Jefe(0), T.I.(1), me(3), clean(17), see(29), these(36), me(68), Meek(82), me(85), See(94), these(95), be(99), me,(151), be(157), Leave(164), she(177), we(187), We(195), dream,(202), see(210), me,(211), see(213), mean,(216), me,(225), eat(234), me(244)]
+EH: [Let(2), welcome(4), get(6), Bentleys,(11), when(20), their(25), when(27), anything(33), Spent(69), hell(109), them(132), there(167), then(230), Chapelle(242), hell(250), then(256), tell,(259)]
+UW: [you,(5), introduced(7), new(14), you(28), do(32), you(61), you(110), do(124), who(135), do,(142), you(146), you(209), you(212), you(245), you(264)]
+IH: [king(10), niggas(21), shit(23), killin'(35), niggas(37), with(38), Been(42), stuntin'(43), shinin'(45), since(46), it,(53), city(66), millions(74), Philly,(78), Milly(83), niggas,(96), with(113), bitch(118), with(119), with(126), Still(128), hit(129), bitches(134), with(137), give(145), warmin'(154), Niggas(156), actin',(158), performin'(162), bitch(173), is(184), kick(188), it,(189), shit(191), schemin'(198), chasin'(200), stackin'(203), Hearin'(206), drippin'(217), niggas(221), split(227), sit(232), with(235), Skiin'(238), niggas(246), is(247)]
+AA: [Ferraris,(12), on(24), forgot(54), Glock(56), pocket,(59), on(75), solid(87), stop(150), Martin,(181)]
+AE: [brand(13), than(40), back(47), ask(81), stand(90), as(92), 'What(101), can(111), bad(117), can't(123), bad(133), That's(139), can't(144), actin',(158), Man,(171), bad,(176), Aston(180), Grand(196), chasin'(200), stackin'(203), that(204), raps,(208), that(218), that(228), as(249)]
+EY: [they(16), Okay,(34), they(79), Ain't(105), way(107), ay,(143), they(161), ain't(190), paper(205), flavor(219), hatin',(222), potato,(229), mayor(237), Vail,(240), David(241), jail(267)]
+OW: [So(18), don't(31), Okay,(34), whole(65), no(73), go(80), no(106), no(120), Don't(149), so(175), don't(223), go(231), told(243), smoke(254), open(260)]
+AO: [talk(22), records,(26), more(39), before(41), formula(148), warmin'(154), performin'(162), for(163), for(168), coroner(170), foreigner(179), formal(185), normal(194), vault,(262)]
+AH: [stuntin'(43), plug(63), hundreds(70), up(91), fuck(93), just(98), fuck?(103), fuck(112), us(114), nothin'(125), hung(136), just(153), up(155), fuck(160), us(193), Hustle,(197), what(214), Fuck(220), funny(248), Run(251), runnin'(257), under(265)]
+AY: [shinin'(45), nineties(50), I'm(51), my(58), remind(60), behind(67), diamonds(76), I'm(86), I(97), like,(100), Like(115), I(122), I(141), I'm(152), right(166), my(172), attire(183), my(207), I(215), try(224), I(226)]
+AW: ['bout(52), thousands,(72), about(84), how(140), How(186), 'bout(192), our(201)]
+ER: [thorough,(89), furniture,(121)]
+UH: [look(174), put(263)]
+
+
+Rule 4: ...-[O']N[C']'-...
+T: [T.I.(1), it,(53), attire(183), it,(189), potato,(229), eat(234)]
+M: [me(3), I'm(51), my(58), me(68), millions(74), Milly(83), me(85), I'm(86), me,(151), I'm(152), my(172), my(207), me,(211), me,(225), mayor(237), me(244)]
+Y: [you,(5), you(28), you(61), you(110), you(146), you(209), you(212), you(245), you(264)]
+GT: [get(6), forgot(54)]
+BN: [Bentleys,(11), Been(42)]
+N: [new(14), niggas(21), on(24), niggas(37), no(73), on(75), niggas,(96), no(106), no(120), nothin'(125), Niggas(156), niggas(221), niggas(246), under(265)]
+DH: [they(16), they(79), they(161)]
+S: [So(18), see(29), city(66), solid(87), See(94), us(114), so(175), us(193), see(210), see(213)]
+PN: [disappointed(19), drippin'(217)]
+WN: [when(20), when(27)]
+SHT: [shit(23), shit(191)]
+DHR: [their(25), there(167)]
+DNT: [don't(31), Don't(149), don't(223)]
+D: [do(32), diamonds(76), do(124), do,(142), David(241)]
+K: [Okay,(34), killin'(35), actin',(158), coroner(170)]
+DHZ: [these(36), these(95)]
+WDH: [with(38), with(113), with(119), with(126), with(137), with(235)]
+MR: [more(39), Martin,(181)]
+DHN: [than(40), then(230), then(256)]
+FR: [before(41), formula(148), performin'(162), for(163), for(168), formal(185)]
+TN: [stuntin'(43), actin',(158)]
+NN: [shinin'(45), nineties(50)]
+SH: [shinin'(45), she(177)]
+BT: ['bout(52), about(84), 'bout(192)]
+P: [pocket,(59), up(91), up(155), paper(205)]
+HHL: [whole(65), hell(109), hell(250)]
+TH: [thousands,(72), thorough,(89)]
+F: [Philly,(78), furniture,(121), foreigner(179), funny(248)]
+G: [go(80), go(231)]
+Z: [as(92), is(184), is(247), as(249)]
+FK: [fuck(93), fuck?(103), fuck(112), fuck(160), Fuck(220)]
+JHST: [just(98), just(153)]
+B: [be(99), bitches(134), be(157)]
+LK: [like,(100), Like(115), look(174)]
+WT: ['What(101), what(214)]
+NT: [Ain't(105), ain't(190)]
+W: [way(107), we(187), We(195)]
+KN: [can(111), stackin'(203)]
+BD: [bad(117), bad(133), bad,(176)]
+BCH: [bitch(118), bitch(173)]
+KNT: [can't(123), can't(144)]
+HH: [who(135), how(140), How(186), Hustle,(197), Hearin'(206), hatin',(222)]
+MN: [warmin'(154), performin'(162), Man,(171), schemin'(198), mean,(216)]
+ST: [stackin'(203), sit(232)]
+DHT: [that(204), that(218), that(228)]
+RN: [Hearin'(206), Run(251)]
+
+
+
+
+Poem with word IDs:
+
+Jefe(0) 
+T.I.(1) 
+
+Let(2) me(3) welcome(4) you,(5) get(6) introduced(7) to(8) the(9) king(10) 
+Bentleys,(11) Ferraris,(12) brand(13) new(14) and(15) they(16) clean(17) 
+So(18) disappointed(19) when(20) niggas(21) talk(22) shit(23) on(24) their(25) records,(26) when(27) you(28) see(29) 'em,(30) don't(31) do(32) anything(33) 
+Okay,(34) killin'(35) these(36) niggas(37) with(38) more(39) than(40) before(41) 
+Been(42) stuntin'(43) and(44) shinin'(45) since(46) back(47) in(48) the(49) nineties(50) 
+I'm(51) 'bout(52) it,(53) forgot(54) the(55) Glock(56) in(57) my(58) pocket,(59) remind(60) you(61) and(62) plug(63) the(64) whole(65) city(66) behind(67) me(68) 
+Spent(69) hundreds(70) of(71) thousands,(72) no(73) millions(74) on(75) diamonds(76) 
+In(77) Philly,(78) they(79) go(80) ask(81) Meek(82) Milly(83) about(84) me(85) 
+I'm(86) solid(87) and(88) thorough,(89) stand(90) up(91) as(92) fuck(93) 
+See(94) these(95) niggas,(96) I(97) just(98) be(99) like,(100) 'What(101) the(102) fuck?(103) '(104) 
+Ain't(105) no(106) way(107) in(108) hell(109) you(110) can(111) fuck(112) with(113) us(114) 
+Like(115) a(116) bad(117) bitch(118) with(119) no(120) furniture,(121) I(122) can't(123) do(124) nothin'(125) with(126) her(127) 
+Still(128) hit(129) her(130) and(131) them(132) bad(133) bitches(134) who(135) hung(136) with(137) her(138) 
+That's(139) how(140) I(141) do,(142) ay,(143) can't(144) give(145) you(146) the(147) formula(148) 
+Don't(149) stop(150) me,(151) I'm(152) just(153) warmin'(154) up(155) 
+Niggas(156) be(157) actin',(158) the(159) fuck(160) they(161) performin'(162) for(163) 
+Leave(164) 'em(165) right(166) there(167) for(168) the(169) coroner(170) 
+Man,(171) my(172) bitch(173) look(174) so(175) bad,(176) she(177) a(178) foreigner(179) 
+Aston(180) Martin,(181) the(182) attire(183) is(184) formal(185) 
+How(186) we(187) kick(188) it,(189) ain't(190) shit(191) 'bout(192) us(193) normal(194) 
+We(195) Grand(196) Hustle,(197) schemin'(198) and(199) chasin'(200) our(201) dream,(202) stackin'(203) that(204) paper(205) 
+Hearin'(206) my(207) raps,(208) you(209) see(210) me,(211) you(212) see(213) what(214) I(215) mean,(216) drippin'(217) that(218) flavor(219) 
+Fuck(220) niggas(221) hatin',(222) don't(223) try(224) me,(225) I(226) split(227) that(228) potato,(229) then(230) go(231) sit(232) and(233) eat(234) with(235) the(236) mayor(237) 
+Skiin'(238) in(239) Vail,(240) David(241) Chapelle(242) told(243) me(244) you(245) niggas(246) is(247) funny(248) as(249) hell(250) 
+Run(251) to(252) the(253) smoke(254) and(255) then(256) runnin'(257) and(258) tell,(259) open(260) the(261) vault,(262) put(263) you(264) under(265) the(266) jail(267) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Jefe_Output_B_uncertainty.txt in the Poems directory
+
+get (6:0) G EH1 T (6:1) G IH1 T
+introduced (7:0) IH2 N - T R AH0 - D UW1 S T (7:1) IH2 N - T R OW0 - D UW1 S T
+to (8:0) T UW0 (8:1) T IH0 (8:2) T AH0
+the (9:0) DH AH0 (9:1) DH AH1 (9:2) DH IY0
+new (14:0) N UW1 (14:1) N Y UW1
+and (15:0) AE0 N D (15:1) AH0 N D
+disappointed (19:0) D IH2 S - AH0 - P OY1 N - T IH0 D (19:1) D IH2 S - AH0 - P OY1 - N IH0 D
+when (20:0) W EH1 N (20:1) HH W EH1 N (20:2) W IH1 N (20:3) HH W IH1 N
+on (24:0) AA1 N (24:1) AO1 N
+records, (26:0) R AH0 - K AO1 R D Z (26:1) R EH1 - K ER0 D Z (26:2) R IH0 - K AO1 R D Z
+when (27:0) W EH1 N (27:1) HH W EH1 N (27:2) W IH1 N (27:3) HH W IH1 N
+don't (31:0) D OW1 N T (31:1) D OW1 N
+with (38:0) W IH1 DH (38:1) W IH1 TH (38:2) W IH0 TH (38:3) W IH0 DH
+than (40:0) DH AE1 N (40:1) DH AH0 N
+before (41:0) B IH0 - F AO1 R (41:1) B IY2 - F AO1 R
+Been (42:0) B IH1 N (42:1) B AH0 N (42:2) B IH0 N
+and (44:0) AE0 N D (44:1) AH0 N D
+in (48:0) IH0 N (48:1) IH1 N
+the (49:0) DH AH0 (49:1) DH AH1 (49:2) DH IY0
+it, (53:0) IH1 T (53:1) IH0 T
+forgot (54:0) F ER0 - G AA1 T (54:1) F AO0 R - G AA1 T
+the (55:0) DH AH0 (55:1) DH AH1 (55:2) DH IY0
+in (57:0) IH0 N (57:1) IH1 N
+and (62:0) AE0 N D (62:1) AH0 N D
+the (64:0) DH AH0 (64:1) DH AH1 (64:2) DH IY0
+hundreds (70:0) HH AH1 N - D R AH0 D Z (70:1) HH AH1 N - D ER0 D Z (70:2) HH AH1 - N ER0 D Z
+of (71:0) AH0 V (71:1) AH0 V
+thousands, (72:0) TH AW1 - Z AH0 N D Z (72:1) TH AW1 - Z AH0 N Z
+on (75:0) AA1 N (75:1) AO1 N
+In (77:0) IH0 N (77:1) IH1 N
+and (88:0) AE0 N D (88:1) AH0 N D
+as (92:0) AE1 Z (92:1) EH1 Z
+just (98:0) JH AH1 S T (98:1) JH IH0 S T
+be (99:0) B IY1 (99:1) B IY0
+the (102:0) DH AH0 (102:1) DH AH1 (102:2) DH IY0
+in (108:0) IH0 N (108:1) IH1 N
+can (111:0) K AE1 N (111:1) K AH0 N
+with (113:0) W IH1 DH (113:1) W IH1 TH (113:2) W IH0 TH (113:3) W IH0 DH
+us (114:0) AH1 S (114:1) Y UW1 - EH1 S
+a (116:0) AH0 (116:1) EY1
+with (119:0) W IH1 DH (119:1) W IH1 TH (119:2) W IH0 TH (119:3) W IH0 DH
+with (126:0) W IH1 DH (126:1) W IH1 TH (126:2) W IH0 TH (126:3) W IH0 DH
+her (127:0) HH ER0 (127:1) HH ER1
+her (130:0) HH ER0 (130:1) HH ER1
+and (131:0) AE0 N D (131:1) AH0 N D
+them (132:0) DH EH1 M (132:1) DH AH0 M
+with (137:0) W IH1 DH (137:1) W IH1 TH (137:2) W IH0 TH (137:3) W IH0 DH
+her (138:0) HH ER0 (138:1) HH ER1
+ay, (143:0) EY1 (143:1) AY1
+the (147:0) DH AH0 (147:1) DH AH1 (147:2) DH IY0
+Don't (149:0) D OW1 N T (149:1) D OW1 N
+just (153:0) JH AH1 S T (153:1) JH IH0 S T
+be (157:0) B IY1 (157:1) B IY0
+the (159:0) DH AH0 (159:1) DH AH1 (159:2) DH IY0
+for (163:0) F AO1 R (163:1) F ER0 (163:2) F R ER0
+for (168:0) F AO1 R (168:1) F ER0 (168:2) F R ER0
+the (169:0) DH AH0 (169:1) DH AH1 (169:2) DH IY0
+a (178:0) AH0 (178:1) EY1
+foreigner (179:0) F AO1 - R AH0 - N ER0 (179:1) F AA1 - R AH0 - N ER0 (179:2) F AO1 R - N ER0 (179:3) F AA1 R - N ER0
+Martin, (181:0) M AA1 R - T AH0 N (181:1) M AA1 R - T IH0 N
+the (182:0) DH AH0 (182:1) DH AH1 (182:2) DH IY0
+is (184:0) IH1 Z (184:1) IH0 Z
+it, (189:0) IH1 T (189:1) IH0 T
+us (193:0) AH1 S (193:1) Y UW1 - EH1 S
+and (199:0) AE0 N D (199:1) AH0 N D
+our (201:0) AW1 - ER0 (201:1) AW1 R (201:2) AA1 R
+that (204:0) DH AE1 T (204:1) DH AH0 T
+what (214:0) W AH1 T (214:1) HH W AH1 T
+that (218:0) DH AE1 T (218:1) DH AH0 T
+don't (223:0) D OW1 N T (223:1) D OW1 N
+that (228:0) DH AE1 T (228:1) DH AH0 T
+and (233:0) AE0 N D (233:1) AH0 N D
+with (235:0) W IH1 DH (235:1) W IH1 TH (235:2) W IH0 TH (235:3) W IH0 DH
+the (236:0) DH AH0 (236:1) DH AH1 (236:2) DH IY0
+in (239:0) IH0 N (239:1) IH1 N
+is (247:0) IH1 Z (247:1) IH0 Z
+as (249:0) AE1 Z (249:1) EH1 Z
+to (252:0) T UW0 (252:1) T IH0 (252:2) T AH0
+the (253:0) DH AH0 (253:1) DH AH1 (253:2) DH IY0
+and (255:0) AE0 N D (255:1) AH0 N D
+and (258:0) AE0 N D (258:1) AH0 N D
+the (261:0) DH AH0 (261:1) DH AH1 (261:2) DH IY0
+the (266:0) DH AH0 (266:1) DH AH1 (266:2) DH IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Jefe_Output_B_uncertainty.txt in the Poems directory
+
+Jefe (0:0)  JH IY1 F
+Bentleys, (11:0)  B EH1 N- T L IY0 Z
+niggas (21:0)  N IH1- G AH0 Z
+'em, (30:0)  AH0 M
+killin' (35:0)  K IH1- L IH1 N
+niggas (37:0)  N IH1- G AH0 Z
+stuntin' (43:0)  S T AH1 N- T IH1 N
+shinin' (45:0)  SH AY1- N IH1 N
+'bout (52:0)  B AW1 T
+niggas, (96:0)  N IH1- G AH0 Z
+'What (101:0)  W AE1 T
+warmin' (154:0)  W AO1 R- M IH1 N
+Niggas (156:0)  N IH1- G AH0 Z
+actin', (158:0)  AE1 K- T IH1 N
+performin' (162:0)  P ER0- F AO1 R- M IH1 N
+'em (165:0)  AH0 M
+'bout (192:0)  B AW1 T
+schemin' (198:0)  SH K AH0- M IH1 N
+chasin' (200:0)  CH AE1- S IH1 N
+stackin' (203:0)  S T AE1- K IH1 N
+Hearin' (206:0)  HH IH1- R IH1 N
+drippin' (217:0)  D R IH1- P IH1 N
+niggas (221:0)  N IH1- G AH0 Z
+hatin', (222:0)  HH EY1- T AH0 N
+Skiin' (238:0)  S K IH IH1 N
+niggas (246:0)  N IH1- G AH0 Z

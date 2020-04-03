@@ -1,0 +1,167 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AOR: [morning,(8), your(107)]
+AOR: [morning,(8), your(116)]
+OW: [Open(20), no(23)]
+OW: [Open(20), go(91)]
+AHN: [under(37), won(141)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AEND: [and(16), demand(63)]
+AEND: [and(16), understand(73)]
+AHN: [Open(20), won(141)]
+OW: [no(23), pillow,(39)]
+OW: [pillow,(39), go(91)]
+UW: [to(48), do(49)]
+UW: [to(48), true(56)]
+UW: [to(48), you(66)]
+UW: [to(48), grew(96)]
+UW: [to(48), you(125)]
+UW: [do(49), to(72)]
+UW: [true(56), to(72)]
+AEND: [and(62), demand(63)]
+AEND: [and(62), understand(73)]
+UW: [you(66), to(72)]
+UW: [to(72), grew(96)]
+UW: [to(72), you(125)]
+
+
+Rule 2: ...-ON[C]'-...
+LD: [Hold(0), sold(68), child(100), Gold(134)]
+N: [On(1), insane(11), under(37), principles(57), man(75), when(88), chain,(112), vintage(133), won(141)]
+NT: [Cent(3), ain't(17), don't(41), want(42)]
+K: [woke(5), back(82), Mac(90), Fuck(101), luck(117), neck(138), like(139)]
+P: [up(6), Strap(36), dope(69), up(97), wipe(124), up(126)]
+S: [this(7), this(9), ass,(33), this(50), Guess(64), ass(108), nice(111), dice(113)]
+R: [morning,(8), are(60), air(106), your(107), your(116)]
+Z: [is(10), as(13), eyes,(22), surprise,(24), today's(86)]
+CH: [Rich(12), much(18), bitch(29)]
+M: [I'm(25), I'm(45), temper(94), game,(114), I'm(127), Olympics(143)]
+TS: [tits(35), it's(70)]
+T: [jit(44), not(46), shit,(51), but(52), forget(54), got(76), at(80), out(85), that(89), scout,(104), out(109), Shoot(118)]
+F: [life(59), if(65), off(92)]
+ND: [demand(63), understand(73), Find(84), around(136)]
+D: [God(83), head(121)]
+
+
+Rule 3: ...-O[N]C'-...
+OW: [Hold(0), woke(5), Open(20), no(23), don't(41), supposed(47), sold(68), dope(69), go(91), Gold(134)]
+AA: [On(1), want(42), not(46), are(60), hard(71), got(76), knowledge(77), God(83), volatile,(95)]
+EH: [Cent(3), forget(54), Guess(64), never(67), self,(79), when(88), temper(94), air(106), head(121), denim(132), medal(135), neck(138)]
+AY: [I(4), my(21), eyes,(22), surprise,(24), I'm(25), my(38), I(40), I'm(45), I(53), life(59), supply(61), My(74), my(81), Find(84), My(93), violent(99), child(100), I(105), nice(111), dice(113), try(115), wipe(124), I'm(127), fly(129), my(131), my(137), like(139), I(140)]
+AH: [up(6), motherfucker,(15), much(18), under(37), but(52), up(97), Fuck(101), luck(117), couple(120), up(126), won(141)]
+IH: [this(7), this(9), is(10), Rich(12), with(26), different(28), bitch(29), Different(30), different(32), different(34), tits(35), pillow,(39), jit(44), this(50), shit,(51), principles(57), if(65), it's(70), Nigga,(110), nigga,(130), vintage(133), Olympics(143)]
+AO: [morning,(8), off(92), your(107), your(116)]
+EY: [insane(11), ain't(17), changed(19), day,(31), today's(86), chain,(112), game,(114)]
+AE: [as(13), ass,(33), Strap(36), demand(63), understand(73), man(75), at(80), back(82), mathematics(87), that(89), Mac(90), ass(108), cracks,(122)]
+UW: [do(49), true(56), you(66), grew(96), Shoot(118), you(125)]
+AW: [out(85), scout,(104), out(109), around(136)]
+
+
+Rule 4: ...-[O']N[C']'-...
+N: [On(1), no(23), under(37), never(67), knowledge(77), Nigga,(110), nigga,(130)]
+P: [up(6), pillow,(39), up(97), up(126)]
+DHS: [this(7), this(9), this(50)]
+Z: [is(10), as(13), eyes,(22)]
+M: [motherfucker,(15), my(21), I'm(25), my(38), I'm(45), My(74), my(81), mathematics(87), My(93), I'm(127), my(131), medal(135), my(137)]
+F: [motherfucker,(15), if(65), off(92)]
+NT: [ain't(17), not(46)]
+D: [different(28), Different(30), day,(31), different(32), different(34), do(49), denim(132)]
+S: [ass,(33), ass(108)]
+SHT: [shit,(51), Shoot(118)]
+GT: [forget(54), got(76)]
+TR: [true(56), try(115)]
+R: [are(60), air(106)]
+Y: [you(66), you(125)]
+T: [at(80), out(85), out(109)]
+WN: [when(88), won(141)]
+V: [volatile,(95), violent(99)]
+YR: [your(107), your(116)]
+LK: [luck(117), like(139)]
+
+
+
+
+Poem with word IDs:
+
+Hold(0) On(1) 
+50(2) Cent(3) 
+
+I(4) woke(5) up(6) this(7) morning,(8) this(9) is(10) insane(11) 
+Rich(12) as(13) a(14) motherfucker,(15) and(16) ain't(17) much(18) changed(19) 
+Open(20) my(21) eyes,(22) no(23) surprise,(24) I'm(25) with(26) a(27) different(28) bitch(29) 
+Different(30) day,(31) different(32) ass,(33) different(34) tits(35) 
+Strap(36) under(37) my(38) pillow,(39) I(40) don't(41) want(42) the(43) jit(44) 
+I'm(45) not(46) supposed(47) to(48) do(49) this(50) shit,(51) but(52) I(53) forget(54) 
+The(55) true(56) principles(57) of(58) life(59) are(60) supply(61) and(62) demand(63) 
+Guess(64) if(65) you(66) never(67) sold(68) dope(69) it's(70) hard(71) to(72) understand(73) 
+My(74) man(75) got(76) knowledge(77) of(78) self,(79) at(80) my(81) back(82) God(83) 
+Find(84) out(85) today's(86) mathematics(87) when(88) that(89) Mac(90) go(91) off(92) 
+My(93) temper(94) volatile,(95) grew(96) up(97) a(98) violent(99) child(100) 
+Fuck(101) a(102) boy(103) scout,(104) I(105) air(106) your(107) ass(108) out(109) 
+Nigga,(110) nice(111) chain,(112) dice(113) game,(114) try(115) your(116) luck(117) 
+Shoot(118) a(119) couple(120) head(121) cracks,(122) leave(123) wipe(124) you(125) up(126) 
+I'm(127) a(128) fly(129) nigga,(130) my(131) denim(132) vintage(133) 
+Gold(134) medal(135) around(136) my(137) neck(138) like(139) I(140) won(141) the(142) Olympics(143) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see HoldOn_Output_B_uncertainty.txt in the Poems directory
+
+On (1:0) AA1 N (1:1) AO1 N
+this (7:0) DH IH1 S (7:1) DH IH0 S
+this (9:0) DH IH1 S (9:1) DH IH0 S
+is (10:0) IH1 Z (10:1) IH0 Z
+as (13:0) AE1 Z (13:1) EH1 Z
+a (14:0) AH0 (14:1) EY1
+and (16:0) AE0 N D (16:1) AH0 N D
+surprise, (24:0) S ER0 - P R AY1 Z (24:1) S AH0 - P R AY1 Z
+with (26:0) W IH1 DH (26:1) W IH1 TH (26:2) W IH0 TH (26:3) W IH0 DH
+a (27:0) AH0 (27:1) EY1
+different (28:0) D IH1 - F ER0 - AH0 N T (28:1) D IH1 - F R AH0 N T
+Different (30:0) D IH1 - F ER0 - AH0 N T (30:1) D IH1 - F R AH0 N T
+different (32:0) D IH1 - F ER0 - AH0 N T (32:1) D IH1 - F R AH0 N T
+different (34:0) D IH1 - F ER0 - AH0 N T (34:1) D IH1 - F R AH0 N T
+don't (41:0) D OW1 N T (41:1) D OW1 N
+want (42:0) W AA1 N T (42:1) W AO1 N T
+the (43:0) DH AH0 (43:1) DH AH1 (43:2) DH IY0
+to (48:0) T UW0 (48:1) T IH0 (48:2) T AH0
+this (50:0) DH IH1 S (50:1) DH IH0 S
+forget (54:0) F ER0 - G EH1 T (54:1) F AO0 R - G EH1 T
+The (55:0) DH AH0 (55:1) DH AH1 (55:2) DH IY0
+of (58:0) AH0 V (58:1) AH0 V
+are (60:0) AA1 R (60:1) ER0
+and (62:0) AE0 N D (62:1) AH0 N D
+if (65:0) IH1 F (65:1) IH0 F
+it's (70:0) IH1 T S (70:1) IH0 T S
+to (72:0) T UW0 (72:1) T IH0 (72:2) T AH0
+knowledge (77:0) N AA1 - L AH0 JH (77:1) N AA1 - L IH0 JH
+of (78:0) AH0 V (78:1) AH0 V
+today's (86:0) T AH0 - D EY1 Z (86:1) T UW1 - D EY0 Z
+when (88:0) W EH1 N (88:1) HH W EH1 N (88:2) W IH1 N (88:3) HH W IH1 N
+that (89:0) DH AE1 T (89:1) DH AH0 T
+a (98:0) AH0 (98:1) EY1
+violent (99:0) V AY1 - AH0 - L AH0 N T (99:1) V AY1 - L AH0 N T
+a (102:0) AH0 (102:1) EY1
+your (107:0) Y AO1 R (107:1) Y UH1 R
+nice (111:0) N AY1 S (111:1) N IY1 S
+your (116:0) Y AO1 R (116:1) Y UH1 R
+a (119:0) AH0 (119:1) EY1
+a (128:0) AH0 (128:1) EY1
+around (136:0) ER0 - AW1 N D (136:1) ER0 - AW1 N
+won (141:0) W AH1 N (141:1) W AA1 N
+the (142:0) DH AH0 (142:1) DH AH1 (142:2) DH IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see HoldOn_Output_B_uncertainty.txt in the Poems directory
+
+motherfucker, (15:0)  M AH1- DH ER0- F AH1- K ER0
+tits (35:0)  T IH1 T S
+jit (44:0)  JH IH1 T
+Nigga, (110:0)  N IH1- G AH0
+nigga, (130:0)  N IH1- G AH0

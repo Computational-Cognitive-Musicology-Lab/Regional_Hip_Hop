@@ -1,0 +1,157 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+DHAH: [The(1), the(5), the(33), the(44), the(48), the(51), the(119), the(131), the(137), the(145)]
+AOF: [off(4), off(17), off(76)]
+WEHST: [West(9), West(59)]
+SAYD: [Side,(10), Side(60)]
+WIY: [we(13), we(69)]
+MAY: [my(18), my(21), My(111)]
+GAAT: [Got(35), got(86)]
+AH: [a(36), a(58)]
+BUHLAHTS: [bullets(38), bullets(120)]
+IHN: [in(39), in(43), in(55), in(71)]
+IHT: [it,(40), it(56), it,(81)]
+AEND: [and(53), and(64)]
+AYM: [I'm(57), I'm(91)]
+NIHGAH: [nigga,(61), nigga(110)]
+TUW: [to(73), to(126)]
+DOWNT: [don't(89), Don't(101)]
+MAAB: [mob(94), mob(97), mob(99)]
+AAN: [on(95), on(107)]
+NIHGAHZ: [niggas,(96), niggas(112), niggas,(114), niggas,(123)]
+LAYV: [Live,(109), live(121)]
+YUW: [you(116), you(134)]
+
+
+Rule 1: ...-O[NC]'
+AYD: [Westside(0), Side,(10), slide(42), Side(60), inside(122), hide(127)]
+AOF: [off(4), off(17), off(76)]
+EHST: [West(9), West(59)]
+IY: [we(13), ski(25), we(69), me(87)]
+IHN: [bangin'(14), swingin'(16), twistin'(20), Chokin'(32), Dumpin'(46), trippin'(63), Listenin'(67), fuckin'(135)]
+AY: [my(18), my(21), My(111)]
+AEK: [black(28), MAC(34)]
+AAT: [Got(35), got(86), not(92)]
+IHT: [it,(40), it(56), it,(81)]
+AYM: [I'm(57), I'm(91)]
+OW: [so(68), Go(93)]
+AAN: [gon'(79), Don(84), on(95), on(107)]
+OWNT: [don't(89), Don't(101)]
+AAB: [mob(94), mob(97), mob(99), rob(113)]
+EHT: [get(102), Let(118)]
+AYV: [Live,(109), alive(117), live(121)]
+UW: [you(116), you(134), blue(141)]
+
+
+Rule 2: ...-O[NC'-ONC]
+UHLAHTS: [bullets(38), bullets(120)]
+IHGAH: [nigga,(61), nigga(110)]
+AOKIHN: [walkin'(65), talkin'(70)]
+IHGAHZ: [niggas,(96), niggas(112), niggas,(114), niggas,(123)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Westside(0) 
+The(1) Game(2) 
+
+Step(3) off(4) the(5) porch,(6) rag(7) hangin',(8) West(9) Side,(10) that's(11) what(12) we(13) bangin'(14) 
+Crucifix(15) swingin'(16) off(17) my(18) t-shirt,(19) twistin'(20) my(21) fingers(22) 
+Impala(23) Off-White,(24) ski(25) mask(26) all(27) black(28) 
+ADIDAS(29) tracksuit,(30) drawstrings,(31) Chokin'(32) the(33) MAC(34) 
+Got(35) a(36) couple(37) bullets(38) in(39) it,(40) gangstas(41) slide(42) in(43) the(44) rented(45) 
+Dumpin'(46) out(47) the(48) window,(49) fuck(50) the(51) world(52) and(53) everything(54) in(55) it(56) 
+I'm(57) a(58) West(59) Side(60) nigga,(61) ego(62) trippin'(63) and(64) walkin'(65) fast(66) 
+Listenin'(67) so(68) we(69) talkin'(70) in(71) codes(72) to(73) keep(74) 'em(75) off(76) us(77) 
+Dre(78) gon'(79) tote(80) it,(81) thirty-six(82) shots(83) 
+Don(84) Julio(85) got(86) me(87) loaded,(88) don't(89) think(90) I'm(91) not(92) 
+Go(93) mob(94) on(95) niggas,(96) mob(97) figures,(98) mob(99) triggers(100) 
+Don't(101) get(102) your(103) punk(104) ass(105) killed(106) on(107) Instagram(108) Live,(109) nigga(110) 
+My(111) niggas(112) rob(113) niggas,(114) bury(115) you(116) alive(117) 
+Let(118) the(119) bullets(120) live(121) inside(122) niggas,(123) ain't(124) nowhere(125) to(126) hide(127) 
+It's(128) survival(129) of(130) the(131) fittest,(132) boy,(133) you(134) fuckin'(135) with(136) the(137) realest(138) 
+Glock(139) nine,(140) blue(141) steel,(142) holster(143) wrap(144) the(145) chinchilla(146) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Westside_Output_A_uncertainty.txt in the Poems directory
+
+The (1:0) DH AH0 (1:1) DH AH1 (1:2) DH IY0
+the (5:0) DH AH0 (5:1) DH AH1 (5:2) DH IY0
+what (12:0) W AH1 T (12:1) HH W AH1 T
+the (33:0) DH AH0 (33:1) DH AH1 (33:2) DH IY0
+a (36:0) AH0 (36:1) EY1
+in (39:0) IH0 N (39:1) IH1 N
+it, (40:0) IH1 T (40:1) IH0 T
+in (43:0) IH0 N (43:1) IH1 N
+the (44:0) DH AH0 (44:1) DH AH1 (44:2) DH IY0
+rented (45:0) R EH1 N - T AH0 D (45:1) R EH1 N - T IH0 D
+the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+and (53:0) AE0 N D (53:1) AH0 N D
+in (55:0) IH0 N (55:1) IH1 N
+it (56:0) IH1 T (56:1) IH0 T
+a (58:0) AH0 (58:1) EY1
+and (64:0) AE0 N D (64:1) AH0 N D
+in (71:0) IH0 N (71:1) IH1 N
+to (73:0) T UW0 (73:1) T IH0 (73:2) T AH0
+us (77:0) AH1 S (77:1) Y UW1 - EH1 S
+it, (81:0) IH1 T (81:1) IH0 T
+Julio (85:0) JH UW1 - L IY0 - OW0 (85:1) HH UW1 - L IY0 - OW0
+loaded, (88:0) L OW1 - D AH0 D (88:1) L OW1 - D IH0 D
+don't (89:0) D OW1 N T (89:1) D OW1 N
+on (95:0) AA1 N (95:1) AO1 N
+Don't (101:0) D OW1 N T (101:1) D OW1 N
+get (102:0) G EH1 T (102:1) G IH1 T
+your (103:0) Y AO1 R (103:1) Y UH1 R
+on (107:0) AA1 N (107:1) AO1 N
+Live, (109:0) L AY1 V (109:1) L IH1 V
+the (119:0) DH AH0 (119:1) DH AH1 (119:2) DH IY0
+live (121:0) L AY1 V (121:1) L IH1 V
+inside (122:0) IH0 N - S AY1 D (122:1) IH1 N - S AY2 D
+nowhere (125:0) N OW1 - W EH2 R (125:1) N OW1 HH - W EH2 R
+to (126:0) T UW0 (126:1) T IH0 (126:2) T AH0
+It's (128:0) IH1 T S (128:1) IH0 T S
+of (130:0) AH0 V (130:1) AH0 V
+the (131:0) DH AH0 (131:1) DH AH1 (131:2) DH IY0
+with (136:0) W IH1 DH (136:1) W IH1 TH (136:2) W IH0 TH (136:3) W IH0 DH
+the (137:0) DH AH0 (137:1) DH AH1 (137:2) DH IY0
+the (145:0) DH AH0 (145:1) DH AH1 (145:2) DH IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Westside_Output_A_uncertainty.txt in the Poems directory
+
+bangin' (14:0)  B AE1 NG- G IH1 N
+swingin' (16:0)  S W IH1 N- G IH1 N
+t-shirt, (19:0)  CH ER1 T
+twistin' (20:0)  T W IH1 S- T IH1 N
+Off-White, (24:0)  AA1- F W AY1 T
+tracksuit, (30:0)  T R AE1 K- S UW1 T
+drawstrings, (31:0)  D R AO1 S- T R IH1 NG Z
+Chokin' (32:0)  CH OW1- K IH1 N
+gangstas (41:0)  G AE1 NG S- T AH0 Z
+Dumpin' (46:0)  D AH1 M- P IH1 N
+nigga, (61:0)  N IH1- G AH0
+trippin' (63:0)  T R IH1- P IH1 N
+Listenin' (67:0)  L IH1- S AH0- N IH1 N
+'em (75:0)  AH0 M
+Dre (78:0)  D R AH0
+gon' (79:0)  G AA1 N
+thirty-six (82:0)  TH ER1- T IY0- S IH0 K S
+niggas, (96:0)  N IH1- G AH0 Z
+Instagram (108:0)  IH1 N S- T AH0- G R AE1 M
+nigga (110:0)  N IH1- G AH0
+niggas (112:0)  N IH1- G AH0 Z
+niggas, (114:0)  N IH1- G AH0 Z
+niggas, (123:0)  N IH1- G AH0 Z
+fuckin' (135:0)  F AH1- K IH1 N
+realest (138:0)  R IY1- L AH0 S T

@@ -1,0 +1,175 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%When (6:0) W EH1 N (6:1) HH W EH1 N (6:2) W IH1 N (6:3) HH W IH1 N
+6:0
+%was (8:0) W AA1 Z (8:1) W AH1 Z (8:2) W AH0 Z (8:3) W AO1 Z
+8:0
+%favorite (11:0) F EY1 - V ER0 - IH0 T (11:1) F EY1 - V R AH0 T
+11:0
+%was (13:0) W AA1 Z (13:1) W AH1 Z (13:2) W AH0 Z (13:3) W AO1 Z
+13:0
+%Menace (14:0) M EH1 - N AH0 S (14:1) M EH1 - N IH0 S
+14:0
+%to (17:0) T UW0 (17:1) T IH0 (17:2) T AH0
+17:0
+%be (20:0) B IY1 (20:1) B IY0
+20:0
+%his (23:0) HH IH1 Z (23:1) HH IH0 Z
+23:0
+%tennis (24:0) T EH1 - N AH0 S (24:1) T EH1 - N IH0 S
+24:0
+%with (26:0) W IH1 DH (26:1) W IH1 TH (26:2) W IH0 TH (26:3) W IH0 DH
+26:0
+%the (27:0) DH AH0 (27:1) DH AH1 (27:2) DH IY0
+27:0
+%the (31:0) DH AH0 (31:1) DH AH1 (31:2) DH IY0
+31:0
+%When (34:0) W EH1 N (34:1) HH W EH1 N (34:2) W IH1 N (34:3) HH W IH1 N
+34:0
+%was (36:0) W AA1 Z (36:1) W AH1 Z (36:2) W AH0 Z (36:3) W AO1 Z
+36:0
+%when (39:0) W EH1 N (39:1) HH W EH1 N (39:2) W IH1 N (39:3) HH W IH1 N
+39:0
+%It's (44:0) IH1 T S (44:1) IH0 T S
+44:0
+%the (45:0) DH AH0 (45:1) DH AH1 (45:2) DH IY0
+45:0
+%was (48:0) W AA1 Z (48:1) W AH1 Z (48:2) W AH0 Z (48:3) W AO1 Z
+48:0
+%every (50:0) EH1 - V ER0 - IY0 (50:1) EH1 - V R IY0
+50:0
+%the (57:0) DH AH0 (57:1) DH AH1 (57:2) DH IY0
+57:0
+%hustlers (64:0) HH AH1 - S AH0 - L ER0 Z (64:1) HH AH1 S - L ER0 Z
+64:0
+%a (67:0) AH0 (67:1) EY1
+67:0
+%if (75:0) IH1 F (75:1) IH0 F
+75:0
+%to (83:0) T UW0 (83:1) T IH0 (83:2) T AH0
+83:0
+%the (84:0) DH AH0 (84:1) DH AH1 (84:2) DH IY0
+84:0
+%and (87:0) AE0 N D (87:1) AH0 N D
+87:0
+%a (91:0) AH0 (91:1) EY1
+91:0
+%it (97:0) IH1 T (97:1) IH0 T
+97:0
+%the (103:0) DH AH0 (103:1) DH AH1 (103:2) DH IY0
+103:0
+%the (110:0) DH AH0 (110:1) DH AH1 (110:2) DH IY0
+110:0
+%the (114:0) DH AH0 (114:1) DH AH1 (114:2) DH IY0
+114:0
+%was (117:0) W AA1 Z (117:1) W AH1 Z (117:2) W AH0 Z (117:3) W AO1 Z
+117:0
+%on (119:0) AA1 N (119:1) AO1 N
+119:0
+%the (120:0) DH AH0 (120:1) DH AH1 (120:2) DH IY0
+120:0
+%it (126:0) IH1 T (126:1) IH0 T
+126:0
+%our (129:0) AW1 - ER0 (129:1) AW1 R (129:2) AA1 R
+129:0
+%and (134:0) AE0 N D (134:1) AH0 N D
+134:0
+%and (136:0) AE0 N D (136:1) AH0 N D
+136:0
+%on (139:0) AA1 N (139:1) AO1 N
+139:0
+%the (140:0) DH AH0 (140:1) DH AH1 (140:2) DH IY0
+140:0
+%to (148:0) T UW0 (148:1) T IH0 (148:2) T AH0
+148:0
+%the (149:0) DH AH0 (149:1) DH AH1 (149:2) DH IY0
+149:0
+%the (154:0) DH AH0 (154:1) DH AH1 (154:2) DH IY0
+154:0
+%one (156:0) W AH1 N (156:1) HH W AH1 N
+156:0
+%in (158:0) IH0 N (158:1) IH1 N
+158:0
+%the (159:0) DH AH0 (159:1) DH AH1 (159:2) DH IY0
+159:0
+%where's (161:0) W EH1 R Z (161:1) HH W EH1 R Z
+161:0
+%was (165:0) W AA1 Z (165:1) W AH1 Z (165:2) W AH0 Z (165:3) W AO1 Z
+165:0
+%for (167:0) F AO1 R (167:1) F ER0 (167:2) F R ER0
+167:0
+%the (168:0) DH AH0 (168:1) DH AH1 (168:2) DH IY0
+168:0
+%a (175:0) AH0 (175:1) EY1
+175:0
+%prayer (176:0) P R EH1 R (176:1) P R EY1 - ER0
+176:0
+%every (177:0) EH1 - V ER0 - IY0 (177:1) EH1 - V R IY0
+177:0
+%that (179:0) DH AE1 T (179:1) DH AH0 T
+179:0
+%on (184:0) AA1 N (184:1) AO1 N
+184:0
+%the (185:0) DH AH0 (185:1) DH AH1 (185:2) DH IY0
+185:0
+%And (187:0) AE0 N D (187:1) AH0 N D
+187:0
+%get (188:0) G EH1 T (188:1) G IH1 T
+188:0
+%him (189:0) HH IH1 M (189:1) IH0 M
+189:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Boosie (4:0)  B UW1- S IY0
+4:0
+%Badazz (5:0)  B AE1- D AA1 Z
+5:0
+%Cousin' (15:0)  K S AH0 N
+15:0
+%Fuckin' (25:0)  F AH1- K IH1 N
+25:0
+%swimmin' (33:0)  S W IH1- M IH1 N
+33:0
+%swaggin', (38:0)  S W AE1- G IH1 N
+38:0
+%'til (56:0)  T IH1 L
+56:0
+%Louie's (89:0)  L W IY1 Z
+89:0
+%'fore (94:0)  F AO1 R
+94:0
+%'em (108:0)  AH0 M
+108:0
+%'round (109:0)  R AW1 N D
+109:0
+%corn' (111:0)  K AO1 R N
+111:0
+%Diggin' (112:0)  D IH1- G IH1 N
+112:0
+%ballin' (118:0)  B AE1- L IH1 N
+118:0
+%gon' (124:0)  G AA1 N
+124:0
+%'cause (128:0)  K AW1 Z
+128:0
+%fuckin' (130:0)  F AH1- K IH1 N
+130:0
+%Daytons (133:0)  D EY1- T AH0 N Z
+133:0
+%Vogues (135:0)  V OW1 G Z
+135:0
+%fuckin' (150:0)  F AH1- K IH1 N
+150:0
+%cousin' (181:0)  K S AH0 N
+181:0
+********End******

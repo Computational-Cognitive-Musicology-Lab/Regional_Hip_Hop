@@ -1,0 +1,131 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%can (6:0) K AE1 N (6:1) K AH0 N
+6:0
+%get (7:0) G EH1 T (7:1) G IH1 T
+7:0
+%the (8:0) DH AH0 (8:1) DH AH1 (8:2) DH IY0
+8:0
+%in (12:0) IH0 N (12:1) IH1 N
+12:0
+%the (13:0) DH AH0 (13:1) DH AH1 (13:2) DH IY0
+13:0
+%if (15:0) IH1 F (15:1) IH0 F
+15:0
+%want (17:0) W AA1 N T (17:1) W AO1 N T
+17:0
+%it (18:0) IH1 T (18:1) IH0 T
+18:0
+%the (22:0) DH AH0 (22:1) DH AH1 (22:2) DH IY0
+22:0
+%it (26:0) IH1 T (26:1) IH0 T
+26:0
+%bought (33:0) B AA1 T (33:1) B AO1 T
+33:0
+%a (34:0) AH0 (34:1) EY1
+34:0
+%new (35:0) N UW1 (35:1) N Y UW1
+35:0
+%the (39:0) DH AH0 (39:1) DH AH1 (39:2) DH IY0
+39:0
+%watch, (40:0) W AA1 CH (40:1) W AO1 CH
+40:0
+%be (50:0) B IY1 (50:1) B IY0
+50:0
+%the (53:0) DH AH0 (53:1) DH AH1 (53:2) DH IY0
+53:0
+%That (55:0) DH AE1 T (55:1) DH AH0 T
+55:0
+%your (57:0) Y AO1 R (57:1) Y UH1 R
+57:0
+%just (60:0) JH AH1 S T (60:1) JH IH0 S T
+60:0
+%a (61:0) AH0 (61:1) EY1
+61:0
+%don't (64:0) D OW1 N T (64:1) D OW1 N
+64:0
+%it (66:0) IH1 T (66:1) IH0 T
+66:0
+%If (67:0) IH1 F (67:1) IH0 F
+67:0
+%in (69:0) IH0 N (69:1) IH1 N
+69:0
+%the (70:0) DH AH0 (70:1) DH AH1 (70:2) DH IY0
+70:0
+%that (74:0) DH AE1 T (74:1) DH AH0 T
+74:0
+%fire (75:0) F AY1 - ER0 (75:1) F AY1 R
+75:0
+%when (76:0) W EH1 N (76:1) HH W EH1 N (76:2) W IH1 N (76:3) HH W IH1 N
+76:0
+%The (79:0) DH AH0 (79:1) DH AH1 (79:2) DH IY0
+79:0
+%just (81:0) JH AH1 S T (81:1) JH IH0 S T
+81:0
+%in, (83:0) IH0 N (83:1) IH1 N
+83:0
+%in (84:0) IH0 N (84:1) IH1 N
+84:0
+%hundreds (86:0) HH AH1 N - D R AH0 D Z (86:1) HH AH1 N - D ER0 D Z (86:2) HH AH1 - N ER0 D Z
+86:0
+%on (93:0) AA1 N (93:1) AO1 N
+93:0
+%us (94:0) AH1 S (94:1) Y UW1 - EH1 S
+94:0
+%from (96:0) F R AH1 M (96:1) F ER0 M
+96:0
+%Atlanta (97:0) AE0 T - L AE1 N - T AH0 (97:1) AH0 T - L AE1 N - T AH0 (97:2) AE0 T - L AE1 - N AH0 (97:3) AH0 T - L AE1 - N AH0
+97:0
+%where (98:0) W EH1 R (98:1) HH W EH1 R
+98:0
+%on (107:0) AA1 N (107:1) AO1 N
+107:0
+%don't (111:0) D OW1 N T (111:1) D OW1 N
+111:0
+%read (112:0) R EH1 D (112:1) R IY1 D
+112:0
+%Whenever (114:0) W EH0 N - EH1 - V ER0 (114:1) HH W EH0 - N EH1 - V ER0
+114:0
+%her (117:0) HH ER0 (117:1) HH ER1
+117:0
+%to (118:0) T UW0 (118:1) T IH0 (118:2) T AH0
+118:0
+%Whenever (122:0) W EH0 N - EH1 - V ER0 (122:1) HH W EH0 - N EH1 - V ER0
+122:0
+%it's (123:0) IH1 T S (123:1) IH0 T S
+123:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%'em (21:0)  AH0 M
+21:0
+%'em (30:0)  AH0 M
+30:0
+%moanin' (31:0)  M OW1- N IH1 N
+31:0
+%two-toned (43:0)  T W OW1- T AH0 N D
+43:0
+%'em (44:0)  AH0 M
+44:0
+%gon' (49:0)  G AA1 N
+49:0
+%mornin' (54:0)  M AO1 R- N IH1 N
+54:0
+%performin' (78:0)  P ER0- F AO1 R- M IH1 N
+78:0
+%backend (80:0)  B AE1- K EH1 N D
+80:0
+%niggas (100:0)  N IH1- G AH0 Z
+100:0
+%hatin' (106:0)  HH EY1- T AH0 N
+106:0
+********End******

@@ -1,0 +1,182 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: O[NC]'&...-O[NC]'-ONC
+AH: [motherfucker(29), uh,(125)]
+IY: [me,(33), Tina(52)]
+AH: [another(38), uh,(125)]
+IY: [Tina(52), be(82)]
+IY: [Tina(52), me,(102)]
+IY: [Tina(52), see(104)]
+IY: [Tina(52), be(117)]
+AHN: [under(65), one(119)]
+EY: [hatin'(106), slay(121)]
+AH: [money,(114), uh,(125)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AH: [a(28), uh,(125)]
+UW: [you(31), to(101)]
+UW: [you(31), to(120)]
+IY: [me,(33), money,(114)]
+IY: [me,(33), jewelry(133)]
+UW: [too(43), to(101)]
+UW: [too(43), to(120)]
+AH: [Tina(52), uh,(125)]
+UW: [you(64), to(101)]
+UW: [you(64), to(120)]
+UW: [too(69), to(101)]
+UW: [too(69), to(120)]
+IY: [be(82), money,(114)]
+IY: [be(82), jewelry(133)]
+AH: [the(85), uh,(125)]
+UW: [too(87), to(101)]
+UW: [too(87), to(120)]
+AH: [the(89), uh,(125)]
+UW: [who(92), to(101)]
+UW: [who(92), to(120)]
+UW: [who(99), to(101)]
+UW: [who(99), to(120)]
+IY: [me,(102), money,(114)]
+IY: [me,(102), jewelry(133)]
+IY: [see(104), money,(114)]
+IY: [see(104), jewelry(133)]
+AHN: [hatin'(106), one(119)]
+AH: [the(113), uh,(125)]
+IY: [money,(114), be(117)]
+IY: [be(117), jewelry(133)]
+AH: [the(118), uh,(125)]
+AH: [nigga,(124), uh,(125)]
+AH: [uh,(125), nigga(126)]
+AH: [uh,(125), Nigga,(127)]
+AH: [uh,(125), nigga,(129)]
+
+
+Rule 2: ...-ON[C]'-...
+K: [Make(0), Broke(5), like(27), Ike(48), make(56), make(76), tweak(78), like(79), like(107), Like(123)]
+NS: [Sense(2), sense,(57)]
+N: [Again(6), under(65), gon'(116), one(119)]
+D: [could(8), could(12), could(16), could(20), could(24)]
+T: [hit(9), it,(10), it,(14), it,(18), it(22), out(26), bought(37), got(47), got(51), It(54), not(59), alright,(60), put(63), cut(68), got(72), that(73), shit(74), that(75), shit(96), sweet,(98), get(112)]
+P: [whip(13), trap(25), whip(42), trap(86)]
+CH: [bitch,(34), Meech,(50), bitch,(61), much,(70), much,(88), bitch,(128)]
+NT: [don't(55), ain't(67), Can't(81), front(84), ain't(97)]
+M: [I'm(58), damn(80), am(94), damn(108)]
+L: [I'll(62), All(109), still(115)]
+S: [This(95), close(100)]
+
+
+Rule 3: ...-O[N]C'-...
+EY: [Make(0), make(56), ain't(67), make(76), ain't(97), hatin'(106), slay(121)]
+OW: [No(1), Broke(5), know(32), so(45), don't(55), know(91), close(100), know(111)]
+EH: [Sense(2), Never(4), Again(6), sense,(57), get(112)]
+AH: [Youngboy(3), motherfucker(29), just(36), another(38), under(65), cut(68), much,(70), front(84), much,(88), money,(114), one(119), uh,(125)]
+AY: [I(7), I(11), I(15), I(19), I(23), like(27), I(35), I(41), I(46), Ike(48), I'm(58), alright,(60), I'll(62), I(66), I(71), like(79), I(93), I(103), like(107), I(110), Like(123), my(132)]
+UH: [could(8), could(12), could(16), could(20), could(24), put(63)]
+IH: [hit(9), it,(10), whip(13), it,(14), it,(18), it(22), bitch,(34), whip(42), It(54), bitch,(61), shit(74), This(95), shit(96), still(115), nigga,(124), nigga(126), Nigga,(127), bitch,(128), nigga,(129), with(131)]
+AE: [bag(17), stash(21), trap(25), that(73), that(75), damn(80), Can't(81), trap(86), am(94), damn(108)]
+AW: [out(26), baow,(130)]
+UW: [you(31), too(43), you(64), too(69), too(87), who(92), who(99), jewelry(133)]
+IY: [me,(33), Meech,(50), Tina(52), tweak(78), be(82), sweet,(98), me,(102), see(104), be(117)]
+AA: [bought(37), hard,(44), got(47), got(51), not(59), got(72), gon'(116)]
+ER: [burner(40), Turner(53), world(90)]
+
+
+Rule 4: ...-[O']N[C']'-...
+MK: [Make(0), make(56), make(76)]
+N: [No(1), Never(4), know(32), another(38), under(65), know(91), know(111), nigga,(124), nigga(126), Nigga,(127), nigga,(129)]
+SNS: [Sense(2), sense,(57)]
+B: [Youngboy(3), burner(40), be(82), be(117)]
+GN: [Again(6), gon'(116)]
+KD: [could(8), could(12), could(16), could(20), could(24)]
+T: [it,(10), it,(14), it,(18), it(22), out(26), too(43), Tina(52), Turner(53), It(54), too(69), too(87)]
+WP: [whip(13), whip(42)]
+TRP: [trap(25), trap(86)]
+LK: [like(27), like(79), like(107), Like(123)]
+M: [motherfucker(29), me,(33), I'm(58), am(94), me,(102), money,(114), my(132)]
+Y: [you(31), you(64)]
+BCH: [bitch,(34), bitch,(61), bitch,(128)]
+S: [so(45), see(104)]
+GT: [got(47), got(51), got(72), get(112)]
+MCH: [Meech,(50), much,(70), much,(88)]
+NT: [not(59), ain't(67), ain't(97)]
+L: [I'll(62), All(109)]
+DHT: [that(73), that(75)]
+SHT: [shit(74), shit(96)]
+DM: [damn(80), damn(108)]
+HH: [who(92), who(99), hatin'(106)]
+
+
+
+
+Poem with word IDs:
+
+Make(0) No(1) Sense(2) 
+Youngboy(3) Never(4) Broke(5) Again(6) 
+
+I(7) could(8) hit(9) it,(10) I(11) could(12) whip(13) it,(14) I(15) could(16) bag(17) it,(18) I(19) could(20) stash(21) it(22) 
+I(23) could(24) trap(25) out(26) like(27) a(28) motherfucker(29) 
+And(30) you(31) know(32) me,(33) bitch,(34) I(35) just(36) bought(37) another(38) 30(39) burner(40) 
+I(41) whip(42) too(43) hard,(44) so(45) I(46) got(47) Ike(48) and(49) Meech,(50) got(51) Tina(52) Turner(53) 
+It(54) don't(55) make(56) sense,(57) I'm(58) not(59) alright,(60) bitch,(61) I'll(62) put(63) you(64) under(65) 
+I(66) ain't(67) cut(68) too(69) much,(70) I(71) got(72) that(73) shit(74) that(75) make(76) 'em(77) tweak(78) like(79) damn(80) 
+Can't(81) be(82) in(83) front(84) the(85) trap(86) too(87) much,(88) the(89) world(90) know(91) who(92) I(93) am(94) 
+This(95) shit(96) ain't(97) sweet,(98) who(99) close(100) to(101) me,(102) I(103) see(104) 'em(105) hatin'(106) like(107) damn(108) 
+All(109) I(110) know(111) get(112) the(113) money,(114) still(115) gon'(116) be(117) the(118) one(119) to(120) slay(121) 'em(122) 
+Like(123) nigga,(124) uh,(125) nigga(126) 
+Nigga,(127) bitch,(128) nigga,(129) baow,(130) with(131) my(132) jewelry(133) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see MakeNoSense_Output_B_uncertainty.txt in the Poems directory
+
+Again (6:0) AH0 - G EH1 N (6:1) AH0 - G EY1 N
+it, (10:0) IH1 T (10:1) IH0 T
+whip (13:0) W IH1 P (13:1) HH W IH1 P
+it, (14:0) IH1 T (14:1) IH0 T
+it, (18:0) IH1 T (18:1) IH0 T
+it (22:0) IH1 T (22:1) IH0 T
+a (28:0) AH0 (28:1) EY1
+And (30:0) AE0 N D (30:1) AH0 N D
+just (36:0) JH AH1 S T (36:1) JH IH0 S T
+bought (37:0) B AA1 T (37:1) B AO1 T
+whip (42:0) W IH1 P (42:1) HH W IH1 P
+and (49:0) AE0 N D (49:1) AH0 N D
+It (54:0) IH1 T (54:1) IH0 T
+don't (55:0) D OW1 N T (55:1) D OW1 N
+that (73:0) DH AE1 T (73:1) DH AH0 T
+that (75:0) DH AE1 T (75:1) DH AH0 T
+be (82:0) B IY1 (82:1) B IY0
+in (83:0) IH0 N (83:1) IH1 N
+the (85:0) DH AH0 (85:1) DH AH1 (85:2) DH IY0
+the (89:0) DH AH0 (89:1) DH AH1 (89:2) DH IY0
+am (94:0) AE1 M (94:1) EY1 - EH1 M
+This (95:0) DH IH1 S (95:1) DH IH0 S
+close (100:0) K L OW1 S (100:1) K L OW1 Z
+to (101:0) T UW0 (101:1) T IH0 (101:2) T AH0
+get (112:0) G EH1 T (112:1) G IH1 T
+the (113:0) DH AH0 (113:1) DH AH1 (113:2) DH IY0
+be (117:0) B IY1 (117:1) B IY0
+the (118:0) DH AH0 (118:1) DH AH1 (118:2) DH IY0
+one (119:0) W AH1 N (119:1) HH W AH1 N
+to (120:0) T UW0 (120:1) T IH0 (120:2) T AH0
+with (131:0) W IH1 DH (131:1) W IH1 TH (131:2) W IH0 TH (131:3) W IH0 DH
+jewelry (133:0) JH UW1 - AH0 L - R IY0 (133:1) JH UW1 - L R IY0 (133:2) JH UW1 - L ER0 - IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see MakeNoSense_Output_B_uncertainty.txt in the Poems directory
+
+Youngboy (3:0)  Y AH1 NG- B OY1
+motherfucker (29:0)  M AH1- DH ER0- F AH1- K ER0
+'em (77:0)  AH0 M
+'em (105:0)  AH0 M
+hatin' (106:0)  HH EY1- T AH0 N
+gon' (116:0)  G AA1 N
+'em (122:0)  AH0 M
+nigga, (124:0)  N IH1- G AH0
+nigga (126:0)  N IH1- G AH0
+Nigga, (127:0)  N IH1- G AH0
+nigga, (129:0)  N IH1- G AH0
+baow, (130:0)  B AA AW1

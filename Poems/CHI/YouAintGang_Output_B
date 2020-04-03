@@ -1,0 +1,196 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AHN: [youngin'(17), run(23)]
+AHN: [hundreds,(22), run(23)]
+AAN: [on(25), Vondell(144)]
+IY: [me,(26), demon,(129)]
+AAN: [on(33), Vondell(144)]
+AOR: [corner(35), your(120)]
+AOR: [corner(35), your(125)]
+AAN: [on(62), Vondell(144)]
+AAN: [on(95), Vondell(144)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+UW: [You(0), to(12)]
+UW: [You(0), to(116)]
+IY: [Bibby(4), me,(26)]
+UW: [to(12), you(60)]
+UW: [to(12), you(67)]
+UW: [to(12), you(89)]
+UW: [to(12), you(94)]
+UW: [to(12), you(104)]
+UW: [to(12), Do(135)]
+IHN: [youngin'(17), In(18)]
+IHN: [youngin'(17), nothin'(41)]
+IHN: [youngin'(17), in(133)]
+IHN: [In(18), drummin'(29)]
+IHN: [In(18), thuggin'(32)]
+AHN: [run(23), cousin(54)]
+AHN: [run(23), Christian(81)]
+AHN: [run(23), demon,(129)]
+IY: [me,(26), Bibby(58)]
+IHN: [drummin'(29), nothin'(41)]
+IHN: [drummin'(29), in(133)]
+IHN: [thuggin'(32), nothin'(41)]
+IHN: [thuggin'(32), in(133)]
+AHM: [from(40), 'em,(48)]
+UW: [you(60), to(116)]
+UW: [you(67), to(116)]
+UW: [you(89), to(116)]
+UW: [you(94), to(116)]
+UW: [you(104), to(116)]
+UW: [to(116), Do(135)]
+
+
+Rule 2: ...-ON[C]'-...
+NT: [Ain't(1), don't(46), don't(74)]
+L: [Lil(3), pull(13), all(21), still(61), feel(84), well,(106), pull(113), hell(122), Hell(134), will(139), tell(141)]
+CH: [Bitch(5), bitch(27), watch(98)]
+M: [I'm(6), I'm(10), I'm(28), came(39), from(40), I'm(49), them(71), I'm(127), I'm(130), time,(137), I'm(143)]
+N: [an(7), youngin'(17), hundreds,(22), run(23), on(25), drummin'(29), thuggin'(32), on(33), on(62), seen(78), when(82), on(95), Vondell(144)]
+G: [OG,(8), dog,(51)]
+T: [but(9), it(14), that(63), shit?"(65), Get(66), shot(68), that(85), hot(86), shit(87), Thought(88), that(96), shit(99), got(108), hot(109), rot(132), not(140)]
+K: [quick(11), like(15), Fuck(42), fuck(52), like,(56), block(64), quick(69), rock(75), fuck(102), back(115), back(117), block(121), like(142)]
+P: [up(24), Drop(111), up(114), whip(124)]
+Z: [was(31), these(43), was(90)]
+R: [corner(35), your(120), your(125)]
+DH: [with(36), with(76)]
+ND: ['round(70), turned(80)]
+S: [Christian(81), Ls,(112)]
+V: [Give(100), give(119)]
+
+
+Rule 3: ...-O[N]C'-...
+UW: [You(0), you(60), you(67), you(89), you(94), you(104), Do(135)]
+EY: [Ain't(1), came(39), They(55), they(83)]
+AE: [Gang(2), an(7), "Goddamn(57), that(63), that(85), savage,(92), that(96), back(115), back(117)]
+IH: [Lil(3), Bibby(4), Bitch(5), quick(11), it(14), youngin'(17), bitch(27), drummin'(29), thuggin'(32), with(36), niggas,(38), bitches,(44), Bibby(58), still(61), shit?"(65), quick(69), niggas(72), with(76), niggas(79), Christian(81), shit(87), shit(99), Give(100), if(103), give(119), Pistol(123), whip(124), kids,(126), will(139)]
+AY: [I'm(6), I'm(10), like(15), my(19), I'm(28), I(30), my(37), I(45), I'm(49), like,(56), why(59), I(73), I(77), I(107), I'm(127), I'm(130), time,(137), I(138), like(142), I'm(143)]
+AA: [OG,(8), pockets,(20), on(25), was(31), on(33), "Goddamn(57), on(62), block(64), shot(68), rock(75), hot(86), was(90), on(95), watch(98), box(105), got(108), hot(109), Drop(111), block(121), rot(132), not(140), Vondell(144)]
+AH: [but(9), youngin'(17), hundreds,(22), run(23), up(24), drummin'(29), thuggin'(32), from(40), nothin'(41), Fuck(42), trust(47), fuck(52), cousin(54), fuck(102), up(114)]
+UH: [pull(13), pull(113)]
+AO: [all(21), corner(35), dog,(51), Thought(88), Lord(97), your(120), your(125)]
+IY: [me,(26), these(43), seen(78), feel(84), demon,(129)]
+OW: [don't(46), don't(74)]
+EH: [Get(66), them(71), when(82), well,(106), shells(110), Ls,(112), hell(122), Hell(134), tell(141)]
+AW: ['round(70), now(93)]
+
+
+Rule 4: ...-[O']N[C']'-...
+Y: [You(0), you(60), you(67), you(89), you(94), you(104)]
+NT: [Ain't(1), not(140)]
+B: [Bibby(4), bitches,(44), Bibby(58)]
+BCH: [Bitch(5), bitch(27)]
+M: [I'm(6), I'm(10), my(19), me,(26), I'm(28), my(37), I'm(49), I'm(127), I'm(130), I'm(143)]
+N: [an(7), on(25), on(33), niggas,(38), nothin'(41), on(62), niggas(72), niggas(79), now(93), on(95)]
+KWK: [quick(11), quick(69)]
+PL: [pull(13), pull(113)]
+LK: [like(15), like,(56), like(142)]
+GN: [youngin'(17), thuggin'(32)]
+P: [pockets,(20), up(24), up(114), Pistol(123)]
+WZ: [was(31), was(90)]
+WDH: [with(36), with(76)]
+FK: [Fuck(42), fuck(52), fuck(102)]
+DNT: [don't(46), don't(74)]
+DH: [They(55), they(83)]
+DHT: [that(63), that(85), that(96)]
+BLK: [block(64), block(121)]
+SHT: [shit?"(65), shot(68), shit(87), shit(99)]
+GT: [Get(66), got(108)]
+HHT: [hot(86), hot(109)]
+GV: [Give(100), give(119)]
+WL: [well,(106), will(139)]
+BK: [back(115), back(117)]
+YR: [your(120), your(125)]
+HHL: [hell(122), Hell(134)]
+D: [demon,(129), Do(135)]
+
+
+
+
+Poem with word IDs:
+
+You(0) Ain't(1) Gang(2) 
+Lil(3) Bibby(4) 
+
+Bitch(5) I'm(6) an(7) OG,(8) but(9) I'm(10) quick(11) to(12) pull(13) it(14) like(15) a(16) youngin'(17) 
+In(18) my(19) pockets,(20) all(21) hundreds,(22) run(23) up(24) on(25) me,(26) bitch(27) I'm(28) drummin'(29) 
+I(30) was(31) thuggin'(32) on(33) the(34) corner(35) with(36) my(37) niggas,(38) came(39) from(40) nothin'(41) 
+Fuck(42) these(43) bitches,(44) I(45) don't(46) trust(47) 'em,(48) I'm(49) a(50) dog,(51) fuck(52) her(53) cousin(54) 
+They(55) like,(56) "Goddamn(57) Bibby(58) why(59) you(60) still(61) on(62) that(63) block(64) shit?"(65) 
+Get(66) you(67) shot(68) quick(69) 'round(70) them(71) niggas(72) I(73) don't(74) rock(75) with(76) 
+I(77) seen(78) niggas(79) turned(80) Christian(81) when(82) they(83) feel(84) that(85) hot(86) shit(87) 
+Thought(88) you(89) was(90) a(91) savage,(92) now(93) you(94) on(95) that(96) Lord(97) watch(98) shit(99) 
+Give(100) a(101) fuck(102) if(103) you(104) box(105) well,(106) I(107) got(108) hot(109) shells(110) 
+Drop(111) Ls,(112) pull(113) up(114) back(115) to(116) back(117) and(118) give(119) your(120) block(121) hell(122) 
+Pistol(123) whip(124) your(125) kids,(126) I'm(127) a(128) demon,(129) I'm(130) a(131) rot(132) in(133) Hell(134) 
+Do(135) the(136) time,(137) I(138) will(139) not(140) tell(141) like(142) I'm(143) Vondell(144) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see YouAintGang_Output_B_uncertainty.txt in the Poems directory
+
+an (7:0) AE1 N (7:1) AH0 N
+to (12:0) T UW0 (12:1) T IH0 (12:2) T AH0
+it (14:0) IH1 T (14:1) IH0 T
+a (16:0) AH0 (16:1) EY1
+In (18:0) IH0 N (18:1) IH1 N
+hundreds, (22:0) HH AH1 N - D R AH0 D Z (22:1) HH AH1 N - D ER0 D Z (22:2) HH AH1 - N ER0 D Z
+on (25:0) AA1 N (25:1) AO1 N
+was (31:0) W AA1 Z (31:1) W AH1 Z (31:2) W AH0 Z (31:3) W AO1 Z
+on (33:0) AA1 N (33:1) AO1 N
+the (34:0) DH AH0 (34:1) DH AH1 (34:2) DH IY0
+with (36:0) W IH1 DH (36:1) W IH1 TH (36:2) W IH0 TH (36:3) W IH0 DH
+from (40:0) F R AH1 M (40:1) F ER0 M
+don't (46:0) D OW1 N T (46:1) D OW1 N
+a (50:0) AH0 (50:1) EY1
+her (53:0) HH ER0 (53:1) HH ER1
+why (59:0) W AY1 (59:1) HH W AY1
+on (62:0) AA1 N (62:1) AO1 N
+that (63:0) DH AE1 T (63:1) DH AH0 T
+Get (66:0) G EH1 T (66:1) G IH1 T
+them (71:0) DH EH1 M (71:1) DH AH0 M
+don't (74:0) D OW1 N T (74:1) D OW1 N
+with (76:0) W IH1 DH (76:1) W IH1 TH (76:2) W IH0 TH (76:3) W IH0 DH
+Christian (81:0) K R IH1 S - CH AH0 N (81:1) K R IH1 S - CH IH0 N
+when (82:0) W EH1 N (82:1) HH W EH1 N (82:2) W IH1 N (82:3) HH W IH1 N
+that (85:0) DH AE1 T (85:1) DH AH0 T
+was (90:0) W AA1 Z (90:1) W AH1 Z (90:2) W AH0 Z (90:3) W AO1 Z
+a (91:0) AH0 (91:1) EY1
+savage, (92:0) S AE1 - V AH0 JH (92:1) S AE1 - V IH0 JH
+on (95:0) AA1 N (95:1) AO1 N
+that (96:0) DH AE1 T (96:1) DH AH0 T
+watch (98:0) W AA1 CH (98:1) W AO1 CH
+a (101:0) AH0 (101:1) EY1
+if (103:0) IH1 F (103:1) IH0 F
+Drop (111:0) D R AA1 P (111:1) D R AO1 P
+to (116:0) T UW0 (116:1) T IH0 (116:2) T AH0
+and (118:0) AE0 N D (118:1) AH0 N D
+your (120:0) Y AO1 R (120:1) Y UH1 R
+whip (124:0) W IH1 P (124:1) HH W IH1 P
+your (125:0) Y AO1 R (125:1) Y UH1 R
+a (128:0) AH0 (128:1) EY1
+a (131:0) AH0 (131:1) EY1
+in (133:0) IH0 N (133:1) IH1 N
+the (136:0) DH AH0 (136:1) DH AH1 (136:2) DH IY0
+will (139:0) W IH1 L (139:1) W AH0 L
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see YouAintGang_Output_B_uncertainty.txt in the Poems directory
+
+youngin' (17:0)  Y AH1 N- G IH1 N
+drummin' (29:0)  D R AH1- M IH1 N
+thuggin' (32:0)  TH AH1- G IH1 N
+niggas, (38:0)  N IH1- G AH0 Z
+'em, (48:0)  AH0 M
+"Goddamn (57:0)  G AA1 D- D AE1 M N
+shit?" (65:0)  SH IH1 T
+'round (70:0)  R AW1 N D
+niggas (72:0)  N IH1- G AH0 Z
+niggas (79:0)  N IH1- G AH0 Z
+Vondell (144:0)  V AA1 N- D AH0 L

@@ -1,0 +1,152 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+UW: [new(30), using(90)]
+UW: [you(37), using(90)]
+EY: [they(43), making(68)]
+EY: [they(43), Hater,(100)]
+EY: [way(55), making(68)]
+EY: [way(55), Hater,(100)]
+AHP: [interrupting(61), up(97)]
+EY: [making(68), they(71)]
+EY: [making(68), say(77)]
+EY: [making(68), way(81)]
+EY: [they(71), Hater,(100)]
+EY: [say(77), Hater,(100)]
+EY: [way(81), Hater,(100)]
+UW: [using(90), new(98)]
+UW: [using(90), you(102)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IHN: [Kevin(0), callin',(44)]
+IHN: [Kevin(0), recordin'(65)]
+IY: [key(17), Ferrari(31)]
+UW: [to(26), new(30)]
+UW: [to(26), you(37)]
+UW: [to(26), new(98)]
+UW: [to(26), you(102)]
+IY: [see,(27), Ferrari(31)]
+UW: [new(30), to(39)]
+IY: [Ferrari(31), be(60)]
+IY: [Ferrari(31), me(62)]
+IY: [Ferrari(31), be(67)]
+IY: [Ferrari(31), he(76)]
+IHN: [in(33), callin',(44)]
+IHN: [in(33), recordin'(65)]
+UW: [you(37), to(39)]
+UW: [to(39), new(98)]
+UW: [to(39), you(102)]
+IHN: [callin',(44), talkin'(49)]
+IHN: [talkin'(49), recordin'(65)]
+
+
+Rule 2: ...-ON[C]'-...
+TS: [Gates(1), it's(78)]
+D: [God(10), inside(18), said(42)]
+M: [I'm(11), Someone(41), I'm(64), am(88)]
+R: [gorgeous(12), unimportant(72), retarded(82), Foreman(92), performance(99)]
+ST: [just(14), just(95), just(108)]
+T: [put(15), It(22), might(23), not(24), get(25), bought(57), it(58), not(89), got(105), got(109), it(110)]
+N: [Man(32), callin',(44), Phone(59), recordin'(65), Phone(66)]
+Z: [choose(38), is(51), cause(86)]
+L: [feel(47), while(63), feel(70), Call(73), all(79), oil(85), well(103), clientele(106), scale(113)]
+P: [interrupting(61), Keep(83), up(97)]
+
+
+Rule 3: ...-[O']N[C']'-...
+K: [Kevin(0), key(17), callin',(44), recordin'(65), Kitchen,(93)]
+B: [Button(4), bother(40), be(60), be(67)]
+F: [foreign,(7), finished(96), off(111)]
+M: [my(9), I'm(11), my(19), mirror,(35), me(62), I'm(64), making(68), my(74), am(88)]
+JHST: [just(14), just(95), just(108)]
+SD: [inside(18), said(42)]
+P: [pocket(20), interrupting(61), up(97)]
+T: [It(22), talkin'(49), it(58), it(110)]
+NT: [not(24), not(89)]
+GT: [get(25), got(105), got(109)]
+S: [see,(27), say(77)]
+N: [new(30), new(98)]
+HH: [how(36), he(76), Hater,(100)]
+Y: [you(37), using(90), you(102)]
+DH: [they(43), they(71)]
+FL: [feel(47), feel(70)]
+W: [way(55), women(69), way(81)]
+FN: [Phone(59), Phone(66)]
+WL: [while(63), well(103)]
+L: [all(79), oil(85)]
+FR: [Foreman(92), performance(99)]
+
+
+
+
+Poem with word IDs:
+
+Kevin(0) Gates(1) 
+2(2) Phones(3) 
+
+Button(4) start(5) the(6) foreign,(7) oh(8) my(9) God(10) I'm(11) gorgeous(12) 
+I(13) just(14) put(15) the(16) key(17) inside(18) my(19) pocket(20) park(21) 
+It(22) might(23) not(24) get(25) to(26) see,(27) this(28) a(29) new(30) Ferrari(31) 
+Man(32) in(33) the(34) mirror,(35) how(36) you(37) choose(38) to(39) bother(40) 
+Someone(41) said(42) they(43) callin',(44) I(45) don't(46) feel(47) like(48) talkin'(49) 
+Everything(50) is(51) different(52) returned(53) the(54) way(55) I(56) bought(57) it(58) 
+Phone(59) be(60) interrupting(61) me(62) while(63) I'm(64) recordin'(65) 
+Phone(66) be(67) making(68) women(69) feel(70) they(71) unimportant(72) 
+Call(73) my(74) dog,(75) he(76) say(77) it's(78) all(79) the(80) way(81) retarded(82) 
+Keep(83) the(84) oil(85) cause(86) I(87) am(88) not(89) using(90) the(91) Foreman(92) 
+Kitchen,(93) I(94) just(95) finished(96) up(97) new(98) performance(99) 
+Hater,(100) wish(101) you(102) well(103) 
+I(104) got(105) clientele(106) 
+I(107) just(108) got(109) it(110) off(111) the(112) scale(113) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see 2Phones_Output_B_uncertainty.txt in the Poems directory
+
+the (6:0) DH AH0 (6:1) DH AH1 (6:2) DH IY0
+foreign, (7:0) F AO1 - R AH0 N (7:1) F AA1 - R AH0 N
+just (14:0) JH AH1 S T (14:1) JH IH0 S T
+the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+inside (18:0) IH0 N - S AY1 D (18:1) IH1 N - S AY2 D
+It (22:0) IH1 T (22:1) IH0 T
+get (25:0) G EH1 T (25:1) G IH1 T
+to (26:0) T UW0 (26:1) T IH0 (26:2) T AH0
+this (28:0) DH IH1 S (28:1) DH IH0 S
+a (29:0) AH0 (29:1) EY1
+new (30:0) N UW1 (30:1) N Y UW1
+in (33:0) IH0 N (33:1) IH1 N
+the (34:0) DH AH0 (34:1) DH AH1 (34:2) DH IY0
+to (39:0) T UW0 (39:1) T IH0 (39:2) T AH0
+don't (46:0) D OW1 N T (46:1) D OW1 N
+is (51:0) IH1 Z (51:1) IH0 Z
+different (52:0) D IH1 - F ER0 - AH0 N T (52:1) D IH1 - F R AH0 N T
+returned (53:0) R IH0 - T ER1 N D (53:1) R IY0 - T ER1 N D
+the (54:0) DH AH0 (54:1) DH AH1 (54:2) DH IY0
+bought (57:0) B AA1 T (57:1) B AO1 T
+it (58:0) IH1 T (58:1) IH0 T
+be (60:0) B IY1 (60:1) B IY0
+interrupting (61:0) IH2 N - T ER0 - AH1 P - T IH0 NG (61:1) IH2 - N ER0 - AH1 P - T IH0 NG
+while (63:0) W AY1 L (63:1) HH W AY1 L
+be (67:0) B IY1 (67:1) B IY0
+it's (78:0) IH1 T S (78:1) IH0 T S
+the (80:0) DH AH0 (80:1) DH AH1 (80:2) DH IY0
+retarded (82:0) R IH0 - T AA1 R - D IH0 D (82:1) R IY0 - T AA1 R - D AH0 D (82:2) R IY0 - T AA1 R - D IH0 D
+the (84:0) DH AH0 (84:1) DH AH1 (84:2) DH IY0
+cause (86:0) K AA1 Z (86:1) K AO1 Z
+am (88:0) AE1 M (88:1) EY1 - EH1 M
+the (91:0) DH AH0 (91:1) DH AH1 (91:2) DH IY0
+just (95:0) JH AH1 S T (95:1) JH IH0 S T
+new (98:0) N UW1 (98:1) N Y UW1
+just (108:0) JH AH1 S T (108:1) JH IH0 S T
+it (110:0) IH1 T (110:1) IH0 T
+the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see 2Phones_Output_B_uncertainty.txt in the Poems directory
+
+callin', (44:0)  K AE1- L IH1 N
+recordin' (65:0)  R AH0- K AO1- R D IH1 N

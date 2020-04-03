@@ -1,0 +1,231 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+EY: [O.J.(3), later,(25)]
+EY: [O.J.(3), later,(33)]
+EY: [O.J.(3), takin'(98)]
+EY: [O.J.(3), takin'(105)]
+AEN: [Financial(5), an(81)]
+IY: [freedom(6), Me(101)]
+IY: [freedom(6), we(121)]
+AY: [my(7), tryin'(59)]
+AY: [I(16), tryin'(59)]
+UW: [Two(23), bougie,(52)]
+UW: [two(29), bougie,(52)]
+UW: [Few(31), bougie,(52)]
+AY: [I(39), tryin'(59)]
+AY: [my(47), tryin'(59)]
+IHL: [children(48), still(97)]
+UW: [bougie,(52), you(62)]
+UW: [bougie,(52), two(75)]
+UW: [bougie,(52), into(87)]
+AY: [tryin'(59), I(72)]
+AY: [tryin'(59), I(83)]
+AY: [tryin'(59), my(85)]
+AY: [tryin'(59), my(103)]
+AEN: [an(81), advances,(99)]
+AEN: [an(81), chances,(107)]
+AH: [huh?(100), money(114)]
+AH: [huh?(100), money(125)]
+AH: [uh(108), money(114)]
+AH: [uh(108), money(125)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AH: [The(0), huh?(100)]
+AH: [The(0), uh(108)]
+IY: [Story(1), Me(101)]
+IY: [Story(1), we(121)]
+AHM: [freedom(6), some(18)]
+IY: [only(8), Me(101)]
+IY: [only(8), we(121)]
+IHN: [livin'(11), holdin'(113)]
+AHN: [one(21), million(22)]
+AHN: [one(21), million(30)]
+AHN: [one(21), million(38)]
+AHN: [one(21), children(48)]
+AHN: [one(21), million(64)]
+UW: [Two(23), to(42)]
+UW: [Two(23), to(46)]
+UW: [Two(23), to(60)]
+UW: [Two(23), to(76)]
+UW: [Two(23), to(80)]
+UW: [Two(23), to(115)]
+UW: [two(29), to(42)]
+UW: [two(29), to(46)]
+UW: [two(29), to(60)]
+UW: [two(29), to(76)]
+UW: [two(29), to(80)]
+UW: [two(29), to(115)]
+UW: [Few(31), to(42)]
+UW: [Few(31), to(46)]
+UW: [Few(31), to(60)]
+UW: [Few(31), to(76)]
+UW: [Few(31), to(80)]
+UW: [Few(31), to(115)]
+UW: [to(42), you(62)]
+UW: [to(42), two(75)]
+UW: [to(42), into(87)]
+UW: [to(46), you(62)]
+UW: [to(46), two(75)]
+UW: [to(46), into(87)]
+IHN: [tryin'(59), holdin'(113)]
+UW: [to(60), you(62)]
+UW: [to(60), two(75)]
+UW: [to(60), into(87)]
+UW: [you(62), to(76)]
+UW: [you(62), to(80)]
+UW: [you(62), to(115)]
+AH: [a(63), huh?(100)]
+AH: [a(63), uh(108)]
+UW: [two(75), to(76)]
+UW: [two(75), to(80)]
+UW: [two(75), to(115)]
+UW: [to(76), into(87)]
+AH: [a(77), huh?(100)]
+AH: [a(77), uh(108)]
+UW: [to(80), into(87)]
+UW: [into(87), to(115)]
+AH: [a(88), huh?(100)]
+AH: [a(88), uh(108)]
+IHN: [takin'(98), holdin'(113)]
+AH: [huh?(100), the(111)]
+AH: [huh?(100), a(119)]
+IY: [Me(101), money(114)]
+IY: [Me(101), money(125)]
+IHN: [takin'(105), holdin'(113)]
+AH: [uh(108), the(111)]
+AH: [uh(108), a(119)]
+IY: [money(114), we(121)]
+IY: [we(121), money(125)]
+
+
+Rule 2: ...-ON[C]'-...
+N: [Financial(5), only(8), one(21), fine(56), nine(70), ninety-nine(71), an(81), advances,(99), chances,(107), on(110), holdin'(113)]
+K: [Fuck(10), broke(15), like,(54), week(91)]
+T: [bought(17), that(26), shit(27), that(34), shit(35), eight(37), wait(41), shit(45), But(57), that(74), eight(82), date(93), out(95), that(124)]
+M: [some(18), I'm(53), I'm(58), game(68), 'gram(112)]
+R: [for(20), for(69), four,(78), four(79), here(96), your(116), ear(117), here(127)]
+RZ: [years(24), years(32), There's(118)]
+TH: [worth(28), worth(36), worth(66)]
+NT: [can't(40), don't(122)]
+V: [give(43), give(61)]
+S: [this(44), nice(89), release(92)]
+L: [children(48), still(97), real(106), call(123)]
+TS: [it's(51), it's(55)]
+ND: [turned(73), turned(84)]
+
+
+Rule 3: ...-O[N]C'-...
+AO: [Story(1), for(20), for(69), four,(78), four(79), your(116), call(123)]
+EY: [O.J.(3), Jay-Z(4), later,(25), later,(33), eight(37), wait(41), game(68), eight(82), date(93), takin'(98), takin'(105)]
+OW: [O.J.(3), only(8), hope(9), broke(15), holdin'(113), don't(122), over(126)]
+AE: [Financial(5), that(26), that(34), can't(40), that(74), an(81), advances,(99), chances,(107), 'gram(112), that(124)]
+IY: [freedom(6), week(91), release(92), Me(101), real(106), we(121)]
+AY: [my(7), I(16), I(39), my(47), I'm(53), like,(54), fine(56), I'm(58), tryin'(59), nine(70), ninety-nine(71), I(72), I(83), my(85), life(86), nice(89), my(103)]
+AH: [Fuck(10), some(18), one(21), But(57), huh?(100), uh(108), money(114), money(125)]
+IH: [livin'(11), rich(12), dyin'(14), million(22), years(24), shit(27), million(30), years(32), shit(35), million(38), give(43), this(44), shit(45), children(48), think(50), it's(51), it's(55), give(61), million(64), here(96), still(97), niggas(104), holdin'(113), ear(117), here(127)]
+AA: [bought(17), artwork(19), dollars(65), on(110)]
+UW: [Two(23), two(29), Few(31), bougie,(52), you(62), two(75), into(87)]
+ER: [worth(28), worth(36), worth(66), turned(73), turned(84), first(90)]
+EH: [There's(118), disconnect,(120)]
+
+
+Rule 4: ...-[O']N[C']'-...
+NN: [Financial(5), nine(70), ninety-nine(71)]
+FR: [freedom(6), for(20), for(69), four,(78), four(79)]
+M: [my(7), million(22), million(30), million(38), my(47), I'm(53), I'm(58), million(64), my(85), Me(101), my(103), money(114), money(125)]
+N: [only(8), an(81), niggas(104), on(110)]
+L: [livin'(11), later,(25), later,(33)]
+BT: [bought(17), But(57)]
+T: [Two(23), two(29), eight(37), two(75), eight(82), into(87), out(95), takin'(98), takin'(105)]
+YRZ: [years(24), years(32)]
+DHT: [that(26), that(34), that(74), that(124)]
+SHT: [shit(27), shit(35), shit(45)]
+WTH: [worth(28), worth(36), worth(66)]
+GV: [give(43), give(61)]
+TS: [it's(51), it's(55)]
+TND: [turned(73), turned(84)]
+HHR: [here(96), here(127)]
+HH: [huh?(100), holdin'(113)]
+
+
+
+
+Poem with word IDs:
+
+The(0) Story(1) of(2) O.J.(3) 
+Jay-Z(4) 
+
+Financial(5) freedom(6) my(7) only(8) hope(9) 
+Fuck(10) livin'(11) rich(12) and(13) dyin'(14) broke(15) 
+I(16) bought(17) some(18) artwork(19) for(20) one(21) million(22) 
+Two(23) years(24) later,(25) that(26) shit(27) worth(28) two(29) million(30) 
+Few(31) years(32) later,(33) that(34) shit(35) worth(36) eight(37) million(38) 
+I(39) can't(40) wait(41) to(42) give(43) this(44) shit(45) to(46) my(47) children(48) 
+Y'all(49) think(50) it's(51) bougie,(52) I'm(53) like,(54) it's(55) fine(56) 
+But(57) I'm(58) tryin'(59) to(60) give(61) you(62) a(63) million(64) dollars(65) worth(66) of(67) game(68) for(69) nine(70) ninety-nine(71) 
+I(72) turned(73) that(74) two(75) to(76) a(77) four,(78) four(79) to(80) an(81) eight(82) 
+I(83) turned(84) my(85) life(86) into(87) a(88) nice(89) first(90) week(91) release(92) date(93) 
+Y'all(94) out(95) here(96) still(97) takin'(98) advances,(99) huh?(100) 
+Me(101) and(102) my(103) niggas(104) takin'(105) real(106) chances,(107) uh(108) 
+Y'all(109) on(110) the(111) 'gram(112) holdin'(113) money(114) to(115) your(116) ear(117) 
+There's(118) a(119) disconnect,(120) we(121) don't(122) call(123) that(124) money(125) over(126) here(127) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see StoryOfOJ_Output_B_uncertainty.txt in the Poems directory
+
+The (0:0) DH AH0 (0:1) DH AH1 (0:2) DH IY0
+of (2:0) AH0 V (2:1) AH0 V
+Financial (5:0) F AH0 - N AE1 N - SH AH0 L (5:1) F IH0 - N AE1 N - SH AH0 L (5:2) F AY2 - N AE1 N - SH AH0 L
+and (13:0) AE0 N D (13:1) AH0 N D
+bought (17:0) B AA1 T (17:1) B AO1 T
+for (20:0) F AO1 R (20:1) F ER0 (20:2) F R ER0
+one (21:0) W AH1 N (21:1) HH W AH1 N
+years (24:0) Y IH1 R Z (24:1) Y ER0 Z
+that (26:0) DH AE1 T (26:1) DH AH0 T
+years (32:0) Y IH1 R Z (32:1) Y ER0 Z
+that (34:0) DH AE1 T (34:1) DH AH0 T
+to (42:0) T UW0 (42:1) T IH0 (42:2) T AH0
+this (44:0) DH IH1 S (44:1) DH IH0 S
+to (46:0) T UW0 (46:1) T IH0 (46:2) T AH0
+it's (51:0) IH1 T S (51:1) IH0 T S
+it's (55:0) IH1 T S (55:1) IH0 T S
+to (60:0) T UW0 (60:1) T IH0 (60:2) T AH0
+a (63:0) AH0 (63:1) EY1
+dollars (65:0) D AA1 - L ER0 Z (65:1) D AO1 - L ER0 Z
+of (67:0) AH0 V (67:1) AH0 V
+for (69:0) F AO1 R (69:1) F ER0 (69:2) F R ER0
+that (74:0) DH AE1 T (74:1) DH AH0 T
+to (76:0) T UW0 (76:1) T IH0 (76:2) T AH0
+a (77:0) AH0 (77:1) EY1
+to (80:0) T UW0 (80:1) T IH0 (80:2) T AH0
+an (81:0) AE1 N (81:1) AH0 N
+into (87:0) IH0 N - T UW1 (87:1) IH1 N - T UW0 (87:2) IH0 N - T AH0
+a (88:0) AH0 (88:1) EY1
+nice (89:0) N AY1 S (89:1) N IY1 S
+advances, (99:0) AH0 D - V AE1 N - S AH0 Z (99:1) AH0 D - V AE1 N - S IH0 Z
+and (102:0) AE0 N D (102:1) AH0 N D
+chances, (107:0) CH AE1 N - S AH0 Z (107:1) CH AE1 N - S IH0 Z
+on (110:0) AA1 N (110:1) AO1 N
+the (111:0) DH AH0 (111:1) DH AH1 (111:2) DH IY0
+to (115:0) T UW0 (115:1) T IH0 (115:2) T AH0
+your (116:0) Y AO1 R (116:1) Y UH1 R
+ear (117:0) IH1 R (117:1) IY1 R
+a (119:0) AH0 (119:1) EY1
+don't (122:0) D OW1 N T (122:1) D OW1 N
+that (124:0) DH AE1 T (124:1) DH AH0 T
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see StoryOfOJ_Output_B_uncertainty.txt in the Poems directory
+
+Jay-Z (4:0)  JH EY1 Z
+dyin' (14:0)  D AY IH1 N
+ninety-nine (71:0)  N AY1 N- T AH0- N AY1 N
+niggas (104:0)  N IH1- G AH0 Z
+'gram (112:0)  G R AE1 M
+holdin' (113:0)  HH OW1- L D IH1 N

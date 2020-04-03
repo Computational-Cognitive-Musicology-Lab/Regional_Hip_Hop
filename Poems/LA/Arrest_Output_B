@@ -1,0 +1,227 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AOR: ['fore(7), warlord,(64)]
+AOR: ['Fore(11), warlord,(64)]
+AOR: ['fore(15), warlord,(64)]
+EY: [they(16), crazy(73)]
+EY: [they(16), halo(127)]
+EY: [they(16), basic(132)]
+EY: [they(16), matrix(142)]
+UW: [you(18), voodoo(67)]
+IHS: [this(25), crisscross(49)]
+OW: [rollin'(39), know(111)]
+OW: [rollin'(39), so(131)]
+OW: [rollin'(39), go(138)]
+AOR: [for(47), warlord,(64)]
+AOR: [warlord,(64), your(120)]
+AOR: [warlord,(64), your(134)]
+UW: [voodoo(67), through(71)]
+UW: [voodoo(67), you?(79)]
+UW: [voodoo(67), you(95)]
+UW: [voodoo(67), you(110)]
+UW: [voodoo(67), new(113)]
+UW: [voodoo(67), You(130)]
+AY: [I(69), tryin'(123)]
+EY: [crazy(73), they(77)]
+EHL: [Bellevue(75), tell(78)]
+EY: [they(77), halo(127)]
+EY: [they(77), basic(132)]
+EY: [they(77), matrix(142)]
+OW: [know(111), showing(119)]
+OW: [showing(119), so(131)]
+OW: [showing(119), go(138)]
+AY: [tryin'(123), my(126)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+UW: [you(18), to(124)]
+IY: [we(34), crazy(73)]
+IHN: [rollin'(39), winnin',(58)]
+IHN: [lookin'(45), winnin',(58)]
+IHK: [Rick(55), basic(132)]
+IHN: [winnin',(58), tryin'(123)]
+IHN: [winnin',(58), in(140)]
+IHNG: [bring(65), showing(119)]
+UW: [through(71), to(124)]
+UW: [you?(79), to(124)]
+UW: [you(95), to(124)]
+UW: [you(110), to(124)]
+OW: [know(111), halo(127)]
+UW: [new(113), to(124)]
+UW: [to(124), You(130)]
+OW: [halo(127), so(131)]
+OW: [halo(127), go(138)]
+IHK: [basic(132), stick(136)]
+
+
+Rule 2: ...-ON[C]'-...
+ST: [Arrest(0), lost(61), Arrest(92)]
+S: [Ice(3), this(25), crisscross(49), boss(53), Ross(56), replace(125)]
+T: [Get(5), shit(9), it(12), get(13), hit(17), out(46), get(60), What(76), that(81), got(96), That(99), it(105), it(107), white(114), apeshit(139)]
+RT: [smart(6), start(10)]
+R: ['fore(7), 'Fore(11), 'fore(15), for(47), warlord,(64), you're(118), your(120), They're(122), your(134)]
+DH: [with(19), with(40), with(128), with(133)]
+P: [crip(23), vape(135)]
+K: [walk,(24), talk(28), Smoke(29), Rick(55), like(74), Like(84), fuck(87), stick(136)]
+Z: [is(26), is(101), was(115)]
+L: [real(27), peel(35), still(38), Always(44), Always(57), bail(70), Bellevue(75), tell(78), Skull(89)]
+SH: [Kush(30), push(32)]
+N: [then(33), than(54), winnin',(58), When(68), alone(83), Alone,(86), When(104)]
+F: [off(36), off(43)]
+M: [I'm(50), Home(85)]
+TS: [It's(62), it's(72), Let's(137)]
+NZ: [Bones(91), rains(106)]
+RNZ: [horns(121), thorns(129)]
+
+
+Rule 3: ...-O[N]C'-...
+EH: [Arrest(0), President(2), Get(5), get(13), Better(22), then(33), get(60), When(68), Bellevue(75), tell(78), Arrest(92), president,(94), evidence(98), intelligence(103), When(104), They're(122), Let's(137)]
+AY: [Ice(3), I'm(50), I(69), like(74), Like(84), white(114), tryin'(123), my(126)]
+UW: [Cube(4), you(18), voodoo(67), through(71), you?(79), you(95), you(110), new(113), You(130)]
+AA: [smart(6), start(10), dark,(14), boss(53), Ross(56), got(96), was(115)]
+AO: ['fore(7), 'Fore(11), 'fore(15), walk,(24), talk(28), off(36), off(43), Always(44), for(47), Always(57), lost(61), warlord,(64), pours(108), orange?(116), your(120), horns(121), thorns(129), your(134)]
+IH: [shit(9), it(12), hit(17), with(19), pitchfork(21), crip(23), this(25), is(26), Niggas(37), still(38), with(40), crisscross(49), bigger(52), Rick(55), winnin',(58), nigga(59), It's(62), bring(65), it's(72), nigga(100), is(101), it(105), it(107), Did(109), with(128), with(133), stick(136), apeshit(139)]
+EY: [they(16), bail(70), crazy(73), they(77), rains(106), replace(125), halo(127), basic(132), vape(135), apeshit(139), matrix(142)]
+IY: [real(27), we(34), peel(35), wheels(42), Leave(80)]
+OW: [Smoke(29), rollin'(39), alone(83), Home(85), Alone,(86), Bones(91), know(111), showing(119), so(131), go(138)]
+UH: [Kush(30), push(32), lookin'(45), you're(118)]
+AE: [than(54), that(81), That(99)]
+AH: [What(76), fuck(87), Skull(89), Russian(102)]
+OY: [boy(82), Boy,(117)]
+
+
+Rule 4: ...-[O']N[C']'-...
+ST: [Arrest(0), Arrest(92)]
+PR: [President(2), president,(94)]
+S: [Ice(3), so(131)]
+GT: [Get(5), get(13), get(60), got(96)]
+FR: ['fore(7), 'Fore(11), 'fore(15), for(47)]
+SHT: [shit(9), apeshit(139)]
+T: [it(12), out(46), intelligence(103), it(105), it(107)]
+DH: [they(16), they(77)]
+Y: [you(18), you?(79), you(95), you(110), You(130)]
+WDH: [with(19), with(40), with(128), with(133)]
+B: [Better(22), bigger(52), boy(82), Boy,(117), basic(132)]
+Z: [is(26), is(101)]
+DHN: [then(33), than(54)]
+W: [we(34), winnin',(58)]
+F: [off(36), off(43)]
+N: [Niggas(37), nigga(59), nigga(100), know(111), new(113)]
+R: [rollin'(39), Russian(102)]
+L: [Always(44), lookin'(45), Always(57)]
+M: [I'm(50), my(126), matrix(142)]
+TS: [It's(62), it's(72)]
+WN: [When(68), When(104)]
+BL: [bail(70), Bellevue(75)]
+LK: [like(74), Like(84)]
+WT: [What(76), white(114)]
+DHT: [that(81), That(99)]
+LN: [alone(83), Alone,(86)]
+YR: [you're(118), your(120), your(134)]
+
+
+
+
+Poem with word IDs:
+
+Arrest(0) The(1) President(2) 
+Ice(3) Cube(4) 
+
+Get(5) smart(6) 'fore(7) the(8) shit(9) start(10) 
+'Fore(11) it(12) get(13) dark,(14) 'fore(15) they(16) hit(17) you(18) with(19) a(20) pitchfork(21) 
+Better(22) crip(23) walk,(24) this(25) is(26) real(27) talk(28) 
+Smoke(29) Kush(30) and(31) push(32) then(33) we(34) peel(35) off(36) 
+Niggas(37) still(38) rollin'(39) with(40) the(41) wheels(42) off(43) 
+Always(44) lookin'(45) out(46) for(47) the(48) crisscross(49) 
+I'm(50) a(51) bigger(52) boss(53) than(54) Rick(55) Ross(56) 
+Always(57) winnin',(58) nigga(59) get(60) lost(61) 
+It's(62) the(63) warlord,(64) bring(65) the(66) voodoo(67) 
+When(68) I(69) bail(70) through(71) it's(72) crazy(73) like(74) Bellevue(75) 
+What(76) they(77) tell(78) you?(79) Leave(80) that(81) boy(82) alone(83) 
+Like(84) Home(85) Alone,(86) fuck(87) the(88) Skull(89) &(90) Bones(91) 
+Arrest(92) the(93) president,(94) you(95) got(96) the(97) evidence(98) 
+That(99) nigga(100) is(101) Russian(102) intelligence(103) 
+When(104) it(105) rains(106) it(107) pours(108) 
+Did(109) you(110) know(111) the(112) new(113) white(114) was(115) orange?(116) 
+Boy,(117) you're(118) showing(119) your(120) horns(121) 
+They're(122) tryin'(123) to(124) replace(125) my(126) halo(127) with(128) thorns(129) 
+You(130) so(131) basic(132) with(133) your(134) vape(135) stick(136) 
+Let's(137) go(138) apeshit(139) in(140) the(141) matrix(142) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Arrest_Output_B_uncertainty.txt in the Poems directory
+
+The (1:0) DH AH0 (1:1) DH AH1 (1:2) DH IY0
+President (2:0) P R EH1 - Z AH0 - D EH2 N T (2:1) P R EH1 - Z IH0 - D AH0 N T
+Get (5:0) G EH1 T (5:1) G IH1 T
+the (8:0) DH AH0 (8:1) DH AH1 (8:2) DH IY0
+it (12:0) IH1 T (12:1) IH0 T
+get (13:0) G EH1 T (13:1) G IH1 T
+with (19:0) W IH1 DH (19:1) W IH1 TH (19:2) W IH0 TH (19:3) W IH0 DH
+a (20:0) AH0 (20:1) EY1
+walk, (24:0) W AO1 K (24:1) W AA1 K
+this (25:0) DH IH1 S (25:1) DH IH0 S
+is (26:0) IH1 Z (26:1) IH0 Z
+and (31:0) AE0 N D (31:1) AH0 N D
+with (40:0) W IH1 DH (40:1) W IH1 TH (40:2) W IH0 TH (40:3) W IH0 DH
+the (41:0) DH AH0 (41:1) DH AH1 (41:2) DH IY0
+wheels (42:0) W IY1 L Z (42:1) HH W IY1 L Z
+Always (44:0) AO1 L - W EY2 Z (44:1) AO1 L - W IY0 Z
+for (47:0) F AO1 R (47:1) F ER0 (47:2) F R ER0
+the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+a (51:0) AH0 (51:1) EY1
+boss (53:0) B AA1 S (53:1) B AO1 S
+than (54:0) DH AE1 N (54:1) DH AH0 N
+Ross (56:0) R AA1 S (56:1) R AO1 S
+Always (57:0) AO1 L - W EY2 Z (57:1) AO1 L - W IY0 Z
+get (60:0) G EH1 T (60:1) G IH1 T
+It's (62:0) IH1 T S (62:1) IH0 T S
+the (63:0) DH AH0 (63:1) DH AH1 (63:2) DH IY0
+the (66:0) DH AH0 (66:1) DH AH1 (66:2) DH IY0
+When (68:0) W EH1 N (68:1) HH W EH1 N (68:2) W IH1 N (68:3) HH W IH1 N
+it's (72:0) IH1 T S (72:1) IH0 T S
+What (76:0) W AH1 T (76:1) HH W AH1 T
+that (81:0) DH AE1 T (81:1) DH AH0 T
+the (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+& (90:0) AE0 N D (90:1) AH0 N D
+the (93:0) DH AH0 (93:1) DH AH1 (93:2) DH IY0
+president, (94:0) P R EH1 - Z AH0 - D EH2 N T (94:1) P R EH1 - Z IH0 - D AH0 N T
+the (97:0) DH AH0 (97:1) DH AH1 (97:2) DH IY0
+That (99:0) DH AE1 T (99:1) DH AH0 T
+is (101:0) IH1 Z (101:1) IH0 Z
+When (104:0) W EH1 N (104:1) HH W EH1 N (104:2) W IH1 N (104:3) HH W IH1 N
+it (105:0) IH1 T (105:1) IH0 T
+it (107:0) IH1 T (107:1) IH0 T
+Did (109:0) D IH1 D (109:1) D IH0 D
+the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+new (113:0) N UW1 (113:1) N Y UW1
+white (114:0) W AY1 T (114:1) HH W AY1 T
+was (115:0) W AA1 Z (115:1) W AH1 Z (115:2) W AH0 Z (115:3) W AO1 Z
+orange? (116:0) AO1 - R AH0 N JH (116:1) AO1 - R IH0 N JH
+you're (118:0) Y UH1 R (118:1) Y UW1 R
+your (120:0) Y AO1 R (120:1) Y UH1 R
+to (124:0) T UW0 (124:1) T IH0 (124:2) T AH0
+replace (125:0) R IY2 - P L EY1 S (125:1) ER0 - P L EY1 S
+with (128:0) W IH1 DH (128:1) W IH1 TH (128:2) W IH0 TH (128:3) W IH0 DH
+with (133:0) W IH1 DH (133:1) W IH1 TH (133:2) W IH0 TH (133:3) W IH0 DH
+your (134:0) Y AO1 R (134:1) Y UH1 R
+in (140:0) IH0 N (140:1) IH1 N
+the (141:0) DH AH0 (141:1) DH AH1 (141:2) DH IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Arrest_Output_B_uncertainty.txt in the Poems directory
+
+'fore (7:0)  F AO1 R
+'Fore (11:0)  F AO1 R
+'fore (15:0)  F AO1 R
+Niggas (37:0)  N IH1- G AH0 Z
+winnin', (58:0)  W IH1- N IH1 N
+nigga (59:0)  N IH1- G AH0
+nigga (100:0)  N IH1- G AH0
+vape (135:0)  V EY1 P
+apeshit (139:0)  EY1- P AH0- SH IH1 T

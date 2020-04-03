@@ -1,0 +1,113 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%a (4:0) AH0 (4:1) EY1
+4:0
+%in (6:0) IH0 N (6:1) IH1 N
+6:0
+%this (7:0) DH IH1 S (7:1) DH IH0 S
+7:0
+%with (9:0) W IH1 DH (9:1) W IH1 TH (9:2) W IH0 TH (9:3) W IH0 DH
+9:0
+%extended (10:0) IH0 K - S T EH1 N - D AH0 D (10:1) IH0 K - S T EH1 N - D IH0 D
+10:0
+%when (16:0) W EH1 N (16:1) HH W EH1 N (16:2) W IH1 N (16:3) HH W IH1 N
+16:0
+%the (20:0) DH AH0 (20:1) DH AH1 (20:2) DH IY0
+20:0
+%with (23:0) W IH1 DH (23:1) W IH1 TH (23:2) W IH0 TH (23:3) W IH0 DH
+23:0
+%a (24:0) AH0 (24:1) EY1
+24:0
+%for (26:0) F AO1 R (26:1) F ER0 (26:2) F R ER0
+26:0
+%a (27:0) AH0 (27:1) EY1
+27:0
+%if (29:0) IH1 F (29:1) IH0 F
+29:0
+%it (32:0) IH1 T (32:1) IH0 T
+32:0
+%It's (33:0) IH1 T S (33:1) IH0 T S
+33:0
+%it's (39:0) IH1 T S (39:1) IH0 T S
+39:0
+%to (46:0) T UW0 (46:1) T IH0 (46:2) T AH0
+46:0
+%the (47:0) DH AH0 (47:1) DH AH1 (47:2) DH IY0
+47:0
+%a (52:0) AH0 (52:1) EY1
+52:0
+%just (62:0) JH AH1 S T (62:1) JH IH0 S T
+62:0
+%to (63:0) T UW0 (63:1) T IH0 (63:2) T AH0
+63:0
+%on (65:0) AA1 N (65:1) AO1 N
+65:0
+%always (69:0) AO1 L - W EY2 Z (69:1) AO1 L - W IY0 Z
+69:0
+%a (71:0) AH0 (71:1) EY1
+71:0
+%for (74:0) F AO1 R (74:1) F ER0 (74:2) F R ER0
+74:0
+%a (75:0) AH0 (75:1) EY1
+75:0
+%with (80:0) W IH1 DH (80:1) W IH1 TH (80:2) W IH0 TH (80:3) W IH0 DH
+80:0
+%the (81:0) DH AH0 (81:1) DH AH1 (81:2) DH IY0
+81:0
+%It (84:0) IH1 T (84:1) IH0 T
+84:0
+%don't (85:0) D OW1 N T (85:1) D OW1 N
+85:0
+%always (94:0) AO1 L - W EY2 Z (94:1) AO1 L - W IY0 Z
+94:0
+%was (99:0) W AA1 Z (99:1) W AH1 Z (99:2) W AH0 Z (99:3) W AO1 Z
+99:0
+%to (102:0) T UW0 (102:1) T IH0 (102:2) T AH0
+102:0
+%in (104:0) IH0 N (104:1) IH1 N
+104:0
+%to (107:0) T UW0 (107:1) T IH0 (107:2) T AH0
+107:0
+%in, (109:0) IH0 N (109:1) IH1 N
+109:0
+%really (113:0) R IH1 - L IY0 (113:1) R IY1 - L IY0
+113:0
+%on (118:0) AA1 N (118:1) AO1 N
+118:0
+%forensic, (130:0) F ER0 - EH1 N - S IH0 K (130:1) F AO2 - R EH1 N - S IH0 K
+130:0
+%this (138:0) DH IH1 S (138:1) DH IH0 S
+138:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Cappin (1:0)  K AE1- P IH1 N
+1:0
+%Blueface (2:0)  B L UW1- F EY1 S
+2:0
+%'bout (40:0)  B AW1 T
+40:0
+%full-fledged (82:0)  F UH1- L F L EH1 JH D
+82:0
+%'cause (97:0)  K AW1 Z
+97:0
+%pissin' (114:0)  P IH1- S IH1 N
+114:0
+%Blueface (115:0)  B L UW1- F EY1 S
+115:0
+%bust-down, (116:0)  B AH1 S T- D AW1 N
+116:0
+%Aquafina (117:0)  AA1- K W AH0- F IY1- N AH0
+117:0
+%Grown-ass (121:0)  G R AW1- N AE1 S
+121:0
+********End******

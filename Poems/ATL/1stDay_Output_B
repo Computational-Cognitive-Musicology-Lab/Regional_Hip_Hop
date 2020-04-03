@@ -1,0 +1,443 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+EY: [Day(1), patient(97)]
+EY: [Day(1), crazy(191)]
+EY: [Day(1), later(247)]
+UW: [Gucci(5), You(127)]
+UW: [Gucci(5), you(135)]
+UW: [shooters(9), You(127)]
+UW: [shooters(9), you(135)]
+AY: [my(15), Trying(94)]
+AY: [I(17), Trying(94)]
+OW: [so(19), focus(60)]
+AOR: [normal(25), nor(46)]
+AOR: [normal(25), or(131)]
+AOR: [normal(25), or(134)]
+IY: [me(27), either(128)]
+IY: [me(27), people(179)]
+IY: [me(27), people(207)]
+IY: [me(27), evil(212)]
+IY: [me(27), people(238)]
+AY: [I(29), Trying(94)]
+AY: [I(33), Trying(94)]
+AY: [I(43), Trying(94)]
+EY: [play(45), patient(97)]
+EY: [play(45), crazy(191)]
+EY: [play(45), later(247)]
+EY: [pray(47), patient(97)]
+EY: [pray(47), crazy(191)]
+EY: [pray(47), later(247)]
+AY: [I(54), Trying(94)]
+OW: [focus(60), go(76)]
+OW: [focus(60), So(114)]
+OW: [focus(60), so(192)]
+OW: [focus(60), so(220)]
+OW: [focus(60), know(250)]
+EY: [day(62), patient(97)]
+EY: [day(62), crazy(191)]
+EY: [day(62), later(247)]
+AW: [shower(71), how(119)]
+AY: [my(73), Trying(94)]
+AY: [my(80), Trying(94)]
+AY: [I(84), Trying(94)]
+AY: [my(92), Trying(94)]
+AY: [Trying(94), I(100)]
+AY: [Trying(94), my(108)]
+AY: [Trying(94), my(112)]
+AY: [Trying(94), I(120)]
+AY: [Trying(94), I(124)]
+AY: [Trying(94), my(137)]
+AY: [Trying(94), I(139)]
+AY: [Trying(94), I(148)]
+AY: [Trying(94), I(160)]
+AY: [Trying(94), I(164)]
+AY: [Trying(94), I(171)]
+AY: [Trying(94), I(184)]
+AY: [Trying(94), I(194)]
+AY: [Trying(94), I(201)]
+AY: [Trying(94), My(223)]
+AY: [Trying(94), my(233)]
+AY: [Trying(94), I(235)]
+AY: [Trying(94), my(253)]
+AY: [Trying(94), I(256)]
+AY: [Trying(94), I(258)]
+AY: [Trying(94), I(261)]
+AY: [Trying(94), I(264)]
+AY: [Trying(94), my(273)]
+IY: [be(96), either(128)]
+IY: [be(96), people(179)]
+IY: [be(96), people(207)]
+IY: [be(96), evil(212)]
+IY: [be(96), people(238)]
+EY: [patient(97), they(116)]
+EY: [patient(97), say(126)]
+EY: [patient(97), way(138)]
+EY: [patient(97), they(153)]
+EY: [patient(97), They(188)]
+EY: [patient(97), day(275)]
+EY: [they(116), crazy(191)]
+EY: [they(116), later(247)]
+IY: [me(118), either(128)]
+IY: [me(118), people(179)]
+IY: [me(118), people(207)]
+IY: [me(118), evil(212)]
+IY: [me(118), people(238)]
+EY: [say(126), crazy(191)]
+EY: [say(126), later(247)]
+IY: [either(128), me,(130)]
+IY: [either(128), me,(133)]
+IY: [either(128), me,(157)]
+IY: [either(128), me(182)]
+IY: [either(128), me(190)]
+IY: [either(128), me,(219)]
+IY: [either(128), me,(230)]
+IY: [either(128), three(237)]
+IY: [either(128), me(241)]
+IY: [me,(130), people(179)]
+IY: [me,(130), people(207)]
+IY: [me,(130), evil(212)]
+IY: [me,(130), people(238)]
+IY: [me,(133), people(179)]
+IY: [me,(133), people(207)]
+IY: [me,(133), evil(212)]
+IY: [me,(133), people(238)]
+EY: [way(138), crazy(191)]
+EY: [way(138), later(247)]
+EY: [they(153), crazy(191)]
+EY: [they(153), later(247)]
+IY: [me,(157), people(179)]
+IY: [me,(157), people(207)]
+IY: [me,(157), evil(212)]
+IY: [me,(157), people(238)]
+IY: [people(179), me(182)]
+IY: [people(179), me(190)]
+IY: [people(179), me,(219)]
+IY: [people(179), me,(230)]
+IY: [people(179), three(237)]
+IY: [people(179), me(241)]
+IY: [me(182), people(207)]
+IY: [me(182), evil(212)]
+IY: [me(182), people(238)]
+EY: [They(188), crazy(191)]
+EY: [They(188), later(247)]
+IY: [me(190), people(207)]
+IY: [me(190), evil(212)]
+IY: [me(190), people(238)]
+EY: [crazy(191), day(275)]
+IY: [people(207), me,(219)]
+IY: [people(207), me,(230)]
+IY: [people(207), three(237)]
+IY: [people(207), me(241)]
+IY: [evil(212), me,(219)]
+IY: [evil(212), me,(230)]
+IY: [evil(212), three(237)]
+IY: [evil(212), me(241)]
+IY: [me,(219), people(238)]
+IY: [me,(230), people(238)]
+IY: [three(237), people(238)]
+IY: [people(238), me(241)]
+EY: [later(247), day(275)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [Gucci(5), me(27)]
+IY: [Gucci(5), be(96)]
+IY: [Gucci(5), me(118)]
+IY: [Gucci(5), me,(130)]
+IY: [Gucci(5), me,(133)]
+IY: [Gucci(5), me,(157)]
+IY: [Gucci(5), me(182)]
+IY: [Gucci(5), me(190)]
+IY: [Gucci(5), me,(219)]
+IY: [Gucci(5), me,(230)]
+IY: [Gucci(5), three(237)]
+IY: [Gucci(5), me(241)]
+IY: [many(20), me(27)]
+IY: [many(20), be(96)]
+IY: [many(20), me(118)]
+IY: [many(20), me,(130)]
+IY: [many(20), me,(133)]
+IY: [many(20), me,(157)]
+IY: [many(20), me(182)]
+IY: [many(20), me(190)]
+IY: [many(20), me,(219)]
+IY: [many(20), me,(230)]
+IY: [many(20), three(237)]
+IY: [many(20), me(241)]
+UW: [to(26), You(127)]
+UW: [to(26), you(135)]
+IY: [me(27), every(61)]
+IY: [me(27), hungry(144)]
+IY: [me(27), pedigree(168)]
+IY: [me(27), crazy(191)]
+AHM: ['em(56), some(88)]
+AHM: ['em(56), some(203)]
+AHM: ['em(56), some(206)]
+IY: [every(61), be(96)]
+IY: [every(61), me(118)]
+IY: [every(61), me,(130)]
+IY: [every(61), me,(133)]
+IY: [every(61), me,(157)]
+IY: [every(61), me(182)]
+IY: [every(61), me(190)]
+IY: [every(61), me,(219)]
+IY: [every(61), me,(230)]
+IY: [every(61), three(237)]
+IY: [every(61), me(241)]
+UW: [to(77), You(127)]
+UW: [to(77), you(135)]
+AHM: [some(88), 'em(123)]
+UW: [to(95), You(127)]
+UW: [to(95), you(135)]
+IY: [be(96), hungry(144)]
+IY: [be(96), pedigree(168)]
+IY: [be(96), crazy(191)]
+UW: [to(106), You(127)]
+UW: [to(106), you(135)]
+IY: [me(118), hungry(144)]
+IY: [me(118), pedigree(168)]
+IY: [me(118), crazy(191)]
+AHM: ['em(123), some(203)]
+AHM: ['em(123), some(206)]
+UW: [You(127), to(198)]
+UW: [You(127), to(205)]
+UW: [You(127), to(218)]
+UW: [You(127), to(240)]
+IY: [me,(130), hungry(144)]
+IY: [me,(130), pedigree(168)]
+IY: [me,(130), crazy(191)]
+IY: [me,(133), hungry(144)]
+IY: [me,(133), pedigree(168)]
+IY: [me,(133), crazy(191)]
+UW: [you(135), to(198)]
+UW: [you(135), to(205)]
+UW: [you(135), to(218)]
+UW: [you(135), to(240)]
+IY: [hungry(144), me,(157)]
+IY: [hungry(144), me(182)]
+IY: [hungry(144), me(190)]
+IY: [hungry(144), me,(219)]
+IY: [hungry(144), me,(230)]
+IY: [hungry(144), three(237)]
+IY: [hungry(144), me(241)]
+IY: [me,(157), pedigree(168)]
+IY: [me,(157), crazy(191)]
+IY: [pedigree(168), me(182)]
+IY: [pedigree(168), me(190)]
+IY: [pedigree(168), me,(219)]
+IY: [pedigree(168), me,(230)]
+IY: [pedigree(168), three(237)]
+IY: [pedigree(168), me(241)]
+IY: [me(182), crazy(191)]
+IY: [me(190), crazy(191)]
+IY: [crazy(191), me,(219)]
+IY: [crazy(191), me,(230)]
+IY: [crazy(191), three(237)]
+IY: [crazy(191), me(241)]
+
+
+Rule 2: ...-ON[C]'-...
+ST: [First(0), just(36), Last(82), best(167), lost(236), first(274)]
+T: [Out(2), get(18), But(28), it(65), out(66), night(83), but(98), wait(102), beat(111), about(122), got(140), might(154), but(169), lot(177), that(208), right(211), it(214), shot(251), But(255)]
+N: [Mane(6), Main(59), ran(90), On(103), when(115), Then(152), turn(155), on(156), down(210), own(224), on(229), one(243), Ten(245)]
+M: [I'm(7), I'm(13), dream(87), some(88), room(93), em(151), em(163), em(174), blame(186), em(187), I'm(196), em(200), some(203), some(206)]
+D: [load(10), had(85), feed(150), need(162), breed(173), did(202)]
+L: [while(12), kill(107), feel(121), feel(158), hell(170), call(189), still(248)]
+TH: [teeth(16), death(21)]
+TS: [threats(22), it's(23), boots(74), It's(175), that's(232), it's(272)]
+R: [normal(25), nor(46), hear(55), sharpening(57), here(67), or(131), or(134), starting(197), karma(215)]
+ND: [bend(30), turned(226), bend(257)]
+NT: [don't(31), don't(34), don't(44), can't(101), can't(125), don't(149), don't(161), don't(172), can't(185), don't(249), don't(259), don't(262)]
+K: [break,(32), take(37), Black(38), black(40), Wake(48), take(51), make(64), Take(69), pack(142), like(159), back(217), back(228), break,(260), take(265), Black(266), black(269)]
+SK: [ask(35), ask(117), ask(263)]
+VZ: [gloves,(39), knives(58), gloves(267)]
+P: [tape(41), up(49), sleep(78), keep(165), up(252), tape,(270)]
+S: [piss,(53), chase(105), case(113), close(239)]
+Z: [is(63), shoes(81), was(209), Is(213)]
+V: [alive(68), believe(199)]
+CH: [much,(193), much(221)]
+
+
+Rule 3: ...-O[N]C'-...
+ER: [First(0), turn(155), turned(226), first(274)]
+EY: [Day(1), Mane(6), break,(32), take(37), tape(41), play(45), pray(47), Wake(48), take(51), Main(59), day(62), make(64), Take(69), patient(97), wait(102), chase(105), case(113), they(116), say(126), way(138), they(153), blame(186), They(188), crazy(191), later(247), break,(260), take(265), tape,(270), day(275)]
+AW: [Out(2), out(66), shower(71), how(119), about(122), down(210)]
+EH: [Feds(4), get(18), many(20), death(21), threats(22), getting(24), bend(30), every(61), enemies(109), when(115), against(132), em(151), Then(152), em(163), best(167), pedigree(168), hell(170), em(174), scared(180), em(187), em(200), Ten(245), bend(257)]
+UW: [Gucci(5), shooters(9), boots(74), shoes(81), room(93), You(127), you(135)]
+AY: [I'm(7), while(12), I'm(13), my(15), I(17), I(29), I(33), I(43), I(54), knives(58), alive(68), my(73), my(80), night(83), I(84), my(92), Trying(94), I(100), my(108), my(112), I(120), I(124), my(137), I(139), I(148), might(154), like(159), I(160), I(164), I(171), I(184), I(194), I'm(196), I(201), right(211), My(223), my(233), I(235), my(253), I(256), I(258), I(261), I(264), my(273)]
+IH: [hearing(8), pistols(11), it's(23), piss,(53), hear(55), is(63), it(65), here(67), killers(89), nigga(99), kill(107), with(129), if(147), It's(175), think(195), did(202), things(204), Is(213), it(214), years(246), still(248), nigga(271), it's(272)]
+OW: [load(10), so(19), don't(31), don't(34), don't(44), focus(60), go(76), So(114), don't(149), don't(161), don't(172), so(192), so(220), own(224), close(239), don't(249), know(250), don't(259), don't(262)]
+AH: [brushing(14), But(28), just(36), gloves,(39), up(49), some(88), but(98), hungry(144), but(169), much,(193), some(203), some(206), coming(216), much(221), one(243), summer(244), up(252), Hummer(254), But(255), gloves(267)]
+IY: [teeth(16), me(27), sleep(78), dream(87), be(96), beat(111), me(118), feel(121), either(128), me,(130), me,(133), feed(150), me,(157), feel(158), need(162), keep(165), breed(173), people(179), me(182), me(190), believe(199), people(207), evil(212), me,(219), me,(230), three(237), people(238), me(241)]
+AO: [normal(25), nor(46), or(131), or(134), call(189), lost(236)]
+AE: [ask(35), Black(38), black(40), Last(82), had(85), ran(90), can't(101), ask(117), can't(125), pack(142), can't(185), that(208), back(217), back(228), that's(232), ask(263), Black(266), black(269)]
+AA: [sharpening(57), On(103), got(140), on(156), lot(177), starting(197), was(209), karma(215), drama(222), mama(225), on(229), mama(234), shot(251)]
+
+
+Rule 4: ...-[O']N[C']'-...
+FST: [First(0), first(274)]
+D: [Day(1), day(62), day(275)]
+T: [Out(2), it(65), out(66), it(214)]
+G: [Gucci(5), getting(24), go(76)]
+MN: [Mane(6), Main(59)]
+M: [I'm(7), I'm(13), my(15), many(20), me(27), my(73), my(80), my(92), my(108), my(112), me(118), me,(130), me,(133), my(137), em(151), me,(157), em(163), em(174), me(182), em(187), me(190), I'm(196), em(200), me,(219), My(223), mama(225), me,(230), my(233), mama(234), me(241), my(253), my(273)]
+HH: [hearing(8), how(119), Hummer(254)]
+SH: [shooters(9), shower(71)]
+P: [pistols(11), up(49), patient(97), pedigree(168), people(179), people(207), people(238), up(252)]
+GT: [get(18), got(140)]
+S: [so(19), So(114), say(126), so(192), so(220), summer(244)]
+TS: [it's(23), It's(175), it's(272)]
+NR: [normal(25), nor(46)]
+BT: [But(28), but(98), beat(111), about(122), but(169), But(255)]
+BND: [bend(30), bend(257)]
+DNT: [don't(31), don't(34), don't(44), don't(149), don't(161), don't(172), don't(249), don't(259), don't(262)]
+BRK: [break,(32), break,(260)]
+SK: [ask(35), ask(117), ask(263)]
+TK: [take(37), take(51), Take(69), take(265)]
+BLK: [Black(38), black(40), Black(266), black(269)]
+GLVZ: [gloves,(39), gloves(267)]
+TP: [tape(41), tape,(270)]
+HHR: [hear(55), here(67)]
+F: [focus(60), if(147)]
+Z: [is(63), Is(213)]
+LV: [alive(68), believe(199)]
+LST: [Last(82), lost(236)]
+SM: [some(88), some(203), some(206)]
+K: [killers(89), coming(216)]
+N: [nigga(99), On(103), on(156), own(224), on(229), know(250), nigga(271)]
+KNT: [can't(101), can't(125), can't(185)]
+KL: [kill(107), call(189)]
+WN: [when(115), one(243)]
+DH: [they(116), they(153), They(188)]
+FL: [feel(121), feel(158)]
+Y: [You(127), you(135)]
+R: [or(131), or(134)]
+TN: [turn(155), Ten(245)]
+KR: [crazy(191), karma(215)]
+MCH: [much,(193), much(221)]
+BK: [back(217), back(228)]
+
+
+
+
+Poem with word IDs:
+
+First(0) Day(1) Out(2) Tha(3) Feds(4) 
+Gucci(5) Mane(6) 
+
+I'm(7) hearing(8) shooters(9) load(10) pistols(11) while(12) I'm(13) brushing(14) my(15) teeth(16) 
+I(17) get(18) so(19) many(20) death(21) threats(22) it's(23) getting(24) normal(25) to(26) me(27) 
+But(28) I(29) bend(30) don't(31) break,(32) I(33) don't(34) ask(35) just(36) take(37) 
+Black(38) gloves,(39) black(40) tape(41) and(42) I(43) don't(44) play(45) nor(46) pray(47) 
+Wake(48) up(49) and(50) take(51) a(52) piss,(53) I(54) hear(55) 'em(56) sharpening(57) knives(58) 
+Main(59) focus(60) every(61) day(62) is(63) make(64) it(65) out(66) here(67) alive(68) 
+Take(69) a(70) shower(71) in(72) my(73) boots(74) and(75) go(76) to(77) sleep(78) in(79) my(80) shoes(81) 
+Last(82) night(83) I(84) had(85) a(86) dream(87) some(88) killers(89) ran(90) in(91) my(92) room(93) 
+Trying(94) to(95) be(96) patient(97) but(98) nigga(99) I(100) can't(101) wait(102) 
+On(103) the(104) chase(105) to(106) kill(107) my(108) enemies(109) and(110) beat(111) my(112) case(113) 
+So(114) when(115) they(116) ask(117) me(118) how(119) I(120) feel(121) about(122) 'em(123) I(124) can't(125) say(126) 
+You(127) either(128) with(129) me,(130) or(131) against(132) me,(133) or(134) you(135) in(136) my(137) way(138) 
+I(139) got(140) a(141) pack(142) of(143) hungry(144) wolves(145) and(146) if(147) I(148) don't(149) feed(150) em(151) 
+Then(152) they(153) might(154) turn(155) on(156) me,(157) feel(158) like(159) I(160) don't(161) need(162) em(163) 
+I(164) keep(165) the(166) best(167) pedigree(168) but(169) hell(170) I(171) don't(172) breed(173) em(174) 
+It's(175) a(176) lot(177) of(178) people(179) scared(180) of(181) me(182) and(183) I(184) can't(185) blame(186) em(187) 
+They(188) call(189) me(190) crazy(191) so(192) much,(193) I(194) think(195) I'm(196) starting(197) to(198) believe(199) em(200) 
+I(201) did(202) some(203) things(204) to(205) some(206) people(207) that(208) was(209) down(210) right(211) evil(212) 
+Is(213) it(214) karma(215) coming(216) back(217) to(218) me,(219) so(220) much(221) drama(222) 
+My(223) own(224) mama(225) turned(226) her(227) back(228) on(229) me,(230) and(231) that's(232) my(233) mama(234) 
+I(235) lost(236) three(237) people(238) close(239) to(240) me(241) in(242) one(243) summer(244) 
+Ten(245) years(246) later(247) still(248) don't(249) know(250) shot(251) up(252) my(253) Hummer(254) 
+But(255) I(256) bend(257) I(258) don't(259) break,(260) I(261) don't(262) ask(263) I(264) take(265) 
+Black(266) gloves(267) and(268) black(269) tape,(270) nigga(271) it's(272) my(273) first(274) day(275) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see 1stDay_Output_B_uncertainty.txt in the Poems directory
+
+while (12:0) W AY1 L (12:1) HH W AY1 L
+get (18:0) G EH1 T (18:1) G IH1 T
+it's (23:0) IH1 T S (23:1) IH0 T S
+getting (24:0) G EH1 - T IH0 NG (24:1) G IH1 - T IH0 NG
+to (26:0) T UW0 (26:1) T IH0 (26:2) T AH0
+don't (31:0) D OW1 N T (31:1) D OW1 N
+don't (34:0) D OW1 N T (34:1) D OW1 N
+just (36:0) JH AH1 S T (36:1) JH IH0 S T
+and (42:0) AE0 N D (42:1) AH0 N D
+don't (44:0) D OW1 N T (44:1) D OW1 N
+and (50:0) AE0 N D (50:1) AH0 N D
+a (52:0) AH0 (52:1) EY1
+sharpening (57:0) SH AA1 R - P AH0 - N IH0 NG (57:1) SH AA1 R P - N IH0 NG
+focus (60:0) F OW1 - K AH0 S (60:1) F OW1 - K IH0 S
+every (61:0) EH1 - V ER0 - IY0 (61:1) EH1 - V R IY0
+is (63:0) IH1 Z (63:1) IH0 Z
+it (65:0) IH1 T (65:1) IH0 T
+a (70:0) AH0 (70:1) EY1
+in (72:0) IH0 N (72:1) IH1 N
+and (75:0) AE0 N D (75:1) AH0 N D
+to (77:0) T UW0 (77:1) T IH0 (77:2) T AH0
+in (79:0) IH0 N (79:1) IH1 N
+Last (82:0) L AE1 S T (82:1) L AO1 S T (82:2) L AE1 S
+a (86:0) AH0 (86:1) EY1
+in (91:0) IH0 N (91:1) IH1 N
+Trying (94:0) T R AY1 - IH0 NG (94:1) T R AY1 NG
+to (95:0) T UW0 (95:1) T IH0 (95:2) T AH0
+be (96:0) B IY1 (96:1) B IY0
+On (103:0) AA1 N (103:1) AO1 N
+the (104:0) DH AH0 (104:1) DH AH1 (104:2) DH IY0
+to (106:0) T UW0 (106:1) T IH0 (106:2) T AH0
+and (110:0) AE0 N D (110:1) AH0 N D
+when (115:0) W EH1 N (115:1) HH W EH1 N (115:2) W IH1 N (115:3) HH W IH1 N
+either (128:0) IY1 - DH ER0 (128:1) AY1 - DH ER0
+with (129:0) W IH1 DH (129:1) W IH1 TH (129:2) W IH0 TH (129:3) W IH0 DH
+or (131:0) AO1 R (131:1) ER0
+or (134:0) AO1 R (134:1) ER0
+in (136:0) IH0 N (136:1) IH1 N
+a (141:0) AH0 (141:1) EY1
+of (143:0) AH0 V (143:1) AH0 V
+and (146:0) AE0 N D (146:1) AH0 N D
+if (147:0) IH1 F (147:1) IH0 F
+don't (149:0) D OW1 N T (149:1) D OW1 N
+on (156:0) AA1 N (156:1) AO1 N
+don't (161:0) D OW1 N T (161:1) D OW1 N
+the (166:0) DH AH0 (166:1) DH AH1 (166:2) DH IY0
+don't (172:0) D OW1 N T (172:1) D OW1 N
+It's (175:0) IH1 T S (175:1) IH0 T S
+a (176:0) AH0 (176:1) EY1
+lot (177:0) L AA1 T (177:1) L AO1 T
+of (178:0) AH0 V (178:1) AH0 V
+of (181:0) AH0 V (181:1) AH0 V
+and (183:0) AE0 N D (183:1) AH0 N D
+to (198:0) T UW0 (198:1) T IH0 (198:2) T AH0
+did (202:0) D IH1 D (202:1) D IH0 D
+to (205:0) T UW0 (205:1) T IH0 (205:2) T AH0
+that (208:0) DH AE1 T (208:1) DH AH0 T
+was (209:0) W AA1 Z (209:1) W AH1 Z (209:2) W AH0 Z (209:3) W AO1 Z
+Is (213:0) IH1 Z (213:1) IH0 Z
+it (214:0) IH1 T (214:1) IH0 T
+to (218:0) T UW0 (218:1) T IH0 (218:2) T AH0
+her (227:0) HH ER0 (227:1) HH ER1
+on (229:0) AA1 N (229:1) AO1 N
+and (231:0) AE0 N D (231:1) AH0 N D
+close (239:0) K L OW1 S (239:1) K L OW1 Z
+to (240:0) T UW0 (240:1) T IH0 (240:2) T AH0
+in (242:0) IH0 N (242:1) IH1 N
+one (243:0) W AH1 N (243:1) HH W AH1 N
+years (246:0) Y IH1 R Z (246:1) Y ER0 Z
+don't (249:0) D OW1 N T (249:1) D OW1 N
+don't (259:0) D OW1 N T (259:1) D OW1 N
+don't (262:0) D OW1 N T (262:1) D OW1 N
+and (268:0) AE0 N D (268:1) AH0 N D
+it's (272:0) IH1 T S (272:1) IH0 T S
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see 1stDay_Output_B_uncertainty.txt in the Poems directory
+
+Tha (3:0)  TH AH0
+'em (56:0)  AH0 M
+nigga (99:0)  N IH1- G AH0
+'em (123:0)  AH0 M
+nigga (271:0)  N IH1- G AH0

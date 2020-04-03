@@ -1,0 +1,89 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%And (8:0) AE0 N D (8:1) AH0 N D
+8:0
+%them (11:0) DH EH1 M (11:1) DH AH0 M
+11:0
+%from (16:0) F R AH1 M (16:1) F ER0 M
+16:0
+%the (17:0) DH AH0 (17:1) DH AH1 (17:2) DH IY0
+17:0
+%cannot (22:0) K AE1 - N AA0 T (22:1) K AH0 - N AA1 T
+22:0
+%don't (27:0) D OW1 N T (27:1) D OW1 N
+27:0
+%a (34:0) AH0 (34:1) EY1
+34:0
+%and (38:0) AE0 N D (38:1) AH0 N D
+38:0
+%And (49:0) AE0 N D (49:1) AH0 N D
+49:0
+%it's (50:0) IH1 T S (50:1) IH0 T S
+50:0
+%in (51:0) IH0 N (51:1) IH1 N
+51:0
+%them (56:0) DH EH1 M (56:1) DH AH0 M
+56:0
+%again (62:0) AH0 - G EH1 N (62:1) AH0 - G EY1 N
+62:0
+%Don't (64:0) D OW1 N T (64:1) D OW1 N
+64:0
+%that (66:0) DH AE1 T (66:1) DH AH0 T
+66:0
+%don't (72:0) D OW1 N T (72:1) D OW1 N
+72:0
+%use (73:0) Y UW1 S (73:1) Y UW1 Z
+73:0
+%hands (74:0) HH AE1 N D Z (74:1) HH AE1 N Z
+74:0
+%don't (78:0) D OW1 N T (78:1) D OW1 N
+78:0
+%friends (80:0) F R EH1 N D Z (80:1) F R EH1 N Z
+80:0
+%a (85:0) AH0 (85:1) EY1
+85:0
+%gets (89:0) G EH1 T S (89:1) G IH1 T S
+89:0
+%can (93:0) K AE1 N (93:1) K AH0 N
+93:0
+%with (99:0) W IH1 DH (99:1) W IH1 TH (99:2) W IH0 TH (99:3) W IH0 DH
+99:0
+%the (100:0) DH AH0 (100:1) DH AH1 (100:2) DH IY0
+100:0
+%can (103:0) K AE1 N (103:1) K AH0 N
+103:0
+%with (108:0) W IH1 DH (108:1) W IH1 TH (108:2) W IH0 TH (108:3) W IH0 DH
+108:0
+%With (111:0) W IH1 DH (111:1) W IH1 TH (111:2) W IH0 TH (111:3) W IH0 DH
+111:0
+%hundred (113:0) HH AH1 N - D R AH0 D (113:1) HH AH1 N - D R IH0 D (113:2) HH AH1 - N ER0 D (113:3) HH AH1 N - D ER0 D
+113:0
+%to (122:0) T UW0 (122:1) T IH0 (122:2) T AH0
+122:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Glo' (12:0)  G L AA1
+12:0
+%'Go (18:0)  G OW0
+18:0
+%Raris (37:0)  R EH1- R IH1 S
+37:0
+%Lambos (41:0)  L AE1 M- B OW1 Z
+41:0
+%lotsa (90:0)  L AA1 T- S AH0
+90:0
+%hunna (110:0)  HH AH1- N AH0
+110:0
+%foreigns (114:0)  F AO1- R AH0 N Z
+114:0
+********End******

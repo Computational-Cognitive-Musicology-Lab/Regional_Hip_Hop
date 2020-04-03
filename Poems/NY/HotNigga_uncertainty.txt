@@ -1,0 +1,145 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%been (5:0) B IH1 N (5:1) B AH0 N (5:2) B IH0 N
+5:0
+%the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+10:0
+%fifth (11:0) F IH1 F TH (11:1) F IH1 TH
+11:0
+%Really (13:0) R IH1 - L IY0 (13:1) R IY1 - L IY0
+13:0
+%difference (17:0) D IH1 - F ER0 - AH0 N S (17:1) D IH1 - F R AH0 N S
+17:0
+%what (18:0) W AH1 T (18:1) HH W AH1 T
+18:0
+%the (19:0) DH AH0 (19:1) DH AH1 (19:2) DH IY0
+19:0
+%them (26:0) DH EH1 M (26:1) DH AH0 M
+26:0
+%and (28:0) AE0 N D (28:1) AH0 N D
+28:0
+%to (30:0) T UW0 (30:1) T IH0 (30:2) T AH0
+30:0
+%Get (32:0) G EH1 T (32:1) G IH1 T
+32:0
+%that (33:0) DH AE1 T (33:1) DH AH0 T
+33:0
+%and (36:0) AE0 N D (36:1) AH0 N D
+36:0
+%it (38:0) IH1 T (38:1) IH0 T
+38:0
+%on (39:0) AA1 N (39:1) AO1 N
+39:0
+%the (40:0) DH AH0 (40:1) DH AH1 (40:2) DH IY0
+40:0
+%the (45:0) DH AH0 (45:1) DH AH1 (45:2) DH IY0
+45:0
+%that (47:0) DH AE1 T (47:1) DH AH0 T
+47:0
+%be (52:0) B IY1 (52:1) B IY0
+52:0
+%getting (53:0) G EH1 - T IH0 NG (53:1) G IH1 - T IH0 NG
+53:0
+%fall (57:0) F AO1 L (57:1) F AA1 L
+57:0
+%the (69:0) DH AH0 (69:1) DH AH1 (69:2) DH IY0
+69:0
+%that (71:0) DH AE1 T (71:1) DH AH0 T
+71:0
+%of (80:0) AH0 V (80:1) AH0 V
+80:0
+%dogs (82:0) D AA1 G Z (82:1) D AO1 G Z
+82:0
+%inside (88:0) IH0 N - S AY1 D (88:1) IH1 N - S AY2 D
+88:0
+%what (92:0) W AH1 T (92:1) HH W AH1 T
+92:0
+%in (98:0) IH0 N (98:1) IH1 N
+98:0
+%the (99:0) DH AH0 (99:1) DH AH1 (99:2) DH IY0
+99:0
+%Phantom (103:0) F AE1 N - T AH0 M (103:1) F AE1 - N AH0 M
+103:0
+%of (107:0) AH0 V (107:1) AH0 V
+107:0
+%dogs (109:0) D AA1 G Z (109:1) D AO1 G Z
+109:0
+%in (115:0) IH0 N (115:1) IH1 N
+115:0
+%that (116:0) DH AE1 T (116:1) DH AH0 T
+116:0
+%on (121:0) AA1 N (121:1) AO1 N
+121:0
+%With (123:0) W IH1 DH (123:1) W IH1 TH (123:2) W IH0 TH (123:3) W IH0 DH
+123:0
+%them (124:0) DH EH1 M (124:1) DH AH0 M
+124:0
+%on (131:0) AA1 N (131:1) AO1 N
+131:0
+%a (135:0) AH0 (135:1) EY1
+135:0
+%to (138:0) T UW0 (138:1) T IH0 (138:2) T AH0
+138:0
+%the (140:0) DH AH0 (140:1) DH AH1 (140:2) DH IY0
+140:0
+%drop (141:0) D R AA1 P (141:1) D R AO1 P
+141:0
+%on (142:0) AA1 N (142:1) AO1 N
+142:0
+%him (143:0) HH IH1 M (143:1) IH0 M
+143:0
+%and (149:0) AE0 N D (149:1) AH0 N D
+149:0
+%the (152:0) DH AH0 (152:1) DH AH1 (152:2) DH IY0
+152:0
+%on (154:0) AA1 N (154:1) AO1 N
+154:0
+%him (155:0) HH IH1 M (155:1) IH0 M
+155:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Nigga (1:0)  N IH1- G AH0
+1:0
+%Shmurda (3:0)  SH M ER1- D AH0
+3:0
+%Jaja (22:0)  JH AA1- JH AH0
+22:0
+%thang (42:0)  TH AE1 NG
+42:0
+%Shawty (43:0)  SH AO1- T IY0
+43:0
+%'til (55:0)  T IH1 L
+55:0
+%Greezy, (76:0)  G R IY1- Z IY0
+76:0
+%pussycats (87:0)  P AH1- S IH1- K AA1 T S
+87:0
+%gon' (112:0)  G AA1 N
+112:0
+%hooptie (117:0)  HH UW1 P- T IY0
+117:0
+%'em (122:0)  AH0 M
+122:0
+%gon' (127:0)  G AA1 N
+127:0
+%'em (132:0)  AH0 M
+132:0
+%lil' (136:0)  L IH1 L
+136:0
+%thot (137:0)  TH AA1 T
+137:0
+%gon' (145:0)  G AA1 N
+145:0
+%I'ma (150:0)  IH1- M AH0
+150:0
+********End******

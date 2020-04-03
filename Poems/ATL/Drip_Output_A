@@ -1,0 +1,148 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+DRIHP: [Drip(0), drip,(23)]
+TUW: [Too(1), to(118)]
+YUW: [You(5), you(16), you(59), you(63)]
+DHAH: [the(8), the(13), the(22), the(39), the(53), the(70), The(79)]
+IHN: [in(12), in(69), in,(83), in(84)]
+IHF: [if(15), If(67)]
+IHT: [it(18), it(26), it(66)]
+AY: [I(19), I(28), I(32), I(37), I(42), I(72), I(103), I(110), I(115)]
+AHM: ['em(21), 'em(30), 'em(44)]
+DHEY: [they(24), they(91), they(105)]
+AHP: [up,(27), up(51)]
+GAAT: [got(29), got(73)]
+AH: [a(34), a(61)]
+AYM: [I'm(48), I'm(68), I'm(77), I'm(95)]
+DHAET: [That(55), that(74)]
+EYNT: [ain't(56), ain't(126)]
+JHAHST: [just(60), just(81)]
+DOWNT: [don't(64), don't(111)]
+AOL: [all(85), all(92)]
+SHIHT: [shit,(90), shit(102)]
+AAN: [on(93), on(107)]
+WEHNEHVER: [Whenever(114), Whenever(122)]
+
+
+Rule 1: ...-O[NC]'
+IHP: [Drip(0), drip,(23)]
+UW: [Too(1), You(5), you(16), new(35), you(59), you(63)]
+IHL: [Lil(3), until(52)]
+EHL: [Chanel(10), tell(116)]
+AOR: [store(14), your(57), galore,(88)]
+IHF: [if(15), If(67)]
+IHT: [it(18), it(26), it(66), shit,(90), shit(102)]
+AY: [I(19), I(28), I(32), I(37), I(42), I(72), I(103), I(110), I(115)]
+EY: [they(24), they(91), they(105)]
+AHP: [up,(27), up(51)]
+AAT: [got(29), bought(33), got(73)]
+IHN: [moanin'(31), mornin'(54), performin'(78)]
+OW: [so(41), know(104)]
+AYM: [I'm(48), I'm(68), I'm(77), I'm(95)]
+AAN: [gon'(49), on(93), on(107)]
+IY: [be(50), me,(108), she(120), we(125)]
+AET: [That(55), that(74)]
+EYNT: [ain't(56), ain't(126)]
+AHST: [just(60), just(81)]
+OWNT: [don't(64), don't(111)]
+AOL: [all(85), all(92)]
+AHM: [from(96), come,(119)]
+
+
+Rule 2: ...-O[NC'-ONC]
+EHVER: [Whenever(114), Whenever(122)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Drip(0) Too(1) Hard(2) 
+Lil(3) Baby(4) 
+
+You(5) can(6) get(7) the(8) biggest(9) Chanel(10) bag(11) in(12) the(13) store(14) if(15) you(16) want(17) it(18) 
+I(19) gave(20) 'em(21) the(22) drip,(23) they(24) sucked(25) it(26) up,(27) I(28) got(29) 'em(30) moanin'(31) 
+I(32) bought(33) a(34) new(35) Patek,(36) I(37) had(38) the(39) watch,(40) so(41) I(42) two-toned(43) 'em(44) 
+Takin'(45) these(46) drugs,(47) I'm(48) gon'(49) be(50) up(51) until(52) the(53) mornin'(54) 
+That(55) ain't(56) your(57) car,(58) you(59) just(60) a(61) leaser,(62) you(63) don't(64) own(65) it(66) 
+If(67) I'm(68) in(69) the(70) club,(71) I(72) got(73) that(74) fire(75) when(76) I'm(77) performin'(78) 
+The(79) backend(80) just(81) came(82) in,(83) in(84) all(85) hundreds(86) 
+Fives(87) galore,(88) cute(89) shit,(90) they(91) all(92) on(93) us(94) 
+I'm(95) from(96) Atlanta(97) where(98) young(99) niggas(100) run(101) shit(102) 
+I(103) know(104) they(105) hatin'(106) on(107) me,(108) but(109) I(110) don't(111) read(112) comments(113) 
+Whenever(114) I(115) tell(116) her(117) to(118) come,(119) she(120) comin'(121) 
+Whenever(122) it's(123) smoke,(124) we(125) ain't(126) runnin'(127) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Drip_Output_A_uncertainty.txt in the Poems directory
+
+can (6:0) K AE1 N (6:1) K AH0 N
+get (7:0) G EH1 T (7:1) G IH1 T
+the (8:0) DH AH0 (8:1) DH AH1 (8:2) DH IY0
+in (12:0) IH0 N (12:1) IH1 N
+the (13:0) DH AH0 (13:1) DH AH1 (13:2) DH IY0
+if (15:0) IH1 F (15:1) IH0 F
+want (17:0) W AA1 N T (17:1) W AO1 N T
+it (18:0) IH1 T (18:1) IH0 T
+the (22:0) DH AH0 (22:1) DH AH1 (22:2) DH IY0
+it (26:0) IH1 T (26:1) IH0 T
+bought (33:0) B AA1 T (33:1) B AO1 T
+a (34:0) AH0 (34:1) EY1
+new (35:0) N UW1 (35:1) N Y UW1
+the (39:0) DH AH0 (39:1) DH AH1 (39:2) DH IY0
+watch, (40:0) W AA1 CH (40:1) W AO1 CH
+be (50:0) B IY1 (50:1) B IY0
+the (53:0) DH AH0 (53:1) DH AH1 (53:2) DH IY0
+That (55:0) DH AE1 T (55:1) DH AH0 T
+your (57:0) Y AO1 R (57:1) Y UH1 R
+just (60:0) JH AH1 S T (60:1) JH IH0 S T
+a (61:0) AH0 (61:1) EY1
+don't (64:0) D OW1 N T (64:1) D OW1 N
+it (66:0) IH1 T (66:1) IH0 T
+If (67:0) IH1 F (67:1) IH0 F
+in (69:0) IH0 N (69:1) IH1 N
+the (70:0) DH AH0 (70:1) DH AH1 (70:2) DH IY0
+that (74:0) DH AE1 T (74:1) DH AH0 T
+fire (75:0) F AY1 - ER0 (75:1) F AY1 R
+when (76:0) W EH1 N (76:1) HH W EH1 N (76:2) W IH1 N (76:3) HH W IH1 N
+The (79:0) DH AH0 (79:1) DH AH1 (79:2) DH IY0
+just (81:0) JH AH1 S T (81:1) JH IH0 S T
+in, (83:0) IH0 N (83:1) IH1 N
+in (84:0) IH0 N (84:1) IH1 N
+hundreds (86:0) HH AH1 N - D R AH0 D Z (86:1) HH AH1 N - D ER0 D Z (86:2) HH AH1 - N ER0 D Z
+on (93:0) AA1 N (93:1) AO1 N
+us (94:0) AH1 S (94:1) Y UW1 - EH1 S
+from (96:0) F R AH1 M (96:1) F ER0 M
+Atlanta (97:0) AE0 T - L AE1 N - T AH0 (97:1) AH0 T - L AE1 N - T AH0 (97:2) AE0 T - L AE1 - N AH0 (97:3) AH0 T - L AE1 - N AH0
+where (98:0) W EH1 R (98:1) HH W EH1 R
+on (107:0) AA1 N (107:1) AO1 N
+don't (111:0) D OW1 N T (111:1) D OW1 N
+read (112:0) R EH1 D (112:1) R IY1 D
+Whenever (114:0) W EH0 N - EH1 - V ER0 (114:1) HH W EH0 - N EH1 - V ER0
+her (117:0) HH ER0 (117:1) HH ER1
+to (118:0) T UW0 (118:1) T IH0 (118:2) T AH0
+Whenever (122:0) W EH0 N - EH1 - V ER0 (122:1) HH W EH0 - N EH1 - V ER0
+it's (123:0) IH1 T S (123:1) IH0 T S
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Drip_Output_A_uncertainty.txt in the Poems directory
+
+'em (21:0)  AH0 M
+'em (30:0)  AH0 M
+moanin' (31:0)  M OW1- N IH1 N
+two-toned (43:0)  T W OW1- T AH0 N D
+'em (44:0)  AH0 M
+gon' (49:0)  G AA1 N
+mornin' (54:0)  M AO1 R- N IH1 N
+performin' (78:0)  P ER0- F AO1 R- M IH1 N
+backend (80:0)  B AE1- K EH1 N D
+niggas (100:0)  N IH1- G AH0 Z
+hatin' (106:0)  HH EY1- T AH0 N

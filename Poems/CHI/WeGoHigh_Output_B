@@ -1,0 +1,222 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+IY: [We(0), Eagles(96)]
+IY: [We(0), ego(99)]
+AY: [High(2), Tired(24)]
+AY: [High(2), iron(63)]
+AY: [My(6), Tired(24)]
+AY: [My(6), iron(63)]
+EY: [baby(7), say(16)]
+EY: [baby(7), away(43)]
+EY: [baby(7), away(123)]
+EY: [baby(7), away(147)]
+AY: [my(13), Tired(24)]
+AY: [my(13), iron(63)]
+IY: [she(15), Eagles(96)]
+IY: [she(15), ego(99)]
+IY: [she(17), Eagles(96)]
+IY: [she(17), ego(99)]
+AY: [Tired(24), my(49)]
+AY: [Tired(24), I(51)]
+AY: [Tired(24), my(65)]
+AY: [Tired(24), my(81)]
+AY: [Tired(24), I(88)]
+AY: [Tired(24), My(98)]
+AY: [Tired(24), I(113)]
+AY: [Tired(24), I(115)]
+UW: [rumors,(27), through(38)]
+UW: [rumors,(27), do(54)]
+UW: [rumors,(27), You(68)]
+UW: [rumors,(27), you(74)]
+UW: [rumors,(27), you(76)]
+UW: [rumors,(27), you(125)]
+UW: [rumors,(27), new(138)]
+IY: [She(41), Eagles(96)]
+IY: [She(41), ego(99)]
+IY: [me(46), Eagles(96)]
+IY: [me(46), ego(99)]
+AY: [my(49), iron(63)]
+AY: [I(51), iron(63)]
+AY: [iron(63), my(65)]
+AY: [iron(63), my(81)]
+AY: [iron(63), I(88)]
+AY: [iron(63), My(98)]
+AY: [iron(63), I(113)]
+AY: [iron(63), I(115)]
+IHNG: [wrinkled(66), ring,(82)]
+IHNG: [ring,(82), Pringles(86)]
+IY: [Eagles(96), he(104)]
+IY: [Eagles(96), she(132)]
+IY: [ego(99), he(104)]
+IY: [ego(99), she(132)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [We(0), baby(7)]
+IY: [We(0), every(28)]
+OW: [Go(1), ego(99)]
+IY: [baby(7), she(15)]
+IY: [baby(7), she(17)]
+IY: [baby(7), She(41)]
+IY: [baby(7), me(46)]
+IY: [baby(7), he(104)]
+IY: [baby(7), she(132)]
+AHT: [celibate(10), but(131)]
+IY: [she(15), every(28)]
+IY: [she(17), every(28)]
+IY: [every(28), She(41)]
+IY: [every(28), me(46)]
+IY: [every(28), he(104)]
+IY: [every(28), she(132)]
+IHN: [rummagin'(37), in(64)]
+UW: [through(38), to(53)]
+UW: [to(53), do(54)]
+UW: [to(53), You(68)]
+UW: [to(53), you(74)]
+UW: [to(53), you(76)]
+UW: [to(53), you(125)]
+UW: [to(53), new(138)]
+OW: [ego(99), go(105)]
+OW: [ego(99), go(122)]
+OW: [ego(99), go(146)]
+
+
+Rule 2: ...-ON[C]'-...
+NT: [went(9), want(90), ain't(116), ain't(133), paint(141), don't(142)]
+Z: [Lies(11), shoes,(36), 'Cause(136)]
+N: [on(12), an(31), rummagin'(37), than(73), can(77), can(87), shine(92), fan(97), again,(107), again,(108), mean,(114), gon'(117), pain(121), can(126), gon'(134), stain(145)]
+K: [take(19), took(42), took(45), back(93), like(94), like(100), take(127), make(143)]
+L: [smell(21), fall(70), ol'(111)]
+T: [it(23), out(47), At(58), that(119), sweet(129), but(131), wait(135), coat(139)]
+M: [room(29), damn,(102), same(110), time,(130)]
+D: [had(30), tried(52), could(69), need(84)]
+NG: [single-dad(56), mingle-dance(57), wrinkled(66), ring,(82), Pringles(86), thang"(112)]
+R: [for(80), there(103), your(128)]
+
+
+Rule 3: ...-O[N]C'-...
+IY: [We(0), she(15), she(17), She(41), me(46), need(84), Eagles(96), ego(99), he(104), mean,(114), sweet(129), she(132)]
+OW: [Go(1), go(105), ol'(111), go(122), coat(139), don't(142), go(146)]
+AY: [High(2), My(6), Lies(11), my(13), Tired(24), find(34), my(49), I(51), tried(52), iron(63), my(65), my(81), I(88), shine(92), like(94), My(98), like(100), I(113), I(115), time,(130)]
+AE: [Chance(3), Rapper(5), had(30), an(31), At(58), pants(67), faster(72), than(73), can(77), hands(79), can(87), back(93), fan(97), damn,(102), thang"(112), that(119), can(126)]
+EY: [baby(7), say(16), take(19), away(43), same(110), ain't(116), pain(121), away(123), take(127), ain't(133), wait(135), paint(141), make(143), stain(145), away(147)]
+AA: [mama(8), on(12), want(90), gon'(117), promise(118), gon'(134)]
+EH: [went(9), celibate(10), breath,(14), smell(21), every(28), elephant(32), skeletons(40), sex,(44), element(50), there(103), again,(107), again,(108)]
+UH: [couldn't(18), took(42), took(45), could(69)]
+IH: [it(23), Tryna(33), rummagin'(37), single-dad(56), mingle-dance(57), with(61), wrinkled(66), think(75), Big(78), ring,(82), I'ma(83), Pringles(86), Prayin'(106)]
+UW: [rumors,(27), room(29), shoes,(36), through(38), do(54), You(68), you(74), you(76), you(125), new(138)]
+AH: [rummagin'(37), club(60), much(71), just(89), but(131)]
+AW: [out(47), 'Cause(136)]
+AO: [fall(70), for(80), your(128)]
+
+
+Rule 4: ...-[O']N[C']'-...
+W: [We(0), away(43), away(123), away(147)]
+G: [Go(1), go(105), go(122), go(146)]
+HH: [High(2), he(104)]
+R: [Rapper(5), rumors,(27), rummagin'(37)]
+M: [My(6), mama(8), my(13), me(46), my(49), my(65), my(81), My(98)]
+WNT: [went(9), want(90)]
+S: [celibate(10), say(16)]
+N: [on(12), an(31), new(138)]
+SH: [she(15), she(17), She(41), she(132)]
+TK: [take(19), took(42), took(45), take(127)]
+T: [it(23), Tired(24), out(47), At(58)]
+RNG: [wrinkled(66), ring,(82)]
+Y: [You(68), you(74), you(76), you(125)]
+KN: [can(77), can(87), can(126)]
+LK: [like(94), like(100)]
+GN: [again,(107), again,(108), gon'(117), gon'(134)]
+NT: [ain't(116), ain't(133)]
+
+
+
+
+Poem with word IDs:
+
+We(0) Go(1) High(2) 
+Chance(3) The(4) Rapper(5) 
+
+My(6) baby(7) mama(8) went(9) celibate(10) 
+Lies(11) on(12) my(13) breath,(14) she(15) say(16) she(17) couldn't(18) take(19) the(20) smell(21) of(22) it(23) 
+Tired(24) of(25) the(26) rumors,(27) every(28) room(29) had(30) an(31) elephant(32) 
+Tryna(33) find(34) her(35) shoes,(36) rummagin'(37) through(38) the(39) skeletons(40) 
+She(41) took(42) away(43) sex,(44) took(45) me(46) out(47) of(48) my(49) element(50) 
+I(51) tried(52) to(53) do(54) the(55) single-dad(56) mingle-dance(57) 
+At(58) the(59) club(60) with(61) the(62) iron(63) in(64) my(65) wrinkled(66) pants(67) 
+You(68) could(69) fall(70) much(71) faster(72) than(73) you(74) think(75) you(76) can(77) 
+Big(78) hands(79) for(80) my(81) ring,(82) I'ma(83) need(84) a(85) Pringles(86) can(87) 
+I(88) just(89) want(90) the(91) shine(92) back(93) like(94) a(95) Eagles(96) fan(97) 
+My(98) ego(99) like(100) "Ah(101) damn,(102) there(103) he(104) go(105) 
+Prayin'(106) again,(107) again,(108) the(109) same(110) ol'(111) thang"(112) 
+I(113) mean,(114) I(115) ain't(116) gon'(117) promise(118) that(119) the(120) pain(121) go(122) away(123) 
+And(124) you(125) can(126) take(127) your(128) sweet(129) time,(130) but(131) she(132) ain't(133) gon'(134) wait(135) 
+'Cause(136) a(137) new(138) coat(139) of(140) paint(141) don't(142) make(143) the(144) stain(145) go(146) away(147) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see WeGoHigh_Output_B_uncertainty.txt in the Poems directory
+
+The (4:0) DH AH0 (4:1) DH AH1 (4:2) DH IY0
+on (12:0) AA1 N (12:1) AO1 N
+couldn't (18:0) K UH1 - D AH0 N T (18:1) K UH1 - D AH0 N
+the (20:0) DH AH0 (20:1) DH AH1 (20:2) DH IY0
+of (22:0) AH0 V (22:1) AH0 V
+it (23:0) IH1 T (23:1) IH0 T
+of (25:0) AH0 V (25:1) AH0 V
+the (26:0) DH AH0 (26:1) DH AH1 (26:2) DH IY0
+every (28:0) EH1 - V ER0 - IY0 (28:1) EH1 - V R IY0
+an (31:0) AE1 N (31:1) AH0 N
+her (35:0) HH ER0 (35:1) HH ER1
+the (39:0) DH AH0 (39:1) DH AH1 (39:2) DH IY0
+of (48:0) AH0 V (48:1) AH0 V
+to (53:0) T UW0 (53:1) T IH0 (53:2) T AH0
+the (55:0) DH AH0 (55:1) DH AH1 (55:2) DH IY0
+the (59:0) DH AH0 (59:1) DH AH1 (59:2) DH IY0
+with (61:0) W IH1 DH (61:1) W IH1 TH (61:2) W IH0 TH (61:3) W IH0 DH
+the (62:0) DH AH0 (62:1) DH AH1 (62:2) DH IY0
+in (64:0) IH0 N (64:1) IH1 N
+fall (70:0) F AO1 L (70:1) F AA1 L
+than (73:0) DH AE1 N (73:1) DH AH0 N
+can (77:0) K AE1 N (77:1) K AH0 N
+hands (79:0) HH AE1 N D Z (79:1) HH AE1 N Z
+for (80:0) F AO1 R (80:1) F ER0 (80:2) F R ER0
+a (85:0) AH0 (85:1) EY1
+can (87:0) K AE1 N (87:1) K AH0 N
+just (89:0) JH AH1 S T (89:1) JH IH0 S T
+want (90:0) W AA1 N T (90:1) W AO1 N T
+the (91:0) DH AH0 (91:1) DH AH1 (91:2) DH IY0
+a (95:0) AH0 (95:1) EY1
+again, (107:0) AH0 - G EH1 N (107:1) AH0 - G EY1 N
+again, (108:0) AH0 - G EH1 N (108:1) AH0 - G EY1 N
+the (109:0) DH AH0 (109:1) DH AH1 (109:2) DH IY0
+that (119:0) DH AE1 T (119:1) DH AH0 T
+the (120:0) DH AH0 (120:1) DH AH1 (120:2) DH IY0
+And (124:0) AE0 N D (124:1) AH0 N D
+can (126:0) K AE1 N (126:1) K AH0 N
+your (128:0) Y AO1 R (128:1) Y UH1 R
+a (137:0) AH0 (137:1) EY1
+new (138:0) N UW1 (138:1) N Y UW1
+of (140:0) AH0 V (140:1) AH0 V
+don't (142:0) D OW1 N T (142:1) D OW1 N
+the (144:0) DH AH0 (144:1) DH AH1 (144:2) DH IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see WeGoHigh_Output_B_uncertainty.txt in the Poems directory
+
+Tryna (33:0)  T R IH1- N AH0
+rummagin' (37:0)  R AH1- M IH0- JH IH1 N
+single-dad (56:0)  S IH1 NG- G AH0- L AH0- D AH0 D
+mingle-dance (57:0)  M IH1 NG- G AH0- L AH0- D AH0 N S
+I'ma (83:0)  IH1- M AH0
+Pringles (86:0)  P R IH1 NG- G AH0 L Z
+"Ah (101:0)  AH0
+Prayin' (106:0)  P R EY IH1 N
+thang" (112:0)  TH AE1 NG
+gon' (117:0)  G AA1 N
+gon' (134:0)  G AA1 N
+'Cause (136:0)  K AW1 Z

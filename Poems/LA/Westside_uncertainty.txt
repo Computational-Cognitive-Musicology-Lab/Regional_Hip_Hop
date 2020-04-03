@@ -1,0 +1,147 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%The (1:0) DH AH0 (1:1) DH AH1 (1:2) DH IY0
+1:0
+%the (5:0) DH AH0 (5:1) DH AH1 (5:2) DH IY0
+5:0
+%what (12:0) W AH1 T (12:1) HH W AH1 T
+12:0
+%the (33:0) DH AH0 (33:1) DH AH1 (33:2) DH IY0
+33:0
+%a (36:0) AH0 (36:1) EY1
+36:0
+%in (39:0) IH0 N (39:1) IH1 N
+39:0
+%it, (40:0) IH1 T (40:1) IH0 T
+40:0
+%in (43:0) IH0 N (43:1) IH1 N
+43:0
+%the (44:0) DH AH0 (44:1) DH AH1 (44:2) DH IY0
+44:0
+%rented (45:0) R EH1 N - T AH0 D (45:1) R EH1 N - T IH0 D
+45:0
+%the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+48:0
+%the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+51:0
+%and (53:0) AE0 N D (53:1) AH0 N D
+53:0
+%in (55:0) IH0 N (55:1) IH1 N
+55:0
+%it (56:0) IH1 T (56:1) IH0 T
+56:0
+%a (58:0) AH0 (58:1) EY1
+58:0
+%and (64:0) AE0 N D (64:1) AH0 N D
+64:0
+%in (71:0) IH0 N (71:1) IH1 N
+71:0
+%to (73:0) T UW0 (73:1) T IH0 (73:2) T AH0
+73:0
+%us (77:0) AH1 S (77:1) Y UW1 - EH1 S
+77:0
+%it, (81:0) IH1 T (81:1) IH0 T
+81:0
+%Julio (85:0) JH UW1 - L IY0 - OW0 (85:1) HH UW1 - L IY0 - OW0
+85:0
+%loaded, (88:0) L OW1 - D AH0 D (88:1) L OW1 - D IH0 D
+88:0
+%don't (89:0) D OW1 N T (89:1) D OW1 N
+89:0
+%on (95:0) AA1 N (95:1) AO1 N
+95:0
+%Don't (101:0) D OW1 N T (101:1) D OW1 N
+101:0
+%get (102:0) G EH1 T (102:1) G IH1 T
+102:0
+%your (103:0) Y AO1 R (103:1) Y UH1 R
+103:0
+%on (107:0) AA1 N (107:1) AO1 N
+107:0
+%Live, (109:0) L AY1 V (109:1) L IH1 V
+109:0
+%the (119:0) DH AH0 (119:1) DH AH1 (119:2) DH IY0
+119:0
+%live (121:0) L AY1 V (121:1) L IH1 V
+121:0
+%inside (122:0) IH0 N - S AY1 D (122:1) IH1 N - S AY2 D
+122:0
+%nowhere (125:0) N OW1 - W EH2 R (125:1) N OW1 HH - W EH2 R
+125:0
+%to (126:0) T UW0 (126:1) T IH0 (126:2) T AH0
+126:0
+%It's (128:0) IH1 T S (128:1) IH0 T S
+128:0
+%of (130:0) AH0 V (130:1) AH0 V
+130:0
+%the (131:0) DH AH0 (131:1) DH AH1 (131:2) DH IY0
+131:0
+%with (136:0) W IH1 DH (136:1) W IH1 TH (136:2) W IH0 TH (136:3) W IH0 DH
+136:0
+%the (137:0) DH AH0 (137:1) DH AH1 (137:2) DH IY0
+137:0
+%the (145:0) DH AH0 (145:1) DH AH1 (145:2) DH IY0
+145:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%bangin' (14:0)  B AE1 NG- G IH1 N
+14:0
+%swingin' (16:0)  S W IH1 N- G IH1 N
+16:0
+%t-shirt, (19:0)  CH ER1 T
+19:0
+%twistin' (20:0)  T W IH1 S- T IH1 N
+20:0
+%Off-White, (24:0)  AA1- F W AY1 T
+24:0
+%tracksuit, (30:0)  T R AE1 K- S UW1 T
+30:0
+%drawstrings, (31:0)  D R AO1 S- T R IH1 NG Z
+31:0
+%Chokin' (32:0)  CH OW1- K IH1 N
+32:0
+%gangstas (41:0)  G AE1 NG S- T AH0 Z
+41:0
+%Dumpin' (46:0)  D AH1 M- P IH1 N
+46:0
+%nigga, (61:0)  N IH1- G AH0
+61:0
+%trippin' (63:0)  T R IH1- P IH1 N
+63:0
+%Listenin' (67:0)  L IH1- S AH0- N IH1 N
+67:0
+%'em (75:0)  AH0 M
+75:0
+%Dre (78:0)  D R AH0
+78:0
+%gon' (79:0)  G AA1 N
+79:0
+%thirty-six (82:0)  TH ER1- T IY0- S IH0 K S
+82:0
+%niggas, (96:0)  N IH1- G AH0 Z
+96:0
+%Instagram (108:0)  IH1 N S- T AH0- G R AE1 M
+108:0
+%nigga (110:0)  N IH1- G AH0
+110:0
+%niggas (112:0)  N IH1- G AH0 Z
+112:0
+%niggas, (114:0)  N IH1- G AH0 Z
+114:0
+%niggas, (123:0)  N IH1- G AH0 Z
+123:0
+%fuckin' (135:0)  F AH1- K IH1 N
+135:0
+%realest (138:0)  R IY1- L AH0 S T
+138:0
+********End******

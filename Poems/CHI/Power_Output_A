@@ -1,0 +1,134 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+AEND: [and(5), and(89)]
+DHAH: [the(6), the(48), the(56)]
+HHOWL: [whole(7), whole(17), hole(26)]
+DHEY: [they(13), they(21), they(117)]
+KAEN: [can(14), can(22)]
+KIHS: [kiss(15), kiss(23)]
+MAY: [my(16), my(24), My(41), My(45), my(70), my(76), my(82), My(85), my(106), my(126)]
+AES: [ass(18), ass(25)]
+AYM: [I'm(27), I'm(109)]
+YUW: [You(30), You(34)]
+NIHGAHZ: [niggas(31), niggas(37)]
+GAAT: [got(32), Got(73)]
+THAOTS: [thoughts(38), thoughts(72), thoughts(98)]
+IHZ: [is(39), is(43), is(91), is(100)]
+IHN: [in(50), in(75)]
+AY: [I(51), I(64), I(122)]
+WIHDH: [with(69), with(103), With(113)]
+OWN: [own(71), own(83)]
+AHP: [up(81), up(102)]
+DHIYZ: [these(96), these(114)]
+MIY: [me,(104), me(119), me(120)]
+
+
+Rule 1: ...-O[NC]'
+AY: [Kanye(1), my(16), my(24), My(41), My(45), I(51), I(64), my(70), my(76), my(82), My(85), by(95), my(106), I(122), my(126)]
+OWL: [whole(7), whole(17), hole(26), asshole?(29)]
+EY: [they(13), they(21), they(117)]
+AEN: [can(14), can(22), an(28)]
+IHS: [kiss(15), kiss(23)]
+AES: [ass(18), ass(25)]
+AOR: [More(19), for(111)]
+AYM: [I'm(27), time(67), I'm(109)]
+UW: [You(30), You(34)]
+AAT: [got(32), Got(73)]
+AOTS: [thoughts(38), thoughts(72), thoughts(98)]
+IHZ: [is(39), is(43), is(91), is(100)]
+IY: [He(58), me,(104), me(119), me(120)]
+IYZ: [he's(60), these(96), these(114)]
+OWN: [alone,(68), own(71), own(83), grown(97)]
+IHDH: [with(69), with(103), With(113)]
+AHP: [up(81), up(102)]
+AET: [that(116), at(125)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IHGAHZ: [niggas(31), niggas(37)]
+IHSTIHK: [characteristic(54), egotistic(57)]
+AHSTIHD: [entrusted(118), encrusted(128)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+OWLIYAHN: [Napoleon(40), Mongolian,(44)]
+
+
+
+
+Poem with word IDs:
+
+Power(0) 
+Kanye(1) West(2) 
+
+Fuck(3) SNL(4) and(5) the(6) whole(7) cast(8) 
+Tell(9) them(10) Yeezy(11) said(12) they(13) can(14) kiss(15) my(16) whole(17) ass(18) 
+More(19) specifically(20) they(21) can(22) kiss(23) my(24) ass(25) hole(26) 
+I'm(27) an(28) asshole?(29) You(30) niggas(31) got(32) jokes!(33) 
+You(34) short(35) minded(36) niggas(37) thoughts(38) is(39) Napoleon(40) 
+My(41) furs(42) is(43) Mongolian,(44) 
+My(45) ice(46) brought(47) the(48) goalies(49) in(50) 
+I(51) embody(52) every(53) characteristic(54) of(55) the(56) egotistic(57) 
+He(58) knows,(59) he's(60) so(61) fuckin'(62) gifted(63) 
+I(64) just(65) needed(66) time(67) alone,(68) with(69) my(70) own(71) thoughts(72) 
+Got(73) treasures(74) in(75) my(76) mind(77) but(78) couldn't(79) open(80) up(81) my(82) own(83) vault(84) 
+My(85) child-like(86) creativity,(87) purity(88) and(89) honesty(90) is(91) honestly(92) being(93) crowded(94) by(95) these(96) grown(97) thoughts(98) 
+Reality(99) is(100) catching(101) up(102) with(103) me,(104) taking(105) my(106) inner(107) child(108) I'm(109) fighting(110) for(111) custody(112) 
+With(113) these(114) responsibilities(115) that(116) they(117) entrusted(118) me(119) me(120) 
+As(121) I(122) look(123) down(124) at(125) my(126) diamond(127) encrusted(128) piece(129) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Power_Output_A_uncertainty.txt in the Poems directory
+
+and (5:0) AE0 N D (5:1) AH0 N D
+the (6:0) DH AH0 (6:1) DH AH1 (6:2) DH IY0
+them (10:0) DH EH1 M (10:1) DH AH0 M
+can (14:0) K AE1 N (14:1) K AH0 N
+can (22:0) K AE1 N (22:1) K AH0 N
+an (28:0) AE1 N (28:1) AH0 N
+minded (36:0) M AY1 N - D AH0 D (36:1) M AY1 N - D IH0 D
+is (39:0) IH1 Z (39:1) IH0 Z
+Napoleon (40:0) N AH0 - P OW1 - L IY0 - AH0 N (40:1) N AH0 - P OW1 - L Y AH0 N
+is (43:0) IH1 Z (43:1) IH0 Z
+Mongolian, (44:0) M AA0 NG - G OW1 - L IY0 - AH0 N (44:1) M AA0 NG - G OW1 - L Y AH0 N
+the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+in (50:0) IH0 N (50:1) IH1 N
+every (53:0) EH1 - V ER0 - IY0 (53:1) EH1 - V R IY0
+of (55:0) AH0 V (55:1) AH0 V
+the (56:0) DH AH0 (56:1) DH AH1 (56:2) DH IY0
+gifted (63:0) G IH1 F - T AH0 D (63:1) G IH1 F - T IH0 D
+just (65:0) JH AH1 S T (65:1) JH IH0 S T
+needed (66:0) N IY1 - D AH0 D (66:1) N IY1 - D IH0 D
+with (69:0) W IH1 DH (69:1) W IH1 TH (69:2) W IH0 TH (69:3) W IH0 DH
+in (75:0) IH0 N (75:1) IH1 N
+couldn't (79:0) K UH1 - D AH0 N T (79:1) K UH1 - D AH0 N
+purity (88:0) P Y UH1 - R AH0 - T IY0 (88:1) P Y UH1 - R IH0 - T IY0
+and (89:0) AE0 N D (89:1) AH0 N D
+is (91:0) IH1 Z (91:1) IH0 Z
+honestly (92:0) AA1 - N AH0 S T - L IY0 (92:1) AA1 - N AH0 S - L IY0
+crowded (94:0) K R AW1 - D AH0 D (94:1) K R AW1 - D IH0 D
+is (100:0) IH1 Z (100:1) IH0 Z
+with (103:0) W IH1 DH (103:1) W IH1 TH (103:2) W IH0 TH (103:3) W IH0 DH
+for (111:0) F AO1 R (111:1) F ER0 (111:2) F R ER0
+With (113:0) W IH1 DH (113:1) W IH1 TH (113:2) W IH0 TH (113:3) W IH0 DH
+that (116:0) DH AE1 T (116:1) DH AH0 T
+As (121:0) AE1 Z (121:1) EH1 Z
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Power_Output_A_uncertainty.txt in the Poems directory
+
+Kanye (1:0)  K AE1- N AY1
+SNL (4:0)  S N AH0 L
+Yeezy (11:0)  Y IY1- Z IY0
+asshole? (29:0)  AH0- SH OW1 L
+niggas (31:0)  N IH1- G AH0 Z
+jokes! (33:0)  JH OW1- K EH0 S
+niggas (37:0)  N IH1- G AH0 Z
+goalies (49:0)  G OW AH0- L AY1 Z
+egotistic (57:0)  IY1- G AH0- T IH1 S- T IH0 K
+fuckin' (62:0)  F AH1- K IH1 N

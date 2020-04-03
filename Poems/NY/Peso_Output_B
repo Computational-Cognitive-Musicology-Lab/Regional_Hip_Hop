@@ -1,0 +1,200 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+EY: [Peso(0), they(91)]
+AY: [I(3), Simons,(73)]
+AY: [my(13), Simons,(73)]
+AY: [I(35), Simons,(73)]
+AOR: [imported,(36), your(40)]
+AOR: [imported,(36), for(107)]
+AOR: [important(38), your(40)]
+AOR: [important(38), for(107)]
+OW: [so(43), Owens(75)]
+OW: [so(43), Blowing(81)]
+OW: [so(43), rolling(83)]
+OW: [so(43), smoking(86)]
+AY: [I(46), Simons,(73)]
+EHN: [when(56), Benzes,(66)]
+UW: [you(57), doobies(84)]
+UW: [you(57), Groupies(88)]
+UW: [you(57), boobies(92)]
+IHK: [sixes,(64), Rick(74)]
+IHK: [sixes,(64), click(106)]
+IHK: [sixes,(64), kick(117)]
+AY: [I(67), Simons,(73)]
+AY: [Simons,(73), my(95)]
+AY: [Simons,(73), my(105)]
+UW: [doobies(84), you(102)]
+UW: [Groupies(88), you(102)]
+UW: [boobies(92), you(102)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+OW: [Peso(0), so(43)]
+IY: [Rocky(2), be(4)]
+IY: [Rocky(2), we(18)]
+IY: [be(4), pretty(6)]
+IY: [be(4), usually(76)]
+IY: [pretty(6), we(18)]
+IHN: [bitchin',(17), in(22)]
+IHN: [bitchin',(17), in(60)]
+IHN: [bitchin',(17), in(80)]
+IHN: [bitchin',(17), in(94)]
+IY: [we(18), usually(76)]
+AHS: [plus(27), necklace(50)]
+AHST: [just(37), freshest(71)]
+IYZ: [these(52), doobies(84)]
+IYZ: [these(52), Groupies(88)]
+IYZ: [these(52), boobies(92)]
+IHZ: [bitches(53), is(112)]
+IHZ: [bitches(53), is(119)]
+UW: [you(57), to(116)]
+IHZ: [sixes,(64), is(112)]
+IHZ: [sixes,(64), is(119)]
+IHZ: [Benzes,(66), is(112)]
+IHZ: [Benzes,(66), is(119)]
+AHST: [freshest(71), just(115)]
+UW: [you(102), to(116)]
+
+
+Rule 2: ...-ON[C]'-...
+T: [that(5), what(9), quit(15), it(21), that(34), But(51), get(54), that(61), get(69), what(77), Quit(97), it(118)]
+R: [Harlem's(8), imported,(36), important(38), your(40), for(107)]
+M: [I'm(10), I'm(28), Them(63), them(65), I'm(78)]
+L: [Tell(12), well(29), pull(58), all(99)]
+N: [bitchin',(17), gon'(19), when(56), Benzes,(66), fronting,(101)]
+K: [make(20), disrespected(26), connected(30), Coke(33), necklace(50), sixes,(64), Rick(74), sections(87), direction(96), click(106), kick(117)]
+S: [plus(27), this(32)]
+DH: [With(31), with(98)]
+ST: [just(37), impressed(55), dressed(79), just(115)]
+Z: [as(39), these(52), Cause(109), is(112), is(119)]
+NT: [don't(47), ain't(103)]
+P: [up(59), up,(85), up,(93)]
+
+
+Rule 3: ...-O[N]C'-...
+EY: [Peso(0), make(20), they(91), ain't(103)]
+AA: [Rocky(2), Harlem's(8), gon'(19), Cause(109)]
+AY: [I(3), I'm(10), my(13), I'm(28), I(35), I(46), I(67), Simons,(73), I'm(78), my(95), my(105)]
+IY: [be(4), we(18), need(48), these(52)]
+AE: [that(5), that(34), as(39), Swagger(42), that(61), Raf(72)]
+IH: [pretty(6), niggas(14), quit(15), bitchin',(17), it(21), With(31), this(32), bitches(53), sixes,(64), Rick(74), Quit(97), with(98), click(106), is(112), kick(117), it(118), is(119)]
+AH: [motherfucker,(7), what(9), plus(27), just(37), But(51), up(59), what(77), blunts(82), up,(85), rush(89), up,(93), fronting,(101), nothing(108), just(115)]
+EH: [repping(11), Tell(12), second(24), Never(25), disrespected(26), well(29), connected(30), president(41), impressive(44), necklace(50), get(54), impressed(55), when(56), seven(62), Them(63), them(65), Benzes,(66), gets(68), get(69), freshest(71), dressed(79), sections(87), direction(96), presence(111), present,(114), blessing(121)]
+OW: [Coke(33), so(43), don't(47), Owens(75), Blowing(81), rolling(83), smoking(86), hold(90)]
+AO: [imported,(36), important(38), your(40), all(99), for(107)]
+UW: [you(57), usually(76), doobies(84), Groupies(88), boobies(92), you(102)]
+AW: ['round(104), our(110)]
+
+
+Rule 4: ...-[O']N[C']'-...
+P: [Peso(0), up(59), up,(85), up,(93)]
+R: [Rocky(2), repping(11), rolling(83)]
+B: [be(4), bitchin',(17), bitches(53), boobies(92)]
+DHT: [that(5), that(34), that(61)]
+PR: [pretty(6), imported,(36), important(38), president(41), impressive(44), presence(111), present,(114)]
+M: [motherfucker,(7), I'm(10), my(13), I'm(28), I'm(78), my(95), my(105)]
+WT: [what(9), what(77)]
+N: [niggas(14), Never(25), nothing(108)]
+KWT: [quit(15), Quit(97)]
+T: [it(21), it(118)]
+S: [second(24), so(43), seven(62), Simons,(73)]
+NK: [connected(30), necklace(50)]
+WDH: [With(31), with(98)]
+KK: [Coke(33), kick(117)]
+JHST: [just(37), just(115)]
+Z: [as(39), is(112), is(119)]
+GT: [get(54), get(69)]
+Y: [you(57), usually(76), you(102)]
+DHM: [Them(63), them(65)]
+SK: [sixes,(64), sections(87)]
+FR: [freshest(71), for(107)]
+BL: [Blowing(81), blessing(121)]
+
+
+
+
+Poem with word IDs:
+
+Peso(0) 
+A$AP(1) Rocky(2) 
+
+I(3) be(4) that(5) pretty(6) motherfucker,(7) Harlem's(8) what(9) I'm(10) repping(11) 
+Tell(12) my(13) niggas(14) quit(15) the(16) bitchin',(17) we(18) gon'(19) make(20) it(21) in(22) a(23) second(24) 
+Never(25) disrespected(26) plus(27) I'm(28) well(29) connected(30) 
+With(31) this(32) Coke(33) that(34) I(35) imported,(36) just(37) important(38) as(39) your(40) president(41) 
+Swagger(42) so(43) impressive(44) and(45) I(46) don't(47) need(48) a(49) necklace(50) 
+But(51) these(52) bitches(53) get(54) impressed(55) when(56) you(57) pull(58) up(59) in(60) that(61) seven(62) 
+Them(63) sixes,(64) them(65) Benzes,(66) I(67) gets(68) get(69) the(70) freshest(71) 
+Raf(72) Simons,(73) Rick(74) Owens(75) usually(76) what(77) I'm(78) dressed(79) in(80) 
+Blowing(81) blunts(82) rolling(83) doobies(84) up,(85) smoking(86) sections(87) 
+Groupies(88) rush(89) hold(90) they(91) boobies(92) up,(93) in(94) my(95) direction(96) 
+Quit(97) with(98) all(99) the(100) fronting,(101) you(102) ain't(103) 'round(104) my(105) click(106) for(107) nothing(108) 
+Cause(109) our(110) presence(111) is(112) a(113) present,(114) just(115) to(116) kick(117) it(118) is(119) a(120) blessing(121) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Peso_Output_B_uncertainty.txt in the Poems directory
+
+be (4:0) B IY1 (4:1) B IY0
+that (5:0) DH AE1 T (5:1) DH AH0 T
+what (9:0) W AH1 T (9:1) HH W AH1 T
+the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+it (21:0) IH1 T (21:1) IH0 T
+in (22:0) IH0 N (22:1) IH1 N
+a (23:0) AH0 (23:1) EY1
+second (24:0) S EH1 - K AH0 N D (24:1) S EH1 - K AH0 N
+connected (30:0) K AH0 - N EH1 K - T AH0 D (30:1) K AH0 - N EH1 K - T IH0 D
+With (31:0) W IH1 DH (31:1) W IH1 TH (31:2) W IH0 TH (31:3) W IH0 DH
+this (32:0) DH IH1 S (32:1) DH IH0 S
+that (34:0) DH AE1 T (34:1) DH AH0 T
+just (37:0) JH AH1 S T (37:1) JH IH0 S T
+as (39:0) AE1 Z (39:1) EH1 Z
+your (40:0) Y AO1 R (40:1) Y UH1 R
+president (41:0) P R EH1 - Z AH0 - D EH2 N T (41:1) P R EH1 - Z IH0 - D AH0 N T
+and (45:0) AE0 N D (45:1) AH0 N D
+don't (47:0) D OW1 N T (47:1) D OW1 N
+a (49:0) AH0 (49:1) EY1
+get (54:0) G EH1 T (54:1) G IH1 T
+when (56:0) W EH1 N (56:1) HH W EH1 N (56:2) W IH1 N (56:3) HH W IH1 N
+in (60:0) IH0 N (60:1) IH1 N
+that (61:0) DH AE1 T (61:1) DH AH0 T
+Them (63:0) DH EH1 M (63:1) DH AH0 M
+them (65:0) DH EH1 M (65:1) DH AH0 M
+gets (68:0) G EH1 T S (68:1) G IH1 T S
+get (69:0) G EH1 T (69:1) G IH1 T
+the (70:0) DH AH0 (70:1) DH AH1 (70:2) DH IY0
+usually (76:0) Y UW1 - ZH AH0 W - AH0 - L IY0 (76:1) Y UW1 - ZH AH0 - L IY0
+what (77:0) W AH1 T (77:1) HH W AH1 T
+in (80:0) IH0 N (80:1) IH1 N
+in (94:0) IH0 N (94:1) IH1 N
+direction (96:0) D ER0 - EH1 K - SH AH0 N (96:1) D IY0 - R EH1 K - SH IH0 N (96:2) D AY0 - R EH1 K - SH IH0 N (96:3) D IH0 - R EH1 K - SH IH0 N
+with (98:0) W IH1 DH (98:1) W IH1 TH (98:2) W IH0 TH (98:3) W IH0 DH
+the (100:0) DH AH0 (100:1) DH AH1 (100:2) DH IY0
+for (107:0) F AO1 R (107:1) F ER0 (107:2) F R ER0
+Cause (109:0) K AA1 Z (109:1) K AO1 Z
+our (110:0) AW1 - ER0 (110:1) AW1 R (110:2) AA1 R
+is (112:0) IH1 Z (112:1) IH0 Z
+a (113:0) AH0 (113:1) EY1
+present, (114:0) P R EH1 - Z AH0 N T (114:1) P R IY0 - Z EH1 N T (114:2) P ER0 - Z EH1 N T
+just (115:0) JH AH1 S T (115:1) JH IH0 S T
+to (116:0) T UW0 (116:1) T IH0 (116:2) T AH0
+it (118:0) IH1 T (118:1) IH0 T
+is (119:0) IH1 Z (119:1) IH0 Z
+a (120:0) AH0 (120:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Peso_Output_B_uncertainty.txt in the Poems directory
+
+A$AP (1:0)  AH AH0 P
+motherfucker, (7:0)  M AH1- DH ER0- F AH1- K ER0
+repping (11:0)  R EH1- P IH0 NG
+niggas (14:0)  N IH1- G AH0 Z
+bitchin', (17:0)  B IH1- CH IH1 N
+gon' (19:0)  G AA1 N
+doobies (84:0)  D UW1- B IY0 Z
+boobies (92:0)  B UW1- B IY0 Z
+'round (104:0)  R AW1 N D

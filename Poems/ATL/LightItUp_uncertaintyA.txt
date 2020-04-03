@@ -1,0 +1,111 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%It (1:0) IH1 T (1:1) IH0 T
+1:0
+%just (6:0) JH AH1 S T (6:1) JH IH0 S T
+6:0
+%in (9:0) IH0 N (9:1) IH1 N
+9:0
+%the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+10:0
+%Benz (11:0) B EH1 N Z (11:1) B AE1 N Z
+11:0
+%it (16:0) IH1 T (16:1) IH0 T
+16:0
+%again (17:0) AH0 - G EH1 N (17:1) AH0 - G EY1 N
+17:0
+%just (19:0) JH AH1 S T (19:1) JH IH0 S T
+19:0
+%And (25:0) AE0 N D (25:1) AH0 N D
+25:0
+%just (27:0) JH AH1 S T (27:1) JH IH0 S T
+27:0
+%been (28:0) B IH1 N (28:1) B AH0 N (28:2) B IH0 N
+28:0
+%and (30:0) AE0 N D (30:1) AH0 N D
+30:0
+%with (37:0) W IH1 DH (37:1) W IH1 TH (37:2) W IH0 TH (37:3) W IH0 DH
+37:0
+%And (39:0) AE0 N D (39:1) AH0 N D
+39:0
+%on (42:0) AA1 N (42:1) AO1 N
+42:0
+%this (45:0) DH IH1 S (45:1) DH IH0 S
+45:0
+%to (48:0) T UW0 (48:1) T IH0 (48:2) T AH0
+48:0
+%just (54:0) JH AH1 S T (54:1) JH IH0 S T
+54:0
+%notice (55:0) N OW1 - T AH0 S (55:1) N OW1 - T IH0 S
+55:0
+%for (61:0) F AO1 R (61:1) F ER0 (61:2) F R ER0
+61:0
+%was (66:0) W AA1 Z (66:1) W AH1 Z (66:2) W AH0 Z (66:3) W AO1 Z
+66:0
+%one (67:0) W AH1 N (67:1) HH W AH1 N
+67:0
+%of (68:0) AH0 V (68:1) AH0 V
+68:0
+%the (69:0) DH AH0 (69:1) DH AH1 (69:2) DH IY0
+69:0
+%with (71:0) W IH1 DH (71:1) W IH1 TH (71:2) W IH0 TH (71:3) W IH0 DH
+71:0
+%it (76:0) IH1 T (76:1) IH0 T
+76:0
+%with (78:0) W IH1 DH (78:1) W IH1 TH (78:2) W IH0 TH (78:3) W IH0 DH
+78:0
+%than (85:0) DH AE1 N (85:1) DH AH0 N
+85:0
+%your (86:0) Y AO1 R (86:1) Y UH1 R
+86:0
+%to (91:0) T UW0 (91:1) T IH0 (91:2) T AH0
+91:0
+%to (93:0) T UW0 (93:1) T IH0 (93:2) T AH0
+93:0
+%the (94:0) DH AH0 (94:1) DH AH1 (94:2) DH IY0
+94:0
+%to (98:0) T UW0 (98:1) T IH0 (98:2) T AH0
+98:0
+%with (100:0) W IH1 DH (100:1) W IH1 TH (100:2) W IH0 TH (100:3) W IH0 DH
+100:0
+%the (101:0) DH AH0 (101:1) DH AH1 (101:2) DH IY0
+101:0
+%government (102:0) G AH1 - V ER0 - M AH0 N T (102:1) G AH1 - V ER0 N - M AH0 N T
+102:0
+%a (105:0) AH0 (105:1) EY1
+105:0
+%the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+112:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%I'ma (14:0)  IH1- M AH0
+14:0
+%turnt (21:0)  T ER1 N T
+21:0
+%shoppin' (29:0)  SH AA1- P IH1 N
+29:0
+%Jeezy (38:0)  JH IY1- Z IY0
+38:0
+%dyin' (43:0)  D AY IH1 N
+43:0
+%Balmain (49:0)  B AE1 L- M EY1 N
+49:0
+%'nem (64:0)  N EH1 M
+64:0
+%Obama (72:0)  OW0- B AA1- M AH0
+72:0
+%'nem (73:0)  N EH1 M
+73:0
+%niggas (83:0)  N IH1- G AH0 Z
+83:0
+********End******

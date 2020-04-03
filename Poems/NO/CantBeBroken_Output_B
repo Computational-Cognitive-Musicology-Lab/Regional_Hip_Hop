@@ -1,0 +1,259 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+OW: [Broken(2), throw(43)]
+OW: [Broken(2), no(70)]
+OW: [Broken(2), go(75)]
+EY: [They(5), breakin'(39)]
+EY: [They(5), raising(66)]
+EY: [They(5), baby(71)]
+EY: [They(5), neighbors'(79)]
+EY: [They(5), navy(97)]
+EY: [They(5), tornados(116)]
+EY: [They(5), Krazy(122)]
+EY: [They(5), breaking(129)]
+EY: [they(9), breakin'(39)]
+EY: [they(9), raising(66)]
+EY: [they(9), baby(71)]
+EY: [they(9), neighbors'(79)]
+EY: [they(9), navy(97)]
+EY: [they(9), tornados(116)]
+EY: [they(9), Krazy(122)]
+EY: [they(9), breaking(129)]
+EY: [they(13), breakin'(39)]
+EY: [they(13), raising(66)]
+EY: [they(13), baby(71)]
+EY: [they(13), neighbors'(79)]
+EY: [they(13), navy(97)]
+EY: [they(13), tornados(116)]
+EY: [they(13), Krazy(122)]
+EY: [they(13), breaking(129)]
+EY: [They(17), breakin'(39)]
+EY: [They(17), raising(66)]
+EY: [They(17), baby(71)]
+EY: [They(17), neighbors'(79)]
+EY: [They(17), navy(97)]
+EY: [They(17), tornados(116)]
+EY: [They(17), Krazy(122)]
+EY: [They(17), breaking(129)]
+EY: [they(24), breakin'(39)]
+EY: [they(24), raising(66)]
+EY: [they(24), baby(71)]
+EY: [they(24), neighbors'(79)]
+EY: [they(24), navy(97)]
+EY: [they(24), tornados(116)]
+EY: [they(24), Krazy(122)]
+EY: [they(24), breaking(129)]
+EY: [They(28), breakin'(39)]
+EY: [They(28), raising(66)]
+EY: [They(28), baby(71)]
+EY: [They(28), neighbors'(79)]
+EY: [They(28), navy(97)]
+EY: [They(28), tornados(116)]
+EY: [They(28), Krazy(122)]
+EY: [They(28), breaking(129)]
+EY: [breakin'(39), Say(63)]
+EY: [Say(63), raising(66)]
+EY: [Say(63), baby(71)]
+EY: [Say(63), neighbors'(79)]
+EY: [Say(63), navy(97)]
+EY: [Say(63), tornados(116)]
+EY: [Say(63), Krazy(122)]
+EY: [Say(63), breaking(129)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [Be(1), baby(71)]
+IY: [Be(1), money(91)]
+IY: [Be(1), army(94)]
+IY: [Be(1), navy(97)]
+IY: [Be(1), Krazy(122)]
+UW: [do(7), to(19)]
+UW: [do(7), to(59)]
+UW: [do(7), to(96)]
+UW: [do(11), to(19)]
+UW: [do(11), to(59)]
+UW: [do(11), to(96)]
+UW: [to(19), view(27)]
+UW: [to(19), you(67)]
+UW: [to(19), you(74)]
+UW: [to(19), who,(85)]
+UW: [to(19), blue(98)]
+UW: [to(19), screw(113)]
+UW: [to(19), too(117)]
+UW: [to(19), Glue(123)]
+UW: [to(19), through(130)]
+UW: [to(19), few(137)]
+UW: [to(19), You(138)]
+UW: [to(19), you(151)]
+UW: [view(27), to(59)]
+UW: [view(27), to(96)]
+AHM: ['em(36), from(93)]
+AHM: ['em(36), some(121)]
+IHN: [breakin'(39), In(53)]
+IY: [me(58), baby(71)]
+IY: [me(58), money(91)]
+IY: [me(58), army(94)]
+IY: [me(58), navy(97)]
+IY: [me(58), Krazy(122)]
+UW: [to(59), you(67)]
+UW: [to(59), you(74)]
+UW: [to(59), who,(85)]
+UW: [to(59), blue(98)]
+UW: [to(59), screw(113)]
+UW: [to(59), too(117)]
+UW: [to(59), Glue(123)]
+UW: [to(59), through(130)]
+UW: [to(59), few(137)]
+UW: [to(59), You(138)]
+UW: [to(59), you(151)]
+UW: [you(67), to(96)]
+IY: [baby(71), be(82)]
+IY: [baby(71), she(133)]
+IY: [baby(71), me(142)]
+UW: [you(74), to(96)]
+IY: [be(82), money(91)]
+IY: [be(82), army(94)]
+IY: [be(82), navy(97)]
+IY: [be(82), Krazy(122)]
+UW: [who,(85), to(96)]
+IY: [money(91), she(133)]
+IY: [money(91), me(142)]
+AHM: [from(93), 'em(105)]
+IY: [army(94), she(133)]
+IY: [army(94), me(142)]
+UW: [to(96), blue(98)]
+UW: [to(96), screw(113)]
+UW: [to(96), too(117)]
+UW: [to(96), Glue(123)]
+UW: [to(96), through(130)]
+UW: [to(96), few(137)]
+UW: [to(96), You(138)]
+UW: [to(96), you(151)]
+IY: [navy(97), she(133)]
+IY: [navy(97), me(142)]
+AHM: ['em(105), some(121)]
+IY: [Krazy(122), she(133)]
+IY: [Krazy(122), me(142)]
+
+
+Rule 2: ...-ON[C]'-...
+NT: [Can't(0), can't(14), ain't(69), went(92), can't(146)]
+L: [Lil(3), all(8), feel(108)]
+N: [Wayne(4), can(6), can(10), breakin'(39), When(90), green(95), Man,(118), gone(134), can(139), down(143)]
+T: [but(12), hate(25), it(34), loot(89), salute,(101), what(127), hit(147)]
+K: [break(15), make(35), puke,(37), take(57), take(77), like(109), like(115), break(135), break(141)]
+S: [face(20), juice,(31), loose(40), deuce(46), deuce(52), space(61), Unless(73)]
+Z: [because(23), is(126)]
+P: [hope(33), up(44)]
+M: [I'm(38), I'm(65), from(93), some(121), I'm(128)]
+D: [Should(41), should(48), food(72), food(80), afraid(83), made(87), said(100), head(111), need(120)]
+R: [or(47), army(94), for(150)]
+V: [wave(50), gave(104)]
+LZ: [walls(125), nails,(132)]
+
+
+Rule 3: ...-[O']N[C']'-...
+KNT: [Can't(0), can't(14), can't(146)]
+B: [Be(1), baby(71), be(82), bulletproof,(102)]
+BR: [Broken(2), unbreakable(16), breakin'(39), breaking(129)]
+WN: [Wayne(4), When(90)]
+DH: [They(5), they(9), they(13), They(17), they(24), They(28)]
+KN: [can(6), can(10), breakin'(39), can(139)]
+D: [do(7), do(11)]
+BRK: [break(15), break(135), break(141)]
+HHT: [hate(25), hit(147)]
+T: [it(34), too(117)]
+M: [I'm(38), my(55), momma(56), me(58), I'm(65), money(91), my(110), I'm(128), me(142)]
+LS: [loose(40), Unless(73)]
+SHD: [Should(41), should(48)]
+THR: [throw(43), through(130)]
+DS: [deuce(46), deuce(52)]
+R: [or(47), raising(66), army(94)]
+TK: [take(57), take(77)]
+SH: [shuttle(62), she(133)]
+N: [now(64), no(70), neighbors'(79), navy(97), tornados(116), never(140)]
+Y: [you(67), you(74), You(138), you(151)]
+FD: [food(72), food(80)]
+LT: [loot(89), salute,(101)]
+LK: [like(109), like(115)]
+
+
+
+
+Poem with word IDs:
+
+Can't(0) Be(1) Broken(2) 
+Lil(3) Wayne(4) 
+
+They(5) can(6) do(7) all(8) they(9) can(10) do(11) but(12) they(13) can't(14) break(15) unbreakable(16) 
+They(17) scared(18) to(19) face(20) the(21) truth(22) because(23) they(24) hate(25) the(26) view(27) 
+They(28) taste(29) the(30) juice,(31) I(32) hope(33) it(34) make(35) 'em(36) puke,(37) I'm(38) breakin'(39) loose(40) 
+Should(41) I(42) throw(43) up(44) the(45) deuce(46) or(47) should(48) I(49) wave(50) the(51) deuce(52) 
+In(53) 1982,(54) my(55) momma(56) take(57) me(58) to(59) a(60) space(61) shuttle(62) 
+Say(63) now(64) I'm(65) raising(66) you(67) and(68) ain't(69) no(70) baby(71) food(72) 
+Unless(73) you(74) go(75) and(76) take(77) the(78) neighbors'(79) food(80) 
+And(81) be(82) afraid(83) of(84) who,(85) I(86) made(87) the(88) loot(89) 
+When(90) money(91) went(92) from(93) army(94) green(95) to(96) navy(97) blue(98) 
+I(99) said(100) salute,(101) bulletproof,(102) I(103) gave(104) 'em(105) proof(106) 
+Sometimes(107) feel(108) like(109) my(110) head(111) a(112) screw(113) 
+Twisted(114) like(115) tornados(116) too(117) 
+Man,(118) I'ma(119) need(120) some(121) Krazy(122) Glue(123) 
+Her(124) walls(125) is(126) what(127) I'm(128) breaking(129) through(130) 
+Her(131) nails,(132) she(133) gone(134) break(135) a(136) few(137) 
+You(138) can(139) never(140) break(141) me(142) down(143) and(144) I(145) can't(146) hit(147) the(148) brakes(149) for(150) you(151) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see CantBeBroken_Output_B_uncertainty.txt in the Poems directory
+
+Be (1:0) B IY1 (1:1) B IY0
+can (6:0) K AE1 N (6:1) K AH0 N
+can (10:0) K AE1 N (10:1) K AH0 N
+to (19:0) T UW0 (19:1) T IH0 (19:2) T AH0
+the (21:0) DH AH0 (21:1) DH AH1 (21:2) DH IY0
+because (23:0) B IH0 - K AO1 Z (23:1) B IH0 - K AH1 Z
+the (26:0) DH AH0 (26:1) DH AH1 (26:2) DH IY0
+the (30:0) DH AH0 (30:1) DH AH1 (30:2) DH IY0
+it (34:0) IH1 T (34:1) IH0 T
+the (45:0) DH AH0 (45:1) DH AH1 (45:2) DH IY0
+or (47:0) AO1 R (47:1) ER0
+the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+In (53:0) IH0 N (53:1) IH1 N
+to (59:0) T UW0 (59:1) T IH0 (59:2) T AH0
+a (60:0) AH0 (60:1) EY1
+and (68:0) AE0 N D (68:1) AH0 N D
+and (76:0) AE0 N D (76:1) AH0 N D
+the (78:0) DH AH0 (78:1) DH AH1 (78:2) DH IY0
+And (81:0) AE0 N D (81:1) AH0 N D
+be (82:0) B IY1 (82:1) B IY0
+of (84:0) AH0 V (84:1) AH0 V
+the (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+When (90:0) W EH1 N (90:1) HH W EH1 N (90:2) W IH1 N (90:3) HH W IH1 N
+from (93:0) F R AH1 M (93:1) F ER0 M
+to (96:0) T UW0 (96:1) T IH0 (96:2) T AH0
+Sometimes (107:0) S AH0 M - T AY1 M Z (107:1) S AH1 M - T AY2 M Z
+a (112:0) AH0 (112:1) EY1
+Twisted (114:0) T W IH1 - S T AH0 D (114:1) T W IH1 - S T IH0 D
+Her (124:0) HH ER0 (124:1) HH ER1
+is (126:0) IH1 Z (126:1) IH0 Z
+what (127:0) W AH1 T (127:1) HH W AH1 T
+Her (131:0) HH ER0 (131:1) HH ER1
+a (136:0) AH0 (136:1) EY1
+can (139:0) K AE1 N (139:1) K AH0 N
+and (144:0) AE0 N D (144:1) AH0 N D
+the (148:0) DH AH0 (148:1) DH AH1 (148:2) DH IY0
+for (150:0) F AO1 R (150:1) F ER0 (150:2) F R ER0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see CantBeBroken_Output_B_uncertainty.txt in the Poems directory
+
+unbreakable (16:0)  AH0 N- B R EY1- K AH0- B AH0 L
+'em (36:0)  AH0 M
+breakin' (39:0)  B R EY1- K IH1 N
+'em (105:0)  AH0 M
+I'ma (119:0)  IH1- M AH0
+Krazy (122:0)  K R EY1- Z IY0

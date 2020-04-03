@@ -1,0 +1,125 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%be (4:0) B IY1 (4:1) B IY0
+4:0
+%that (5:0) DH AE1 T (5:1) DH AH0 T
+5:0
+%what (9:0) W AH1 T (9:1) HH W AH1 T
+9:0
+%the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+16:0
+%it (21:0) IH1 T (21:1) IH0 T
+21:0
+%in (22:0) IH0 N (22:1) IH1 N
+22:0
+%a (23:0) AH0 (23:1) EY1
+23:0
+%second (24:0) S EH1 - K AH0 N D (24:1) S EH1 - K AH0 N
+24:0
+%connected (30:0) K AH0 - N EH1 K - T AH0 D (30:1) K AH0 - N EH1 K - T IH0 D
+30:0
+%With (31:0) W IH1 DH (31:1) W IH1 TH (31:2) W IH0 TH (31:3) W IH0 DH
+31:0
+%this (32:0) DH IH1 S (32:1) DH IH0 S
+32:0
+%that (34:0) DH AE1 T (34:1) DH AH0 T
+34:0
+%just (37:0) JH AH1 S T (37:1) JH IH0 S T
+37:0
+%as (39:0) AE1 Z (39:1) EH1 Z
+39:0
+%your (40:0) Y AO1 R (40:1) Y UH1 R
+40:0
+%president (41:0) P R EH1 - Z AH0 - D EH2 N T (41:1) P R EH1 - Z IH0 - D AH0 N T
+41:0
+%and (45:0) AE0 N D (45:1) AH0 N D
+45:0
+%don't (47:0) D OW1 N T (47:1) D OW1 N
+47:0
+%a (49:0) AH0 (49:1) EY1
+49:0
+%get (54:0) G EH1 T (54:1) G IH1 T
+54:0
+%when (56:0) W EH1 N (56:1) HH W EH1 N (56:2) W IH1 N (56:3) HH W IH1 N
+56:0
+%in (60:0) IH0 N (60:1) IH1 N
+60:0
+%that (61:0) DH AE1 T (61:1) DH AH0 T
+61:0
+%Them (63:0) DH EH1 M (63:1) DH AH0 M
+63:0
+%them (65:0) DH EH1 M (65:1) DH AH0 M
+65:0
+%gets (68:0) G EH1 T S (68:1) G IH1 T S
+68:0
+%get (69:0) G EH1 T (69:1) G IH1 T
+69:0
+%the (70:0) DH AH0 (70:1) DH AH1 (70:2) DH IY0
+70:0
+%usually (76:0) Y UW1 - ZH AH0 W - AH0 - L IY0 (76:1) Y UW1 - ZH AH0 - L IY0
+76:0
+%what (77:0) W AH1 T (77:1) HH W AH1 T
+77:0
+%in (80:0) IH0 N (80:1) IH1 N
+80:0
+%in (94:0) IH0 N (94:1) IH1 N
+94:0
+%direction (96:0) D ER0 - EH1 K - SH AH0 N (96:1) D IY0 - R EH1 K - SH IH0 N (96:2) D AY0 - R EH1 K - SH IH0 N (96:3) D IH0 - R EH1 K - SH IH0 N
+96:0
+%with (98:0) W IH1 DH (98:1) W IH1 TH (98:2) W IH0 TH (98:3) W IH0 DH
+98:0
+%the (100:0) DH AH0 (100:1) DH AH1 (100:2) DH IY0
+100:0
+%for (107:0) F AO1 R (107:1) F ER0 (107:2) F R ER0
+107:0
+%Cause (109:0) K AA1 Z (109:1) K AO1 Z
+109:0
+%our (110:0) AW1 - ER0 (110:1) AW1 R (110:2) AA1 R
+110:0
+%is (112:0) IH1 Z (112:1) IH0 Z
+112:0
+%a (113:0) AH0 (113:1) EY1
+113:0
+%present, (114:0) P R EH1 - Z AH0 N T (114:1) P R IY0 - Z EH1 N T (114:2) P ER0 - Z EH1 N T
+114:0
+%just (115:0) JH AH1 S T (115:1) JH IH0 S T
+115:0
+%to (116:0) T UW0 (116:1) T IH0 (116:2) T AH0
+116:0
+%it (118:0) IH1 T (118:1) IH0 T
+118:0
+%is (119:0) IH1 Z (119:1) IH0 Z
+119:0
+%a (120:0) AH0 (120:1) EY1
+120:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%A$AP (1:0)  AH AH0 P
+1:0
+%motherfucker, (7:0)  M AH1- DH ER0- F AH1- K ER0
+7:0
+%repping (11:0)  R EH1- P IH0 NG
+11:0
+%niggas (14:0)  N IH1- G AH0 Z
+14:0
+%bitchin', (17:0)  B IH1- CH IH1 N
+17:0
+%gon' (19:0)  G AA1 N
+19:0
+%doobies (84:0)  D UW1- B IY0 Z
+84:0
+%boobies (92:0)  B UW1- B IY0 Z
+92:0
+%'round (104:0)  R AW1 N D
+104:0
+********End******

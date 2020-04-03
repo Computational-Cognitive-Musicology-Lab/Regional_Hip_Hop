@@ -1,0 +1,121 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+AY: [I(0), I(25), I(48), I(53), I(70)]
+DOWNT: [Don't(1), don't(12), don't(98)]
+LAYK: [Like(2), like(13), like(89), like(99), like(108)]
+SHIHT: [shit(9), shit(85)]
+DHAET: [that(10), that(96)]
+DHEY: [they(11), they(62)]
+GAAT: [got(15), Got(22)]
+DHAH: [the(16), the(33), the(42), the(51), the(60), the(90)]
+EYNT: [ain't(19), ain't(54), ain't(88)]
+TRIYIYNAH: [tryina(20), tryina(55)]
+TRAYIYNAH: [tryina(20), tryina(55)]
+YAOR: [your(23), your(106)]
+BIHCH: [bitch,(24), bitch(77), bitch(107)]
+AH: [a(36), a(68), a(73)]
+YUW: [You(39), you(44)]
+WIHDH: [with(41), with(59)]
+SHIHTS: [shits,(43), shits,(61)]
+PAYP: [pipe(56), pipe(65)]
+BIY: [be(63), B(104)]
+FLAYT: [flight(74), flight(83)]
+WIY: [we(78), we(80), we(87), we(97)]
+
+
+Rule 1: ...-O[NC]'
+AY: [I(0), I(25), die(46), I(48), I(53), I(70)]
+OWNT: [Don't(1), don't(12), don't(98)]
+AYK: [Like(2), like(13), like(89), like(99), like(108)]
+IHT: [shit(9), it(28), shit(85)]
+AET: [that(10), flat,(69), that(96)]
+EY: [they(11), they(62)]
+AAT: [got(15), Got(22), not(40), hot,(79)]
+IY: [he(18), be(63), three(75), we(78), we(80), we(87), see(95), we(97), T(101), G(103), B(104), E,(105)]
+EYNT: [ain't(19), ain't(54), ain't(88)]
+AYT: [fight(21), night(30), sight(38), tonight(47), might(71), flight(74), flight(83)]
+AOR: [your(23), your(106)]
+IHCH: [bitch,(24), bitch(77), bitch(107)]
+IHN: [hittin(27), totin'(64)]
+UW: [You(39), you(44)]
+IHDH: [with(41), with(59)]
+IHTS: [shits,(43), shits,(61)]
+AYP: [pipe(56), pipe(65)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IYIYNAH: [tryina(20), tryina(55)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+I(0) Don't(1) Like(2) 
+Lil(3) Reese(4) 
+
+I'm(5) killing(6) these(7) niggas,(8) shit(9) that(10) they(11) don't(12) like(13) 
+Broski(14) got(15) the(16) thirty(17) he(18) ain't(19) tryina(20) fight(21) 
+Got(22) your(23) bitch,(24) I(25) was(26) hittin(27) it(28) all(29) night(30) 
+Fredo(31) in(32) the(33) cut,(34) that's(35) a(36) scary(37) sight(38) 
+You(39) not(40) with(41) the(42) shits,(43) you(44) can(45) die(46) tonight(47) 
+I(48) only(49) want(50) the(51) top,(52) I(53) ain't(54) tryina(55) pipe(56) 
+Them(57) youngings(58) with(59) the(60) shits,(61) they(62) be(63) totin'(64) pipe(65) 
+Floating(66) off(67) a(68) flat,(69) I(70) might(71) take(72) a(73) flight(74) 
+three(75) Hunna(76) bitch(77) we(78) hot,(79) we(80) done(81) took(82) flight(83) 
+Taking(84) shit(85) down(86) we(87) ain't(88) like(89) the(90) price(91) 
+Thirsty(92) ass(93) bitches(94) see(95) that(96) we(97) don't(98) like(99) 
+O(100) T(101) F(102) G(103) B(104) E,(105) your(106) bitch(107) like(108) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see IDon'tLike_Output_A_uncertainty.txt in the Poems directory
+
+Don't (1:0) D OW1 N T (1:1) D OW1 N
+that (10:0) DH AE1 T (10:1) DH AH0 T
+don't (12:0) D OW1 N T (12:1) D OW1 N
+the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+thirty (17:0) TH ER1 - D IY0 (17:1) TH ER1 - T IY2
+your (23:0) Y AO1 R (23:1) Y UH1 R
+was (26:0) W AA1 Z (26:1) W AH1 Z (26:2) W AH0 Z (26:3) W AO1 Z
+it (28:0) IH1 T (28:1) IH0 T
+in (32:0) IH0 N (32:1) IH1 N
+the (33:0) DH AH0 (33:1) DH AH1 (33:2) DH IY0
+a (36:0) AH0 (36:1) EY1
+with (41:0) W IH1 DH (41:1) W IH1 TH (41:2) W IH0 TH (41:3) W IH0 DH
+the (42:0) DH AH0 (42:1) DH AH1 (42:2) DH IY0
+can (45:0) K AE1 N (45:1) K AH0 N
+tonight (47:0) T AH0 - N AY1 T (47:1) T UW0 - N AY1 T
+want (50:0) W AA1 N T (50:1) W AO1 N T
+the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+top, (52:0) T AA1 P (52:1) T AO1 P
+Them (57:0) DH EH1 M (57:1) DH AH0 M
+with (59:0) W IH1 DH (59:1) W IH1 TH (59:2) W IH0 TH (59:3) W IH0 DH
+the (60:0) DH AH0 (60:1) DH AH1 (60:2) DH IY0
+be (63:0) B IY1 (63:1) B IY0
+a (68:0) AH0 (68:1) EY1
+a (73:0) AH0 (73:1) EY1
+the (90:0) DH AH0 (90:1) DH AH1 (90:2) DH IY0
+that (96:0) DH AE1 T (96:1) DH AH0 T
+don't (98:0) D OW1 N T (98:1) D OW1 N
+your (106:0) Y AO1 R (106:1) Y UH1 R
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see IDon'tLike_Output_A_uncertainty.txt in the Poems directory
+
+niggas, (8:0)  N IH1- G AH0 Z
+tryina (20:0)  T R AY IY1- N AH0
+hittin (27:0)  HH IH1- T IH1 N
+shits, (43:0)  SH IH1 T S
+tryina (55:0)  T R AY IY1- N AH0
+youngings (58:0)  Y AH1 N- JH IH0 NG Z
+shits, (61:0)  SH IH1 T S
+totin' (64:0)  T OW1- T IH1 N
+Hunna (76:0)  HH AH1- N AH0

@@ -1,0 +1,107 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%wasn't (5:0) W AA1 - Z AH0 N T (5:1) W AH1 - Z AH0 N T
+5:0
+%when (7:0) W EH1 N (7:1) HH W EH1 N (7:2) W IH1 N (7:3) HH W IH1 N
+7:0
+%was (9:0) W AA1 Z (9:1) W AH1 Z (9:2) W AH0 Z (9:3) W AO1 Z
+9:0
+%struggling (10:0) S T R AH1 - G AH0 - L IH0 NG (10:1) S T R AH1 - G L IH0 NG
+10:0
+%wasn't (12:0) W AA1 - Z AH0 N T (12:1) W AH1 - Z AH0 N T
+12:0
+%when (14:0) W EH1 N (14:1) HH W EH1 N (14:2) W IH1 N (14:3) HH W IH1 N
+14:0
+%was (16:0) W AA1 Z (16:1) W AH1 Z (16:2) W AH0 Z (16:3) W AO1 Z
+16:0
+%in (24:0) IH0 N (24:1) IH1 N
+24:0
+%the (25:0) DH AH0 (25:1) DH AH1 (25:2) DH IY0
+25:0
+%a (29:0) AH0 (29:1) EY1
+29:0
+%and (31:0) AE0 N D (31:1) AH0 N D
+31:0
+%wanted (32:0) W AA1 N - T AH0 D (32:1) W AO1 N - T IH0 D (32:2) W AO1 - N IH0 D
+32:0
+%a (33:0) AH0 (33:1) EY1
+33:0
+%to (37:0) T UW0 (37:1) T IH0 (37:2) T AH0
+37:0
+%and (39:0) AE0 N D (39:1) AH0 N D
+39:0
+%an (42:0) AE1 N (42:1) AH0 N
+42:0
+%with (47:0) W IH1 DH (47:1) W IH1 TH (47:2) W IH0 TH (47:3) W IH0 DH
+47:0
+%the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+48:0
+%and (50:0) AE0 N D (50:1) AH0 N D
+50:0
+%Counting (52:0) K AW1 N - T IH0 NG (52:1) K AW1 - N IH0 NG
+52:0
+%hundreds (54:0) HH AH1 N - D R AH0 D Z (54:1) HH AH1 N - D ER0 D Z (54:2) HH AH1 - N ER0 D Z
+54:0
+%and (55:0) AE0 N D (55:1) AH0 N D
+55:0
+%an (57:0) AE1 N (57:1) AH0 N
+57:0
+%And (59:0) AE0 N D (59:1) AH0 N D
+59:0
+%an (62:0) AE1 N (62:1) AH0 N
+62:0
+%and (64:0) AE0 N D (64:1) AH0 N D
+64:0
+%it (68:0) IH1 T (68:1) IH0 T
+68:0
+%hanging (70:0) HH AE1 - NG IH0 NG (70:1) HH AE1 - NG G IH0 NG
+70:0
+%the (72:0) DH AH0 (72:1) DH AH1 (72:2) DH IY0
+72:0
+%where (76:0) W EH1 R (76:1) HH W EH1 R
+76:0
+%in (83:0) IH0 N (83:1) IH1 N
+83:0
+%just (90:0) JH AH1 S T (90:1) JH IH0 S T
+90:0
+%to (92:0) T UW0 (92:1) T IH0 (92:2) T AH0
+92:0
+%the (93:0) DH AH0 (93:1) DH AH1 (93:2) DH IY0
+93:0
+%and (95:0) AE0 N D (95:1) AH0 N D
+95:0
+%When (97:0) W EH1 N (97:1) HH W EH1 N (97:2) W IH1 N (97:3) HH W IH1 N
+97:0
+%was (99:0) W AA1 Z (99:1) W AH1 Z (99:2) W AH0 Z (99:3) W AO1 Z
+99:0
+%the (100:0) DH AH0 (100:1) DH AH1 (100:2) DH IY0
+100:0
+%quarterback, (101:0) K W AO1 R - T ER0 - B AE2 K (101:1) K AO1 R - T ER0 - B AE2 K
+101:0
+%them (104:0) DH EH1 M (104:1) DH AH0 M
+104:0
+%quarter (105:0) K W AO1 R - T ER0 (105:1) K AO1 R - T ER0
+105:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Chainz (3:0)  CH EY1 N Z
+3:0
+%'em (19:0)  AH0 M
+19:0
+%Chevelle (30:0)  CH IY1- V EH1 L
+30:0
+%bunions (51:0)  B Y UW1- N Y AH0 N Z
+51:0
+%'em (87:0)  AH0 M
+87:0
+********End******

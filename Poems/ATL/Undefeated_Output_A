@@ -1,0 +1,151 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+AY: [I(2), I(7), I(24), I(32), I(40), I(48), I(98)]
+GAAT: [got(3), Got(12), got(25), got(33), got(41), got(49), got(95)]
+DHAET: [that(4), that(42), that(50)]
+WEHN: [when(6), when(68), when(76), when(86)]
+AWT: [out(9), out(83)]
+DHAH: [the(10), the(16), the(62), the(66), the(71), the(80), the(84), the(101), the(108), the(113), the(117), the(131), the(139)]
+SAHM: [some(13), some(26), some(34), some(57), some(91)]
+IHN: [in(15), in(100), in(107)]
+AEND: [and(18), and(110)]
+AOF: [off(20), off(105)]
+AAN: [on(21), on(65), on(116)]
+BJHIY: [boujee,(27), boujee,(35), boujee,(43), boujee,(51)]
+SHIY: [she(28), she(36), she(44), she(52)]
+MAY: [my(30), my(38), my(46), my(54)]
+DHEY: [they(59), they(119)]
+FAYER: [fire(67), fire(85)]
+AYM: [I'm(69), I'm(111)]
+IHT: [it(77), it(88), it(94)]
+YUW: [you(87), You(123), you(128), you,(137)]
+KAHM: [come(124), come(129)]
+WIHDH: [with(125), with(134)]
+
+
+Rule 1: ...-O[NC]'
+AY: [I(2), I(7), I(24), my(30), I(32), my(38), I(40), my(46), I(48), my(54), I(98)]
+AAT: [got(3), Got(12), got(25), got(33), got(41), got(49), got(95)]
+AET: [that(4), that(42), that(50), at(61)]
+EHN: [when(6), when(68), when(76), when(86)]
+AWT: [out(9), out(83)]
+AOR: [door(11), more(92), before(103), for(130)]
+AHM: [some(13), some(26), some(34), some(57), some(91), come(124), come(129)]
+AOF: [off(20), off(105)]
+AAN: [on(21), on(65), gon'(74), on(116)]
+IY: [she(28), she(36), she(44), she(52), me(96)]
+IHN: [holdin'(29), foldin'(53), whippin'(70), breakin'(112), sellin'(120), missin'(138)]
+AAK: [Glock(47), dock(63), block(72)]
+EY: [they(59), Spray(82), Stay(106), they(119)]
+AYM: [I'm(69), I'm(111)]
+IHT: [it(77), it(88), it(94)]
+UW: [you(87), You(123), you(128), you,(137)]
+IHDH: [with(125), with(134)]
+
+
+Rule 2: ...-O[NC'-ONC]
+AYER: [fire(67), fire(85)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Undefeated(0) 
+Future(1) 
+
+I(2) got(3) that(4) tool(5) when(6) I(7) walk(8) out(9) the(10) door(11) 
+Got(12) some(13) head(14) in(15) the(16) coupe(17) and(18) let(19) off(20) on(21) her(22) nose(23) 
+I(24) got(25) some(26) boujee,(27) she(28) holdin'(29) my(30) chopper(31) 
+I(32) got(33) some(34) boujee,(35) she(36) doin'(37) my(38) chores(39) 
+I(40) got(41) that(42) boujee,(43) she(44) loadin'(45) my(46) Glock(47) 
+I(48) got(49) that(50) boujee,(51) she(52) foldin'(53) my(54) clothes(55) 
+
+Load(56) some(57) vans,(58) they(59) meet(60) at(61) the(62) dock(63) 
+Hand(64) on(65) the(66) fire(67) when(68) I'm(69) whippin'(70) the(71) block(72) 
+Family(73) gon'(74) doe(75) when(76) it(77) comes(78) to(79) the(80) boss(81) 
+Spray(82) out(83) the(84) fire(85) when(86) you(87) it(88) exhaust(89) 
+Count(90) some(91) more(92) money,(93) it(94) got(95) me(96) exhausted(97) 
+I(98) was(99) in(100) the(101) dungeon(102) before(103) takin'(104) off(105) 
+Stay(106) in(107) the(108) streets(109) and(110) I'm(111) breakin'(112) the(113) law(114) 
+Hang(115) on(116) the(117) corner,(118) they(119) sellin'(120) da(121) boy(122) 
+You(123) come(124) with(125) them(126) dollars,(127) you(128) come(129) for(130) the(131) board(132) 
+Came(133) with(134) a(135) stylist(136) you,(137) missin'(138) the(139) sport(140) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Undefeated_Output_A_uncertainty.txt in the Poems directory
+
+that (4:0) DH AE1 T (4:1) DH AH0 T
+when (6:0) W EH1 N (6:1) HH W EH1 N (6:2) W IH1 N (6:3) HH W IH1 N
+walk (8:0) W AO1 K (8:1) W AA1 K
+the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+in (15:0) IH0 N (15:1) IH1 N
+the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+and (18:0) AE0 N D (18:1) AH0 N D
+on (21:0) AA1 N (21:1) AO1 N
+her (22:0) HH ER0 (22:1) HH ER1
+that (42:0) DH AE1 T (42:1) DH AH0 T
+that (50:0) DH AE1 T (50:1) DH AH0 T
+clothes (55:0) K L OW1 DH Z (55:1) K L OW1 Z
+the (62:0) DH AH0 (62:1) DH AH1 (62:2) DH IY0
+on (65:0) AA1 N (65:1) AO1 N
+the (66:0) DH AH0 (66:1) DH AH1 (66:2) DH IY0
+fire (67:0) F AY1 - ER0 (67:1) F AY1 R
+when (68:0) W EH1 N (68:1) HH W EH1 N (68:2) W IH1 N (68:3) HH W IH1 N
+the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+Family (73:0) F AE1 - M AH0 - L IY0 (73:1) F AE1 M - L IY0
+when (76:0) W EH1 N (76:1) HH W EH1 N (76:2) W IH1 N (76:3) HH W IH1 N
+it (77:0) IH1 T (77:1) IH0 T
+to (79:0) T UW0 (79:1) T IH0 (79:2) T AH0
+the (80:0) DH AH0 (80:1) DH AH1 (80:2) DH IY0
+boss (81:0) B AA1 S (81:1) B AO1 S
+the (84:0) DH AH0 (84:1) DH AH1 (84:2) DH IY0
+fire (85:0) F AY1 - ER0 (85:1) F AY1 R
+when (86:0) W EH1 N (86:1) HH W EH1 N (86:2) W IH1 N (86:3) HH W IH1 N
+it (88:0) IH1 T (88:1) IH0 T
+it (94:0) IH1 T (94:1) IH0 T
+exhausted (97:0) IH0 G - Z AO1 - S T AH0 D (97:1) IH0 G - Z AO1 - S T IH0 D
+was (99:0) W AA1 Z (99:1) W AH1 Z (99:2) W AH0 Z (99:3) W AO1 Z
+in (100:0) IH0 N (100:1) IH1 N
+the (101:0) DH AH0 (101:1) DH AH1 (101:2) DH IY0
+before (103:0) B IH0 - F AO1 R (103:1) B IY2 - F AO1 R
+in (107:0) IH0 N (107:1) IH1 N
+the (108:0) DH AH0 (108:1) DH AH1 (108:2) DH IY0
+and (110:0) AE0 N D (110:1) AH0 N D
+the (113:0) DH AH0 (113:1) DH AH1 (113:2) DH IY0
+law (114:0) L AO1 (114:1) L AA1
+on (116:0) AA1 N (116:1) AO1 N
+the (117:0) DH AH0 (117:1) DH AH1 (117:2) DH IY0
+da (121:0) D AA1 (121:1) D IY1 - EY1
+with (125:0) W IH1 DH (125:1) W IH1 TH (125:2) W IH0 TH (125:3) W IH0 DH
+them (126:0) DH EH1 M (126:1) DH AH0 M
+dollars, (127:0) D AA1 - L ER0 Z (127:1) D AO1 - L ER0 Z
+for (130:0) F AO1 R (130:1) F ER0 (130:2) F R ER0
+the (131:0) DH AH0 (131:1) DH AH1 (131:2) DH IY0
+with (134:0) W IH1 DH (134:1) W IH1 TH (134:2) W IH0 TH (134:3) W IH0 DH
+a (135:0) AH0 (135:1) EY1
+the (139:0) DH AH0 (139:1) DH AH1 (139:2) DH IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Undefeated_Output_A_uncertainty.txt in the Poems directory
+
+boujee, (27:0)  B JH IY0
+holdin' (29:0)  HH OW1- L D IH1 N
+boujee, (35:0)  B JH IY0
+boujee, (43:0)  B JH IY0
+loadin' (45:0)  L OW1- D AH0 N
+boujee, (51:0)  B JH IY0
+foldin' (53:0)  F OW1- L D IH1 N
+whippin' (70:0)  W IH1- P IH1 N
+gon' (74:0)  G AA1 N
+breakin' (112:0)  B R EY1- K IH1 N
+sellin' (120:0)  S EH1- L IH1 N
+missin' (138:0)  M IH1- S IH1 N

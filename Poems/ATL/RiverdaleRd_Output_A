@@ -1,0 +1,126 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+TUW: [Two(2), too(22), to(37), to(92)]
+YUW: [You(4), You(11), you(21), you(98)]
+WAAZAHNT: [wasn't(5), wasn't(12)]
+DHEHR: [there(6), there(13)]
+WEHN: [when(7), when(14), When(97)]
+MAAMAH: [mama(8), mama(15)]
+WAAZ: [was(9), was(16), was(99)]
+AHM: ['em(19), 'em(87)]
+IHN: [in(24), in(83)]
+DHAH: [the(25), the(48), the(72), the(93), the(100)]
+AY: [I(27), I(35), I(40), I(65), I(102)]
+HHAED: [had(28), had(103)]
+AH: [a(29), a(33)]
+AEND: [and(31), and(39), and(50), and(55), And(59), and(64), and(95)]
+WEHNT: [went(36), went(91)]
+AEN: [an(42), an(57), an(62)]
+AHNYAHN: [onion(58), onion(63)]
+GAAT: [got(61), got(86)]
+WIY: [We(69), We(80), We(85)]
+BAEK: [back,(89), back(96)]
+
+
+Rule 1: ...-O[NC]'
+UW: [Two(2), You(4), You(11), you(21), too(22), blue(53), you(98)]
+EHR: [there(6), there(13), where(76)]
+EHN: [when(7), when(14), When(97)]
+AAZ: [was(9), was(16), was(99)]
+AY: [I(27), I(35), I(40), I(65), my(77), I(102)]
+AED: [had(28), had(103)]
+EHNT: [went(36), went(91)]
+AEN: [an(42), an(57), an(62)]
+IY: [she(60), We(69), see(74), We(80), We(85)]
+AAT: [got(61), got(86)]
+AOL: [all(82), mall(94)]
+AEK: [black(84), back,(89), back(96)]
+
+
+Rule 2: ...-O[NC'-ONC]
+AAZAHNT: [wasn't(5), wasn't(12)]
+AAMAH: [mama(8), mama(15)]
+AHNYAHN: [onion(58), onion(63)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Riverdale(0) Road(1) 
+Two(2) Chainz(3) 
+
+You(4) wasn't(5) there(6) when(7) mama(8) was(9) struggling(10) 
+You(11) wasn't(12) there(13) when(14) mama(15) was(16) fussing(17) 
+Told(18) 'em(19) ketchup,(20) you(21) too(22) far(23) in(24) the(25) mustard(26) 
+I(27) had(28) a(29) Chevelle(30) and(31) wanted(32) a(33) cutlass(34) 
+I(35) went(36) to(37) work(38) and(39) I(40) made(41) an(42) abundance(43) 
+Gucci(44) flip(45) flops(46) with(47) the(48) corns(49) and(50) bunions(51) 
+Counting(52) blue(53) hundreds(54) and(55) smoking(56) an(57) onion(58) 
+And(59) she(60) got(61) an(62) onion(63) and(64) I(65) wanna(66) rub(67) it(68) 
+We(69) hanging(70) off(71) the(72) net,(73) see(74) that's(75) where(76) my(77) office(78) at(79) 
+We(80) dressed(81) all(82) in(83) black(84) 
+We(85) got(86) 'em(87) calling(88) back,(89) just(90) went(91) to(92) the(93) mall(94) and(95) back(96) 
+When(97) you(98) was(99) the(100) quarterback,(101) I(102) had(103) them(104) quarter(105) sacks(106) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see RiverdaleRd_Output_A_uncertainty.txt in the Poems directory
+
+wasn't (5:0) W AA1 - Z AH0 N T (5:1) W AH1 - Z AH0 N T
+when (7:0) W EH1 N (7:1) HH W EH1 N (7:2) W IH1 N (7:3) HH W IH1 N
+was (9:0) W AA1 Z (9:1) W AH1 Z (9:2) W AH0 Z (9:3) W AO1 Z
+struggling (10:0) S T R AH1 - G AH0 - L IH0 NG (10:1) S T R AH1 - G L IH0 NG
+wasn't (12:0) W AA1 - Z AH0 N T (12:1) W AH1 - Z AH0 N T
+when (14:0) W EH1 N (14:1) HH W EH1 N (14:2) W IH1 N (14:3) HH W IH1 N
+was (16:0) W AA1 Z (16:1) W AH1 Z (16:2) W AH0 Z (16:3) W AO1 Z
+in (24:0) IH0 N (24:1) IH1 N
+the (25:0) DH AH0 (25:1) DH AH1 (25:2) DH IY0
+a (29:0) AH0 (29:1) EY1
+and (31:0) AE0 N D (31:1) AH0 N D
+wanted (32:0) W AA1 N - T AH0 D (32:1) W AO1 N - T IH0 D (32:2) W AO1 - N IH0 D
+a (33:0) AH0 (33:1) EY1
+to (37:0) T UW0 (37:1) T IH0 (37:2) T AH0
+and (39:0) AE0 N D (39:1) AH0 N D
+an (42:0) AE1 N (42:1) AH0 N
+with (47:0) W IH1 DH (47:1) W IH1 TH (47:2) W IH0 TH (47:3) W IH0 DH
+the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+and (50:0) AE0 N D (50:1) AH0 N D
+Counting (52:0) K AW1 N - T IH0 NG (52:1) K AW1 - N IH0 NG
+hundreds (54:0) HH AH1 N - D R AH0 D Z (54:1) HH AH1 N - D ER0 D Z (54:2) HH AH1 - N ER0 D Z
+and (55:0) AE0 N D (55:1) AH0 N D
+an (57:0) AE1 N (57:1) AH0 N
+And (59:0) AE0 N D (59:1) AH0 N D
+an (62:0) AE1 N (62:1) AH0 N
+and (64:0) AE0 N D (64:1) AH0 N D
+it (68:0) IH1 T (68:1) IH0 T
+hanging (70:0) HH AE1 - NG IH0 NG (70:1) HH AE1 - NG G IH0 NG
+the (72:0) DH AH0 (72:1) DH AH1 (72:2) DH IY0
+where (76:0) W EH1 R (76:1) HH W EH1 R
+in (83:0) IH0 N (83:1) IH1 N
+just (90:0) JH AH1 S T (90:1) JH IH0 S T
+to (92:0) T UW0 (92:1) T IH0 (92:2) T AH0
+the (93:0) DH AH0 (93:1) DH AH1 (93:2) DH IY0
+and (95:0) AE0 N D (95:1) AH0 N D
+When (97:0) W EH1 N (97:1) HH W EH1 N (97:2) W IH1 N (97:3) HH W IH1 N
+was (99:0) W AA1 Z (99:1) W AH1 Z (99:2) W AH0 Z (99:3) W AO1 Z
+the (100:0) DH AH0 (100:1) DH AH1 (100:2) DH IY0
+quarterback, (101:0) K W AO1 R - T ER0 - B AE2 K (101:1) K AO1 R - T ER0 - B AE2 K
+them (104:0) DH EH1 M (104:1) DH AH0 M
+quarter (105:0) K W AO1 R - T ER0 (105:1) K AO1 R - T ER0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see RiverdaleRd_Output_A_uncertainty.txt in the Poems directory
+
+Chainz (3:0)  CH EY1 N Z
+'em (19:0)  AH0 M
+Chevelle (30:0)  CH IY1- V EH1 L
+bunions (51:0)  B Y UW1- N Y AH0 N Z
+'em (87:0)  AH0 M

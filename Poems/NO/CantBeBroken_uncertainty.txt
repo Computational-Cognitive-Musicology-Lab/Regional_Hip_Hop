@@ -1,0 +1,101 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Be (1:0) B IY1 (1:1) B IY0
+1:0
+%can (6:0) K AE1 N (6:1) K AH0 N
+6:0
+%can (10:0) K AE1 N (10:1) K AH0 N
+10:0
+%to (19:0) T UW0 (19:1) T IH0 (19:2) T AH0
+19:0
+%the (21:0) DH AH0 (21:1) DH AH1 (21:2) DH IY0
+21:0
+%because (23:0) B IH0 - K AO1 Z (23:1) B IH0 - K AH1 Z
+23:0
+%the (26:0) DH AH0 (26:1) DH AH1 (26:2) DH IY0
+26:0
+%the (30:0) DH AH0 (30:1) DH AH1 (30:2) DH IY0
+30:0
+%it (34:0) IH1 T (34:1) IH0 T
+34:0
+%the (45:0) DH AH0 (45:1) DH AH1 (45:2) DH IY0
+45:0
+%or (47:0) AO1 R (47:1) ER0
+47:0
+%the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+51:0
+%In (53:0) IH0 N (53:1) IH1 N
+53:0
+%to (59:0) T UW0 (59:1) T IH0 (59:2) T AH0
+59:0
+%a (60:0) AH0 (60:1) EY1
+60:0
+%and (68:0) AE0 N D (68:1) AH0 N D
+68:0
+%and (76:0) AE0 N D (76:1) AH0 N D
+76:0
+%the (78:0) DH AH0 (78:1) DH AH1 (78:2) DH IY0
+78:0
+%And (81:0) AE0 N D (81:1) AH0 N D
+81:0
+%be (82:0) B IY1 (82:1) B IY0
+82:0
+%of (84:0) AH0 V (84:1) AH0 V
+84:0
+%the (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+88:0
+%When (90:0) W EH1 N (90:1) HH W EH1 N (90:2) W IH1 N (90:3) HH W IH1 N
+90:0
+%from (93:0) F R AH1 M (93:1) F ER0 M
+93:0
+%to (96:0) T UW0 (96:1) T IH0 (96:2) T AH0
+96:0
+%Sometimes (107:0) S AH0 M - T AY1 M Z (107:1) S AH1 M - T AY2 M Z
+107:0
+%a (112:0) AH0 (112:1) EY1
+112:0
+%Twisted (114:0) T W IH1 - S T AH0 D (114:1) T W IH1 - S T IH0 D
+114:0
+%Her (124:0) HH ER0 (124:1) HH ER1
+124:0
+%is (126:0) IH1 Z (126:1) IH0 Z
+126:0
+%what (127:0) W AH1 T (127:1) HH W AH1 T
+127:0
+%Her (131:0) HH ER0 (131:1) HH ER1
+131:0
+%a (136:0) AH0 (136:1) EY1
+136:0
+%can (139:0) K AE1 N (139:1) K AH0 N
+139:0
+%and (144:0) AE0 N D (144:1) AH0 N D
+144:0
+%the (148:0) DH AH0 (148:1) DH AH1 (148:2) DH IY0
+148:0
+%for (150:0) F AO1 R (150:1) F ER0 (150:2) F R ER0
+150:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%unbreakable (16:0)  AH0 N- B R EY1- K AH0- B AH0 L
+16:0
+%'em (36:0)  AH0 M
+36:0
+%breakin' (39:0)  B R EY1- K IH1 N
+39:0
+%'em (105:0)  AH0 M
+105:0
+%I'ma (119:0)  IH1- M AH0
+119:0
+%Krazy (122:0)  K R EY1- Z IY0
+122:0
+********End******

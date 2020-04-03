@@ -1,0 +1,117 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Savage (3:0) S AE1 - V AH0 JH (3:1) S AE1 - V IH0 JH
+3:0
+%a (6:0) AH0 (6:1) EY1
+6:0
+%new (7:0) N UW1 (7:1) N Y UW1
+7:0
+%for (9:0) F AO1 R (9:1) F ER0 (9:2) F R ER0
+9:0
+%the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+10:0
+%tear (13:0) T EH1 R (13:1) T IH1 R
+13:0
+%the (15:0) DH AH0 (15:1) DH AH1 (15:2) DH IY0
+15:0
+%with (17:0) W IH1 DH (17:1) W IH1 TH (17:2) W IH0 TH (17:3) W IH0 DH
+17:0
+%the (18:0) DH AH0 (18:1) DH AH1 (18:2) DH IY0
+18:0
+%to (24:0) T UW0 (24:1) T IH0 (24:2) T AH0
+24:0
+%the (25:0) DH AH0 (25:1) DH AH1 (25:2) DH IY0
+25:0
+%with (29:0) W IH1 DH (29:1) W IH1 TH (29:2) W IH0 TH (29:3) W IH0 DH
+29:0
+%and (31:0) AE0 N D (31:1) AH0 N D
+31:0
+%in (36:0) IH0 N (36:1) IH1 N
+36:0
+%and (38:0) AE0 N D (38:1) AH0 N D
+38:0
+%With (40:0) W IH1 DH (40:1) W IH1 TH (40:2) W IH0 TH (40:3) W IH0 DH
+40:0
+%and (42:0) AE0 N D (42:1) AH0 N D
+42:0
+%and (44:0) AE0 N D (44:1) AH0 N D
+44:0
+%be (47:0) B IY1 (47:1) B IY0
+47:0
+%and (53:0) AE0 N D (53:1) AH0 N D
+53:0
+%a (61:0) AH0 (61:1) EY1
+61:0
+%in (68:0) IH0 N (68:1) IH1 N
+68:0
+%a (69:0) AH0 (69:1) EY1
+69:0
+%the (74:0) DH AH0 (74:1) DH AH1 (74:2) DH IY0
+74:0
+%tennis (84:0) T EH1 - N AH0 S (84:1) T EH1 - N IH0 S
+84:0
+%on (86:0) AA1 N (86:1) AO1 N
+86:0
+%and (87:0) AE0 N D (87:1) AH0 N D
+87:0
+%Draco (91:0) D R EY1 - K OW0 (91:1) D R AE1 - K OW0
+91:0
+%the (95:0) DH AH0 (95:1) DH AH1 (95:2) DH IY0
+95:0
+%Walk (100:0) W AO1 K (100:1) W AA1 K
+100:0
+%in (101:0) IH0 N (101:1) IH1 N
+101:0
+%and (104:0) AE0 N D (104:1) AH0 N D
+104:0
+%a (107:0) AH0 (107:1) EY1
+107:0
+%proceed (111:0) P R AH0 - S IY1 D (111:1) P R OW0 - S IY1 D (111:2) P ER0 - S IY1 D
+111:0
+%with (112:0) W IH1 DH (112:1) W IH1 TH (112:2) W IH0 TH (112:3) W IH0 DH
+112:0
+%caution, (113:0) K AA1 - SH AH0 N (113:1) K AO1 - SH AH0 N
+113:0
+%be (116:0) B IY1 (116:1) B IY0
+116:0
+%with (118:0) W IH1 DH (118:1) W IH1 TH (118:2) W IH0 TH (118:3) W IH0 DH
+118:0
+%and (124:0) AE0 N D (124:1) AH0 N D
+124:0
+%nice (126:0) N AY1 S (126:1) N IY1 S
+126:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%'Rari's (37:0)  R AA1- R IH1 Z
+37:0
+%Gucci'd (48:0)  G UW1- CH AY1 D
+48:0
+%Moncler, (56:0)  M AA1 N- K L ER0
+56:0
+%yuh, (57:0)  Y UW0
+57:0
+%yuh (63:0)  Y UW0
+63:0
+%yuh (71:0)  Y UW0
+71:0
+%yuh (81:0)  Y UW0
+81:0
+%'em (83:0)  AH0 M
+83:0
+%blingy (90:0)  B AH0- L IH0 N- JH IY0
+90:0
+%Chingy (99:0)  CH IH1 N- JH IY0
+99:0
+%titties (127:0)  T IH IY0 Z
+127:0
+********End******

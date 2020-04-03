@@ -1,0 +1,324 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+SHIHT: [Shit(3), shit(184), shit,(192), shit(215), shit(342)]
+NOW: [Know(4), know(87), No(95), no(203)]
+AH: [a(5), a(13), a(22), a(57), a(88), a(103), a(109), a(133), a(167), a(199), a(226), a(245), a(263), a(266), a(278), a(285), a(299), a(305), a(311), a(315), a(344), a(352), a(360)]
+KAHPAHL: [couple(6), couple(134)]
+DHAETS: [that's(8), that's(309)]
+TUW: [to(10), to(189), to(222)]
+RAYD: [ride(11), ride(118), ride(346)]
+WEHN: [When(15), When(77)]
+IHTS: [it's(16), it's(187), it's(202), it's(233)]
+RAHN: [run(19), run(218)]
+AAN: [on(21), on(66), on(181), on(304), on(359)]
+NIHGAH: [nigga(23), nigga(89), nigga(104), nigga(227), nigga(246), nigga(279), nigga(286), nigga(300), nigga(306), nigga(312), nigga(345), nigga(353), nigga(361)]
+WIHDH: [with(24), with'(37), with(69), with'(93), with'(100), with(247)]
+DHAH: [the(25), the(48), the(67), the(80), the(98), the(141), the(214), the(237), the(242), the(248), the(319), the(334), the(356)]
+LIYV: [Leave(28), leave(115), leave(162)]
+HHIHZ: [his(29), his(41), his(254)]
+AYM: [I'm(35), I'm(47), I'm(108), I'm(265), I'm(271)]
+IHT: [it,(38), it(46), it(63), it(111), it(252)]
+AYL: [I'll(39), I'll(224)]
+AES: [ass(42), ass(255)]
+AEND: [and(43), and(59), and(73), and(113), and(120), And(170), and(211), and(230), And(232), And(288), and(324)]
+DHEHN: [then(44), then(114), then(336)]
+FERGEHT: [forget(45), forget(60)]
+MAEN: [man(49), man(294)]
+MAY: [my(51), my(146), my(150), my(337)]
+SAYD: [side(52), side(362)]
+AHV: [of(53), of(275)]
+BIHCH: [bitch(58), Bitch(124), bitch(143), bitch(164), bitch(200), bitch(317)]
+AY: [I(61), I(78), I(125), I(129), I(136), I(144), I(152), I(159), I(171), I(175), I(216), I(220), I(260), I(289), I(296), I(327), I(332), I(347)]
+HHIHT: [hit(62), hit(79), Hit(244)]
+LIHL: [Lil(64), Lil(156)]
+MIY: [me,(70), me,(94), me(101)]
+HHOWZ: [hoes(82), hoes(148), hoes(196)]
+KAAZ: [Cause(85), cause(219), cause(295)]
+GAAT: [got(90), got(132), got(193), Got(314), got(355)]
+BAHT: [but(97), But(185)]
+LEHT: [let(102), let(110), let(351)]
+AOF: [off(112), off(119), off(292)]
+DHEHR: [there,(117), there(155)]
+DOWNT: [don't(121), don't(137), don't(261)]
+IYVIHN: [even(122), even(138), even(154)]
+AWT: [out(127), out,(131)]
+TIHL: ['till(128), 'til(270), 'til(277), 'til(284)]
+IHN: [In(140), in(236), in(318)]
+DUW: [do(145), do(256), do(333)]
+EYNT: [ain't(153), ain't(348)]
+DHIHS: [this,(161), this(268)]
+MEYK: [make(172), make(176), make(253)]
+LAYK: [like(174), like(228)]
+SAHM: [some(179), some(182), some(190), some(194)]
+YEY: [Yea(201), yea(308)]
+THERDIY: [thirty(205), thirty(208)]
+YIHRZ: [years(206), years(209)]
+NEHVER: [never(217), never(290), Never(302), never(349)]
+FAORTIY: [forty(249), forty(257), forty(272)]
+DAY: [die,(280), die(313)]
+HHAW: [how(298), how(310)]
+IHF: [if(326), If(331)]
+
+
+Rule 1: ...-O[NC]'
+IY: [G(0), see(56), me,(70), he(74), me,(94), me(101), we(212), be(267), she(321)]
+IHL: [Kill(2), Lil(64), 'till(128), Lil(156), drill(198), still(213), 'til(270), 'til(277), 'til(284), will(339)]
+IHT: [Shit(3), it,(38), it(46), hit(62), it(63), hit(79), it(111), pit(169), shit(184), shit,(192), shit(215), Hit(244), it(252), shit(342)]
+OW: [Know(4), go(83), know(87), No(95), no(203), ho,(264)]
+AETS: [that's(8), that's(309)]
+AWN: [down(9), town,(54)]
+AYD: [ride(11), side(52), ride(118), ride(346), side(362)]
+AOR: [for(12), your(163)]
+EHN: [When(15), then(44), When(77), then(114), then(336)]
+IHTS: [it's(16), it's(187), it's(202), it's(233)]
+AYM: [time(18), I'm(35), I'm(47), I'm(108), I'm(265), I'm(271)]
+AHN: [run(19), one(71), run(218)]
+AAN: [on(21), on(66), on(181), on(304), gon'(322), on(359)]
+IHDH: [with(24), with'(37), with(69), with'(93), with'(100), with(247)]
+IYV: [Leave(28), leave(115), leave(162)]
+IHZ: [his(29), his(41), his(254)]
+AYL: [I'll(39), I'll(224)]
+AES: [ass(42), pass(130), ass(255)]
+EHT: [forget(45), forget(60), let(102), let(110), bet(251), get(328), let(351)]
+AEN: [man(49), than(166), man(294)]
+AY: [my(51), I(61), I(78), I(125), I(129), I(136), I(144), my(146), my(150), I(152), I(159), I(171), I(175), I(216), I(220), I(260), die,(280), cry(287), I(289), I(296), lie(301), dry,(307), die(313), I(327), high(330), I(332), my(337), fly,(340), I(347), try,(354)]
+AYT: [might(55), fight,(223)]
+IHCH: [bitch(58), Bitch(124), bitch(143), bitch(164), bitch(200), snitch(303), bitch(317)]
+AEK: [track(68), back(188)]
+EYK: [mistake(72), make(172), make(176), steak(229), make(253)]
+AEP: [clap(75), strap(99)]
+IYN: [scene(81), foriegn(341)]
+OWZ: [hoes(82), hoes(148), hoes(196)]
+AAZ: [Cause(85), cause(219), cause(295)]
+EY: [they(86), Yea(201), stay(221), pay(241), way(269), yea(308)]
+AAT: [got(90), got(132), bought(178), got(193), Got(314), got(355)]
+AHT: [but(97), But(185), what(343)]
+AEKT: [act(106), fact(276)]
+AOF: [off(112), off(119), off(292)]
+EHR: [there,(117), care(123), wear(139), there(155)]
+OWNT: [don't(121), don't(137), don't(261)]
+AESH: [cash(126), dash(335)]
+AWT: [out(127), out,(131)]
+UWZ: [trues(135), doos(160)]
+EYM: [game(142), name(151)]
+UW: [do(145), do(256), do(333)]
+AENG: [thang,(147), gangbang(239)]
+EYNT: [ain't(153), ain't(348)]
+IHS: [this,(161), this(268)]
+UWL: [pool(168), cool(183)]
+AYK: [like(174), like(228)]
+AHM: [some(179), some(182), some(190), some(194)]
+AW: [now(186), how(298), how(310)]
+IHRZ: [years(206), years(209)]
+IHN: [gunnin'(210), sneezin'(350)]
+AYS: [rice(231), price(243)]
+AHK: [suck(323), fuck(325)]
+IHF: [if(326), If(331)]
+
+
+Rule 2: ...-O[NC'-ONC]
+AHPAHL: [couple(6), couple(134)]
+IHGAH: [nigga(23), nigga(89), nigga(104), nigga(227), nigga(246), nigga(279), nigga(286), nigga(300), nigga(306), nigga(312), nigga(345), nigga(353), nigga(361)]
+IHFTIY: [One-fifty(34), fifty(76)]
+IHLIY: [really(36), silly(107)]
+IYVIHN: [even(122), even(138), even(154)]
+ERDIY: [thirty(205), thirty(208)]
+EHVER: [never(217), never(290), Never(302), never(349)]
+AORTIY: [forty(249), forty(257), forty(272)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC]
+
+
+
+
+Poem with word IDs:
+
+G(0) Herbo(1) 
+Kill(2) Shit(3) 
+
+Know(4) a(5) couple(6) niggas(7) that's(8) down(9) to(10) ride(11) for(12) a(13) homicide(14) 
+When(15) it's(16) drama(17) time(18) run(19) up(20) on(21) a(22) nigga(23) with(24) the(25) llamas(26) flyin(27) 
+Leave(28) his(29) loved(30) ones(31) all(32) traumatized(33) 
+One-fifty(34) I'm(35) really(36) with'(37) it,(38) I'll(39) drop(40) his(41) ass(42) and(43) then(44) forget(45) it(46) 
+I'm(47) the(48) man(49) round(50) my(51) side(52) of(53) town,(54) might(55) see(56) a(57) bitch(58) and(59) forget(60) I(61) hit(62) it(63) 
+Lil(64) Bibby(65) on(66) the(67) track(68) with(69) me,(70) one(71) mistake(72) and(73) he(74) clap(75) fifty(76) 
+When(77) I(78) hit(79) the(80) scene(81) hoes(82) go(83) insane(84) 
+Cause(85) they(86) know(87) a(88) nigga(89) got(90) them(91) racks(92) with'(93) me,(94) 
+No(95) velcro(96) but(97) the(98) strap(99) with'(100) me(101) let(102) a(103) nigga(104) wanna(105) act(106) silly(107) 
+I'm(108) a(109) let(110) it(111) off(112) and(113) then(114) leave(115) him(116) there,(117) ride(118) off(119) and(120) don't(121) even(122) care(123) 
+Bitch(124) I(125) cash(126) out(127) 'till(128) I(129) pass(130) out,(131) got(132) a(133) couple(134) trues(135) I(136) don't(137) even(138) wear(139) 
+In(140) the(141) game(142) bitch(143) I(144) do(145) my(146) thang,(147) hoes(148) scream(149) my(150) name(151) I(152) ain't(153) even(154) there(155) 
+Lil(156) Herb(157) boy(158) I(159) doos(160) this,(161) leave(162) your(163) bitch(164) wetter(165) than(166) a(167) pool(168) pit(169) 
+And(170) I(171) make(172) bands(173) like(174) I(175) make(176) friends,(177) bought(178) some(179) ray-bans(180) on(181) some(182) cool(183) shit(184) 
+But(185) now(186) it's(187) back(188) to(189) some(190) killa(191) shit,(192) got(193) some(194) wild(195) hoes(196) that'll(197) drill(198) a(199) bitch(200) 
+Yea(201) it's(202) no(203) limit,(204) thirty(205) years(206) runnin',(207) thirty(208) years(209) gunnin'(210) and(211) we(212) still(213) the(214) shit(215) 
+I(216) never(217) run(218) cause(219) I(220) stay(221) to(222) fight,(223) I'll(224) cook(225) a(226) nigga(227) like(228) steak(229) and(230) rice(231) 
+And(232) it's(233) hella(234) real(235) in(236) the(237) battlefield,(238) gangbang(239) gotta(240) pay(241) the(242) price(243) 
+Hit(244) a(245) nigga(246) with(247) the(248) forty(249) fifth,(250) bet(251) it(252) make(253) his(254) ass(255) do(256) forty(257) flips(258) 
+M-O-B(259) I(260) don't(261) love(262) a(263) ho,(264) I'm(265) a(266) be(267) this(268) way(269) 'til(270) I'm(271) forty(272) six(273) 
+Matter(274) of(275) fact(276) 'til(277) a(278) nigga(279) die,(280) smoke(281) kush(282) blunts(283) 'til(284) a(285) nigga(286) cry(287) 
+And(288) I(289) never(290) feed(291) off(292) another(293) man(294) cause(295) I(296) understand(297) how(298) a(299) nigga(300) lie(301) 
+Never(302) snitch(303) on(304) a(305) nigga(306) dry,(307) yea(308) that's(309) how(310) a(311) nigga(312) die(313) 
+Got(314) a(315) yellow(316) bitch(317) in(318) the(319) passenger,(320) she(321) gon'(322) suck(323) and(324) fuck(325) if(326) I(327) get(328) her(329) high(330) 
+If(331) I(332) do(333) the(334) dash(335) then(336) my(337) whip(338) will(339) fly,(340) foriegn(341) shit(342) what(343) a(344) nigga(345) ride(346) 
+I(347) ain't(348) never(349) sneezin'(350) let(351) a(352) nigga(353) try,(354) got(355) the(356) nine(357) rutger(358) on(359) a(360) nigga(361) side(362) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see KillShit_Output_A_uncertainty.txt in the Poems directory
+
+a (5:0) AH0 (5:1) EY1
+to (10:0) T UW0 (10:1) T IH0 (10:2) T AH0
+for (12:0) F AO1 R (12:1) F ER0 (12:2) F R ER0
+a (13:0) AH0 (13:1) EY1
+When (15:0) W EH1 N (15:1) HH W EH1 N (15:2) W IH1 N (15:3) HH W IH1 N
+it's (16:0) IH1 T S (16:1) IH0 T S
+on (21:0) AA1 N (21:1) AO1 N
+a (22:0) AH0 (22:1) EY1
+with (24:0) W IH1 DH (24:1) W IH1 TH (24:2) W IH0 TH (24:3) W IH0 DH
+the (25:0) DH AH0 (25:1) DH AH1 (25:2) DH IY0
+his (29:0) HH IH1 Z (29:1) HH IH0 Z
+really (36:0) R IH1 - L IY0 (36:1) R IY1 - L IY0
+it, (38:0) IH1 T (38:1) IH0 T
+drop (40:0) D R AA1 P (40:1) D R AO1 P
+his (41:0) HH IH1 Z (41:1) HH IH0 Z
+and (43:0) AE0 N D (43:1) AH0 N D
+forget (45:0) F ER0 - G EH1 T (45:1) F AO0 R - G EH1 T
+it (46:0) IH1 T (46:1) IH0 T
+the (48:0) DH AH0 (48:1) DH AH1 (48:2) DH IY0
+of (53:0) AH0 V (53:1) AH0 V
+a (57:0) AH0 (57:1) EY1
+and (59:0) AE0 N D (59:1) AH0 N D
+forget (60:0) F ER0 - G EH1 T (60:1) F AO0 R - G EH1 T
+it (63:0) IH1 T (63:1) IH0 T
+on (66:0) AA1 N (66:1) AO1 N
+the (67:0) DH AH0 (67:1) DH AH1 (67:2) DH IY0
+with (69:0) W IH1 DH (69:1) W IH1 TH (69:2) W IH0 TH (69:3) W IH0 DH
+one (71:0) W AH1 N (71:1) HH W AH1 N
+and (73:0) AE0 N D (73:1) AH0 N D
+When (77:0) W EH1 N (77:1) HH W EH1 N (77:2) W IH1 N (77:3) HH W IH1 N
+the (80:0) DH AH0 (80:1) DH AH1 (80:2) DH IY0
+Cause (85:0) K AA1 Z (85:1) K AO1 Z
+a (88:0) AH0 (88:1) EY1
+them (91:0) DH EH1 M (91:1) DH AH0 M
+the (98:0) DH AH0 (98:1) DH AH1 (98:2) DH IY0
+a (103:0) AH0 (103:1) EY1
+a (109:0) AH0 (109:1) EY1
+it (111:0) IH1 T (111:1) IH0 T
+and (113:0) AE0 N D (113:1) AH0 N D
+him (116:0) HH IH1 M (116:1) IH0 M
+and (120:0) AE0 N D (120:1) AH0 N D
+don't (121:0) D OW1 N T (121:1) D OW1 N
+a (133:0) AH0 (133:1) EY1
+don't (137:0) D OW1 N T (137:1) D OW1 N
+In (140:0) IH0 N (140:1) IH1 N
+the (141:0) DH AH0 (141:1) DH AH1 (141:2) DH IY0
+Herb (157:0) ER1 B (157:1) HH ER1 B
+this, (161:0) DH IH1 S (161:1) DH IH0 S
+your (163:0) Y AO1 R (163:1) Y UH1 R
+than (166:0) DH AE1 N (166:1) DH AH0 N
+a (167:0) AH0 (167:1) EY1
+And (170:0) AE0 N D (170:1) AH0 N D
+friends, (177:0) F R EH1 N D Z (177:1) F R EH1 N Z
+bought (178:0) B AA1 T (178:1) B AO1 T
+on (181:0) AA1 N (181:1) AO1 N
+it's (187:0) IH1 T S (187:1) IH0 T S
+to (189:0) T UW0 (189:1) T IH0 (189:2) T AH0
+a (199:0) AH0 (199:1) EY1
+it's (202:0) IH1 T S (202:1) IH0 T S
+thirty (205:0) TH ER1 - D IY0 (205:1) TH ER1 - T IY2
+years (206:0) Y IH1 R Z (206:1) Y ER0 Z
+thirty (208:0) TH ER1 - D IY0 (208:1) TH ER1 - T IY2
+years (209:0) Y IH1 R Z (209:1) Y ER0 Z
+and (211:0) AE0 N D (211:1) AH0 N D
+the (214:0) DH AH0 (214:1) DH AH1 (214:2) DH IY0
+cause (219:0) K AA1 Z (219:1) K AO1 Z
+to (222:0) T UW0 (222:1) T IH0 (222:2) T AH0
+a (226:0) AH0 (226:1) EY1
+and (230:0) AE0 N D (230:1) AH0 N D
+And (232:0) AE0 N D (232:1) AH0 N D
+it's (233:0) IH1 T S (233:1) IH0 T S
+in (236:0) IH0 N (236:1) IH1 N
+the (237:0) DH AH0 (237:1) DH AH1 (237:2) DH IY0
+the (242:0) DH AH0 (242:1) DH AH1 (242:2) DH IY0
+a (245:0) AH0 (245:1) EY1
+with (247:0) W IH1 DH (247:1) W IH1 TH (247:2) W IH0 TH (247:3) W IH0 DH
+the (248:0) DH AH0 (248:1) DH AH1 (248:2) DH IY0
+fifth, (250:0) F IH1 F TH (250:1) F IH1 TH
+it (252:0) IH1 T (252:1) IH0 T
+his (254:0) HH IH1 Z (254:1) HH IH0 Z
+don't (261:0) D OW1 N T (261:1) D OW1 N
+a (263:0) AH0 (263:1) EY1
+a (266:0) AH0 (266:1) EY1
+be (267:0) B IY1 (267:1) B IY0
+this (268:0) DH IH1 S (268:1) DH IH0 S
+of (275:0) AH0 V (275:1) AH0 V
+a (278:0) AH0 (278:1) EY1
+a (285:0) AH0 (285:1) EY1
+And (288:0) AE0 N D (288:1) AH0 N D
+cause (295:0) K AA1 Z (295:1) K AO1 Z
+a (299:0) AH0 (299:1) EY1
+on (304:0) AA1 N (304:1) AO1 N
+a (305:0) AH0 (305:1) EY1
+a (311:0) AH0 (311:1) EY1
+a (315:0) AH0 (315:1) EY1
+in (318:0) IH0 N (318:1) IH1 N
+the (319:0) DH AH0 (319:1) DH AH1 (319:2) DH IY0
+and (324:0) AE0 N D (324:1) AH0 N D
+if (326:0) IH1 F (326:1) IH0 F
+get (328:0) G EH1 T (328:1) G IH1 T
+her (329:0) HH ER0 (329:1) HH ER1
+If (331:0) IH1 F (331:1) IH0 F
+the (334:0) DH AH0 (334:1) DH AH1 (334:2) DH IY0
+whip (338:0) W IH1 P (338:1) HH W IH1 P
+will (339:0) W IH1 L (339:1) W AH0 L
+what (343:0) W AH1 T (343:1) HH W AH1 T
+a (344:0) AH0 (344:1) EY1
+a (352:0) AH0 (352:1) EY1
+the (356:0) DH AH0 (356:1) DH AH1 (356:2) DH IY0
+on (359:0) AA1 N (359:1) AO1 N
+a (360:0) AH0 (360:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see KillShit_Output_A_uncertainty.txt in the Poems directory
+
+Herbo (1:0)  HH ER1- B OW0
+niggas (7:0)  N IH1- G AH0 Z
+nigga (23:0)  N IH1- G AH0
+flyin (27:0)  F L AY IH1 N
+One-fifty (34:0)  W AH1- N IY1- F IH1 F- T IY0
+with' (37:0)  W IH1 DH
+nigga (89:0)  N IH1- G AH0
+with' (93:0)  W IH1 DH
+with' (100:0)  W IH1 DH
+nigga (104:0)  N IH1- G AH0
+'till (128:0)  T IH1 L
+trues (135:0)  T R UW1 Z
+thang, (147:0)  TH AE1 NG
+doos (160:0)  D UW1 Z
+ray-bans (180:0)  R EY1- B AH0 N Z
+killa (191:0)  K IH1- L AH0
+gunnin' (210:0)  G AH1- N IH1 N
+nigga (227:0)  N IH1- G AH0
+hella (234:0)  HH EH1- L AH0
+gangbang (239:0)  G AE1 NG- B AE1 NG
+nigga (246:0)  N IH1- G AH0
+'til (270:0)  T IH1 L
+'til (277:0)  T IH1 L
+nigga (279:0)  N IH1- G AH0
+'til (284:0)  T IH1 L
+nigga (286:0)  N IH1- G AH0
+nigga (300:0)  N IH1- G AH0
+nigga (306:0)  N IH1- G AH0
+nigga (312:0)  N IH1- G AH0
+gon' (322:0)  G AA1 N
+foriegn (341:0)  F AO1- R IY1 N
+nigga (345:0)  N IH1- G AH0
+sneezin' (350:0)  S N IY1- Z IH1 N
+nigga (353:0)  N IH1- G AH0
+nigga (361:0)  N IH1- G AH0

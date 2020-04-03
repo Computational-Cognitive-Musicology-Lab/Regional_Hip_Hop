@@ -1,0 +1,141 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+SMOWK: [Smoke(4), smoke,(23)]
+DHIHS: [this,(5), this,(7), this,(13)]
+MAY: [my(10), my(81), my(135)]
+NOW: [no(14), no(96)]
+DHAH: [the(18), the(31), the(39), the(71), the(104), the(110), the(123), the(127), the(132)]
+AY: [I(25), I(60)]
+IHT: [it,(34), it,(36), it,(42), it,(44), it,(52), it(91), it(94)]
+FAOR: [for(38), for(109)]
+YAOR: [your(48), your(74), your(85), your(88)]
+NAAT: [not(59), not(122)]
+GIHV: [Give(63), give(65), give(67)]
+MIY: [me,(64), me,(66), me(68), me(108)]
+AOF: [off(73), off(117)]
+AEND: [and(83), And(120)]
+IHKIY: [(icky,(98), icky,(99), icky,(100)]
+AH: [uh)(101), a(118)]
+KAAR: [car(105), car(111)]
+
+
+Rule 1: ...-O[NC]'
+UW: [Q(3), new(54), You(129)]
+OWK: [Smoke(4), smoke,(23)]
+IHS: [this,(5), this,(7), this,(13)]
+IHNGK: [drink(6), link(82)]
+AY: [my(10), I(25), I(60), my(81), my(135)]
+OW: [no(14), Blow(93), no(96)]
+IHK: [tick,(15), Click(80)]
+EYK: [Shake(33), break(35), make(90)]
+IHT: [it,(34), it,(36), it,(42), it,(44), it,(52), it(91), it(94)]
+AOR: [for(38), your(48), your(74), your(85), your(88), for(109)]
+AAP: [Drop(41), cop(43)]
+AAT: [not(59), not(122)]
+IHN: [fiendin'(62), poppin'(125), shoppin'(130)]
+IHV: [Give(63), give(65), give(67)]
+IY: [me,(64), me,(66), me(68), me(108)]
+AHM: [some(69), numb(92), from(131)]
+AOF: [off(73), off(117)]
+AAR: [car(105), car(111)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IHVER: [liver(11), deliver(26)]
+IHKIY: [(icky,(98), icky,(99), icky,(100)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Collard(0) Greens(1) 
+Schoolboy(2) Q(3) 
+
+Smoke(4) this,(5) drink(6) this,(7) straight(8) to(9) my(10) liver(11) 
+Watch(12) this,(13) no(14) tick,(15) yeah,(16) I'm(17) the(18) nigga(19) 
+Gang(20) rap,(21) X-mas,(22) smoke,(23) shots(24) I(25) deliver(26) 
+Faded,(27) Vegas,(28) might(29) sponsor(30) the(31) killer(32) 
+Shake(33) it,(34) break(35) it,(36) hot-hot(37) for(38) the(39) winter(40) 
+Drop(41) it,(42) cop(43) it,(44) eyes(45) locked(46) on(47) your(48) inner(49) object(50) 
+Rock(51) it,(52) blast-blast,(53) new(54) beginnings(55) 
+Lovely,(56) pinky(57) how(58) not(59) I(60) remember,(61) fiendin'(62) 
+Give(63) me,(64) give(65) me,(66) give(67) me(68) some(69) 
+Freak(70) the(71) freckles(72) off(73) your(74) face,(75) frenchy,(76) freaking,(77) swapping(78) tongue(79) 
+Click(80) my(81) link(82) and(83) spread(84) your(85) buns,(86) lose(87) your(88) denim,(89) make(90) it(91) numb(92) 
+Blow(93) it(94) baby,(95) no(96) Saddam(97) 
+(icky,(98) icky,(99) icky,(100) uh)(101) 
+Fucking(102) in(103) the(104) car(105) service,(106) thank(107) me(108) for(109) the(110) car(111) pool(112) 
+Chromosome,(113) part(114) full,(115) probably(116) off(117) a(118) Norco(119) 
+And(120) gas,(121) not(122) the(123) Arco,(124) poppin'(125) since(126) the(127) intro(128) 
+You(129) shoppin'(130) from(131) the(132) window,(133) play(134) my(135) favorite(136) tempo(137) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see CollardGreens_Output_A_uncertainty.txt in the Poems directory
+
+this, (5:0) DH IH1 S (5:1) DH IH0 S
+this, (7:0) DH IH1 S (7:1) DH IH0 S
+to (9:0) T UW0 (9:1) T IH0 (9:2) T AH0
+Watch (12:0) W AA1 CH (12:1) W AO1 CH
+this, (13:0) DH IH1 S (13:1) DH IH0 S
+the (18:0) DH AH0 (18:1) DH AH1 (18:2) DH IY0
+Faded, (27:0) F EY1 - D AH0 D (27:1) F EY1 - D IH0 D
+the (31:0) DH AH0 (31:1) DH AH1 (31:2) DH IY0
+it, (34:0) IH1 T (34:1) IH0 T
+it, (36:0) IH1 T (36:1) IH0 T
+for (38:0) F AO1 R (38:1) F ER0 (38:2) F R ER0
+the (39:0) DH AH0 (39:1) DH AH1 (39:2) DH IY0
+Drop (41:0) D R AA1 P (41:1) D R AO1 P
+it, (42:0) IH1 T (42:1) IH0 T
+it, (44:0) IH1 T (44:1) IH0 T
+on (47:0) AA1 N (47:1) AO1 N
+your (48:0) Y AO1 R (48:1) Y UH1 R
+object (50:0) AA1 B - JH EH0 K T (50:1) AH0 B - JH EH1 K T
+it, (52:0) IH1 T (52:1) IH0 T
+new (54:0) N UW1 (54:1) N Y UW1
+remember, (61:0) R IH0 - M EH1 M - B ER0 (61:1) R IY0 - M EH1 M - B ER0
+the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+your (74:0) Y AO1 R (74:1) Y UH1 R
+and (83:0) AE0 N D (83:1) AH0 N D
+your (85:0) Y AO1 R (85:1) Y UH1 R
+your (88:0) Y AO1 R (88:1) Y UH1 R
+it (91:0) IH1 T (91:1) IH0 T
+it (94:0) IH1 T (94:1) IH0 T
+Saddam (97:0) S AA1 - D AH0 M (97:1) S AH0 - D AA1 M
+in (103:0) IH0 N (103:1) IH1 N
+the (104:0) DH AH0 (104:1) DH AH1 (104:2) DH IY0
+service, (106:0) S ER1 - V AH0 S (106:1) S ER1 - V IH0 S
+for (109:0) F AO1 R (109:1) F ER0 (109:2) F R ER0
+the (110:0) DH AH0 (110:1) DH AH1 (110:2) DH IY0
+Chromosome, (113:0) K R OW1 - M AH0 - S OW2 M (113:1) K R OW1 - M AH0 - Z OW2 M
+probably (116:0) P R AA1 - B AH0 - B L IY0 (116:1) P R AA1 - B L IY0
+a (118:0) AH0 (118:1) EY1
+And (120:0) AE0 N D (120:1) AH0 N D
+the (123:0) DH AH0 (123:1) DH AH1 (123:2) DH IY0
+the (127:0) DH AH0 (127:1) DH AH1 (127:2) DH IY0
+from (131:0) F R AH1 M (131:1) F ER0 M
+the (132:0) DH AH0 (132:1) DH AH1 (132:2) DH IY0
+favorite (136:0) F EY1 - V ER0 - IH0 T (136:1) F EY1 - V R AH0 T
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see CollardGreens_Output_A_uncertainty.txt in the Poems directory
+
+nigga (19:0)  N IH1- G AH0
+X-mas, (22:0)  Z M AE1 Z
+hot-hot (37:0)  HH AA1- T AH0 T
+blast-blast, (53:0)  B L AE1 S T- B L AE1 S T
+fiendin' (62:0)  F IY1 N- D IH1 N
+frenchy, (76:0)  F R EH1 N- CH IY0
+(icky, (98:0)  IH1- K IY0
+icky, (99:0)  IH1- K IY0
+icky, (100:0)  IH1- K IY0
+poppin' (125:0)  P AA1- P IH1 N
+shoppin' (130:0)  SH AA1- P IH1 N

@@ -1,0 +1,131 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%in (6:0) IH0 N (6:1) IH1 N
+6:0
+%the (7:0) DH AH0 (7:1) DH AH1 (7:2) DH IY0
+7:0
+%New (11:0) N UW1 (11:1) N Y UW1
+11:0
+%whip, (12:0) W IH1 P (12:1) HH W IH1 P
+12:0
+%around (32:0) ER0 - AW1 N D (32:1) ER0 - AW1 N
+32:0
+%with (34:0) W IH1 DH (34:1) W IH1 TH (34:2) W IH0 TH (34:3) W IH0 DH
+34:0
+%your (35:0) Y AO1 R (35:1) Y UH1 R
+35:0
+%One (39:0) W AH1 N (39:1) HH W AH1 N
+39:0
+%on (41:0) AA1 N (41:1) AO1 N
+41:0
+%her (42:0) HH ER0 (42:1) HH ER1
+42:0
+%one (44:0) W AH1 N (44:1) HH W AH1 N
+44:0
+%on (46:0) AA1 N (46:1) AO1 N
+46:0
+%the (47:0) DH AH0 (47:1) DH AH1 (47:2) DH IY0
+47:0
+%a (50:0) AH0 (50:1) EY1
+50:0
+%if (53:0) IH1 F (53:1) IH0 F
+53:0
+%on (60:0) AA1 N (60:1) AO1 N
+60:0
+%your (61:0) Y AO1 R (61:1) Y UH1 R
+61:0
+%and (65:0) AE0 N D (65:1) AH0 N D
+65:0
+%One (78:0) W AH1 N (78:1) HH W AH1 N
+78:0
+%to (83:0) T UW0 (83:1) T IH0 (83:2) T AH0
+83:0
+%with (86:0) W IH1 DH (86:1) W IH1 TH (86:2) W IH0 TH (86:3) W IH0 DH
+86:0
+%the (87:0) DH AH0 (87:1) DH AH1 (87:2) DH IY0
+87:0
+%and (89:0) AE0 N D (89:1) AH0 N D
+89:0
+%in (92:0) IH0 N (92:1) IH1 N
+92:0
+%a (93:0) AH0 (93:1) EY1
+93:0
+%on (97:0) AA1 N (97:1) AO1 N
+97:0
+%in (101:0) IH0 N (101:1) IH1 N
+101:0
+%the (102:0) DH AH0 (102:1) DH AH1 (102:2) DH IY0
+102:0
+%with (104:0) W IH1 DH (104:1) W IH1 TH (104:2) W IH0 TH (104:3) W IH0 DH
+104:0
+%the (105:0) DH AH0 (105:1) DH AH1 (105:2) DH IY0
+105:0
+%on (107:0) AA1 N (107:1) AO1 N
+107:0
+%him (108:0) HH IH1 M (108:1) IH0 M
+108:0
+%and (117:0) AE0 N D (117:1) AH0 N D
+117:0
+%Twenty (119:0) T W EH1 N - T IY0 (119:1) T W EH1 - N IY0
+119:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Hunnids (2:0)  HH AH1- N AH0 D Z
+2:0
+%Dogg (4:0)  D AO1 G
+4:0
+%crippin' (10:0)  K R IH1- P IH1 N
+10:0
+%dippin' (15:0)  D IH1- P IH1 N
+15:0
+%homies, (19:0)  HH AA1- M IY0 Z
+19:0
+%"Don't (20:0)  D AA1 N T
+20:0
+%hard" (23:0)  HH AA1 R D
+23:0
+%niggas (28:0)  N IH1- G AH0 Z
+28:0
+%lil' (37:0)  L IH1 L
+37:0
+%nigga (38:0)  N IH1- G AH0
+38:0
+%nigga (51:0)  N IH1- G AH0
+51:0
+%wannna (55:0)  W AA1- N AH0
+55:0
+%motherfucking (62:0)  M AH1- DH ER0- F AH1- K IH0 NG
+62:0
+%nigga, (67:0)  N IH1- G AH0
+67:0
+%"Too (76:0)  T UW1
+76:0
+%old" (77:0)  OW1 L D
+77:0
+%nigga (79:0)  N IH1- G AH0
+79:0
+%Bang-bang, (95:0)  B AE1 NG- B AE1 NG
+95:0
+%'em (98:0)  AH0 M
+98:0
+%Lil' (99:0)  L IH1 L
+99:0
+%homie (100:0)  HH AA1- M IY0
+100:0
+%thang (106:0)  TH AE1 NG
+106:0
+%Eastside (114:0)  IY1 S T- S AY1 D
+114:0
+%nigga (115:0)  N IH1- G AH0
+115:0
+********End******

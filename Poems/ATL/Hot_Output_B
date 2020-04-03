@@ -1,0 +1,234 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AY: [eye(4), Ridin'(30)]
+AY: [eye(4), fire(45)]
+OW: [no(12), sober,(17)]
+OW: [no(12), go-to(56)]
+AY: [tie(13), Ridin'(30)]
+AY: [tie(13), fire(45)]
+AY: [I(14), Ridin'(30)]
+AY: [I(14), fire(45)]
+AY: [I(18), Ridin'(30)]
+AY: [I(18), fire(45)]
+EY: [stay(20), baby,(40)]
+EY: [stay(20), latest(53)]
+EY: [stay(20), Mercedes(54)]
+EY: [stay(20), lady,(62)]
+EY: [stay(20), Maybach,(77)]
+EY: [stay(20), Upgraded(98)]
+EY: [stay(20), baguettes(102)]
+AY: [high(21), Ridin'(30)]
+AY: [high(21), fire(45)]
+AY: [Dry(29), Ridin'(30)]
+AY: [Dry(29), fire(45)]
+AY: [Ridin'(30), I(41)]
+AY: [Ridin'(30), fly,(84)]
+AY: [Ridin'(30), I(93)]
+AY: [Ridin'(30), my(99)]
+AY: [Ridin'(30), Sky(105)]
+AY: [Ridin'(30), I(108)]
+AY: [Ridin'(30), I(117)]
+AY: [I(41), fire(45)]
+AY: [fire(45), fly,(84)]
+AY: [fire(45), I(93)]
+AY: [fire(45), my(99)]
+AY: [fire(45), Sky(105)]
+AY: [fire(45), I(108)]
+AY: [fire(45), I(117)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AAT: [Hot(0), cannot(50)]
+IHN: [in(8), Ridin'(30)]
+IHN: [in(8), grippin'(73)]
+IY: [be(16), Bonnie(35)]
+IY: [be(16), worry,(39)]
+IY: [be(16), baby,(40)]
+IY: [be(16), lady,(62)]
+IY: [be(16), pussy(64)]
+IY: [be(16), really(83)]
+IY: [me(23), Bonnie(35)]
+IY: [me(23), worry,(39)]
+IY: [me(23), baby,(40)]
+IY: [me(23), lady,(62)]
+IY: [me(23), pussy(64)]
+IY: [me(23), really(83)]
+IHN: [in(26), Ridin'(30)]
+IHN: [in(26), grippin'(73)]
+IHN: [Ridin'(30), in(31)]
+IHN: [Ridin'(30), in(68)]
+IHN: [Ridin'(30), in(103)]
+IHN: [in(31), grippin'(73)]
+IY: [Bonnie(35), me(43)]
+IY: [Bonnie(35), she(49)]
+IY: [Bonnie(35), We(82)]
+IY: [Bonnie(35), we(85)]
+IY: [Bonnie(35), She(106)]
+IY: [worry,(39), me(43)]
+IY: [worry,(39), she(49)]
+IY: [worry,(39), We(82)]
+IY: [worry,(39), we(85)]
+IY: [worry,(39), She(106)]
+IY: [baby,(40), me(43)]
+IY: [baby,(40), she(49)]
+IY: [baby,(40), We(82)]
+IY: [baby,(40), we(85)]
+IY: [baby,(40), She(106)]
+IY: [me(43), lady,(62)]
+IY: [me(43), pussy(64)]
+IY: [me(43), really(83)]
+IY: [she(49), lady,(62)]
+IY: [she(49), pussy(64)]
+IY: [she(49), really(83)]
+IY: [lady,(62), We(82)]
+IY: [lady,(62), we(85)]
+IY: [lady,(62), She(106)]
+IY: [pussy(64), We(82)]
+IY: [pussy(64), we(85)]
+IY: [pussy(64), She(106)]
+IHN: [in(68), grippin'(73)]
+IHN: [grippin'(73), in(103)]
+IY: [We(82), really(83)]
+IY: [really(83), we(85)]
+IY: [really(83), She(106)]
+UW: [you(90), to(120)]
+
+
+Rule 2: ...-ON[C]'-...
+T: [Hot(0), suit(10), but(11), put(101), that(104), might(109)]
+R: [Cartier(3), Pour(22)]
+M: [I'm(5), some(24), some(44), I'm(72)]
+S: [bossman(7), spaceship(33), miss(61), this(78)]
+NT: [can't(15), Don't(38), Don't(58), ain't(79), ain't(91)]
+N: [Ridin'(30), on(60), grippin'(73), can(94), sign(110), on(124)]
+K: [like(34), Dick(67), back(70), like(86), slick,(92), work(123)]
+D: [Clyde(37), decide(51), glide(88)]
+P: [keep(42), sleep(59)]
+Z: [surprise(57), prize(66), size(81), disguise(97), highs(126)]
+L: [while(71), tell(95), whole(115)]
+
+
+Rule 3: ...-O[N]C'-...
+AA: [Hot(0), Cartier(3), gotta(19), Bonnie(35), on(60), gargle(121), on(124)]
+EH: [(Remix)(1), regular(80), pelican(87), tell(95), baguettes(102)]
+AH: [Gunna(2), but(11), some(24), some(44)]
+AY: [eye(4), I'm(5), tie(13), I(14), I(18), high(21), Dry(29), Ridin'(30), like(34), Clyde(37), I(41), fire(45), decide(51), surprise(57), prize(66), while(71), I'm(72), sides(75), size(81), fly,(84), like(86), glide(88), I(93), disguise(97), my(99), Sky(105), I(108), might(109), sign(110), life(116), I(117), highs(126)]
+AO: [bossman(7), Pour(22)]
+UW: [suit(10), you(90)]
+OW: [no(12), sober,(17), Don't(38), go-to(56), Don't(58), whole(115), told(118)]
+AE: [can't(15), Canada(28), cannot(50), back(70), can(94), that(104)]
+IY: [be(16), me(23), keep(42), me(43), she(49), sleep(59), We(82), we(85), She(106)]
+EY: [stay(20), spaceship(33), baby,(40), latest(53), Mercedes(54), lady,(62), Maybach,(77), ain't(79), ain't(91), Upgraded(98), baguettes(102), change(113)]
+ER: [syrup(25), worry,(39), Birkins,(48), work(123)]
+IH: [Ridin'(30), Birkins,(48), miss(61), Dick(67), grippin'(73), Bigger(76), this(78), really(83), Bitch,(89), slick,(92), wrist,(100), sing,(107)]
+UH: [pussy(64), put(101)]
+
+
+Rule 4: ...-[O']N[C']'-...
+R: [(Remix)(1), Ridin'(30), regular(80), really(83)]
+G: [Gunna(2), gotta(19), go-to(56), gargle(121)]
+M: [I'm(5), me(23), me(43), I'm(72), Maybach,(77), my(99)]
+ST: [suit(10), stay(20)]
+N: [no(12), on(60), on(124)]
+B: [be(16), Bonnie(35), baby,(40), Birkins,(48), Bigger(76), baguettes(102)]
+S: [sober,(17), syrup(25), Mercedes(54)]
+SM: [some(24), some(44)]
+K: [Canada(28), cannot(50)]
+LK: [like(34), like(86)]
+DNT: [Don't(38), Don't(58)]
+W: [worry,(39), We(82), we(85)]
+SH: [she(49), She(106)]
+L: [latest(53), lady,(62)]
+PRZ: [surprise(57), prize(66)]
+P: [pussy(64), pelican(87)]
+GR: [grippin'(73), Upgraded(98)]
+NT: [ain't(79), ain't(91)]
+
+
+
+
+Poem with word IDs:
+
+Hot(0) (Remix)(1) 
+Gunna(2) 
+
+Cartier(3) eye(4) 
+I'm(5) the(6) bossman(7) in(8) a(9) suit(10) but(11) no(12) tie(13) 
+I(14) can't(15) be(16) sober,(17) I(18) gotta(19) stay(20) high(21) 
+Pour(22) me(23) some(24) syrup(25) in(26) a(27) Canada(28) Dry(29) 
+Ridin'(30) in(31) the(32) spaceship(33) like(34) Bonnie(35) and(36) Clyde(37) 
+Don't(38) worry,(39) baby,(40) I(41) keep(42) me(43) some(44) fire(45) 
+Shenenehs(46) and(47) Birkins,(48) she(49) cannot(50) decide(51) 
+The(52) latest(53) Mercedes(54) her(55) go-to(56) surprise(57) 
+Don't(58) sleep(59) on(60) miss(61) lady,(62) her(63) pussy(64) a(65) prize(66) 
+Dick(67) in(68) her(69) back(70) while(71) I'm(72) grippin'(73) her(74) sides(75) 
+Bigger(76) Maybach,(77) this(78) ain't(79) regular(80) size(81) 
+We(82) really(83) fly,(84) we(85) like(86) pelican(87) glide(88) 
+Bitch,(89) you(90) ain't(91) slick,(92) I(93) can(94) tell(95) the(96) disguise(97) 
+Upgraded(98) my(99) wrist,(100) put(101) baguettes(102) in(103) that(104) Sky(105) 
+She(106) sing,(107) I(108) might(109) sign(110) her(111) and(112) change(113) her(114) whole(115) life(116) 
+I(117) told(118) her(119) to(120) gargle(121) and(122) work(123) on(124) her(125) highs(126) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Hot_Output_B_uncertainty.txt in the Poems directory
+
+the (6:0) DH AH0 (6:1) DH AH1 (6:2) DH IY0
+in (8:0) IH0 N (8:1) IH1 N
+a (9:0) AH0 (9:1) EY1
+be (16:0) B IY1 (16:1) B IY0
+syrup (25:0) S ER1 - AH0 P (25:1) S IH1 - R AH0 P
+in (26:0) IH0 N (26:1) IH1 N
+a (27:0) AH0 (27:1) EY1
+in (31:0) IH0 N (31:1) IH1 N
+the (32:0) DH AH0 (32:1) DH AH1 (32:2) DH IY0
+and (36:0) AE0 N D (36:1) AH0 N D
+Don't (38:0) D OW1 N T (38:1) D OW1 N
+fire (45:0) F AY1 - ER0 (45:1) F AY1 R
+and (47:0) AE0 N D (47:1) AH0 N D
+cannot (50:0) K AE1 - N AA0 T (50:1) K AH0 - N AA1 T
+The (52:0) DH AH0 (52:1) DH AH1 (52:2) DH IY0
+her (55:0) HH ER0 (55:1) HH ER1
+go-to (56:0) G OW1 - T UW2 (56:1) G OW1 - T OW0
+surprise (57:0) S ER0 - P R AY1 Z (57:1) S AH0 - P R AY1 Z
+Don't (58:0) D OW1 N T (58:1) D OW1 N
+on (60:0) AA1 N (60:1) AO1 N
+her (63:0) HH ER0 (63:1) HH ER1
+a (65:0) AH0 (65:1) EY1
+in (68:0) IH0 N (68:1) IH1 N
+her (69:0) HH ER0 (69:1) HH ER1
+while (71:0) W AY1 L (71:1) HH W AY1 L
+her (74:0) HH ER0 (74:1) HH ER1
+this (78:0) DH IH1 S (78:1) DH IH0 S
+regular (80:0) R EH1 - G Y AH0 - L ER0 (80:1) R EY1 - G Y AH0 - L ER0
+really (83:0) R IH1 - L IY0 (83:1) R IY1 - L IY0
+can (94:0) K AE1 N (94:1) K AH0 N
+the (96:0) DH AH0 (96:1) DH AH1 (96:2) DH IY0
+Upgraded (98:0) AH0 P - G R EY1 - D AH0 D (98:1) AH1 P - G R EY2 - D AH0 D (98:2) AH1 P - G R EY2 - D IH0 D
+in (103:0) IH0 N (103:1) IH1 N
+that (104:0) DH AE1 T (104:1) DH AH0 T
+her (111:0) HH ER0 (111:1) HH ER1
+and (112:0) AE0 N D (112:1) AH0 N D
+her (114:0) HH ER0 (114:1) HH ER1
+her (119:0) HH ER0 (119:1) HH ER1
+to (120:0) T UW0 (120:1) T IH0 (120:2) T AH0
+and (122:0) AE0 N D (122:1) AH0 N D
+on (124:0) AA1 N (124:1) AO1 N
+her (125:0) HH ER0 (125:1) HH ER1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Hot_Output_B_uncertainty.txt in the Poems directory
+
+(Remix) (1:0)  R EH1- M IH0 K S
+Gunna (2:0)  G AH1- N AH0
+Ridin' (30:0)  R AY1- D IH1 N
+Shenenehs (46:0)  SH EH0 N- N AH0 S
+Birkins, (48:0)  B ER1- K IH1 N Z
+grippin' (73:0)  G R IH1- P IH1 N
+Maybach, (77:0)  M EY1- B AA0 K
+baguettes (102:0)  B EY1- G EH1 T S
+gargle (121:0)  G AA1- R G AH0 L

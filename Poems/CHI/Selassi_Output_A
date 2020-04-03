@@ -1,0 +1,166 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+TUW: [To(4), To(72)]
+DHAH: [the(5), The(7), the(10), the(15), the(22), the(25), the(28), the(34), the(37), the(87), the(103), the(106), the(109), the(112), the(133), the(142)]
+LIHMAHT: [limit(6), limit(8)]
+IHN: [in(9), in(24), in(33), in(74), in(81), in(99), in(114), in(122)]
+WIHDH: [with(14), with(21), with(111), with(119)]
+LAYK: [like(17), like(27), like(96), like(147)]
+AH: [a(18), a(79), a(117), a(120)]
+IHT: [it(31), it(49), it(59), it(64), it(75), it(82), it(100), it(102), it?(115), it(123), it(129)]
+FRAHM: [from(36), from(127)]
+IHF: [If(43), If(53), if(66), if(89)]
+AY: [I(44), I(54), I(67), I(139), I(145)]
+MAY: [my(46), my(51), my(56), my(61), my(70), my(94), my(136)]
+WIHL: [will(48), will(58), Will(63)]
+YUW: [you(69), you(84), you(90)]
+AEND: [and(76), And(92), and(144)]
+WERLD: [world(88), world(143)]
+TREYL: [trail(104), trail(113)]
+AOR: [or(105), Or(108)]
+FAORAHST: [forest?(107), forest(110)]
+
+
+Rule 1: ...-O[NC]'
+EYL: [Haile(0), nail(80), braille(98), trail(104), trail(113), sail(118)]
+IHN: [Ridin'(13), wailin'(91), impalin'(128)]
+IHDH: [with(14), with(21), with(111), with(119)]
+AEK: [pack(16), sack(23)]
+AYK: [like(17), like(27), like(96), like(147)]
+IHT: [it(31), it(49), it(59), it(64), it(75), it(82), it(100), it(102), it?(115), it(123), it(129)]
+AEKS: [backs(35), cracks(38)]
+AHM: [from(36), from(127)]
+IY: [we(40), see(86)]
+IHF: [If(43), If(53), if(66), if(89)]
+AY: [I(44), my(46), my(51), I(54), my(56), my(61), I(67), my(70), my(94), my(136), I(139), I(145)]
+IHL: [will(48), will(58), Will(63), Still(138), fill(140)]
+AAM: [mom?(52), calm?(62), palm?(71)]
+UW: [you(69), you(84), you(90), through(126)]
+ERLD: [world(88), world(143)]
+AOR: [or(105), Or(108)]
+OWT: [boat(134), float,(146)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IHMAHT: [limit(6), limit(8)]
+IHPAHL: [triple(45), cripple(50)]
+AORAHST: [forest?(107), forest(110)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Haile(0) Selassi(1) 
+Lupe(2) Fiasco(3) 
+
+To(4) the(5) limit(6) 
+The(7) limit(8) in(9) the(10) Methadone(11) clinic(12) 
+Ridin'(13) with(14) the(15) pack(16) like(17) a(18) Pelitan(19) 
+Flyin'(20) with(21) the(22) sack(23) in(24) the(25) trap(26) like(27) the(28) pregnant(29) 
+As(30) it(31) breaks(32) in(33) the(34) backs(35) from(36) the(37) cracks(38) that(39) we(40) step(41) upon(42) 
+If(43) I(44) triple(45) my(46) worth,(47) will(48) it(49) cripple(50) my(51) mom?(52) 
+If(53) I(54) simple(55) my(56) search,(57) will(58) it(59) mental(60) my(61) calm?(62) 
+Will(63) it(64) hurt(65) if(66) I(67) give(68) you(69) my(70) palm?(71) 
+To(72) tell(73) in(74) it(75) and(76) don't(77) put(78) a(79) nail(80) in(81) it(82) 
+How(83) you(84) gonna(85) see(86) the(87) world(88) if(89) you(90) wailin'(91) 
+And(92) readin'(93) my(94) palms(95) like(96) there's(97) braille(98) in(99) it(100) 
+Is(101) it(102) the(103) trail(104) or(105) the(106) forest?(107) 
+Or(108) the(109) forest(110) with(111) the(112) trail(113) in(114) it?(115) 
+That's(116) a(117) sail(118) with(119) a(120) 12(121) in(122) it(123) 
+Water(124) coming(125) through(126) from(127) impalin'(128) it(129) 
+Nothin'(130) left(131) of(132) the(133) boat(134) but(135) my(136) holes(137) 
+Still(138) I(139) fill(140) up(141) the(142) world(143) and(144) I(145) float,(146) like(147) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Selassi_Output_A_uncertainty.txt in the Poems directory
+
+Haile (0:0) HH EY1 L (0:1) HH AY1 - L IY0
+To (4:0) T UW0 (4:1) T IH0 (4:2) T AH0
+the (5:0) DH AH0 (5:1) DH AH1 (5:2) DH IY0
+The (7:0) DH AH0 (7:1) DH AH1 (7:2) DH IY0
+in (9:0) IH0 N (9:1) IH1 N
+the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+with (14:0) W IH1 DH (14:1) W IH1 TH (14:2) W IH0 TH (14:3) W IH0 DH
+the (15:0) DH AH0 (15:1) DH AH1 (15:2) DH IY0
+a (18:0) AH0 (18:1) EY1
+with (21:0) W IH1 DH (21:1) W IH1 TH (21:2) W IH0 TH (21:3) W IH0 DH
+the (22:0) DH AH0 (22:1) DH AH1 (22:2) DH IY0
+in (24:0) IH0 N (24:1) IH1 N
+the (25:0) DH AH0 (25:1) DH AH1 (25:2) DH IY0
+the (28:0) DH AH0 (28:1) DH AH1 (28:2) DH IY0
+As (30:0) AE1 Z (30:1) EH1 Z
+it (31:0) IH1 T (31:1) IH0 T
+in (33:0) IH0 N (33:1) IH1 N
+the (34:0) DH AH0 (34:1) DH AH1 (34:2) DH IY0
+from (36:0) F R AH1 M (36:1) F ER0 M
+the (37:0) DH AH0 (37:1) DH AH1 (37:2) DH IY0
+that (39:0) DH AE1 T (39:1) DH AH0 T
+If (43:0) IH1 F (43:1) IH0 F
+will (48:0) W IH1 L (48:1) W AH0 L
+it (49:0) IH1 T (49:1) IH0 T
+If (53:0) IH1 F (53:1) IH0 F
+will (58:0) W IH1 L (58:1) W AH0 L
+it (59:0) IH1 T (59:1) IH0 T
+calm? (62:0) K AA1 M (62:1) K AA1 L M
+Will (63:0) W IH1 L (63:1) W AH0 L
+it (64:0) IH1 T (64:1) IH0 T
+if (66:0) IH1 F (66:1) IH0 F
+palm? (71:0) P AA1 M (71:1) P AA1 L M
+To (72:0) T UW0 (72:1) T IH0 (72:2) T AH0
+in (74:0) IH0 N (74:1) IH1 N
+it (75:0) IH1 T (75:1) IH0 T
+and (76:0) AE0 N D (76:1) AH0 N D
+don't (77:0) D OW1 N T (77:1) D OW1 N
+a (79:0) AH0 (79:1) EY1
+in (81:0) IH0 N (81:1) IH1 N
+it (82:0) IH1 T (82:1) IH0 T
+the (87:0) DH AH0 (87:1) DH AH1 (87:2) DH IY0
+if (89:0) IH1 F (89:1) IH0 F
+And (92:0) AE0 N D (92:1) AH0 N D
+palms (95:0) P AA1 M Z (95:1) P AA1 L M Z
+in (99:0) IH0 N (99:1) IH1 N
+it (100:0) IH1 T (100:1) IH0 T
+Is (101:0) IH1 Z (101:1) IH0 Z
+it (102:0) IH1 T (102:1) IH0 T
+the (103:0) DH AH0 (103:1) DH AH1 (103:2) DH IY0
+or (105:0) AO1 R (105:1) ER0
+the (106:0) DH AH0 (106:1) DH AH1 (106:2) DH IY0
+forest? (107:0) F AO1 - R AH0 S T (107:1) F AO1 - R IH0 S T
+Or (108:0) AO1 R (108:1) ER0
+the (109:0) DH AH0 (109:1) DH AH1 (109:2) DH IY0
+forest (110:0) F AO1 - R AH0 S T (110:1) F AO1 - R IH0 S T
+with (111:0) W IH1 DH (111:1) W IH1 TH (111:2) W IH0 TH (111:3) W IH0 DH
+the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+in (114:0) IH0 N (114:1) IH1 N
+it? (115:0) IH1 T (115:1) IH0 T
+a (117:0) AH0 (117:1) EY1
+with (119:0) W IH1 DH (119:1) W IH1 TH (119:2) W IH0 TH (119:3) W IH0 DH
+a (120:0) AH0 (120:1) EY1
+in (122:0) IH0 N (122:1) IH1 N
+it (123:0) IH1 T (123:1) IH0 T
+from (127:0) F R AH1 M (127:1) F ER0 M
+it (129:0) IH1 T (129:1) IH0 T
+of (132:0) AH0 V (132:1) AH0 V
+the (133:0) DH AH0 (133:1) DH AH1 (133:2) DH IY0
+the (142:0) DH AH0 (142:1) DH AH1 (142:2) DH IY0
+and (144:0) AE0 N D (144:1) AH0 N D
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Selassi_Output_A_uncertainty.txt in the Poems directory
+
+Selassi (1:0)  S EH1- L AE1- S IY0
+Ridin' (13:0)  R AY1- D IH1 N
+Pelitan (19:0)  P EH1- L AH0- T AH0 N
+Flyin' (20:0)  F L AY IH1 N
+wailin' (91:0)  W EY1- L IH1 N
+readin' (93:0)  R EH1- D AH0 N
+impalin' (128:0)  IH1 M- P AH0- L IH1 N

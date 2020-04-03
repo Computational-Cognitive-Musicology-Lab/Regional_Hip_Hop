@@ -1,0 +1,97 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%In (0:0) IH0 N (0:1) IH1 N
+0:0
+%The (1:0) DH AH0 (1:1) DH AH1 (1:2) DH IY0
+1:0
+%the (14:0) DH AH0 (14:1) DH AH1 (14:2) DH IY0
+14:0
+%when (16:0) W EH1 N (16:1) HH W EH1 N (16:2) W IH1 N (16:3) HH W IH1 N
+16:0
+%it's (17:0) IH1 T S (17:1) IH0 T S
+17:0
+%target (22:0) T AA1 R - G AH0 T (22:1) T ER1 - G AH0 T
+22:0
+%a (24:0) AH0 (24:1) EY1
+24:0
+%Why (26:0) W AY1 (26:1) HH W AY1
+26:0
+%In (33:0) IH0 N (33:1) IH1 N
+33:0
+%a (37:0) AH0 (37:1) EY1
+37:0
+%on (42:0) AA1 N (42:1) AO1 N
+42:0
+%a (46:0) AH0 (46:1) EY1
+46:0
+%a (55:0) AH0 (55:1) EY1
+55:0
+%don't (58:0) D OW1 N T (58:1) D OW1 N
+58:0
+%in (62:0) IH0 N (62:1) IH1 N
+62:0
+%the (63:0) DH AH0 (63:1) DH AH1 (63:2) DH IY0
+63:0
+%the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+71:0
+%on (75:0) AA1 N (75:1) AO1 N
+75:0
+%your (76:0) Y AO1 R (76:1) Y UH1 R
+76:0
+%in (81:0) IH0 N (81:1) IH1 N
+81:0
+%the (82:0) DH AH0 (82:1) DH AH1 (82:2) DH IY0
+82:0
+%don't (85:0) D OW1 N T (85:1) D OW1 N
+85:0
+%the (87:0) DH AH0 (87:1) DH AH1 (87:2) DH IY0
+87:0
+%Her (89:0) HH ER0 (89:1) HH ER1
+89:0
+%really (91:0) R IH1 - L IY0 (91:1) R IY1 - L IY0
+91:0
+%a (98:0) AH0 (98:1) EY1
+98:0
+%a (102:0) AH0 (102:1) EY1
+102:0
+%to (104:0) T UW0 (104:1) T IH0 (104:2) T AH0
+104:0
+%thousand (105:0) TH AW1 - Z AH0 N D (105:1) TH AW1 - Z AH0 N
+105:0
+%this (110:0) DH IH1 S (110:1) DH IH0 S
+110:0
+%on (113:0) AA1 N (113:1) AO1 N
+113:0
+%the (114:0) DH AH0 (114:1) DH AH1 (114:2) DH IY0
+114:0
+%be (122:0) B IY1 (122:1) B IY0
+122:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%'em (12:0)  AH0 M
+12:0
+%"Cut (51:0)  K AH1 T
+51:0
+%part" (56:0)  P AA1 R T
+56:0
+%peek-a-boo (79:0)  P IY1- K AH0- B UW1
+79:0
+%Pikachu (95:0)  P AH0- K AH0- CH UW0
+95:0
+%"How (109:0)  AW1
+109:0
+%nigga (112:0)  N IH1- G AH0
+112:0
+%charts" (115:0)  CH AA1 R T S
+115:0
+********End******

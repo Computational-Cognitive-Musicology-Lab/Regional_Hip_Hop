@@ -1,0 +1,93 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%the (6:0) DH AH0 (6:1) DH AH1 (6:2) DH IY0
+6:0
+%foreign, (7:0) F AO1 - R AH0 N (7:1) F AA1 - R AH0 N
+7:0
+%just (14:0) JH AH1 S T (14:1) JH IH0 S T
+14:0
+%the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+16:0
+%inside (18:0) IH0 N - S AY1 D (18:1) IH1 N - S AY2 D
+18:0
+%It (22:0) IH1 T (22:1) IH0 T
+22:0
+%get (25:0) G EH1 T (25:1) G IH1 T
+25:0
+%to (26:0) T UW0 (26:1) T IH0 (26:2) T AH0
+26:0
+%this (28:0) DH IH1 S (28:1) DH IH0 S
+28:0
+%a (29:0) AH0 (29:1) EY1
+29:0
+%new (30:0) N UW1 (30:1) N Y UW1
+30:0
+%in (33:0) IH0 N (33:1) IH1 N
+33:0
+%the (34:0) DH AH0 (34:1) DH AH1 (34:2) DH IY0
+34:0
+%to (39:0) T UW0 (39:1) T IH0 (39:2) T AH0
+39:0
+%don't (46:0) D OW1 N T (46:1) D OW1 N
+46:0
+%is (51:0) IH1 Z (51:1) IH0 Z
+51:0
+%different (52:0) D IH1 - F ER0 - AH0 N T (52:1) D IH1 - F R AH0 N T
+52:0
+%returned (53:0) R IH0 - T ER1 N D (53:1) R IY0 - T ER1 N D
+53:0
+%the (54:0) DH AH0 (54:1) DH AH1 (54:2) DH IY0
+54:0
+%bought (57:0) B AA1 T (57:1) B AO1 T
+57:0
+%it (58:0) IH1 T (58:1) IH0 T
+58:0
+%be (60:0) B IY1 (60:1) B IY0
+60:0
+%interrupting (61:0) IH2 N - T ER0 - AH1 P - T IH0 NG (61:1) IH2 - N ER0 - AH1 P - T IH0 NG
+61:0
+%while (63:0) W AY1 L (63:1) HH W AY1 L
+63:0
+%be (67:0) B IY1 (67:1) B IY0
+67:0
+%it's (78:0) IH1 T S (78:1) IH0 T S
+78:0
+%the (80:0) DH AH0 (80:1) DH AH1 (80:2) DH IY0
+80:0
+%retarded (82:0) R IH0 - T AA1 R - D IH0 D (82:1) R IY0 - T AA1 R - D AH0 D (82:2) R IY0 - T AA1 R - D IH0 D
+82:0
+%the (84:0) DH AH0 (84:1) DH AH1 (84:2) DH IY0
+84:0
+%cause (86:0) K AA1 Z (86:1) K AO1 Z
+86:0
+%am (88:0) AE1 M (88:1) EY1 - EH1 M
+88:0
+%the (91:0) DH AH0 (91:1) DH AH1 (91:2) DH IY0
+91:0
+%just (95:0) JH AH1 S T (95:1) JH IH0 S T
+95:0
+%new (98:0) N UW1 (98:1) N Y UW1
+98:0
+%just (108:0) JH AH1 S T (108:1) JH IH0 S T
+108:0
+%it (110:0) IH1 T (110:1) IH0 T
+110:0
+%the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+112:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%callin', (44:0)  K AE1- L IH1 N
+44:0
+%recordin' (65:0)  R AH0- K AO1- R D IH1 N
+65:0
+********End******

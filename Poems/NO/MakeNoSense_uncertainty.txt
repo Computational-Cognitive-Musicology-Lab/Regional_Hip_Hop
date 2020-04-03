@@ -1,0 +1,103 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Again (6:0) AH0 - G EH1 N (6:1) AH0 - G EY1 N
+6:0
+%it, (10:0) IH1 T (10:1) IH0 T
+10:0
+%whip (13:0) W IH1 P (13:1) HH W IH1 P
+13:0
+%it, (14:0) IH1 T (14:1) IH0 T
+14:0
+%it, (18:0) IH1 T (18:1) IH0 T
+18:0
+%it (22:0) IH1 T (22:1) IH0 T
+22:0
+%a (28:0) AH0 (28:1) EY1
+28:0
+%And (30:0) AE0 N D (30:1) AH0 N D
+30:0
+%just (36:0) JH AH1 S T (36:1) JH IH0 S T
+36:0
+%bought (37:0) B AA1 T (37:1) B AO1 T
+37:0
+%whip (42:0) W IH1 P (42:1) HH W IH1 P
+42:0
+%and (49:0) AE0 N D (49:1) AH0 N D
+49:0
+%It (54:0) IH1 T (54:1) IH0 T
+54:0
+%don't (55:0) D OW1 N T (55:1) D OW1 N
+55:0
+%that (73:0) DH AE1 T (73:1) DH AH0 T
+73:0
+%that (75:0) DH AE1 T (75:1) DH AH0 T
+75:0
+%be (82:0) B IY1 (82:1) B IY0
+82:0
+%in (83:0) IH0 N (83:1) IH1 N
+83:0
+%the (85:0) DH AH0 (85:1) DH AH1 (85:2) DH IY0
+85:0
+%the (89:0) DH AH0 (89:1) DH AH1 (89:2) DH IY0
+89:0
+%am (94:0) AE1 M (94:1) EY1 - EH1 M
+94:0
+%This (95:0) DH IH1 S (95:1) DH IH0 S
+95:0
+%close (100:0) K L OW1 S (100:1) K L OW1 Z
+100:0
+%to (101:0) T UW0 (101:1) T IH0 (101:2) T AH0
+101:0
+%get (112:0) G EH1 T (112:1) G IH1 T
+112:0
+%the (113:0) DH AH0 (113:1) DH AH1 (113:2) DH IY0
+113:0
+%be (117:0) B IY1 (117:1) B IY0
+117:0
+%the (118:0) DH AH0 (118:1) DH AH1 (118:2) DH IY0
+118:0
+%one (119:0) W AH1 N (119:1) HH W AH1 N
+119:0
+%to (120:0) T UW0 (120:1) T IH0 (120:2) T AH0
+120:0
+%with (131:0) W IH1 DH (131:1) W IH1 TH (131:2) W IH0 TH (131:3) W IH0 DH
+131:0
+%jewelry (133:0) JH UW1 - AH0 L - R IY0 (133:1) JH UW1 - L R IY0 (133:2) JH UW1 - L ER0 - IY0
+133:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Youngboy (3:0)  Y AH1 NG- B OY1
+3:0
+%motherfucker (29:0)  M AH1- DH ER0- F AH1- K ER0
+29:0
+%'em (77:0)  AH0 M
+77:0
+%'em (105:0)  AH0 M
+105:0
+%hatin' (106:0)  HH EY1- T AH0 N
+106:0
+%gon' (116:0)  G AA1 N
+116:0
+%'em (122:0)  AH0 M
+122:0
+%nigga, (124:0)  N IH1- G AH0
+124:0
+%nigga (126:0)  N IH1- G AH0
+126:0
+%Nigga, (127:0)  N IH1- G AH0
+127:0
+%nigga, (129:0)  N IH1- G AH0
+129:0
+%baow, (130:0)  B AA AW1
+130:0
+********End******

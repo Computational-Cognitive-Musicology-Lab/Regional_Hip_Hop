@@ -1,0 +1,134 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+AWT: [Out(1), out(94)]
+SHIY: [She(4), she(21), She(37)]
+LAYK: [like(6), like(33), like(77)]
+DHAH: [the(10), the(71), The(80), the(88), the(96), the(108), the(134)]
+WIHDH: [with(12), with(25)]
+AH: [a(13), a(42), a(49), a(103)]
+NUW: [new(14), new(27), new(104)]
+AHP: [up(17), up(101), up(124), up(131)]
+MAY: [my(18), my(26), my(57)]
+MIY: [me(24), me(32)]
+IHTS: [it's(45), it's(78)]
+TUW: [too(46), to(51), two(91), two(137)]
+AEND: [and(54), And(59), And(117)]
+IHN: [in(56), in(63), in(70), in(74), in(102)]
+AY: [I(83), I(98)]
+GEHT: [get(113), get(130)]
+
+
+Rule 1: ...-O[NC]'
+AWT: [Out(1), out(94)]
+IY: [G(3), She(4), she(21), see(23), me(24), me(32), She(37), D(76), we(118)]
+AYK: [like(6), like(33), like(77)]
+IHDH: [with(12), with(25)]
+UW: [new(14), new(27), too(46), blue(67), two(91), new(104), crew(115), shoe(126), two(137)]
+AHP: [up(17), up(101), up(124), up(131)]
+AY: [my(18), my(26), bae(28), my(57), I(83), I(98)]
+EY: [J(36), they(73), way(81), K(92), spray(138)]
+IHTS: [it's(45), it's(78)]
+AYT: [flight(50), might(99)]
+EYS: [face(68), lace(127)]
+IHN: [been(84), ballin'(85), Dissin'(106)]
+OW: [Show(93), yo(125), bro(129)]
+AOR: [for(95), your(114)]
+AAN: [on(107), gon'(111)]
+EHT: [get(113), get(130), let(133)]
+
+
+Rule 2: ...-O[NC'-ONC]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Pop(0) Out(1) 
+Polo(2) G(3) 
+
+She(4) don't(5) like(6) her(7) body,(8) left(9) the(10) doctor(11) with(12) a(13) new(14) shape(15) 
+Blowing(16) up(17) my(18) phone(19) 'cause(20) she(21) just(22) see(23) me(24) with(25) my(26) new(27) bae(28) 
+Heartbreaker,(29) ladies(30) love(31) me(32) like(33) I'm(34) Cool(35) J(36) 
+She(37) was(38) tryna(39) cling(40) onto(41) a(42) nigga,(43) but(44) it's(45) too(46) late(47) 
+Booked(48) a(49) flight(50) to(51) Cali,(52) racks(53) and(54) condoms(55) in(56) my(57) suitcase(58) 
+And(59) every(60) single(61) dollar(62) in(63) these(64) bands(65) gotta(66) blue(67) face(68) 
+Diamonds(69) in(70) the(71) Rollie,(72) they(73) in(74) H(75) D(76) like(77) it's(78) Blu-Ray(79) 
+The(80) way(81) that(82) I(83) been(84) ballin'(85) should(86) make(87) the(88) cover(89) of(90) two(91) K(92) 
+Show(93) out(94) for(95) the(96) summer(97) I(98) might(99) pull(100) up(101) in(102) a(103) new(104) Wraith(105) 
+Dissin'(106) on(107) the(108) gang(109) that's(110) gon'(111) only(112) get(113) your(114) crew(115) chased(116) 
+And(117) we(118) hawk(119) shit(120) down,(121) better(122) tighten(123) up(124) yo(125) shoe(126) lace(127) 
+Lil'(128) bro(129) get(130) up(131) close(132) let(133) the(134) Glock(135) twenty(136) two(137) spray(138) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see PopOut_Output_A_uncertainty.txt in the Poems directory
+
+don't (5:0) D OW1 N T (5:1) D OW1 N
+her (7:0) HH ER0 (7:1) HH ER1
+the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+doctor (11:0) D AA1 K - T ER0 (11:1) D AO1 K - T ER0
+with (12:0) W IH1 DH (12:1) W IH1 TH (12:2) W IH0 TH (12:3) W IH0 DH
+a (13:0) AH0 (13:1) EY1
+new (14:0) N UW1 (14:1) N Y UW1
+just (22:0) JH AH1 S T (22:1) JH IH0 S T
+with (25:0) W IH1 DH (25:1) W IH1 TH (25:2) W IH0 TH (25:3) W IH0 DH
+new (27:0) N UW1 (27:1) N Y UW1
+was (38:0) W AA1 Z (38:1) W AH1 Z (38:2) W AH0 Z (38:3) W AO1 Z
+onto (41:0) AA1 N - T UW0 (41:1) AO1 N - T UW0
+a (42:0) AH0 (42:1) EY1
+it's (45:0) IH1 T S (45:1) IH0 T S
+a (49:0) AH0 (49:1) EY1
+to (51:0) T UW0 (51:1) T IH0 (51:2) T AH0
+Cali, (52:0) K AA1 - L IY0 (52:1) K AE1 - L IY0
+and (54:0) AE0 N D (54:1) AH0 N D
+in (56:0) IH0 N (56:1) IH1 N
+And (59:0) AE0 N D (59:1) AH0 N D
+every (60:0) EH1 - V ER0 - IY0 (60:1) EH1 - V R IY0
+dollar (62:0) D AA1 - L ER0 (62:1) D AO1 - L ER0
+in (63:0) IH0 N (63:1) IH1 N
+in (70:0) IH0 N (70:1) IH1 N
+the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+Rollie, (72:0) R OW1 - L IY0 (72:1) R AO1 - L IY0
+in (74:0) IH0 N (74:1) IH1 N
+it's (78:0) IH1 T S (78:1) IH0 T S
+The (80:0) DH AH0 (80:1) DH AH1 (80:2) DH IY0
+that (82:0) DH AE1 T (82:1) DH AH0 T
+been (84:0) B IH1 N (84:1) B AH0 N (84:2) B IH0 N
+the (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+of (90:0) AH0 V (90:1) AH0 V
+for (95:0) F AO1 R (95:1) F ER0 (95:2) F R ER0
+the (96:0) DH AH0 (96:1) DH AH1 (96:2) DH IY0
+in (102:0) IH0 N (102:1) IH1 N
+a (103:0) AH0 (103:1) EY1
+new (104:0) N UW1 (104:1) N Y UW1
+on (107:0) AA1 N (107:1) AO1 N
+the (108:0) DH AH0 (108:1) DH AH1 (108:2) DH IY0
+get (113:0) G EH1 T (113:1) G IH1 T
+your (114:0) Y AO1 R (114:1) Y UH1 R
+And (117:0) AE0 N D (117:1) AH0 N D
+get (130:0) G EH1 T (130:1) G IH1 T
+close (132:0) K L OW1 S (132:1) K L OW1 Z
+the (134:0) DH AH0 (134:1) DH AH1 (134:2) DH IY0
+twenty (136:0) T W EH1 N - T IY0 (136:1) T W EH1 - N IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see PopOut_Output_A_uncertainty.txt in the Poems directory
+
+'cause (20:0)  K AW1 Z
+Heartbreaker, (29:0)  HH AA1 R T- B R EY1- K ER0
+tryna (39:0)  T R IH1- N AH0
+nigga, (43:0)  N IH1- G AH0
+Blu-Ray (79:0)  B L R EY0
+ballin' (85:0)  B AE1- L IH1 N
+Wraith (105:0)  R EY1 TH
+Dissin' (106:0)  D IH1- S IH1 N
+gon' (111:0)  G AA1 N
+Lil' (128:0)  L IH1 L

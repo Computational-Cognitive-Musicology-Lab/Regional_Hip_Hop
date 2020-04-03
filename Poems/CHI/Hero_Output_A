@@ -1,0 +1,162 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+DHAET: [That(4), that(13), that?(67)]
+SHIHT: [shit(6), shit(15), shit,(17), shit,(27)]
+DOWNT: [don't(8), don't(23), don't(95)]
+TUW: [to(10), to(38)]
+NIHGAHZ: [niggas(11), niggas(108)]
+WIHDH: [with(12), with(76), with(101), with(110)]
+NIHGAH: [nigga(18), nigga(47), Nigga(55), nigga(99)]
+MIY: [me,(21), me(49), me,(63), me(121), me,(125), me(152)]
+HHIY: [he(22), he(41), he(57), he(61), he(103), he(155)]
+IHT: [it(25), it(35), it(44), it,(86)]
+AH: [a(30), a(105), a(131), a(135), a(157)]
+DHEY: [they(32), they(88)]
+AOL: [All(45), all(89)]
+SNEYKT: [snaked(48), snaked(62)]
+WAHNS: [once(50), once(153)]
+SEY: [say(56), say(161)]
+MAY: [my(58), my(71), my(77), my(165)]
+BAHT: [but(60), but(114)]
+YUW: [you(65), you(119), you(123)]
+KAOL: [call(66), call(96)]
+AY: [I(68), I(84), I(144), I(159), I(167)]
+BIY: [B(72), B,(113)]
+KAWZ: ['cause(87), 'cause(163)]
+WEHR: [where(92), where(126)]
+DHAH: [the(93), the(142)]
+NOW: [no(116), know(120), know(124), no(162)]
+AYM: [I'm(127), I'm(129), I'm(137), I'm(140), I'm(146)]
+
+
+Rule 1: ...-O[NC]'
+AET: [That(4), that(13), that?(67)]
+IYT: [street(5), tweet(14), Sweet(26), beat(34), eat(43), delete(85)]
+IHT: [shit(6), shit(15), shit,(17), it(25), shit,(27), it(35), it(44), it,(86)]
+IY: [We(7), me,(21), he(22), he(41), me(49), he(57), he(61), me,(63), B(72), three(74), She(80), he(103), P(111), B,(113), me(121), me,(125), me(152), he(155)]
+OWNT: [don't(8), don't(23), won't(42), don't(95)]
+AY: [reply(9), my(58), I(68), my(71), my(77), I(84), I(144), I(159), my(165), I(167)]
+IHDH: [with(12), with(76), with(101), with(110)]
+AAT: [caught(29), not(130)]
+EY: [they(32), say(56), they(88), play(109), say(161)]
+AAN: [gon'(33), on(70)]
+AOL: [All(45), fall(53), call(66), all(89), call(96)]
+EYKT: [snaked(48), snaked(62)]
+AHNS: [once(50), once(153)]
+AHT: [but(60), what(64), but(114)]
+UW: [you(65), you(119), you(123)]
+AWZ: ['cause(87), 'cause(163)]
+AETS: [rats(90), that's(164)]
+EHR: [where(92), where(126), swear(145)]
+EHN: [n(112), When(139)]
+OW: [no(116), know(120), know(124), no(162)]
+AYM: [I'm(127), I'm(129), I'm(137), I'm(140), I'm(146)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IHGAHZ: [niggas(11), niggas(108)]
+IHGAH: [nigga(18), nigga(47), Nigga(55), nigga(99)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Neighborhood(0) Hero(1) 
+Lil(2) Durk(3) 
+
+That(4) street(5) shit(6) 
+We(7) don't(8) reply(9) to(10) niggas(11) with(12) that(13) tweet(14) shit(15) 
+Beef(16) shit,(17) nigga(18) said(19) fuck(20) me,(21) he(22) don't(23) mean(24) it(25) 
+Sweet(26) shit,(27) foenem(28) caught(29) a(30) body,(31) they(32) gon'(33) beat(34) it(35) 
+Defense,(36) Glock(37) to(38) his(39) face,(40) he(41) won't(42) eat(43) it(44) 
+All(45) facts,(46) nigga(47) snaked(48) me(49) once(50) and(51) I'ma(52) fall(53) back(54) 
+Nigga(55) say(56) he(57) my(58) brother,(59) but(60) he(61) snaked(62) me,(63) what(64) you(65) call(66) that?(67) 
+I(68) cheated(69) on(70) my(71) B(72) M(73) three(74) times(75) with(76) my(77) dog(78) ass(79) 
+She(80) gave(81) her(82) number,(83) I(84) delete(85) it,(86) 'cause(87) they(88) all(89) rats(90) 
+Chiraq,(91) where(92) the(93) police(94) don't(95) call(96) backup(97) 
+Last(98) nigga(99) played(100) with(101) Durkio,(102) he(103) in(104) a(105) backwood(106) 
+Chicago(107) niggas(108) play(109) with(110) P(111) n(112) B,(113) but(114) ain't(115) no(116) matchup(117) 
+If(118) you(119) know(120) me(121) like(122) you(123) know(124) me,(125) where(126) I'm(127) from,(128) I'm(129) not(130) a(131) rapper(132) 
+Burglar,(133) scammer,(134) a(135) murderer,(136) I'm(137) handsome(138) 
+When(139) I'm(140) off(141) the(142) drugs,(143) I(144) swear(145) I'm(146) steady(147) throwin'(148) tantrums(149) 
+Angelo(150) told(151) me(152) once(153) before,(154) he(155) want(156) a(157) Phantom(158) 
+I(159) can't(160) say(161) no(162) 'cause(163) that's(164) my(165) son,(166) I(167) gotta(168) answer(169) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Hero_Output_A_uncertainty.txt in the Poems directory
+
+Hero (1:0) HH IH1 - R OW0 (1:1) HH IY1 - R OW0
+That (4:0) DH AE1 T (4:1) DH AH0 T
+don't (8:0) D OW1 N T (8:1) D OW1 N
+reply (9:0) R IH0 - P L AY1 (9:1) R IY0 - P L AY1
+to (10:0) T UW0 (10:1) T IH0 (10:2) T AH0
+with (12:0) W IH1 DH (12:1) W IH1 TH (12:2) W IH0 TH (12:3) W IH0 DH
+that (13:0) DH AE1 T (13:1) DH AH0 T
+don't (23:0) D OW1 N T (23:1) D OW1 N
+it (25:0) IH1 T (25:1) IH0 T
+caught (29:0) K AA1 T (29:1) K AO1 T
+a (30:0) AH0 (30:1) EY1
+it (35:0) IH1 T (35:1) IH0 T
+to (38:0) T UW0 (38:1) T IH0 (38:2) T AH0
+his (39:0) HH IH1 Z (39:1) HH IH0 Z
+it (44:0) IH1 T (44:1) IH0 T
+facts, (46:0) F AE1 K T S (46:1) F AE1 K S
+and (51:0) AE0 N D (51:1) AH0 N D
+fall (53:0) F AO1 L (53:1) F AA1 L
+what (64:0) W AH1 T (64:1) HH W AH1 T
+that? (67:0) DH AE1 T (67:1) DH AH0 T
+cheated (69:0) CH IY1 - T AH0 D (69:1) CH IY1 - T IH0 D
+on (70:0) AA1 N (70:1) AO1 N
+with (76:0) W IH1 DH (76:1) W IH1 TH (76:2) W IH0 TH (76:3) W IH0 DH
+her (82:0) HH ER0 (82:1) HH ER1
+it, (86:0) IH1 T (86:1) IH0 T
+where (92:0) W EH1 R (92:1) HH W EH1 R
+the (93:0) DH AH0 (93:1) DH AH1 (93:2) DH IY0
+don't (95:0) D OW1 N T (95:1) D OW1 N
+Last (98:0) L AE1 S T (98:1) L AO1 S T (98:2) L AE1 S
+with (101:0) W IH1 DH (101:1) W IH1 TH (101:2) W IH0 TH (101:3) W IH0 DH
+in (104:0) IH0 N (104:1) IH1 N
+a (105:0) AH0 (105:1) EY1
+with (110:0) W IH1 DH (110:1) W IH1 TH (110:2) W IH0 TH (110:3) W IH0 DH
+If (118:0) IH1 F (118:1) IH0 F
+where (126:0) W EH1 R (126:1) HH W EH1 R
+from, (128:0) F R AH1 M (128:1) F ER0 M
+a (131:0) AH0 (131:1) EY1
+a (135:0) AH0 (135:1) EY1
+When (139:0) W EH1 N (139:1) HH W EH1 N (139:2) W IH1 N (139:3) HH W IH1 N
+the (142:0) DH AH0 (142:1) DH AH1 (142:2) DH IY0
+before, (154:0) B IH0 - F AO1 R (154:1) B IY2 - F AO1 R
+want (156:0) W AA1 N T (156:1) W AO1 N T
+a (157:0) AH0 (157:1) EY1
+Phantom (158:0) F AE1 N - T AH0 M (158:1) F AE1 - N AH0 M
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Hero_Output_A_uncertainty.txt in the Poems directory
+
+Durk (3:0)  D ER1 K
+niggas (11:0)  N IH1- G AH0 Z
+nigga (18:0)  N IH1- G AH0
+foenem (28:0)  F OW1- N AH0 M
+gon' (33:0)  G AA1 N
+nigga (47:0)  N IH1- G AH0
+snaked (48:0)  S N EY1 K T
+I'ma (52:0)  IH1- M AH0
+Nigga (55:0)  N IH1- G AH0
+snaked (62:0)  S N EY1 K T
+'cause (87:0)  K AW1 Z
+Chiraq, (91:0)  CH IH0- R AE0 K
+nigga (99:0)  N IH1- G AH0
+Durkio, (102:0)  D ER1- K IY OW0
+backwood (106:0)  B AE1- K W UH1 D
+niggas (108:0)  N IH1- G AH0 Z
+throwin' (148:0)  TH R OW IH1 N
+'cause (163:0)  K AW1 Z

@@ -1,0 +1,169 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Haile (0:0) HH EY1 L (0:1) HH AY1 - L IY0
+0:0
+%To (4:0) T UW0 (4:1) T IH0 (4:2) T AH0
+4:0
+%the (5:0) DH AH0 (5:1) DH AH1 (5:2) DH IY0
+5:0
+%The (7:0) DH AH0 (7:1) DH AH1 (7:2) DH IY0
+7:0
+%in (9:0) IH0 N (9:1) IH1 N
+9:0
+%the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+10:0
+%with (14:0) W IH1 DH (14:1) W IH1 TH (14:2) W IH0 TH (14:3) W IH0 DH
+14:0
+%the (15:0) DH AH0 (15:1) DH AH1 (15:2) DH IY0
+15:0
+%a (18:0) AH0 (18:1) EY1
+18:0
+%with (21:0) W IH1 DH (21:1) W IH1 TH (21:2) W IH0 TH (21:3) W IH0 DH
+21:0
+%the (22:0) DH AH0 (22:1) DH AH1 (22:2) DH IY0
+22:0
+%in (24:0) IH0 N (24:1) IH1 N
+24:0
+%the (25:0) DH AH0 (25:1) DH AH1 (25:2) DH IY0
+25:0
+%the (28:0) DH AH0 (28:1) DH AH1 (28:2) DH IY0
+28:0
+%As (30:0) AE1 Z (30:1) EH1 Z
+30:0
+%it (31:0) IH1 T (31:1) IH0 T
+31:0
+%in (33:0) IH0 N (33:1) IH1 N
+33:0
+%the (34:0) DH AH0 (34:1) DH AH1 (34:2) DH IY0
+34:0
+%from (36:0) F R AH1 M (36:1) F ER0 M
+36:0
+%the (37:0) DH AH0 (37:1) DH AH1 (37:2) DH IY0
+37:0
+%that (39:0) DH AE1 T (39:1) DH AH0 T
+39:0
+%If (43:0) IH1 F (43:1) IH0 F
+43:0
+%will (48:0) W IH1 L (48:1) W AH0 L
+48:0
+%it (49:0) IH1 T (49:1) IH0 T
+49:0
+%If (53:0) IH1 F (53:1) IH0 F
+53:0
+%will (58:0) W IH1 L (58:1) W AH0 L
+58:0
+%it (59:0) IH1 T (59:1) IH0 T
+59:0
+%calm? (62:0) K AA1 M (62:1) K AA1 L M
+62:0
+%Will (63:0) W IH1 L (63:1) W AH0 L
+63:0
+%it (64:0) IH1 T (64:1) IH0 T
+64:0
+%if (66:0) IH1 F (66:1) IH0 F
+66:0
+%palm? (71:0) P AA1 M (71:1) P AA1 L M
+71:0
+%To (72:0) T UW0 (72:1) T IH0 (72:2) T AH0
+72:0
+%in (74:0) IH0 N (74:1) IH1 N
+74:0
+%it (75:0) IH1 T (75:1) IH0 T
+75:0
+%and (76:0) AE0 N D (76:1) AH0 N D
+76:0
+%don't (77:0) D OW1 N T (77:1) D OW1 N
+77:0
+%a (79:0) AH0 (79:1) EY1
+79:0
+%in (81:0) IH0 N (81:1) IH1 N
+81:0
+%it (82:0) IH1 T (82:1) IH0 T
+82:0
+%the (87:0) DH AH0 (87:1) DH AH1 (87:2) DH IY0
+87:0
+%if (89:0) IH1 F (89:1) IH0 F
+89:0
+%And (92:0) AE0 N D (92:1) AH0 N D
+92:0
+%palms (95:0) P AA1 M Z (95:1) P AA1 L M Z
+95:0
+%in (99:0) IH0 N (99:1) IH1 N
+99:0
+%it (100:0) IH1 T (100:1) IH0 T
+100:0
+%Is (101:0) IH1 Z (101:1) IH0 Z
+101:0
+%it (102:0) IH1 T (102:1) IH0 T
+102:0
+%the (103:0) DH AH0 (103:1) DH AH1 (103:2) DH IY0
+103:0
+%or (105:0) AO1 R (105:1) ER0
+105:0
+%the (106:0) DH AH0 (106:1) DH AH1 (106:2) DH IY0
+106:0
+%forest? (107:0) F AO1 - R AH0 S T (107:1) F AO1 - R IH0 S T
+107:0
+%Or (108:0) AO1 R (108:1) ER0
+108:0
+%the (109:0) DH AH0 (109:1) DH AH1 (109:2) DH IY0
+109:0
+%forest (110:0) F AO1 - R AH0 S T (110:1) F AO1 - R IH0 S T
+110:0
+%with (111:0) W IH1 DH (111:1) W IH1 TH (111:2) W IH0 TH (111:3) W IH0 DH
+111:0
+%the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+112:0
+%in (114:0) IH0 N (114:1) IH1 N
+114:0
+%it? (115:0) IH1 T (115:1) IH0 T
+115:0
+%a (117:0) AH0 (117:1) EY1
+117:0
+%with (119:0) W IH1 DH (119:1) W IH1 TH (119:2) W IH0 TH (119:3) W IH0 DH
+119:0
+%a (120:0) AH0 (120:1) EY1
+120:0
+%in (122:0) IH0 N (122:1) IH1 N
+122:0
+%it (123:0) IH1 T (123:1) IH0 T
+123:0
+%from (127:0) F R AH1 M (127:1) F ER0 M
+127:0
+%it (129:0) IH1 T (129:1) IH0 T
+129:0
+%of (132:0) AH0 V (132:1) AH0 V
+132:0
+%the (133:0) DH AH0 (133:1) DH AH1 (133:2) DH IY0
+133:0
+%the (142:0) DH AH0 (142:1) DH AH1 (142:2) DH IY0
+142:0
+%and (144:0) AE0 N D (144:1) AH0 N D
+144:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Selassi (1:0)  S EH1- L AE1- S IY0
+1:0
+%Ridin' (13:0)  R AY1- D IH1 N
+13:0
+%Pelitan (19:0)  P EH1- L AH0- T AH0 N
+19:0
+%Flyin' (20:0)  F L AY IH1 N
+20:0
+%wailin' (91:0)  W EY1- L IH1 N
+91:0
+%readin' (93:0)  R EH1- D AH0 N
+93:0
+%impalin' (128:0)  IH1 M- P AH0- L IH1 N
+128:0
+********End******

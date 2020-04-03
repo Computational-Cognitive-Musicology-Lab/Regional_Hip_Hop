@@ -1,0 +1,229 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AE: [Savage(3), Yeah,(55)]
+UW: [new(7), Gucci'd(48)]
+UW: [new(7), shooters,(114)]
+AAR: [car(8), Harley's(43)]
+AAR: [car(8), Marcus(103)]
+UW: [You(20), Gucci'd(48)]
+UW: [You(20), shooters,(114)]
+IY: [even(22), She(27)]
+IY: [even(22), be(47)]
+IY: [even(22), me(67)]
+IY: [even(22), we(76)]
+IY: [even(22), be(116)]
+IY: [even(22), me(119)]
+IY: [She(27), Neiman(102)]
+IY: [be(47), Neiman(102)]
+UW: [Gucci'd(48), You(50)]
+UW: [Gucci'd(48), do(77)]
+UW: [Gucci'd(48), you(93)]
+UW: [Gucci'd(48), do(94)]
+UW: [You(50), shooters,(114)]
+AAN: [Moncler,(56), on(86)]
+IY: [me(67), Neiman(102)]
+IY: [we(76), Neiman(102)]
+UW: [do(77), shooters,(114)]
+EY: [play(79), Draco(91)]
+EY: [they(88), Draco(91)]
+EY: [Draco(91), they(115)]
+UW: [you(93), shooters,(114)]
+UW: [do(94), shooters,(114)]
+IY: [Neiman(102), be(116)]
+IY: [Neiman(102), me(119)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+UW: [new(7), to(24)]
+UW: [new(7), yuh,(57)]
+UW: [new(7), yuh(63)]
+UW: [new(7), yuh(71)]
+UW: [new(7), yuh(81)]
+UW: [You(20), to(24)]
+UW: [You(20), yuh,(57)]
+UW: [You(20), yuh(63)]
+UW: [You(20), yuh(71)]
+UW: [You(20), yuh(81)]
+UW: [to(24), You(50)]
+UW: [to(24), do(77)]
+UW: [to(24), you(93)]
+UW: [to(24), do(94)]
+IY: [She(27), blingy(90)]
+IY: [She(27), Chingy(99)]
+IY: [She(27), fifty(109)]
+IHZ: [bosses(30), 'Rari's(37)]
+IYZ: [Harley's(43), Please(110)]
+IY: [be(47), blingy(90)]
+IY: [be(47), Chingy(99)]
+IY: [be(47), fifty(109)]
+UW: [You(50), yuh,(57)]
+UW: [You(50), yuh(63)]
+UW: [You(50), yuh(71)]
+UW: [You(50), yuh(81)]
+ER: [Moncler,(56), fur(58)]
+UW: [yuh,(57), do(77)]
+UW: [yuh,(57), you(93)]
+UW: [yuh,(57), do(94)]
+UW: [yuh(63), do(77)]
+UW: [yuh(63), you(93)]
+UW: [yuh(63), do(94)]
+IY: [me(67), blingy(90)]
+IY: [me(67), Chingy(99)]
+IY: [me(67), fifty(109)]
+UW: [yuh(71), do(77)]
+UW: [yuh(71), you(93)]
+UW: [yuh(71), do(94)]
+IY: [we(76), blingy(90)]
+IY: [we(76), Chingy(99)]
+IY: [we(76), fifty(109)]
+UW: [do(77), yuh(81)]
+UW: [yuh(81), you(93)]
+UW: [yuh(81), do(94)]
+AHM: ['em(83), some(125)]
+IY: [blingy(90), be(116)]
+IY: [blingy(90), me(119)]
+IY: [Chingy(99), be(116)]
+IY: [Chingy(99), me(119)]
+IY: [fifty(109), be(116)]
+IY: [fifty(109), me(119)]
+
+
+Rule 2: ...-ON[C]'-...
+NT: [Account(1), can't(21)]
+R: [car(8), for(9), tear(13), Harley's(43), bear,(62), chair,(70), fair,(80), Marcus(103)]
+CH: [bitch(11), bitch(19), bitch(26), bitch,(121)]
+N: [down(14), down(49), Moncler,(56), on(86), Chingy(99)]
+L: [mall(16), pull(34), real(89)]
+DH: [with(17), with(29), With(40), with(112), with(118)]
+K: [talk(23), make(92), like(98), Walk(100)]
+T: [shit(32), shit(39), shit(45), shit(54), put(66), not(78), Got(82), light(108), right(117), cute(122)]
+Z: ['Rari's(37), Please(110)]
+D: [Gucci'd(48), head(97), proceed(111), Bad(120)]
+M: [came(59), some(125)]
+F: [off(60), fifty(109)]
+S: [cross(73), face(123), nice(126)]
+
+
+Rule 3: ...-O[N]C'-...
+AE: [Bank(0), Savage(3), can't(21), Yeah,(55), Bad(120)]
+AW: [Account(1), down(14), down(49)]
+AY: [I(4), buy(5), I(12), I(33), I(46), Gucci'd(48), like(98), I(105), light(108), right(117), nice(126)]
+UW: [new(7), You(20), Gucci'd(48), You(50), do(77), you(93), do(94), shooters,(114), cute(122)]
+AA: [car(8), 'Rari's(37), choppers(41), Harley's(43), Moncler,(56), homicide,(65), not(78), Got(82), on(86), Marcus(103), caution,(113)]
+AO: [for(9), mall(16), talk(23), bosses(30), Lacoste(52), off(60), cross(73), Walk(100)]
+IH: [bitch(11), with(17), bitch(19), bitch(26), with(29), shit(32), 'Rari's(37), shit(39), With(40), shit(45), shit(54), Triple(64), Triple(72), chicken(96), Chingy(99), fifty(109), with(112), with(118), bitch,(121)]
+EH: [tear(13), wearing(51), bear,(62), chair,(70), fair,(80), tennis(84), head(97), spend(106)]
+IY: [even(22), She(27), be(47), me(67), we(76), real(89), Neiman(102), Please(110), proceed(111), be(116), me(119)]
+AH: [fucking(28), up(35), plug,(75), some(125)]
+UH: [pull(34), put(66)]
+EY: [came(59), play(79), chains(85), they(88), Draco(91), make(92), they(115), face(123)]
+
+
+Rule 4: ...-[O']N[C']'-...
+KNT: [Account(1), can't(21)]
+B: [buy(5), bosses(30), be(47), be(116)]
+N: [new(7), on(86), Neiman(102)]
+FR: [for(9), fair,(80)]
+BCH: [bitch(11), bitch(19), bitch(26), bitch,(121)]
+TR: [tear(13), Triple(64), Triple(72)]
+DN: [down(14), down(49)]
+WDH: [with(17), with(29), With(40), with(112), with(118)]
+Y: [You(20), You(50), Yeah,(55), you(93)]
+SH: [She(27), shooters,(114)]
+F: [fucking(28), fur(58), off(60)]
+SHT: [shit(32), shit(39), shit(45), shit(54)]
+PL: [pull(34), play(79)]
+CH: [choppers(41), chicken(96)]
+W: [wearing(51), we(76)]
+M: [me(67), me(119)]
+D: [do(77), do(94)]
+DH: [they(88), they(115)]
+
+
+
+
+Poem with word IDs:
+
+Bank(0) Account(1) 
+21(2) Savage(3) 
+
+I(4) buy(5) a(6) new(7) car(8) for(9) the(10) bitch(11) 
+I(12) tear(13) down(14) the(15) mall(16) with(17) the(18) bitch(19) 
+You(20) can't(21) even(22) talk(23) to(24) the(25) bitch(26) 
+She(27) fucking(28) with(29) bosses(30) and(31) shit(32) 
+I(33) pull(34) up(35) in(36) 'Rari's(37) and(38) shit(39) 
+With(40) choppers(41) and(42) Harley's(43) and(44) shit(45) 
+I(46) be(47) Gucci'd(48) down(49) 
+You(50) wearing(51) Lacoste(52) and(53) shit(54) 
+Yeah,(55) Moncler,(56) yuh,(57) fur(58) came(59) off(60) a(61) bear,(62) yuh(63) 
+Triple(64) homicide,(65) put(66) me(67) in(68) a(69) chair,(70) yuh(71) 
+Triple(72) cross(73) the(74) plug,(75) we(76) do(77) not(78) play(79) fair,(80) yuh(81) 
+Got(82) 'em(83) tennis(84) chains(85) on(86) and(87) they(88) real(89) blingy(90) 
+Draco(91) make(92) you(93) do(94) the(95) chicken(96) head(97) like(98) Chingy(99) 
+Walk(100) in(101) Neiman(102) Marcus(103) and(104) I(105) spend(106) a(107) light(108) fifty(109) 
+Please(110) proceed(111) with(112) caution,(113) shooters,(114) they(115) be(116) right(117) with(118) me(119) 
+Bad(120) bitch,(121) cute(122) face(123) and(124) some(125) nice(126) titties(127) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BankAcct_Output_B_uncertainty.txt in the Poems directory
+
+Savage (3:0) S AE1 - V AH0 JH (3:1) S AE1 - V IH0 JH
+a (6:0) AH0 (6:1) EY1
+new (7:0) N UW1 (7:1) N Y UW1
+for (9:0) F AO1 R (9:1) F ER0 (9:2) F R ER0
+the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+tear (13:0) T EH1 R (13:1) T IH1 R
+the (15:0) DH AH0 (15:1) DH AH1 (15:2) DH IY0
+with (17:0) W IH1 DH (17:1) W IH1 TH (17:2) W IH0 TH (17:3) W IH0 DH
+the (18:0) DH AH0 (18:1) DH AH1 (18:2) DH IY0
+to (24:0) T UW0 (24:1) T IH0 (24:2) T AH0
+the (25:0) DH AH0 (25:1) DH AH1 (25:2) DH IY0
+with (29:0) W IH1 DH (29:1) W IH1 TH (29:2) W IH0 TH (29:3) W IH0 DH
+and (31:0) AE0 N D (31:1) AH0 N D
+in (36:0) IH0 N (36:1) IH1 N
+and (38:0) AE0 N D (38:1) AH0 N D
+With (40:0) W IH1 DH (40:1) W IH1 TH (40:2) W IH0 TH (40:3) W IH0 DH
+and (42:0) AE0 N D (42:1) AH0 N D
+and (44:0) AE0 N D (44:1) AH0 N D
+be (47:0) B IY1 (47:1) B IY0
+and (53:0) AE0 N D (53:1) AH0 N D
+a (61:0) AH0 (61:1) EY1
+in (68:0) IH0 N (68:1) IH1 N
+a (69:0) AH0 (69:1) EY1
+the (74:0) DH AH0 (74:1) DH AH1 (74:2) DH IY0
+tennis (84:0) T EH1 - N AH0 S (84:1) T EH1 - N IH0 S
+on (86:0) AA1 N (86:1) AO1 N
+and (87:0) AE0 N D (87:1) AH0 N D
+Draco (91:0) D R EY1 - K OW0 (91:1) D R AE1 - K OW0
+the (95:0) DH AH0 (95:1) DH AH1 (95:2) DH IY0
+Walk (100:0) W AO1 K (100:1) W AA1 K
+in (101:0) IH0 N (101:1) IH1 N
+and (104:0) AE0 N D (104:1) AH0 N D
+a (107:0) AH0 (107:1) EY1
+proceed (111:0) P R AH0 - S IY1 D (111:1) P R OW0 - S IY1 D (111:2) P ER0 - S IY1 D
+with (112:0) W IH1 DH (112:1) W IH1 TH (112:2) W IH0 TH (112:3) W IH0 DH
+caution, (113:0) K AA1 - SH AH0 N (113:1) K AO1 - SH AH0 N
+be (116:0) B IY1 (116:1) B IY0
+with (118:0) W IH1 DH (118:1) W IH1 TH (118:2) W IH0 TH (118:3) W IH0 DH
+and (124:0) AE0 N D (124:1) AH0 N D
+nice (126:0) N AY1 S (126:1) N IY1 S
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BankAcct_Output_B_uncertainty.txt in the Poems directory
+
+'Rari's (37:0)  R AA1- R IH1 Z
+Gucci'd (48:0)  G UW1- CH AY1 D
+Moncler, (56:0)  M AA1 N- K L ER0
+yuh, (57:0)  Y UW0
+yuh (63:0)  Y UW0
+yuh (71:0)  Y UW0
+yuh (81:0)  Y UW0
+'em (83:0)  AH0 M
+blingy (90:0)  B AH0- L IH0 N- JH IY0
+Chingy (99:0)  CH IH1 N- JH IY0
+titties (127:0)  T IH IY0 Z

@@ -1,0 +1,199 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+OW: [go(21), rolling(118)]
+OW: [so(22), rolling(118)]
+IYST: [East(26), Eastside(114)]
+OW: [slow(71), rolling(118)]
+OW: [go(84), rolling(118)]
+EY: [Spraying(85), K(88)]
+OW: [row(94), rolling(118)]
+AENG: [Bang-bang,(95), bang(96)]
+AENG: [Bang-bang,(95), thang(106)]
+AENG: [Bang-bang,(95), bang(116)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+UW: [Blue(0), to(83)]
+IHN: [in(6), crippin'(10)]
+IHN: [in(6), dippin'(15)]
+IHN: [crippin'(10), in(92)]
+IHN: [crippin'(10), in(101)]
+UW: [New(11), to(83)]
+IHN: [dippin'(15), in(92)]
+IHN: [dippin'(15), in(101)]
+AHT: [But(24), carpet(63)]
+AHN: [listen(30), One(39)]
+AHN: [listen(30), one(44)]
+AHN: [listen(30), run,(66)]
+AHN: [listen(30), One(78)]
+AEND: [hand(40), and(65)]
+AEND: [hand(40), and(89)]
+AEND: [hand(40), and(117)]
+UW: [you(54), to(83)]
+AHT: [carpet(63), but(68)]
+UW: [you(69), to(83)]
+UW: [too(70), to(83)]
+UW: [Two(72), to(83)]
+UW: ["Too(76), to(83)]
+UW: [two(82), to(83)]
+UW: [to(83), two(91)]
+UW: [to(83), blue(112)]
+
+
+Rule 2: ...-ON[C]'-...
+S: [Face(1), ass,(43)]
+P: [Snoop(3), whip,(12), chip(113), crip(120)]
+M: [game(8), him(108)]
+T: [straight(9), But(24), shit(57), but(68), got(81), hit(90)]
+N: [crippin'(10), grain(14), dippin'(15), town(33), One(39), on(41), one(44), on(46), on(60), run,(66), One(78), down,(80), on(97), on(107), Twenty(119)]
+D: [wood(13), side(27), Eastside(114)]
+LD: [Told(16), old"(77)]
+L: [all(17), Roll(31), lil'(37), Roll(58), Lil'(99)]
+NT: ["Don't(20), won't(29)]
+ST: [East(26), Eastside(114)]
+ND: [around(32), hand(40)]
+DH: [with(34), with(86), with(104)]
+R: [your(35), your(61), carpet(63)]
+CH: [bitch,(36), Catch(49), Beach(110)]
+NG: [finger(45), Bang-bang,(95), bang(96), thang(106), Long(109), bang(116)]
+
+
+Rule 3: ...-O[N]C'-...
+UW: [Blue(0), Snoop(3), New(11), you(54), you(69), too(70), Two(72), "Too(76), two(82), two(91), blue(112)]
+EY: [Face(1), game(8), straight(9), grain(14), Spraying(85), K(88)]
+AH: [Hunnids(2), But(24), One(39), one(44), motherfucking(62), run,(66), but(68), One(78)]
+AO: [Dogg(4), all(17), your(35), your(61), Long(109)]
+EH: [Stepped(5), checks(59), yelling,(75), Twenty(119)]
+IH: [crippin'(10), whip,(12), dippin'(15), niggas(28), listen(30), with(34), bitch,(36), lil'(37), nigga(38), finger(45), trigger(48), nigga(51), slipping(52), if(53), shit(57), nigga,(67), hitting,(74), nigga(79), with(86), hit(90), Lil'(99), with(104), him(108), chip(113), nigga(115), crip(120)]
+OW: [Told(16), go(21), so(22), won't(29), Roll(31), Roll(58), slow(71), old"(77), go(84), row(94), rolling(118)]
+AY: [my(18), my(25), side(27), Try(64), Eastside(114)]
+AA: [homies,(19), "Don't(20), hard"(23), on(41), on(46), wannna(55), start(56), on(60), carpet(63), shots(73), got(81), on(97), homie(100), on(107)]
+IY: [East(26), Beach(110), Eastside(114)]
+AW: [around(32), town(33), down,(80)]
+AE: [hand(40), ass,(43), Catch(49), Bang-bang,(95), bang(96), back(103), thang(106), bang(116)]
+
+
+Rule 4: ...-[O']N[C']'-...
+BL: [Blue(0), blue(112)]
+HH: [Hunnids(2), homies,(19), hitting,(74), homie(100)]
+STRT: [straight(9), start(56)]
+PN: [crippin'(10), dippin'(15)]
+KR: [crippin'(10), carpet(63)]
+N: [New(11), niggas(28), nigga(38), on(41), on(46), nigga(51), on(60), nigga,(67), nigga(79), on(97), on(107), nigga(115)]
+L: [all(17), listen(30)]
+M: [my(18), my(25), motherfucking(62)]
+G: [go(21), go(84)]
+S: [so(22), ass,(43), certified(111)]
+BT: [But(24), but(68)]
+ST: [East(26), Eastside(114)]
+SD: [side(27), Eastside(114)]
+RL: [Roll(31), Roll(58)]
+WDH: [with(34), with(86), with(104)]
+YR: [your(35), your(61)]
+BCH: [bitch,(36), Beach(110)]
+LL: [lil'(37), Lil'(99)]
+WN: [One(39), one(44), One(78)]
+TR: [trigger(48), Try(64)]
+SL: [slipping(52), slow(71)]
+F: [if(53), motherfucking(62)]
+Y: [you(54), you(69), yelling,(75)]
+T: [too(70), Two(72), "Too(76), two(82), two(91)]
+R: [row(94), rolling(118)]
+BNG: [Bang-bang,(95), bang(96), bang(116)]
+
+
+
+
+Poem with word IDs:
+
+Blue(0) Face(1) Hunnids(2) 
+Snoop(3) Dogg(4) 
+
+Stepped(5) in(6) the(7) game(8) straight(9) crippin'(10) 
+New(11) whip,(12) wood(13) grain(14) dippin'(15) 
+Told(16) all(17) my(18) homies,(19) "Don't(20) go(21) so(22) hard"(23) 
+But(24) my(25) East(26) side(27) niggas(28) won't(29) listen(30) 
+Roll(31) around(32) town(33) with(34) your(35) bitch,(36) lil'(37) nigga(38) 
+One(39) hand(40) on(41) her(42) ass,(43) one(44) finger(45) on(46) the(47) trigger(48) 
+Catch(49) a(50) nigga(51) slipping(52) if(53) you(54) wannna(55) start(56) shit(57) 
+Roll(58) checks(59) on(60) your(61) motherfucking(62) carpet(63) 
+Try(64) and(65) run,(66) nigga,(67) but(68) you(69) too(70) slow(71) 
+Two(72) shots(73) hitting,(74) yelling,(75) "Too(76) old"(77) 
+One(78) nigga(79) down,(80) got(81) two(82) to(83) go(84) 
+Spraying(85) with(86) the(87) K(88) and(89) hit(90) two(91) in(92) a(93) row(94) 
+Bang-bang,(95) bang(96) on(97) 'em(98) 
+Lil'(99) homie(100) in(101) the(102) back(103) with(104) the(105) thang(106) on(107) him(108) 
+Long(109) Beach(110) certified(111) blue(112) chip(113) 
+Eastside(114) nigga(115) bang(116) and(117) rolling(118) 
+Twenty(119) crip(120) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BlueFaceHunnids_Output_B_uncertainty.txt in the Poems directory
+
+in (6:0) IH0 N (6:1) IH1 N
+the (7:0) DH AH0 (7:1) DH AH1 (7:2) DH IY0
+New (11:0) N UW1 (11:1) N Y UW1
+whip, (12:0) W IH1 P (12:1) HH W IH1 P
+around (32:0) ER0 - AW1 N D (32:1) ER0 - AW1 N
+with (34:0) W IH1 DH (34:1) W IH1 TH (34:2) W IH0 TH (34:3) W IH0 DH
+your (35:0) Y AO1 R (35:1) Y UH1 R
+One (39:0) W AH1 N (39:1) HH W AH1 N
+on (41:0) AA1 N (41:1) AO1 N
+her (42:0) HH ER0 (42:1) HH ER1
+one (44:0) W AH1 N (44:1) HH W AH1 N
+on (46:0) AA1 N (46:1) AO1 N
+the (47:0) DH AH0 (47:1) DH AH1 (47:2) DH IY0
+a (50:0) AH0 (50:1) EY1
+if (53:0) IH1 F (53:1) IH0 F
+on (60:0) AA1 N (60:1) AO1 N
+your (61:0) Y AO1 R (61:1) Y UH1 R
+and (65:0) AE0 N D (65:1) AH0 N D
+One (78:0) W AH1 N (78:1) HH W AH1 N
+to (83:0) T UW0 (83:1) T IH0 (83:2) T AH0
+with (86:0) W IH1 DH (86:1) W IH1 TH (86:2) W IH0 TH (86:3) W IH0 DH
+the (87:0) DH AH0 (87:1) DH AH1 (87:2) DH IY0
+and (89:0) AE0 N D (89:1) AH0 N D
+in (92:0) IH0 N (92:1) IH1 N
+a (93:0) AH0 (93:1) EY1
+on (97:0) AA1 N (97:1) AO1 N
+in (101:0) IH0 N (101:1) IH1 N
+the (102:0) DH AH0 (102:1) DH AH1 (102:2) DH IY0
+with (104:0) W IH1 DH (104:1) W IH1 TH (104:2) W IH0 TH (104:3) W IH0 DH
+the (105:0) DH AH0 (105:1) DH AH1 (105:2) DH IY0
+on (107:0) AA1 N (107:1) AO1 N
+him (108:0) HH IH1 M (108:1) IH0 M
+and (117:0) AE0 N D (117:1) AH0 N D
+Twenty (119:0) T W EH1 N - T IY0 (119:1) T W EH1 - N IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BlueFaceHunnids_Output_B_uncertainty.txt in the Poems directory
+
+Hunnids (2:0)  HH AH1- N AH0 D Z
+Dogg (4:0)  D AO1 G
+crippin' (10:0)  K R IH1- P IH1 N
+dippin' (15:0)  D IH1- P IH1 N
+homies, (19:0)  HH AA1- M IY0 Z
+"Don't (20:0)  D AA1 N T
+hard" (23:0)  HH AA1 R D
+niggas (28:0)  N IH1- G AH0 Z
+lil' (37:0)  L IH1 L
+nigga (38:0)  N IH1- G AH0
+nigga (51:0)  N IH1- G AH0
+wannna (55:0)  W AA1- N AH0
+motherfucking (62:0)  M AH1- DH ER0- F AH1- K IH0 NG
+nigga, (67:0)  N IH1- G AH0
+"Too (76:0)  T UW1
+old" (77:0)  OW1 L D
+nigga (79:0)  N IH1- G AH0
+Bang-bang, (95:0)  B AE1 NG- B AE1 NG
+'em (98:0)  AH0 M
+Lil' (99:0)  L IH1 L
+homie (100:0)  HH AA1- M IY0
+thang (106:0)  TH AE1 NG
+Eastside (114:0)  IY1 S T- S AY1 D
+nigga (115:0)  N IH1- G AH0

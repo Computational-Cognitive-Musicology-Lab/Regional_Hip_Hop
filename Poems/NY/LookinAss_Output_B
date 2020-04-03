@@ -1,0 +1,281 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AHN: [one(8), hundred(116)]
+AHN: [One(13), hundred(116)]
+IY: [be(60), Even(85)]
+IY: [be(60), dealers(135)]
+AAN: [non-man(66), on(117)]
+AAN: [non-man(66), on(123)]
+AAN: [non-man(78), on(117)]
+AAN: [non-man(78), on(123)]
+IY: [Even(85), me(90)]
+IY: [Even(85), me,(115)]
+IY: [Even(85), ski(121)]
+IY: [Even(85), see(129)]
+IY: [Even(85), be(140)]
+IY: [Even(85), he(156)]
+IY: [Even(85), he(161)]
+UW: [flew(89), movin'(141)]
+IY: [me(90), dealers(135)]
+UW: [you(101), movin'(141)]
+UW: [you(106), movin'(141)]
+UW: [you(111), movin'(141)]
+IY: [me,(115), dealers(135)]
+IY: [ski(121), dealers(135)]
+UW: [who(128), movin'(141)]
+IY: [see(129), dealers(135)]
+UW: [you(132), movin'(141)]
+IY: [dealers(135), be(140)]
+IY: [dealers(135), he(156)]
+IY: [dealers(135), he(161)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IHN: [Lookin'(0), sharin'(7)]
+IHN: [Lookin'(0), movin'(141)]
+IY: [Nicki(2), be(60)]
+IY: [Nicki(2), me(90)]
+IY: [Nicki(2), me,(115)]
+IY: [Nicki(2), ski(121)]
+IY: [Nicki(2), see(129)]
+IY: [Nicki(2), be(140)]
+IY: [Nicki(2), he(156)]
+IY: [Nicki(2), he(161)]
+IHN: [sharin'(7), in(10)]
+IHN: [sharin'(7), havin'(24)]
+IHN: [sharin'(7), in(37)]
+IHN: [sharin'(7), In(42)]
+IHN: [sharin'(7), in(54)]
+IHN: [sharin'(7), Even(85)]
+IHN: [sharin'(7), in(143)]
+IHN: [sharin'(7), Talkin'(146)]
+IHN: [sharin'(7), in(152)]
+AHN: [one(8), non-man(66)]
+AHN: [one(8), non-man(78)]
+IHN: [in(10), movin'(141)]
+AHN: [One(13), non-man(66)]
+AHN: [One(13), non-man(78)]
+IHN: [havin'(24), movin'(141)]
+IHN: [in(37), movin'(141)]
+AEND: [hand(39), and(91)]
+AEND: [hand(39), and(160)]
+IHN: [In(42), movin'(141)]
+AHT: [credit(47), But(155)]
+IHN: [in(54), movin'(141)]
+IY: [be(60), Pussy,(100)]
+IY: [be(60), pussy(103)]
+IY: [be(60), Pussy(108)]
+IY: [be(60), Basqui,(126)]
+IY: [be(60), really(157)]
+IHN: [Even(85), movin'(141)]
+UW: [flew(89), to(98)]
+IY: [me(90), Pussy,(100)]
+IY: [me(90), pussy(103)]
+IY: [me(90), Pussy(108)]
+IY: [me(90), Basqui,(126)]
+IY: [me(90), really(157)]
+IHZ: [bitches(93), ki's,(148)]
+IHZ: [bitches(93), ki's(151)]
+IHZ: [bitches(93), his(165)]
+UW: [to(98), you(101)]
+UW: [to(98), you(106)]
+UW: [to(98), you(111)]
+UW: [to(98), who(128)]
+UW: [to(98), you(132)]
+IY: [Pussy,(100), me,(115)]
+IY: [Pussy,(100), ski(121)]
+IY: [Pussy,(100), see(129)]
+IY: [Pussy,(100), be(140)]
+IY: [Pussy,(100), he(156)]
+IY: [Pussy,(100), he(161)]
+IY: [pussy(103), me,(115)]
+IY: [pussy(103), ski(121)]
+IY: [pussy(103), see(129)]
+IY: [pussy(103), be(140)]
+IY: [pussy(103), he(156)]
+IY: [pussy(103), he(161)]
+IY: [Pussy(108), me,(115)]
+IY: [Pussy(108), ski(121)]
+IY: [Pussy(108), see(129)]
+IY: [Pussy(108), be(140)]
+IY: [Pussy(108), he(156)]
+IY: [Pussy(108), he(161)]
+IY: [me,(115), Basqui,(126)]
+IY: [me,(115), really(157)]
+IY: [ski(121), Basqui,(126)]
+IY: [ski(121), really(157)]
+IY: [Basqui,(126), see(129)]
+IY: [Basqui,(126), be(140)]
+IY: [Basqui,(126), he(156)]
+IY: [Basqui,(126), he(161)]
+IY: [see(129), really(157)]
+IY: [be(140), really(157)]
+IHN: [movin'(141), in(143)]
+IHN: [movin'(141), Talkin'(146)]
+IHN: [movin'(141), in(152)]
+IY: [he(156), really(157)]
+IY: [really(157), he(161)]
+
+
+Rule 2: ...-ON[C]'-...
+S: [Ass(1), ass(18), ass(26), ass(33), ass(40), ass(50), ass(57), ass(67), ass(79), ass(104), ass(109)]
+K: [Look(4), Look(20), dick(53), fuck(64), fuck(76), fuck(127), Look(130), fake(133)]
+T: [at(5), at(21), not(23), that(87), out(97), at(131), that(139), weight(142), 'bout(147), But(155), split(162), it(163)]
+N: [sharin'(7), one(8), One(13), chain(32), non-man(66), non-man(78), hundred(116), on(117), on(123), movin'(141), van(154)]
+B: [club(12), bub'(17), club(44)]
+L: [full(15), will,(70), will,(72), will(74), all(94), wall,(125), real(137)]
+M: [game(25), Same(35), scam(49), I'm(114), them(144)]
+P: [cup(36), dope(134)]
+DH: [with(45), with(164)]
+F: [if(62), if(86)]
+D: [would(82), tried,(102)]
+Z: [ki's,(148), ki's(151), his(165)]
+
+
+Rule 3: ...-O[N]C'-...
+UH: [Lookin'(0), Look(4), full(15), Look(20), would(82), Pussy,(100), pussy(103), Pussy(108), Look(130)]
+AE: [Ass(1), at(5), ass(18), at(21), havin'(24), ass(26), ass(33), hand(39), ass(40), scam(49), ass(50), pants(56), ass(57), damned(61), ass(67), ass(79), that(87), ass(104), ass(109), at(131), that(139), van(154), grams(159), mans(166)]
+IH: [Nicki(2), Minaj(3), sharin'(7), niggas(19), niggas(27), niggas(29), niggas(34), nigga(41), with(45), nigga(51), dick(53), nigga(58), if(62), nigga(68), will,(70), will,(72), will(74), nigga(80), if(86), nigga(88), bitches(93), nigga(105), nigga,(110), Bitch(113), wrist,(119), niggas(138), movin'(141), villas(145), ki's,(148), it's(150), ki's(151), really(157), split(162), it(163), with(164), his(165)]
+EH: [sharin'(7), share(30), credit(47), never(75), never(83), them(144)]
+AH: [one(8), club(12), One(13), bub'(17), cup(36), club(44), fuck(64), fuck(76), hundred(116), fuck(127), But(155)]
+AA: [bottle(9), bottle(14), not(23), card(48), non-man(66), non-man(78), on(117), Art(122), on(123)]
+EY: [game(25), chain(32), Same(35), way(96), fake(133), weight(142), say(149)]
+OW: [No(52), dope(134), Know(136)]
+AY: [I(59), I(63), I(69), I(71), I(73), I(81), lie(84), my(92), Dubai(99), tried,(102), lie(107), high(112), I'm(114), I(120)]
+IY: [be(60), Even(85), me(90), me,(115), ski(121), see(129), dealers(135), real(137), be(140), he(156), he(161)]
+UW: [flew(89), you(101), you(106), you(111), who(128), you(132), movin'(141), move(158)]
+AO: [all(94), wall,(125), Talkin'(146)]
+AW: [out(97), 'bout(147)]
+
+
+Rule 4: ...-[O']N[C']'-...
+L: [Lookin'(0), lie(84), all(94), lie(107)]
+S: [Ass(1), ass(18), ass(26), ass(33), ass(40), ass(50), ass(57), ass(67), ass(79), ass(104), ass(109), see(129), say(149)]
+N: [Nicki(2), niggas(19), niggas(27), niggas(29), niggas(34), nigga(41), nigga(51), No(52), nigga(58), nigga(68), never(75), nigga(80), never(83), nigga(88), nigga(105), nigga,(110), on(117), on(123), Know(136), niggas(138)]
+M: [Minaj(3), me(90), my(92), I'm(114), me,(115), movin'(141)]
+LK: [Look(4), Look(20), Look(130)]
+T: [at(5), at(21), out(97), at(131), Talkin'(146), it(163)]
+WN: [one(8), One(13)]
+B: [bottle(9), bottle(14), be(60), bitches(93), Dubai(99), be(140)]
+KLB: [club(12), club(44)]
+FL: [full(15), flew(89)]
+HH: [havin'(24), high(112), who(128), he(156), he(161)]
+WDH: [with(45), with(164)]
+F: [if(62), if(86)]
+FK: [fuck(64), fuck(76), fuck(127), fake(133)]
+NN: [non-man(66), non-man(78)]
+WL: [will,(70), will,(72), will(74), wall,(125)]
+DHT: [that(87), that(139)]
+P: [Pussy,(100), pussy(103), Pussy(108)]
+Y: [you(101), you(106), you(111), you(132)]
+VN: [movin'(141), van(154)]
+BT: ['bout(147), But(155)]
+KZ: [ki's,(148), ki's(151)]
+
+
+
+
+Poem with word IDs:
+
+Lookin'(0) Ass(1) 
+Nicki(2) Minaj(3) 
+
+Look(4) at(5) y'all(6) sharin'(7) one(8) bottle(9) in(10) the(11) club(12) 
+One(13) bottle(14) full(15) of(16) bub'(17) ass(18) niggas(19) 
+Look(20) at(21) y'all(22) not(23) havin'(24) game(25) ass(26) niggas(27) 
+Y'all(28) niggas(29) share(30) a(31) chain(32) ass(33) niggas(34) 
+Same(35) cup(36) in(37) the(38) hand(39) ass(40) nigga(41) 
+In(42) the(43) club(44) with(45) a(46) credit(47) card(48) scam(49) ass(50) nigga(51) 
+No(52) dick(53) in(54) the(55) pants(56) ass(57) nigga(58) 
+I(59) be(60) damned(61) if(62) I(63) fuck(64) a(65) non-man(66) ass(67) nigga(68) 
+I(69) will,(70) I(71) will,(72) I(73) will(74) never(75) fuck(76) a(77) non-man(78) ass(79) nigga(80) 
+I(81) would(82) never(83) lie(84) 
+Even(85) if(86) that(87) nigga(88) flew(89) me(90) and(91) my(92) bitches(93) all(94) the(95) way(96) out(97) to(98) Dubai(99) 
+Pussy,(100) you(101) tried,(102) pussy(103) ass(104) nigga(105) you(106) lie(107) 
+Pussy(108) ass(109) nigga,(110) you(111) high(112) 
+Bitch(113) I'm(114) me,(115) hundred(116) on(117) the(118) wrist,(119) I(120) ski(121) 
+Art(122) on(123) the(124) wall,(125) Basqui,(126) fuck(127) who(128) see(129) 
+Look(130) at(131) you(132) fake(133) dope(134) dealers(135) 
+Know(136) real(137) niggas(138) that(139) be(140) movin'(141) weight(142) in(143) them(144) villas(145) 
+Talkin'(146) 'bout(147) ki's,(148) say(149) it's(150) ki's(151) in(152) the(153) van(154) 
+But(155) he(156) really(157) move(158) grams(159) and(160) he(161) split(162) it(163) with(164) his(165) mans(166) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see LookinAss_Output_B_uncertainty.txt in the Poems directory
+
+one (8:0) W AH1 N (8:1) HH W AH1 N
+in (10:0) IH0 N (10:1) IH1 N
+the (11:0) DH AH0 (11:1) DH AH1 (11:2) DH IY0
+One (13:0) W AH1 N (13:1) HH W AH1 N
+of (16:0) AH0 V (16:1) AH0 V
+a (31:0) AH0 (31:1) EY1
+in (37:0) IH0 N (37:1) IH1 N
+the (38:0) DH AH0 (38:1) DH AH1 (38:2) DH IY0
+In (42:0) IH0 N (42:1) IH1 N
+the (43:0) DH AH0 (43:1) DH AH1 (43:2) DH IY0
+with (45:0) W IH1 DH (45:1) W IH1 TH (45:2) W IH0 TH (45:3) W IH0 DH
+a (46:0) AH0 (46:1) EY1
+credit (47:0) K R EH1 - D AH0 T (47:1) K R EH1 - D IH0 T
+in (54:0) IH0 N (54:1) IH1 N
+the (55:0) DH AH0 (55:1) DH AH1 (55:2) DH IY0
+be (60:0) B IY1 (60:1) B IY0
+if (62:0) IH1 F (62:1) IH0 F
+a (65:0) AH0 (65:1) EY1
+will, (70:0) W IH1 L (70:1) W AH0 L
+will, (72:0) W IH1 L (72:1) W AH0 L
+will (74:0) W IH1 L (74:1) W AH0 L
+a (77:0) AH0 (77:1) EY1
+if (86:0) IH1 F (86:1) IH0 F
+that (87:0) DH AE1 T (87:1) DH AH0 T
+and (91:0) AE0 N D (91:1) AH0 N D
+the (95:0) DH AH0 (95:1) DH AH1 (95:2) DH IY0
+to (98:0) T UW0 (98:1) T IH0 (98:2) T AH0
+hundred (116:0) HH AH1 N - D R AH0 D (116:1) HH AH1 N - D R IH0 D (116:2) HH AH1 - N ER0 D (116:3) HH AH1 N - D ER0 D
+on (117:0) AA1 N (117:1) AO1 N
+the (118:0) DH AH0 (118:1) DH AH1 (118:2) DH IY0
+on (123:0) AA1 N (123:1) AO1 N
+the (124:0) DH AH0 (124:1) DH AH1 (124:2) DH IY0
+that (139:0) DH AE1 T (139:1) DH AH0 T
+be (140:0) B IY1 (140:1) B IY0
+in (143:0) IH0 N (143:1) IH1 N
+them (144:0) DH EH1 M (144:1) DH AH0 M
+it's (150:0) IH1 T S (150:1) IH0 T S
+in (152:0) IH0 N (152:1) IH1 N
+the (153:0) DH AH0 (153:1) DH AH1 (153:2) DH IY0
+really (157:0) R IH1 - L IY0 (157:1) R IY1 - L IY0
+and (160:0) AE0 N D (160:1) AH0 N D
+it (163:0) IH1 T (163:1) IH0 T
+with (164:0) W IH1 DH (164:1) W IH1 TH (164:2) W IH0 TH (164:3) W IH0 DH
+his (165:0) HH IH1 Z (165:1) HH IH0 Z
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see LookinAss_Output_B_uncertainty.txt in the Poems directory
+
+Minaj (3:0)  M IH1- N AE0 JH
+sharin' (7:0)  SH EH1- R IH1 N
+bub' (17:0)  B AH1 B
+niggas (19:0)  N IH1- G AH0 Z
+niggas (27:0)  N IH1- G AH0 Z
+niggas (29:0)  N IH1- G AH0 Z
+niggas (34:0)  N IH1- G AH0 Z
+nigga (41:0)  N IH1- G AH0
+nigga (51:0)  N IH1- G AH0
+nigga (58:0)  N IH1- G AH0
+non-man (66:0)  N AA1 N- M AH0 N
+nigga (68:0)  N IH1- G AH0
+non-man (78:0)  N AA1 N- M AH0 N
+nigga (80:0)  N IH1- G AH0
+nigga (88:0)  N IH1- G AH0
+nigga (105:0)  N IH1- G AH0
+nigga, (110:0)  N IH1- G AH0
+Basqui, (126:0)  B AE0 S- K W IY0
+niggas (138:0)  N IH1- G AH0 Z
+movin' (141:0)  M UW1- V IH1 N
+'bout (147:0)  B AW1 T
+ki's, (148:0)  K IH1 Z
+ki's (151:0)  K IH1 Z

@@ -1,0 +1,153 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%a (5:0) AH0 (5:1) EY1
+5:0
+%The (9:0) DH AH0 (9:1) DH AH1 (9:2) DH IY0
+9:0
+%in (11:0) IH0 N (11:1) IH1 N
+11:0
+%your (12:0) Y AO1 R (12:1) Y UH1 R
+12:0
+%in (17:0) IH0 N (17:1) IH1 N
+17:0
+%your (18:0) Y AO1 R (18:1) Y UH1 R
+18:0
+%into (23:0) IH0 N - T UW1 (23:1) IH1 N - T UW0 (23:2) IH0 N - T AH0
+23:0
+%the (24:0) DH AH0 (24:1) DH AH1 (24:2) DH IY0
+24:0
+%and (31:0) AE0 N D (31:1) AH0 N D
+31:0
+%into (33:0) IH0 N - T UW1 (33:1) IH1 N - T UW0 (33:2) IH0 N - T AH0
+33:0
+%a (34:0) AH0 (34:1) EY1
+34:0
+%a (37:0) AH0 (37:1) EY1
+37:0
+%on (42:0) AA1 N (42:1) AO1 N
+42:0
+%your (43:0) Y AO1 R (43:1) Y UH1 R
+43:0
+%and (45:0) AE0 N D (45:1) AH0 N D
+45:0
+%that (46:0) DH AE1 T (46:1) DH AH0 T
+46:0
+%a (54:0) AH0 (54:1) EY1
+54:0
+%in (56:0) IH0 N (56:1) IH1 N
+56:0
+%a (57:0) AH0 (57:1) EY1
+57:0
+%For (59:0) F AO1 R (59:1) F ER0 (59:2) F R ER0
+59:0
+%good (60:0) G UH1 D (60:1) G IH0 D
+60:0
+%in (63:0) IH0 N (63:1) IH1 N
+63:0
+%the (64:0) DH AH0 (64:1) DH AH1 (64:2) DH IY0
+64:0
+%and (69:0) AE0 N D (69:1) AH0 N D
+69:0
+%a (75:0) AH0 (75:1) EY1
+75:0
+%quarter, (76:0) K W AO1 R - T ER0 (76:1) K AO1 R - T ER0
+76:0
+%a (78:0) AH0 (78:1) EY1
+78:0
+%a (82:0) AH0 (82:1) EY1
+82:0
+%And (84:0) AE0 N D (84:1) AH0 N D
+84:0
+%than (87:0) DH AE1 N (87:1) DH AH0 N
+87:0
+%a (88:0) AH0 (88:1) EY1
+88:0
+%is (91:0) IH1 Z (91:1) IH0 Z
+91:0
+%a (94:0) AH0 (94:1) EY1
+94:0
+%and (99:0) AE0 N D (99:1) AH0 N D
+99:0
+%to (103:0) T UW0 (103:1) T IH0 (103:2) T AH0
+103:0
+%And (106:0) AE0 N D (106:1) AH0 N D
+106:0
+%the (108:0) DH AH0 (108:1) DH AH1 (108:2) DH IY0
+108:0
+%to (112:0) T UW0 (112:1) T IH0 (112:2) T AH0
+112:0
+%be (113:0) B IY1 (113:1) B IY0
+113:0
+%to (120:0) T UW0 (120:1) T IH0 (120:2) T AH0
+120:0
+%them (122:0) DH EH1 M (122:1) DH AH0 M
+122:0
+%get (128:0) G EH1 T (128:1) G IH1 T
+128:0
+%the (135:0) DH AH0 (135:1) DH AH1 (135:2) DH IY0
+135:0
+%in (137:0) IH0 N (137:1) IH1 N
+137:0
+%putting (139:0) P AH1 - T IH0 NG (139:1) P UH1 - T IH0 NG
+139:0
+%hands (140:0) HH AE1 N D Z (140:1) HH AE1 N Z
+140:0
+%on (142:0) AA1 N (142:1) AO1 N
+142:0
+%a (143:0) AH0 (143:1) EY1
+143:0
+%Close (145:0) K L OW1 S (145:1) K L OW1 Z
+145:0
+%the (146:0) DH AH0 (146:1) DH AH1 (146:2) DH IY0
+146:0
+%on (148:0) AA1 N (148:1) AO1 N
+148:0
+%the (149:0) DH AH0 (149:1) DH AH1 (149:2) DH IY0
+149:0
+%a (152:0) AH0 (152:1) EY1
+152:0
+%your (158:0) Y AO1 R (158:1) Y UH1 R
+158:0
+%on (161:0) AA1 N (161:1) AO1 N
+161:0
+%will (165:0) W IH1 L (165:1) W AH0 L
+165:0
+%get (166:0) G EH1 T (166:1) G IH1 T
+166:0
+%in (169:0) IH0 N (169:1) IH1 N
+169:0
+%your (170:0) Y AO1 R (170:1) Y UH1 R
+170:0
+%pajamas (171:0) P AH0 - JH AA1 - M AH0 Z (171:1) P AH0 - JH AE1 - M AH0 Z
+171:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%toker (8:0)  T AA1- K ER0
+8:0
+%coka (13:0)  K OW1- K AH0
+13:0
+%wit' (39:0)  W IH1 T
+39:0
+%Wilona (70:0)  W IH1- L OW1- N AH0
+70:0
+%'cause (80:0)  K AW1 Z
+80:0
+%'cause (92:0)  K AW1 Z
+92:0
+%goners (114:0)  G OW1- N ER0 Z
+114:0
+%ballers (126:0)  B AE1- L ER0 Z
+126:0
+%murked (168:0)  M ER1 K T
+168:0
+********End******

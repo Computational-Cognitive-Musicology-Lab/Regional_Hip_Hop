@@ -1,0 +1,87 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%O.T. (2:0) AO1 T (2:1) OW1 - T IY1
+2:0
+%watch, (5:0) W AA1 CH (5:1) W AO1 CH
+5:0
+%in (14:0) IH0 N (14:1) IH1 N
+14:0
+%a (15:0) AH0 (15:1) EY1
+15:0
+%on (23:0) AA1 N (23:1) AO1 N
+23:0
+%the (24:0) DH AH0 (24:1) DH AH1 (24:2) DH IY0
+24:0
+%this (32:0) DH IH1 S (32:1) DH IH0 S
+32:0
+%the (47:0) DH AH0 (47:1) DH AH1 (47:2) DH IY0
+47:0
+%and (57:0) AE0 N D (57:1) AH0 N D
+57:0
+%a (60:0) AH0 (60:1) EY1
+60:0
+%good (61:0) G UH1 D (61:1) G IH0 D
+61:0
+%credit (62:0) K R EH1 - D AH0 T (62:1) K R EH1 - D IH0 T
+62:0
+%a (66:0) AH0 (66:1) EY1
+66:0
+%where (68:0) W EH1 R (68:1) HH W EH1 R
+68:0
+%from? (70:0) F R AH1 M (70:1) F ER0 M
+70:0
+%that (86:0) DH AE1 T (86:1) DH AH0 T
+86:0
+%was (88:0) W AA1 Z (88:1) W AH1 Z (88:2) W AH0 Z (88:3) W AO1 Z
+88:0
+%platinum (91:0) P L AE1 T - N AH0 M (91:1) P L AE1 - T AH0 - N AH0 M
+91:0
+%to (93:0) T UW0 (93:1) T IH0 (93:2) T AH0
+93:0
+%the (97:0) DH AH0 (97:1) DH AH1 (97:2) DH IY0
+97:0
+%one (98:0) W AH1 N (98:1) HH W AH1 N
+98:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Genasis (3:0)  JH IY1- N AH0- S IH1 S
+3:0
+%I'ma (11:0)  IH1- M AH0
+11:0
+%Tryna (26:0)  T R IH1- N AH0
+26:0
+%gon' (30:0)  G AA1 N
+30:0
+%niggas (41:0)  N IH1- G AH0 Z
+41:0
+%trippin' (42:0)  T R IH1- P IH1 N
+42:0
+%homies (48:0)  HH AA1- M IY0 Z
+48:0
+%nigga, (67:0)  N IH1- G AH0
+67:0
+%summin (72:0)  S AH1- M IH1 N
+72:0
+%Dem (73:0)  D AH0 M
+73:0
+%niggas (74:0)  N IH1- G AH0 Z
+74:0
+%Niggas (81:0)  N IH1- G AH0 Z
+81:0
+%hatin' (82:0)  HH EY1- T AH0 N
+82:0
+%'cause (83:0)  K AW1 Z
+83:0
+%motherfucker (95:0)  M AH1- DH ER0- F AH1- K ER0
+95:0
+********End******

@@ -1,0 +1,127 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%from (4:0) F R AH1 M (4:1) F ER0 M
+4:0
+%the (5:0) DH AH0 (5:1) DH AH1 (5:2) DH IY0
+5:0
+%Where (10:0) W EH1 R (10:1) HH W EH1 R
+10:0
+%is (12:0) IH1 Z (12:1) IH0 Z
+12:0
+%for (14:0) F AO1 R (14:1) F ER0 (14:2) F R ER0
+14:0
+%granted (15:0) G R AE1 N - T AH0 D (15:1) G R AE1 N - T IH0 D (15:2) G R AE1 - N AH0 D (15:3) G R AE1 - N IH0 D
+15:0
+%is (19:0) IH1 Z (19:1) IH0 Z
+19:0
+%around, (24:0) ER0 - AW1 N D (24:1) ER0 - AW1 N
+24:0
+%we're (27:0) W IY1 R (27:1) W IH1 R (27:2) W ER1
+27:0
+%that (31:0) DH AE1 T (31:1) DH AH0 T
+31:0
+%in (33:0) IH0 N (33:1) IH1 N
+33:0
+%this (34:0) DH IH1 S (34:1) DH IH0 S
+34:0
+%a (37:0) AH0 (37:1) EY1
+37:0
+%As (39:0) AE1 Z (39:1) EH1 Z
+39:0
+%a (40:0) AH0 (40:1) EY1
+40:0
+%juvenile (41:0) JH UW1 - V AH0 - N AH0 L (41:1) JH UW1 - V AH0 - N AY2 L
+41:0
+%of (48:0) AH0 V (48:1) AH0 V
+48:0
+%Been (50:0) B IH1 N (50:1) B AH0 N (50:2) B IH0 N
+50:0
+%in (51:0) IH0 N (51:1) IH1 N
+51:0
+%and (52:0) AE0 N D (52:1) AH0 N D
+52:0
+%of (54:0) AH0 V (54:1) AH0 V
+54:0
+%as (56:0) AE1 Z (56:1) EH1 Z
+56:0
+%an (57:0) AE1 N (57:1) AH0 N
+57:0
+%adolescent (58:0) AE2 - D AH0 - L EH1 - S AH0 N T (58:1) AE2 - D OW0 - L EH1 - S AH0 N T
+58:0
+%was (61:0) W AA1 Z (61:1) W AH1 Z (61:2) W AH0 Z (61:3) W AO1 Z
+61:0
+%getting (62:0) G EH1 - T IH0 NG (62:1) G IH1 - T IH0 NG
+62:0
+%it, (63:0) IH1 T (63:1) IH0 T
+63:0
+%to (67:0) T UW0 (67:1) T IH0 (67:2) T AH0
+67:0
+%around (71:0) ER0 - AW1 N D (71:1) ER0 - AW1 N
+71:0
+%and (75:0) AE0 N D (75:1) AH0 N D
+75:0
+%get (80:0) G EH1 T (80:1) G IH1 T
+80:0
+%corporate (81:0) K AO1 R - P ER0 - AH0 T (81:1) K AO1 R - P R AH0 T
+81:0
+%and (82:0) AE0 N D (82:1) AH0 N D
+82:0
+%fortunes (84:0) F AO1 R - CH AH0 N Z (84:1) F AO1 R - CH UW0 N Z
+84:0
+%With (85:0) W IH1 DH (85:1) W IH1 TH (85:2) W IH0 TH (85:3) W IH0 DH
+85:0
+%a (90:0) AH0 (90:1) EY1
+90:0
+%the (93:0) DH AH0 (93:1) DH AH1 (93:2) DH IY0
+93:0
+%nobody (98:0) N OW1 - B AA2 - D IY2 (98:1) N OW1 - B AH0 - D IY0
+98:0
+%That (101:0) DH AE1 T (101:1) DH AH0 T
+101:0
+%don't (102:0) D OW1 N T (102:1) D OW1 N
+102:0
+%It's (107:0) IH1 T S (107:1) IH0 T S
+107:0
+%when (110:0) W EH1 N (110:1) HH W EH1 N (110:2) W IH1 N (110:3) HH W IH1 N
+110:0
+%close (112:0) K L OW1 S (112:1) K L OW1 Z
+112:0
+%And (114:0) AE0 N D (114:1) AH0 N D
+114:0
+%when (115:0) W EH1 N (115:1) HH W EH1 N (115:2) W IH1 N (115:3) HH W IH1 N
+115:0
+%a (119:0) AH0 (119:1) EY1
+119:0
+%get (124:0) G EH1 T (124:1) G IH1 T
+124:0
+%Stereotyped, (126:0) S T EH1 - R IY0 - AH0 - T AY2 P T (126:1) S T EH1 - R IY0 - OW0 - T AY2 P T
+126:0
+%for (128:0) F AO1 R (128:1) F ER0 (128:2) F R ER0
+128:0
+%a (133:0) AH0 (133:1) EY1
+133:0
+%get (136:0) G EH1 T (136:1) G IH1 T
+136:0
+%a (137:0) AH0 (137:1) EY1
+137:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Rakim (2:0)  R AA0- K IY1 M
+2:0
+%ex-convicts (100:0)  EH1 K S- K AH0 N- V IH1 K T S
+100:0
+%stigmata (130:0)  S T IH1 G- M AA1- T AH0
+130:0
+%dolla (138:0)  D AA1- L AH0
+138:0
+********End******

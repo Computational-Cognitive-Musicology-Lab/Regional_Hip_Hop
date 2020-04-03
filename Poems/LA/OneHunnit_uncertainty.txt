@@ -1,0 +1,185 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%One (0:0) W AH1 N (0:1) HH W AH1 N
+0:0
+%for (5:0) F AO1 R (5:1) F ER0 (5:2) F R ER0
+5:0
+%Hundred (11:0) HH AH1 N - D R AH0 D (11:1) HH AH1 N - D R IH0 D (11:2) HH AH1 - N ER0 D (11:3) HH AH1 N - D ER0 D
+11:0
+%thousand (12:0) TH AW1 - Z AH0 N D (12:1) TH AW1 - Z AH0 N
+12:0
+%a (13:0) AH0 (13:1) EY1
+13:0
+%thousand (21:0) TH AW1 - Z AH0 N D (21:1) TH AW1 - Z AH0 N
+21:0
+%a (22:0) AH0 (22:1) EY1
+22:0
+%it (30:0) IH1 T (30:1) IH0 T
+30:0
+%the (33:0) DH AH0 (33:1) DH AH1 (33:2) DH IY0
+33:0
+%cause (36:0) K AA1 Z (36:1) K AO1 Z
+36:0
+%it (40:0) IH1 T (40:1) IH0 T
+40:0
+%been (42:0) B IH1 N (42:1) B AH0 N (42:2) B IH0 N
+42:0
+%for (44:0) F AO1 R (44:1) F ER0 (44:2) F R ER0
+44:0
+%a (45:0) AH0 (45:1) EY1
+45:0
+%minute (46:0) M IH1 - N AH0 T (46:1) M AY0 - N UW1 T (46:2) M AY0 - N Y UW1 T
+46:0
+%get (54:0) G EH1 T (54:1) G IH1 T
+54:0
+%it (55:0) IH1 T (55:1) IH0 T
+55:0
+%if (58:0) IH1 F (58:1) IH0 F
+58:0
+%a (67:0) AH0 (67:1) EY1
+67:0
+%it (72:0) IH1 T (72:1) IH0 T
+72:0
+%in (74:0) IH0 N (74:1) IH1 N
+74:0
+%in (78:0) IH0 N (78:1) IH1 N
+78:0
+%this (82:0) DH IH1 S (82:1) DH IH0 S
+82:0
+%from (85:0) F R AH1 M (85:1) F ER0 M
+85:0
+%did (89:0) D IH1 D (89:1) D IH0 D
+89:0
+%it (90:0) IH1 T (90:1) IH0 T
+90:0
+%with (93:0) W IH1 DH (93:1) W IH1 TH (93:2) W IH0 TH (93:3) W IH0 DH
+93:0
+%a (94:0) AH0 (94:1) EY1
+94:0
+%and (96:0) AE0 N D (96:1) AH0 N D
+96:0
+%the (99:0) DH AH0 (99:1) DH AH1 (99:2) DH IY0
+99:0
+%Center (101:0) S EH1 N - T ER0 (101:1) S EH1 - N ER0
+101:0
+%them (104:0) DH EH1 M (104:1) DH AH0 M
+104:0
+%a (110:0) AH0 (110:1) EY1
+110:0
+%On (113:0) AA1 N (113:1) AO1 N
+113:0
+%her (114:0) HH ER0 (114:1) HH ER1
+114:0
+%on (118:0) AA1 N (118:1) AO1 N
+118:0
+%her (119:0) HH ER0 (119:1) HH ER1
+119:0
+%on (123:0) AA1 N (123:1) AO1 N
+123:0
+%her (124:0) HH ER0 (124:1) HH ER1
+124:0
+%for (129:0) F AO1 R (129:1) F ER0 (129:2) F R ER0
+129:0
+%and (134:0) AE0 N D (134:1) AH0 N D
+134:0
+%fifteen, (138:0) F IH0 F - T IY1 N (138:1) F IH1 F - T IY1 N
+138:0
+%laces (142:0) L EY1 - S AH0 Z (142:1) L EY1 - S IH0 Z
+142:0
+%in (143:0) IH0 N (143:1) IH1 N
+143:0
+%the (144:0) DH AH0 (144:1) DH AH1 (144:2) DH IY0
+144:0
+%that (147:0) DH AE1 T (147:1) DH AH0 T
+147:0
+%for (150:0) F AO1 R (150:1) F ER0 (150:2) F R ER0
+150:0
+%the (151:0) DH AH0 (151:1) DH AH1 (151:2) DH IY0
+151:0
+%want (154:0) W AA1 N T (154:1) W AO1 N T
+154:0
+%for (156:0) F AO1 R (156:1) F ER0 (156:2) F R ER0
+156:0
+%her (161:0) HH ER0 (161:1) HH ER1
+161:0
+%her (166:0) HH ER0 (166:1) HH ER1
+166:0
+%the (168:0) DH AH0 (168:1) DH AH1 (168:2) DH IY0
+168:0
+%and (175:0) AE0 N D (175:1) AH0 N D
+175:0
+%Are (178:0) AA1 R (178:1) ER0
+178:0
+%for (181:0) F AO1 R (181:1) F ER0 (181:2) F R ER0
+181:0
+%and (183:0) AE0 N D (183:1) AH0 N D
+183:0
+%a (188:0) AH0 (188:1) EY1
+188:0
+%one (196:0) W AH1 N (196:1) HH W AH1 N
+196:0
+%to (197:0) T UW0 (197:1) T IH0 (197:2) T AH0
+197:0
+%Live (199:0) L AY1 V (199:1) L IH1 V
+199:0
+%an (207:0) AE1 N (207:1) AH0 N
+207:0
+%And (209:0) AE0 N D (209:1) AH0 N D
+209:0
+%be (212:0) B IY1 (212:1) B IY0
+212:0
+%your (216:0) Y AO1 R (216:1) Y UH1 R
+216:0
+%if (221:0) IH1 F (221:1) IH0 F
+221:0
+%was (224:0) W AA1 Z (224:1) W AH1 Z (224:2) W AH0 Z (224:3) W AO1 Z
+224:0
+%a (225:0) AH0 (225:1) EY1
+225:0
+%What (227:0) W AH1 T (227:1) HH W AH1 T
+227:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Hunnit (1:0)  HH AH1- N IH1 T
+1:0
+%Nipsey (2:0)  N IH1 P- Z IY0
+2:0
+%Hussle (3:0)  HH AH1- S AH0 L
+3:0
+%Ballin' (4:0)  B AE1- L IH1 N
+4:0
+%ballin' (43:0)  B AE1- L IH1 N
+43:0
+%I'ma (47:0)  IH1- M AH0
+47:0
+%nigga, (65:0)  N IH1- G AH0
+65:0
+%prolly (139:0)  P R OW1- L IY0
+139:0
+%fallin' (149:0)  F AE1- L IH1 N
+149:0
+%Chucks (174:0)  CH AH1 K S
+174:0
+%I'ma (177:0)  IH1- M AH0
+177:0
+%Cee (180:0)  S IY1
+180:0
+%nigga (190:0)  N IH1- G AH0
+190:0
+%nigga (211:0)  N IH1- G AH0
+211:0
+%"Hussle (214:0)  AH1- S AH0 L
+214:0
+%shit" (217:0)  SH IH1 T
+217:0
+********End******

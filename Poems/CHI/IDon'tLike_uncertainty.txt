@@ -1,0 +1,89 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Don't (1:0) D OW1 N T (1:1) D OW1 N
+1:0
+%that (10:0) DH AE1 T (10:1) DH AH0 T
+10:0
+%don't (12:0) D OW1 N T (12:1) D OW1 N
+12:0
+%the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+16:0
+%thirty (17:0) TH ER1 - D IY0 (17:1) TH ER1 - T IY2
+17:0
+%your (23:0) Y AO1 R (23:1) Y UH1 R
+23:0
+%was (26:0) W AA1 Z (26:1) W AH1 Z (26:2) W AH0 Z (26:3) W AO1 Z
+26:0
+%it (28:0) IH1 T (28:1) IH0 T
+28:0
+%in (32:0) IH0 N (32:1) IH1 N
+32:0
+%the (33:0) DH AH0 (33:1) DH AH1 (33:2) DH IY0
+33:0
+%a (36:0) AH0 (36:1) EY1
+36:0
+%with (41:0) W IH1 DH (41:1) W IH1 TH (41:2) W IH0 TH (41:3) W IH0 DH
+41:0
+%the (42:0) DH AH0 (42:1) DH AH1 (42:2) DH IY0
+42:0
+%can (45:0) K AE1 N (45:1) K AH0 N
+45:0
+%tonight (47:0) T AH0 - N AY1 T (47:1) T UW0 - N AY1 T
+47:0
+%want (50:0) W AA1 N T (50:1) W AO1 N T
+50:0
+%the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+51:0
+%top, (52:0) T AA1 P (52:1) T AO1 P
+52:0
+%Them (57:0) DH EH1 M (57:1) DH AH0 M
+57:0
+%with (59:0) W IH1 DH (59:1) W IH1 TH (59:2) W IH0 TH (59:3) W IH0 DH
+59:0
+%the (60:0) DH AH0 (60:1) DH AH1 (60:2) DH IY0
+60:0
+%be (63:0) B IY1 (63:1) B IY0
+63:0
+%a (68:0) AH0 (68:1) EY1
+68:0
+%a (73:0) AH0 (73:1) EY1
+73:0
+%the (90:0) DH AH0 (90:1) DH AH1 (90:2) DH IY0
+90:0
+%that (96:0) DH AE1 T (96:1) DH AH0 T
+96:0
+%don't (98:0) D OW1 N T (98:1) D OW1 N
+98:0
+%your (106:0) Y AO1 R (106:1) Y UH1 R
+106:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%niggas, (8:0)  N IH1- G AH0 Z
+8:0
+%tryina (20:0)  T R AY IY1- N AH0
+20:0
+%hittin (27:0)  HH IH1- T IH1 N
+27:0
+%shits, (43:0)  SH IH1 T S
+43:0
+%tryina (55:0)  T R AY IY1- N AH0
+55:0
+%youngings (58:0)  Y AH1 N- JH IH0 NG Z
+58:0
+%shits, (61:0)  SH IH1 T S
+61:0
+%totin' (64:0)  T OW1- T IH1 N
+64:0
+%Hunna (76:0)  HH AH1- N AH0
+76:0
+********End******

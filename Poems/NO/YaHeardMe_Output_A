@@ -1,0 +1,171 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+YAA: [Ya(0), ya(48)]
+HHERD: [Heard(1), heard(102), heard(111)]
+MIY: [Me(2), me,(128)]
+BIY: [Bee(3), Bee(7)]
+JHIY: [Gee(4), gee(99)]
+IHTS: [It's(5), It's(31)]
+DHAH: [the(9), the(21), the(50), the(63), the(120), the(130), the(149), the(155)]
+PAES: [pass(13), pass,(91)]
+AYM: [I'm(14), I'm(53), I'm(97), I'm(154)]
+NIHGAH: [nigga,(16), nigga(159)]
+AH: [a(18), a(38), a(54), a(56), A(75), a(79), a(98), a(107), a(117), a(139), A(152)]
+TUW: [to(20), to(60)]
+AY: [I(23), I(35), I(45), I(109), I(160)]
+FIHR: [fear(24), fear(28)]
+NEHVER: [never(27), never(32)]
+MAEN: [man(30), man(52), man(65)]
+WAHN: [one(33), one(153)]
+IHT: [It(41), it(92)]
+NOW: [no(43), know(70), know(88)]
+AAN: [on(58), on(148)]
+KAHM: [come(61), come(67)]
+YUW: [you(69), You(87), you(100), you(106), you(113), You(114), you(123), you(125), you(134), you(145)]
+IHN: [in(72), in(141)]
+LAAT: [lot(76), lot(80)]
+AHV: [of(77), of(81), of(112), of(122), of(144)]
+MAY: [my(89), My(146)]
+BIHN: [been(93), been(101), been(110), been(151), been(161)]
+STAAP: [Stop(95), Stop(104)]
+HHAAMIY: [homie(119), homie(131)]
+OW: [Oh(124), Oh(158)]
+LUHKIHN: [lookin(126), lookin(132)]
+FAOR: [for(127), for(133)]
+
+
+Rule 1: ...-O[NC]'
+AA: [Ya(0), ya(48)]
+ERD: [Heard(1), heard(102), heard(111)]
+IY: [Me(2), Bee(3), Gee(4), Bee(7), ski(85), gee(99), me,(128)]
+IHTS: [It's(5), It's(31)]
+AES: [pass(13), pass,(91)]
+AYM: [I'm(14), I'm(53), I'm(97), I'm(154)]
+IHN: [reppin(15), been(93), been(101), been(110), lookin(126), lookin(132), been(151), been(161)]
+AYT: [flight(19), write(55)]
+AY: [I(23), I(35), I(45), my(89), I(109), My(146), I(160)]
+IHR: [fear(24), fear(28)]
+AEN: [man(30), plan(40), can(46), man(52), man(65)]
+AHN: [one(33), one(153)]
+AAT: [got(37), lot(76), lot(80)]
+IHT: [It(41), it(92)]
+OW: [no(43), know(70), know(88), Oh(124), yo(136), Oh(158)]
+AWT: [bout(49), out(62), about(103)]
+AAN: [on(58), on(148)]
+AW: [how(59), Now(66)]
+AHM: [come(61), come(67), some(84)]
+UW: [through,(68), you(69), You(87), you(100), you(106), you(113), You(114), you(123), you(125), you(134), you(145)]
+AAP: [Stop(95), Stop(104)]
+AOR: [for(127), for(133)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IHGAH: [nigga,(16), nigga(159)]
+EHVER: [never(27), never(32)]
+AAMIY: [homie(119), homie(131)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Ya(0) Heard(1) Me(2) 
+Bee(3) Gee(4) 
+
+It's(5) like(6) Bee(7) Gizzle,(8) the(9) world(10) wide(11) ghetto(12) pass(13) 
+I'm(14) reppin(15) nigga,(16) take(17) a(18) flight(19) to(20) the(21) motherland(22) 
+I(23) fear(24) God(25) only,(26) never(27) fear(28) another(29) man(30) 
+It's(31) never(32) one(33) hustle,(34) I(35) always(36) got(37) a(38) backup(39) plan(40) 
+It(41) ain't(42) no(43) secret(44) I(45) can(46) tell(47) ya(48) bout(49) the(50) gutta(51) man(52) 
+I'm(53) a(54) write(55) a(56) book(57) on(58) how(59) to(60) come(61) out(62) the(63) struggle(64) man(65) 
+Now(66) come(67) through,(68) you(69) know(70) what's(71) in(72) them(73) dufflebags(74) 
+A(75) lot(76) of(77) gats,(78) a(79) lot(80) of(81) cash,(82) and(83) some(84) ski(85) masks(86) 
+You(87) know(88) my(89) street(90) pass,(91) it(92) been(93) certified(94) 
+Stop(95) lying(96) I'm(97) a(98) gee(99) you(100) been(101) heard(102) about(103) 
+Stop(104) repping,(105) you(106) a(107) pussy(108) I(109) been(110) heard(111) of(112) you(113) 
+You(114) playin(115) with(116) a(117) gangsta(118) homie(119) the(120) nerve(121) of(122) you(123) 
+Oh(124) you(125) lookin(126) for(127) me,(128) but(129) the(130) homie(131) lookin(132) for(133) you(134) 
+Have(135) yo(136) people(137) wearing(138) a(139) rest(140) in(141) peace(142) shirt(143) of(144) you(145) 
+My(146) reputation(147) on(148) the(149) block(150) been(151) A(152) one(153) 
+I'm(154) the(155) same(156) En(157) Oh(158) nigga(159) I(160) been(161) since(162) day(163) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see YaHeardMe_Output_A_uncertainty.txt in the Poems directory
+
+It's (5:0) IH1 T S (5:1) IH0 T S
+the (9:0) DH AH0 (9:1) DH AH1 (9:2) DH IY0
+a (18:0) AH0 (18:1) EY1
+to (20:0) T UW0 (20:1) T IH0 (20:2) T AH0
+the (21:0) DH AH0 (21:1) DH AH1 (21:2) DH IY0
+It's (31:0) IH1 T S (31:1) IH0 T S
+one (33:0) W AH1 N (33:1) HH W AH1 N
+always (36:0) AO1 L - W EY2 Z (36:1) AO1 L - W IY0 Z
+a (38:0) AH0 (38:1) EY1
+It (41:0) IH1 T (41:1) IH0 T
+secret (44:0) S IY1 - K R AH0 T (44:1) S IY1 - K R IH0 T
+can (46:0) K AE1 N (46:1) K AH0 N
+the (50:0) DH AH0 (50:1) DH AH1 (50:2) DH IY0
+a (54:0) AH0 (54:1) EY1
+a (56:0) AH0 (56:1) EY1
+on (58:0) AA1 N (58:1) AO1 N
+to (60:0) T UW0 (60:1) T IH0 (60:2) T AH0
+the (63:0) DH AH0 (63:1) DH AH1 (63:2) DH IY0
+what's (71:0) W AH1 T S (71:1) HH W AH1 T S
+in (72:0) IH0 N (72:1) IH1 N
+them (73:0) DH EH1 M (73:1) DH AH0 M
+A (75:0) AH0 (75:1) EY1
+lot (76:0) L AA1 T (76:1) L AO1 T
+of (77:0) AH0 V (77:1) AH0 V
+a (79:0) AH0 (79:1) EY1
+lot (80:0) L AA1 T (80:1) L AO1 T
+of (81:0) AH0 V (81:1) AH0 V
+and (83:0) AE0 N D (83:1) AH0 N D
+it (92:0) IH1 T (92:1) IH0 T
+been (93:0) B IH1 N (93:1) B AH0 N (93:2) B IH0 N
+a (98:0) AH0 (98:1) EY1
+been (101:0) B IH1 N (101:1) B AH0 N (101:2) B IH0 N
+a (107:0) AH0 (107:1) EY1
+been (110:0) B IH1 N (110:1) B AH0 N (110:2) B IH0 N
+of (112:0) AH0 V (112:1) AH0 V
+with (116:0) W IH1 DH (116:1) W IH1 TH (116:2) W IH0 TH (116:3) W IH0 DH
+a (117:0) AH0 (117:1) EY1
+the (120:0) DH AH0 (120:1) DH AH1 (120:2) DH IY0
+of (122:0) AH0 V (122:1) AH0 V
+for (127:0) F AO1 R (127:1) F ER0 (127:2) F R ER0
+the (130:0) DH AH0 (130:1) DH AH1 (130:2) DH IY0
+for (133:0) F AO1 R (133:1) F ER0 (133:2) F R ER0
+a (139:0) AH0 (139:1) EY1
+in (141:0) IH0 N (141:1) IH1 N
+of (144:0) AH0 V (144:1) AH0 V
+on (148:0) AA1 N (148:1) AO1 N
+the (149:0) DH AH0 (149:1) DH AH1 (149:2) DH IY0
+been (151:0) B IH1 N (151:1) B AH0 N (151:2) B IH0 N
+A (152:0) AH0 (152:1) EY1
+one (153:0) W AH1 N (153:1) HH W AH1 N
+the (155:0) DH AH0 (155:1) DH AH1 (155:2) DH IY0
+been (161:0) B IH1 N (161:1) B AH0 N (161:2) B IH0 N
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see YaHeardMe_Output_A_uncertainty.txt in the Poems directory
+
+Gizzle, (8:0)  JH IH1- Z AH0 L
+reppin (15:0)  R EH1- P IH1 N
+nigga, (16:0)  N IH1- G AH0
+gutta (51:0)  G AH1- T AH0
+dufflebags (74:0)  D AH1- F L B AE1 G Z
+gats, (78:0)  G AE1 T S
+repping, (105:0)  R EH1- P IH0 NG
+playin (115:0)  P L EY IH1 N
+homie (119:0)  HH AA1- M IY0
+lookin (126:0)  L UH1- K IH1 N
+homie (131:0)  HH AA1- M IY0
+lookin (132:0)  L UH1- K IH1 N
+nigga (159:0)  N IH1- G AH0

@@ -1,0 +1,192 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+NOWLIYAH: [Nolia(0), Nolia(102)]
+NOWLAHAH: [Nolia(0), Nolia(102)]
+IHM: [I’m(3), I’m(9), I’m(54), I’m(56), I’m(114), I’m(158)]
+IHN: [in(4), in(57), In(63), in(100)]
+DHAH: [the(5), the(26), the(58), the(64), the(92), the(98), the(101), the(108), the(152), the(165)]
+YUW: [You(7), You(24), you(52)]
+AHV: [of(12), of(94), of(131), of(141)]
+AEND: [and(16), and(77), and(105), and(126), and(150), and(154), and(163)]
+LIHL: [Lil(17), Lil(75)]
+RIYL: [real(18), real(87)]
+TEHL: [tell(29), Tell(144)]
+AHM: [‘em(30), ‘em(34), ‘em(48), ‘em(145)]
+FAOR: [for(33), for(47)]
+AY: [I(35), I(39), I(43), I(169)]
+GAAT: [got(36), got(40), got(44), got(170)]
+SAHM: [some(37), some(41), some(45)]
+AET: [at(55), at(74)]
+AHP: [up(61), up(118), up(157), up(179)]
+AAN: [on(71), On(103), on(136), on(147), on(173)]
+MAY: [My(79), my(148)]
+MIY: [me(83), me(128)]
+TUW: [to(84), to(116), to(123), two(129), to(160), to(177)]
+WIY: [We(90), we(175)]
+FRAHM: [from(110), from(167)]
+BAWT: [bout(115), bout(159), bout(176)]
+SNAECH: [snatch(117), snatch(127)]
+AH: [a(134), a(139)]
+GEHT: [get(138), get(164)]
+HHIHT: [hit(151), hit(161)]
+
+
+Rule 1: ...-O[NC]'
+IHM: [I’m(3), I’m(9), I’m(54), I’m(56), I’m(114), I’m(158)]
+UW: [You(7), You(24), you(52), two(129)]
+OW: [know(8), O(140)]
+AWN: [town(13), down(23)]
+AY: [By(14), I(35), I(39), I(43), My(79), my(148), I(169)]
+IHL: [Lil(17), Lil(75)]
+IYL: [real(18), real(87)]
+IY: [see(25), Dee(27), me(83), We(90), me(128), we(175)]
+EHL: [tell(29), Tell(144)]
+AOR: [for(33), for(47)]
+AAT: [got(36), got(40), got(44), bought(91), got(170)]
+AHM: [some(37), some(41), some(45), from(110), from(167)]
+EY: [they(50), DeeJay(99)]
+EHR: [where(53), pair(130)]
+AET: [at(55), at(74), that(142)]
+AHP: [up(61), up(118), up(157), up(179)]
+AHK: [Chuck(62), Truck(69), Pluck(78), fuck(89)]
+AWT: [out(66), bout(115), bout(159), bout(176)]
+AAN: [on(71), On(103), on(136), on(147), on(173)]
+IHT: [it(86), hit(151), hit(161)]
+AYT: [tonight(96), right(146)]
+AECH: [snatch(117), snatch(127)]
+EHT: [get(138), get(164)]
+
+
+Rule 2: ...-O[NC'-ONC]
+OWLAHAH: [Nolia(0), Nolia(102)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Nolia(0) Clap(1) 
+Juvenile(2) 
+
+I’m(3) in(4) the(5) Calio,(6) You(7) know(8) I’m(9) headed(10) front(11) of(12) town(13) 
+By(14) Kayotic(15) and(16) Lil(17) real(18) One,(19) cuz(20) it’s(21) going(22) down(23) 
+You(24) see(25) the(26) Dee(27) Bees(28) tell(29) ‘em(30) Wacko(31) lookin(32) for(33) ‘em(34) 
+I(35) got(36) some(37) dro,(38) I(39) got(40) some(41) change,(42) I(43) got(44) some(45) pussy(46) for(47) ‘em(48) 
+If(49) they(50) ask(51) you(52) where(53) I’m(54) at(55) I’m(56) in(57) the(58) Melph(59) pickin(60) up(61) Chuck(62) 
+In(63) the(64) chromed(65) out(66) Bubblegum(67) Pickup(68) Truck(69) 
+Slide(70) on(71) Josephine,(72) Holla(73) at(74) Lil(75) Kel(76) and(77) Pluck(78) 
+My(79) nigga(80) Troy(81) told(82) me(83) to(84) keep(85) it(86) real(87) as(88) fuck(89) 
+We(90) bought(91) the(92) House(93) of(94) Blues(95) tonight(96) after(97) the(98) DeeJay(99) in(100) the(101) Nolia(102) 
+On(103) Washington(104) and(105) Frerret,(106) across(107) the(108) street(109) from(110) Babosca(111) 
+But(112) first(113) I’m(114) bout(115) to(116) snatch(117) up(118) all(119) Saratoga(120) 
+Head(121) straight(122) to(123) Foot(124) Action(125) and(126) snatch(127) me(128) two(129) pair(130) of(131) Solja’s(132) 
+Take(133) a(134) left(135) on(136) Taladonna(137) get(138) a(139) O(140) of(141) that(142) doja(143) 
+Tell(144) ‘em(145) right(146) on(147) my(148) trail(149) and(150) hit(151) the(152) gars(153) and(154) lets(155) roll(156) up(157) 
+I’m(158) bout(159) to(160) hit(161) Julio(162) and(163) get(164) the(165) blazes(166) from(167) soda(168) 
+I(169) got(170) Geezy(171) waiting(172) on(173) VL(174) we(175) bout(176) to(177) bang(178) up(179) this(180) Yola(181) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see NoliaClap_Output_A_uncertainty.txt in the Poems directory
+
+Juvenile (2:0) JH UW1 - V AH0 - N AH0 L (2:1) JH UW1 - V AH0 - N AY2 L
+in (4:0) IH0 N (4:1) IH1 N
+the (5:0) DH AH0 (5:1) DH AH1 (5:2) DH IY0
+headed (10:0) HH EH1 - D AH0 D (10:1) HH EH1 - D IH0 D
+of (12:0) AH0 V (12:1) AH0 V
+and (16:0) AE0 N D (16:1) AH0 N D
+One, (19:0) W AH1 N (19:1) HH W AH1 N
+going (22:0) G OW1 - IH0 NG (22:1) G OW1 - IH0 N
+the (26:0) DH AH0 (26:1) DH AH1 (26:2) DH IY0
+for (33:0) F AO1 R (33:1) F ER0 (33:2) F R ER0
+for (47:0) F AO1 R (47:1) F ER0 (47:2) F R ER0
+If (49:0) IH1 F (49:1) IH0 F
+where (53:0) W EH1 R (53:1) HH W EH1 R
+in (57:0) IH0 N (57:1) IH1 N
+the (58:0) DH AH0 (58:1) DH AH1 (58:2) DH IY0
+In (63:0) IH0 N (63:1) IH1 N
+the (64:0) DH AH0 (64:1) DH AH1 (64:2) DH IY0
+on (71:0) AA1 N (71:1) AO1 N
+and (77:0) AE0 N D (77:1) AH0 N D
+to (84:0) T UW0 (84:1) T IH0 (84:2) T AH0
+it (86:0) IH1 T (86:1) IH0 T
+as (88:0) AE1 Z (88:1) EH1 Z
+bought (91:0) B AA1 T (91:1) B AO1 T
+the (92:0) DH AH0 (92:1) DH AH1 (92:2) DH IY0
+of (94:0) AH0 V (94:1) AH0 V
+tonight (96:0) T AH0 - N AY1 T (96:1) T UW0 - N AY1 T
+the (98:0) DH AH0 (98:1) DH AH1 (98:2) DH IY0
+in (100:0) IH0 N (100:1) IH1 N
+the (101:0) DH AH0 (101:1) DH AH1 (101:2) DH IY0
+On (103:0) AA1 N (103:1) AO1 N
+Washington (104:0) W AA1 - SH IH0 NG - T AH0 N (104:1) W AO1 - SH IH0 NG - T AH0 N
+and (105:0) AE0 N D (105:1) AH0 N D
+the (108:0) DH AH0 (108:1) DH AH1 (108:2) DH IY0
+from (110:0) F R AH1 M (110:1) F ER0 M
+to (116:0) T UW0 (116:1) T IH0 (116:2) T AH0
+to (123:0) T UW0 (123:1) T IH0 (123:2) T AH0
+and (126:0) AE0 N D (126:1) AH0 N D
+of (131:0) AH0 V (131:1) AH0 V
+a (134:0) AH0 (134:1) EY1
+on (136:0) AA1 N (136:1) AO1 N
+get (138:0) G EH1 T (138:1) G IH1 T
+a (139:0) AH0 (139:1) EY1
+of (141:0) AH0 V (141:1) AH0 V
+that (142:0) DH AE1 T (142:1) DH AH0 T
+on (147:0) AA1 N (147:1) AO1 N
+and (150:0) AE0 N D (150:1) AH0 N D
+the (152:0) DH AH0 (152:1) DH AH1 (152:2) DH IY0
+and (154:0) AE0 N D (154:1) AH0 N D
+to (160:0) T UW0 (160:1) T IH0 (160:2) T AH0
+Julio (162:0) JH UW1 - L IY0 - OW0 (162:1) HH UW1 - L IY0 - OW0
+and (163:0) AE0 N D (163:1) AH0 N D
+get (164:0) G EH1 T (164:1) G IH1 T
+the (165:0) DH AH0 (165:1) DH AH1 (165:2) DH IY0
+from (167:0) F R AH1 M (167:1) F ER0 M
+on (173:0) AA1 N (173:1) AO1 N
+to (177:0) T UW0 (177:1) T IH0 (177:2) T AH0
+this (180:0) DH IH1 S (180:1) DH IH0 S
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see NoliaClap_Output_A_uncertainty.txt in the Poems directory
+
+Nolia (0:0)  N OW1- L IY AH0
+I’m (3:0)  IH1 M
+Calio, (6:0)  K AA0- L IY OW0
+I’m (9:0)  IH1 M
+Kayotic (15:0)  K EY AA1- T IH0 K
+cuz (20:0)  K UW0 Z
+it’s (21:0)  IH1 T S
+‘em (30:0)  AH0 M
+lookin (32:0)  L UH1- K IH1 N
+‘em (34:0)  AH0 M
+dro, (38:0)  D R OW0
+‘em (48:0)  AH0 M
+I’m (54:0)  IH1 M
+I’m (56:0)  IH1 M
+Melph (59:0)  M EH1 L F
+pickin (60:0)  P IH1- K AH0 N
+chromed (65:0)  K R OW0 M D
+Bubblegum (67:0)  B AH1- B L EH1- G AH0 M
+Holla (73:0)  HH AA1- L AH0
+Kel (76:0)  K AH0 L
+nigga (80:0)  N IH1- G AH0
+DeeJay (99:0)  D IY1- Y EY1
+Nolia (102:0)  N OW1- L IY AH0
+Frerret, (106:0)  F R AH0 T
+Babosca (111:0)  B AA1- B AO1 S- K AH0
+I’m (114:0)  IH1 M
+Solja’s (132:0)  S OW1- L JH AE0 Z
+Taladonna (137:0)  T AA0- L AH0- D AA1- N AH0
+doja (143:0)  D OW1- Y AH0
+‘em (145:0)  AH0 M
+I’m (158:0)  IH1 M
+Geezy (171:0)  G IY1- Z IY0
+VL (174:0)  V AH0 L

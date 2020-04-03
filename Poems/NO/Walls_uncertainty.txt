@@ -1,0 +1,103 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%The (2:0) DH AH0 (2:1) DH AH1 (2:2) DH IY0
+2:0
+%of (9:0) AH0 V (9:1) AH0 V
+9:0
+%news, (20:0) N UW1 Z (20:1) N Y UW1 Z
+20:0
+%in (28:0) IH0 N (28:1) IH1 N
+28:0
+%the (29:0) DH AH0 (29:1) DH AH1 (29:2) DH IY0
+29:0
+%cause (31:0) K AA1 Z (31:1) K AO1 Z
+31:0
+%always (33:0) AO1 L - W EY2 Z (33:1) AO1 L - W IY0 Z
+33:0
+%in (34:0) IH0 N (34:1) IH1 N
+34:0
+%The (36:0) DH AH0 (36:1) DH AH1 (36:2) DH IY0
+36:0
+%caught (39:0) K AA1 T (39:1) K AO1 T
+39:0
+%with (42:0) W IH1 DH (42:1) W IH1 TH (42:2) W IH0 TH (42:3) W IH0 DH
+42:0
+%and (45:0) AE0 N D (45:1) AH0 N D
+45:0
+%a (46:0) AH0 (46:1) EY1
+46:0
+%rather (50:0) R AE1 - DH ER0 (50:1) R AH1 - DH ER0
+50:0
+%get (51:0) G EH1 T (51:1) G IH1 T
+51:0
+%caught (52:0) K AA1 T (52:1) K AO1 T
+52:0
+%with (53:0) W IH1 DH (53:1) W IH1 TH (53:2) W IH0 TH (53:3) W IH0 DH
+53:0
+%it, (54:0) IH1 T (54:1) IH0 T
+54:0
+%without (56:0) W IH0 - TH AW1 T (56:1) W IH0 DH - AW1 T
+56:0
+%it (57:0) IH1 T (57:1) IH0 T
+57:0
+%on (61:0) AA1 N (61:1) AO1 N
+61:0
+%be (66:0) B IY1 (66:1) B IY0
+66:0
+%it (68:0) IH1 T (68:1) IH0 T
+68:0
+%in, (74:0) IH0 N (74:1) IH1 N
+74:0
+%don't (79:0) D OW1 N T (79:1) D OW1 N
+79:0
+%if (81:0) IH1 F (81:1) IH0 F
+81:0
+%it's (82:0) IH1 T S (82:1) IH0 T S
+82:0
+%a (85:0) AH0 (85:1) EY1
+85:0
+%hundred (87:0) HH AH1 N - D R AH0 D (87:1) HH AH1 N - D R IH0 D (87:2) HH AH1 - N ER0 D (87:3) HH AH1 N - D ER0 D
+87:0
+%represent (89:0) R EH2 - P R AH0 - Z EH1 N T (89:1) R EH2 - P R IH0 - Z EH1 N T
+89:0
+%the (90:0) DH AH0 (90:1) DH AH1 (90:2) DH IY0
+90:0
+%that (92:0) DH AE1 T (92:1) DH AH0 T
+92:0
+%a (95:0) AH0 (95:1) EY1
+95:0
+%with (102:0) W IH1 DH (102:1) W IH1 TH (102:2) W IH0 TH (102:3) W IH0 DH
+102:0
+%and (105:0) AE0 N D (105:1) AH0 N D
+105:0
+%the (110:0) DH AH0 (110:1) DH AH1 (110:2) DH IY0
+110:0
+%again (114:0) AH0 - G EH1 N (114:1) AH0 - G EY1 N
+114:0
+%the (121:0) DH AH0 (121:1) DH AH1 (121:2) DH IY0
+121:0
+%in (125:0) IH0 N (125:1) IH1 N
+125:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%po's (38:0)  P AA1 Z
+38:0
+%'bout (67:0)  B AW1 T
+67:0
+%motherfucking (86:0)  M AH1- DH ER0- F AH1- K IH0 NG
+86:0
+%Pees (104:0)  P IY1 Z
+104:0
+%doja (107:0)  D OW1- Y AH0
+107:0
+********End******

@@ -1,0 +1,301 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+IY: [Prix(1), Sleeping(160)]
+IY: [Prix(1), even(163)]
+OW: [smoker,(6), No(49)]
+OW: [smoker,(6), know(72)]
+AA: [toker(8), ya(132)]
+OW: [cola(10), No(49)]
+OW: [cola(10), know(72)]
+AOR: [your(12), quarter,(76)]
+AOR: [your(12), corners(123)]
+OW: [coka(13), No(49)]
+OW: [coka(13), know(72)]
+UW: [Losing(14), into(23)]
+UW: [Losing(14), into(33)]
+UW: [Losing(14), You(36)]
+UW: [Losing(14), You(71)]
+UW: [Losing(14), you(100)]
+UW: [Losing(14), You(110)]
+UW: [Losing(14), Who(133)]
+UW: [Losing(14), you(167)]
+AOR: [your(18), quarter,(76)]
+AOR: [your(18), corners(123)]
+OW: [sofa(19), No(49)]
+OW: [sofa(19), know(72)]
+OW: [poser,(38), No(49)]
+OW: [poser,(38), know(72)]
+AOR: [your(43), quarter,(76)]
+AOR: [your(43), corners(123)]
+OW: [kosher(48), No(49)]
+OW: [kosher(48), know(72)]
+OW: [No(49), loafer(58)]
+OW: [No(49), Wilona(70)]
+OW: [No(49), roller(83)]
+OW: [No(49), stoner(95)]
+OW: [No(49), closure,(98)]
+OW: [No(49), begonias(109)]
+OW: [No(49), goners(114)]
+OW: [No(49), persona,(138)]
+ER: [sir,(50), person(136)]
+ER: [sir,(50), person(144)]
+ER: [sir,(50), curtain(147)]
+ER: [sir,(50), lurking(156)]
+OW: [loafer(58), know(72)]
+AOR: [For(59), quarter,(76)]
+AOR: [For(59), corners(123)]
+IY: [we(66), Sleeping(160)]
+IY: [we(66), even(163)]
+OW: [Wilona(70), know(72)]
+OW: [know(72), roller(83)]
+OW: [know(72), stoner(95)]
+OW: [know(72), closure,(98)]
+OW: [know(72), begonias(109)]
+OW: [know(72), goners(114)]
+OW: [know(72), persona,(138)]
+AOR: [quarter,(76), your(158)]
+AOR: [quarter,(76), your(170)]
+IY: [be(113), Sleeping(160)]
+IY: [be(113), even(163)]
+AOR: [corners(123), your(158)]
+AOR: [corners(123), your(170)]
+AA: [ya(132), Rama(150)]
+AA: [ya(132), Llama,(153)]
+AA: [ya(132), pajamas(171)]
+IY: [me(155), Sleeping(160)]
+IY: [me(155), even(163)]
+IY: [Sleeping(160), me(162)]
+IY: [me(162), even(163)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AEND: [Grand(0), and(31)]
+AEND: [Grand(0), and(45)]
+AEND: [Grand(0), and(69)]
+AEND: [Grand(0), And(84)]
+AEND: [Grand(0), and(99)]
+AEND: [Grand(0), And(106)]
+IY: [Prix(1), Funny(26)]
+IY: [Prix(1), penny(55)]
+IY: [Prix(1), penny(68)]
+ER: [smoker,(6), sir,(50)]
+ER: [toker(8), sir,(50)]
+UW: [into(23), to(103)]
+UW: [into(23), to(112)]
+UW: [into(23), to(120)]
+ER: [culture(25), sir,(50)]
+IY: [Funny(26), we(66)]
+IY: [Funny(26), be(113)]
+IY: [Funny(26), me(155)]
+IY: [Funny(26), me(162)]
+UW: [into(33), to(103)]
+UW: [into(33), to(112)]
+UW: [into(33), to(120)]
+ER: [vulture(35), sir,(50)]
+UW: [You(36), to(103)]
+UW: [You(36), to(112)]
+UW: [You(36), to(120)]
+ER: [poser,(38), sir,(50)]
+ER: [kosher(48), sir,(50)]
+OW: [No(49), ghetto,(65)]
+ER: [sir,(50), never(52)]
+ER: [sir,(50), loafer(58)]
+ER: [sir,(50), quarter,(76)]
+ER: [sir,(50), roller(83)]
+ER: [sir,(50), bolder(86)]
+ER: [sir,(50), stoner(95)]
+ER: [sir,(50), closure,(98)]
+ER: [sir,(50), caller,(117)]
+IY: [penny(55), we(66)]
+IY: [penny(55), be(113)]
+IY: [penny(55), me(155)]
+IY: [penny(55), me(162)]
+OW: [ghetto,(65), know(72)]
+IY: [we(66), penny(68)]
+IY: [penny(68), be(113)]
+IY: [penny(68), me(155)]
+IY: [penny(68), me(162)]
+UW: [You(71), to(103)]
+UW: [You(71), to(112)]
+UW: [You(71), to(120)]
+UW: [you(100), to(103)]
+UW: [you(100), to(112)]
+UW: [you(100), to(120)]
+UW: [to(103), You(110)]
+UW: [to(103), Who(133)]
+UW: [to(103), you(167)]
+UW: [You(110), to(112)]
+UW: [You(110), to(120)]
+UW: [to(112), Who(133)]
+UW: [to(112), you(167)]
+UW: [to(120), Who(133)]
+UW: [to(120), you(167)]
+
+
+Rule 2: ...-ON[C]'-...
+N: [Man(3), on(42), than(87), on(142), on(148), on(161)]
+M: [I'm(4), I'm(81), I'm(85), I'm(93), I'm(118), them(122), I'm(157)]
+D: [weed(7), good(60), had(67), need(97), need(102), could(127)]
+R: [your(12), your(18), your(43), For(59), quarter,(76), here(119), corners(123), your(158), karma(159), your(170)]
+NJH: [change(15), change(22), change(32)]
+P: [up(16), up(62), up(105), pop(121), up(141)]
+T: [brought(21), wit'(39), that(46), put(53), got(77), about(111), shot(116), get(128), put(134), get(166)]
+L: [culture(25), vulture(35), all(41), bolder(86), smell(107), will(165)]
+Z: [these(28), 'cause(80), is(91), 'cause(92)]
+RK: [pork(40), fork(44)]
+CH: [stretch(74), catch(154)]
+K: [rock(79), rock(90), wake(104), Pack(151)]
+G: [Big(115), league(125)]
+S: [Close(145), worse(164)]
+
+
+Rule 3: ...-O[N]C'-...
+AE: [Grand(0), Man(3), that(46), had(67), than(87), rappers(101), ballers(126), hands(140), Pack(151), catch(154)]
+IY: [Prix(1), weed(7), these(28), we(66), need(97), need(102), be(113), league(125), me(155), Sleeping(160), me(162), even(163)]
+EH: [Method(2), never(52), penny(55), ghetto,(65), penny(68), stretch(74), smell(107), them(122), get(128), get(166)]
+AY: [I'm(4), I(20), try(30), I(51), times(61), I(73), I'm(81), I'm(85), I'm(93), I(96), I'm(118), I(130), I'm(157)]
+OW: [smoker,(6), cola(10), coka(13), sofa(19), poser,(38), kosher(48), No(49), loafer(58), Wilona(70), know(72), roller(83), bolder(86), stoner(95), closure,(98), begonias(109), goners(114), persona,(138), Close(145)]
+AA: [toker(8), on(42), got(77), rock(79), hard(89), rock(90), shot(116), pop(121), popped,(129), ya(132), on(142), on(148), Rama(150), Llama,(153), karma(159), on(161), pajamas(171)]
+AO: [your(12), your(18), brought(21), pork(40), all(41), your(43), fork(44), For(59), quarter,(76), caller,(117), corners(123), warned(131), your(158), your(170)]
+UW: [Losing(14), into(23), into(33), You(36), You(71), you(100), You(110), Who(133), you(167)]
+EY: [change(15), change(22), change(32), ain't(47), wake(104)]
+AH: [up(16), culture(25), Funny(26), vulture(35), up(62), up(105), putting(139), up(141)]
+AW: [how(27), 'cause(80), 'cause(92), about(111)]
+IH: [pigeons(29), wit'(39), Wilona(70), is(91), Big(115), here(119), Little(124), will(165)]
+ER: [sir,(50), person(136), person(144), curtain(147), lurking(156), worse(164), murked(168)]
+UH: [put(53), good(60), could(127), put(134)]
+
+
+Rule 4: ...-[O']N[C']'-...
+M: [Method(2), I'm(4), I'm(81), I'm(85), I'm(93), I'm(118), me(155), I'm(157), me(162)]
+T: [toker(8), into(23), into(33)]
+K: [cola(10), coka(13), kosher(48), caller,(117), curtain(147)]
+YR: [your(12), your(18), your(43), your(158), your(170)]
+L: [Losing(14), all(41), loafer(58), Wilona(70), Little(124), Llama,(153), lurking(156)]
+CHNJH: [change(15), change(22), change(32)]
+P: [up(16), pigeons(29), poser,(38), penny(55), up(62), penny(68), up(105), person(136), putting(139), up(141), person(144)]
+S: [sofa(19), sir,(50), persona,(138)]
+KL: [culture(25), closure,(98)]
+HH: [how(27), Who(133)]
+Y: [You(36), You(71), you(100), You(110), ya(132), you(167)]
+N: [on(42), No(49), never(52), know(72), on(142), on(148), on(161)]
+PT: [put(53), put(134)]
+G: [ghetto,(65), begonias(109), goners(114)]
+W: [we(66), Wilona(70)]
+GT: [got(77), get(128), get(166)]
+RK: [rock(79), rock(90)]
+KZ: ['cause(80), 'cause(92)]
+R: [roller(83), rappers(101), Rama(150)]
+ND: [need(97), need(102)]
+B: [be(113), ballers(126)]
+KR: [corners(123), karma(159)]
+
+
+
+
+Poem with word IDs:
+
+Grand(0) Prix(1) 
+Method(2) Man(3) 
+
+I'm(4) a(5) smoker,(6) weed(7) toker(8) 
+The(9) cola(10) in(11) your(12) coka(13) 
+Losing(14) change(15) up(16) in(17) your(18) sofa(19) 
+I(20) brought(21) change(22) into(23) the(24) culture(25) 
+Funny(26) how(27) these(28) pigeons(29) try(30) and(31) change(32) into(33) a(34) vulture(35) 
+You(36) a(37) poser,(38) wit'(39) pork(40) all(41) on(42) your(43) fork(44) and(45) that(46) ain't(47) kosher(48) 
+No(49) sir,(50) I(51) never(52) put(53) a(54) penny(55) in(56) a(57) loafer(58) 
+For(59) good(60) times(61) up(62) in(63) the(64) ghetto,(65) we(66) had(67) penny(68) and(69) Wilona(70) 
+You(71) know(72) I(73) stretch(74) a(75) quarter,(76) got(77) a(78) rock(79) 'cause(80) I'm(81) a(82) roller(83) 
+And(84) I'm(85) bolder(86) than(87) a(88) hard(89) rock(90) is(91) 'cause(92) I'm(93) a(94) stoner(95) 
+I(96) need(97) closure,(98) and(99) you(100) rappers(101) need(102) to(103) wake(104) up(105) 
+And(106) smell(107) the(108) begonias(109) 
+You(110) about(111) to(112) be(113) goners(114) 
+Big(115) shot(116) caller,(117) I'm(118) here(119) to(120) pop(121) them(122) corners(123) 
+Little(124) league(125) ballers(126) could(127) get(128) popped,(129) I(130) warned(131) ya(132) 
+Who(133) put(134) the(135) person(136) in(137) persona,(138) putting(139) hands(140) up(141) on(142) a(143) person(144) 
+Close(145) the(146) curtain(147) on(148) the(149) Rama(150) 
+Pack(151) a(152) Llama,(153) catch(154) me(155) lurking(156) I'm(157) your(158) karma(159) 
+Sleeping(160) on(161) me(162) even(163) worse(164) will(165) get(166) you(167) murked(168) in(169) your(170) pajamas(171) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see GrandPrix_Output_B_uncertainty.txt in the Poems directory
+
+a (5:0) AH0 (5:1) EY1
+The (9:0) DH AH0 (9:1) DH AH1 (9:2) DH IY0
+in (11:0) IH0 N (11:1) IH1 N
+your (12:0) Y AO1 R (12:1) Y UH1 R
+in (17:0) IH0 N (17:1) IH1 N
+your (18:0) Y AO1 R (18:1) Y UH1 R
+into (23:0) IH0 N - T UW1 (23:1) IH1 N - T UW0 (23:2) IH0 N - T AH0
+the (24:0) DH AH0 (24:1) DH AH1 (24:2) DH IY0
+and (31:0) AE0 N D (31:1) AH0 N D
+into (33:0) IH0 N - T UW1 (33:1) IH1 N - T UW0 (33:2) IH0 N - T AH0
+a (34:0) AH0 (34:1) EY1
+a (37:0) AH0 (37:1) EY1
+on (42:0) AA1 N (42:1) AO1 N
+your (43:0) Y AO1 R (43:1) Y UH1 R
+and (45:0) AE0 N D (45:1) AH0 N D
+that (46:0) DH AE1 T (46:1) DH AH0 T
+a (54:0) AH0 (54:1) EY1
+in (56:0) IH0 N (56:1) IH1 N
+a (57:0) AH0 (57:1) EY1
+For (59:0) F AO1 R (59:1) F ER0 (59:2) F R ER0
+good (60:0) G UH1 D (60:1) G IH0 D
+in (63:0) IH0 N (63:1) IH1 N
+the (64:0) DH AH0 (64:1) DH AH1 (64:2) DH IY0
+and (69:0) AE0 N D (69:1) AH0 N D
+a (75:0) AH0 (75:1) EY1
+quarter, (76:0) K W AO1 R - T ER0 (76:1) K AO1 R - T ER0
+a (78:0) AH0 (78:1) EY1
+a (82:0) AH0 (82:1) EY1
+And (84:0) AE0 N D (84:1) AH0 N D
+than (87:0) DH AE1 N (87:1) DH AH0 N
+a (88:0) AH0 (88:1) EY1
+is (91:0) IH1 Z (91:1) IH0 Z
+a (94:0) AH0 (94:1) EY1
+and (99:0) AE0 N D (99:1) AH0 N D
+to (103:0) T UW0 (103:1) T IH0 (103:2) T AH0
+And (106:0) AE0 N D (106:1) AH0 N D
+the (108:0) DH AH0 (108:1) DH AH1 (108:2) DH IY0
+to (112:0) T UW0 (112:1) T IH0 (112:2) T AH0
+be (113:0) B IY1 (113:1) B IY0
+to (120:0) T UW0 (120:1) T IH0 (120:2) T AH0
+them (122:0) DH EH1 M (122:1) DH AH0 M
+get (128:0) G EH1 T (128:1) G IH1 T
+the (135:0) DH AH0 (135:1) DH AH1 (135:2) DH IY0
+in (137:0) IH0 N (137:1) IH1 N
+putting (139:0) P AH1 - T IH0 NG (139:1) P UH1 - T IH0 NG
+hands (140:0) HH AE1 N D Z (140:1) HH AE1 N Z
+on (142:0) AA1 N (142:1) AO1 N
+a (143:0) AH0 (143:1) EY1
+Close (145:0) K L OW1 S (145:1) K L OW1 Z
+the (146:0) DH AH0 (146:1) DH AH1 (146:2) DH IY0
+on (148:0) AA1 N (148:1) AO1 N
+the (149:0) DH AH0 (149:1) DH AH1 (149:2) DH IY0
+a (152:0) AH0 (152:1) EY1
+your (158:0) Y AO1 R (158:1) Y UH1 R
+on (161:0) AA1 N (161:1) AO1 N
+will (165:0) W IH1 L (165:1) W AH0 L
+get (166:0) G EH1 T (166:1) G IH1 T
+in (169:0) IH0 N (169:1) IH1 N
+your (170:0) Y AO1 R (170:1) Y UH1 R
+pajamas (171:0) P AH0 - JH AA1 - M AH0 Z (171:1) P AH0 - JH AE1 - M AH0 Z
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see GrandPrix_Output_B_uncertainty.txt in the Poems directory
+
+toker (8:0)  T AA1- K ER0
+coka (13:0)  K OW1- K AH0
+wit' (39:0)  W IH1 T
+Wilona (70:0)  W IH1- L OW1- N AH0
+'cause (80:0)  K AW1 Z
+'cause (92:0)  K AW1 Z
+goners (114:0)  G OW1- N ER0 Z
+ballers (126:0)  B AE1- L ER0 Z
+murked (168:0)  M ER1 K T

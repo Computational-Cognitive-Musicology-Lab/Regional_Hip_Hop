@@ -1,0 +1,157 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AW: [thousand(105), "How(109)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [G(4), really(91)]
+AHM: ['em(12), dumb(29)]
+AHT: [target(22), but(30)]
+AHT: [target(22), "Cut(51)]
+AHT: [target(22), But(57)]
+AHT: [target(22), but(68)]
+IY: [Jee(27), really(91)]
+OW: [go(28), ghetto(111)]
+IY: [he(31), really(91)]
+UW: [you(36), Pikachu(95)]
+UW: [you(36), to(104)]
+IY: [me,(40), really(91)]
+OW: [yo(43), ghetto(111)]
+IY: [me(60), really(91)]
+IY: [see(70), really(91)]
+UW: [peek-a-boo(79), Pikachu(95)]
+UW: [peek-a-boo(79), to(104)]
+IY: [really(91), me(93)]
+IY: [really(91), be(122)]
+UW: [Pikachu(95), do(97)]
+UW: [do(97), to(104)]
+
+
+Rule 2: ...-ON[C]'-...
+RK: [Dark(2), dark(9), park(15), dark(18), mark(38), dark(64), dark(67)]
+K: [like(6), like(23), like(78), like(94), Break(101), like(108), back(120)]
+T: [hit(11), at(13), hit(20), but(30), "Cut(51), But(57), but(68)]
+N: [when(16), on(42), line(59), on(75), on(113), down,(117)]
+R: [target(22), barber(50), hair,(53), your(76)]
+RT: [dart(25), smart(32), part"(56), heart(103)]
+M: [dumb(29), I'm(41), I'm(45), I'm(80)]
+F: [life(35), life(66), roof(88)]
+KT: [Disrespect(39), shocked(92)]
+D: [head(44), need(86)]
+NT: [don't(58), don't(85)]
+P: [up(61), Pop(73), up(74), coupe,(83), up,(119)]
+CH: [bitch(77), bitch(99)]
+S: [ass(90), this(110), Face(116), ass(118)]
+RTS: [parts(106), charts"(115)]
+
+
+Rule 3: ...-O[N]C'-...
+AA: [Dark(2), dark(9), park(15), dark(18), target(22), dart(25), smart(32), mark(38), on(42), scarf(47), barber(50), part"(56), dark(64), dark(67), Pop(73), on(75), shocked(92), harsh(100), heart(103), parts(106), on(113), charts"(115), gotta(121), arched(123)]
+AY: [Y(3), I(5), like(6), my(7), I(10), I(19), my(21), like(23), Why(26), life(35), I'm(41), I'm(45), my(49), my(52), line(59), My(65), life(66), I(69), like(78), I'm(80), I(84), like(94), I(96), like(108)]
+IY: [G(4), Jee(27), he(31), real(34), me,(40), leave(54), me(60), see(70), peek-a-boo(79), need(86), me(93), be(122)]
+IH: [bitches(8), hit(11), it's(17), hit(20), bitch(77), really(91), bitch(99), this(110), nigga(112)]
+AE: [at(13), ass(90), ass(118), back(120)]
+EH: [when(16), Disrespect(39), head(44), hair,(53), ghetto(111)]
+OW: [go(28), yo(43), Told(48), don't(58), don't(85)]
+AH: [dumb(29), but(30), "Cut(51), But(57), up(61), but(68), up(74), up,(119)]
+UW: [you(36), truth(72), peek-a-boo(79), coupe,(83), roof(88), do(97)]
+EY: [Break(101), They(107), Face(116)]
+AW: [thousand(105), "How(109), down,(117)]
+
+
+Rule 4: ...-[O']N[C']'-...
+DRK: [Dark(2), dark(9), dark(18), dark(64), dark(67)]
+W: [Y(3), Why(26)]
+JH: [G(4), Jee(27)]
+LK: [like(6), like(23), like(78), like(94), like(108)]
+M: [my(7), my(21), me,(40), I'm(41), I'm(45), my(49), my(52), me(60), My(65), I'm(80), me(93)]
+B: [bitches(8), peek-a-boo(79), be(122)]
+HHT: [hit(11), hit(20)]
+G: [go(28), ghetto(111), gotta(121)]
+BT: [but(30), But(57), but(68)]
+LF: [life(35), life(66)]
+Y: [you(36), yo(43)]
+N: [on(42), on(75), nigga(112), on(113)]
+DNT: [don't(58), don't(85)]
+P: [up(61), up(74), peek-a-boo(79), up,(119)]
+S: [see(70), ass(90), ass(118)]
+BCH: [bitch(77), bitch(99)]
+
+
+
+
+Poem with word IDs:
+
+In(0) The(1) Dark(2) 
+Y(3) G(4) 
+
+I(5) like(6) my(7) bitches(8) dark(9) 
+I(10) hit(11) 'em(12) at(13) the(14) park(15) when(16) it's(17) dark(18) 
+I(19) hit(20) my(21) target(22) like(23) a(24) dart(25) 
+Why(26) Jee(27) go(28) dumb(29) but(30) he(31) smart(32) 
+In(33) real(34) life(35) you(36) a(37) mark(38) 
+Disrespect(39) me,(40) I'm(41) on(42) yo(43) head(44) I'm(45) a(46) scarf(47) 
+Told(48) my(49) barber(50) "Cut(51) my(52) hair,(53) leave(54) a(55) part"(56) 
+But(57) don't(58) line(59) me(60) up(61) in(62) the(63) dark(64) 
+My(65) life(66) dark(67) but(68) I(69) see(70) the(71) truth(72) 
+Pop(73) up(74) on(75) your(76) bitch(77) like(78) peek-a-boo(79) 
+I'm(80) in(81) the(82) coupe,(83) I(84) don't(85) need(86) the(87) roof(88) 
+Her(89) ass(90) really(91) shocked(92) me(93) like(94) Pikachu(95) 
+I(96) do(97) a(98) bitch(99) harsh(100) 
+Break(101) a(102) heart(103) to(104) thousand(105) parts(106) 
+They(107) like(108) "How(109) this(110) ghetto(111) nigga(112) on(113) the(114) charts"(115) 
+Face(116) down,(117) ass(118) up,(119) back(120) gotta(121) be(122) arched(123) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see InTheDark_Output_B_uncertainty.txt in the Poems directory
+
+In (0:0) IH0 N (0:1) IH1 N
+The (1:0) DH AH0 (1:1) DH AH1 (1:2) DH IY0
+the (14:0) DH AH0 (14:1) DH AH1 (14:2) DH IY0
+when (16:0) W EH1 N (16:1) HH W EH1 N (16:2) W IH1 N (16:3) HH W IH1 N
+it's (17:0) IH1 T S (17:1) IH0 T S
+target (22:0) T AA1 R - G AH0 T (22:1) T ER1 - G AH0 T
+a (24:0) AH0 (24:1) EY1
+Why (26:0) W AY1 (26:1) HH W AY1
+In (33:0) IH0 N (33:1) IH1 N
+a (37:0) AH0 (37:1) EY1
+on (42:0) AA1 N (42:1) AO1 N
+a (46:0) AH0 (46:1) EY1
+a (55:0) AH0 (55:1) EY1
+don't (58:0) D OW1 N T (58:1) D OW1 N
+in (62:0) IH0 N (62:1) IH1 N
+the (63:0) DH AH0 (63:1) DH AH1 (63:2) DH IY0
+the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+on (75:0) AA1 N (75:1) AO1 N
+your (76:0) Y AO1 R (76:1) Y UH1 R
+in (81:0) IH0 N (81:1) IH1 N
+the (82:0) DH AH0 (82:1) DH AH1 (82:2) DH IY0
+don't (85:0) D OW1 N T (85:1) D OW1 N
+the (87:0) DH AH0 (87:1) DH AH1 (87:2) DH IY0
+Her (89:0) HH ER0 (89:1) HH ER1
+really (91:0) R IH1 - L IY0 (91:1) R IY1 - L IY0
+a (98:0) AH0 (98:1) EY1
+a (102:0) AH0 (102:1) EY1
+to (104:0) T UW0 (104:1) T IH0 (104:2) T AH0
+thousand (105:0) TH AW1 - Z AH0 N D (105:1) TH AW1 - Z AH0 N
+this (110:0) DH IH1 S (110:1) DH IH0 S
+on (113:0) AA1 N (113:1) AO1 N
+the (114:0) DH AH0 (114:1) DH AH1 (114:2) DH IY0
+be (122:0) B IY1 (122:1) B IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see InTheDark_Output_B_uncertainty.txt in the Poems directory
+
+'em (12:0)  AH0 M
+"Cut (51:0)  K AH1 T
+part" (56:0)  P AA1 R T
+peek-a-boo (79:0)  P IY1- K AH0- B UW1
+Pikachu (95:0)  P AH0- K AH0- CH UW0
+"How (109:0)  AW1
+nigga (112:0)  N IH1- G AH0
+charts" (115:0)  CH AA1 R T S

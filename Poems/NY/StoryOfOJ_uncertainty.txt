@@ -1,0 +1,107 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%The (0:0) DH AH0 (0:1) DH AH1 (0:2) DH IY0
+0:0
+%of (2:0) AH0 V (2:1) AH0 V
+2:0
+%Financial (5:0) F AH0 - N AE1 N - SH AH0 L (5:1) F IH0 - N AE1 N - SH AH0 L (5:2) F AY2 - N AE1 N - SH AH0 L
+5:0
+%and (13:0) AE0 N D (13:1) AH0 N D
+13:0
+%bought (17:0) B AA1 T (17:1) B AO1 T
+17:0
+%for (20:0) F AO1 R (20:1) F ER0 (20:2) F R ER0
+20:0
+%one (21:0) W AH1 N (21:1) HH W AH1 N
+21:0
+%years (24:0) Y IH1 R Z (24:1) Y ER0 Z
+24:0
+%that (26:0) DH AE1 T (26:1) DH AH0 T
+26:0
+%years (32:0) Y IH1 R Z (32:1) Y ER0 Z
+32:0
+%that (34:0) DH AE1 T (34:1) DH AH0 T
+34:0
+%to (42:0) T UW0 (42:1) T IH0 (42:2) T AH0
+42:0
+%this (44:0) DH IH1 S (44:1) DH IH0 S
+44:0
+%to (46:0) T UW0 (46:1) T IH0 (46:2) T AH0
+46:0
+%it's (51:0) IH1 T S (51:1) IH0 T S
+51:0
+%it's (55:0) IH1 T S (55:1) IH0 T S
+55:0
+%to (60:0) T UW0 (60:1) T IH0 (60:2) T AH0
+60:0
+%a (63:0) AH0 (63:1) EY1
+63:0
+%dollars (65:0) D AA1 - L ER0 Z (65:1) D AO1 - L ER0 Z
+65:0
+%of (67:0) AH0 V (67:1) AH0 V
+67:0
+%for (69:0) F AO1 R (69:1) F ER0 (69:2) F R ER0
+69:0
+%that (74:0) DH AE1 T (74:1) DH AH0 T
+74:0
+%to (76:0) T UW0 (76:1) T IH0 (76:2) T AH0
+76:0
+%a (77:0) AH0 (77:1) EY1
+77:0
+%to (80:0) T UW0 (80:1) T IH0 (80:2) T AH0
+80:0
+%an (81:0) AE1 N (81:1) AH0 N
+81:0
+%into (87:0) IH0 N - T UW1 (87:1) IH1 N - T UW0 (87:2) IH0 N - T AH0
+87:0
+%a (88:0) AH0 (88:1) EY1
+88:0
+%nice (89:0) N AY1 S (89:1) N IY1 S
+89:0
+%advances, (99:0) AH0 D - V AE1 N - S AH0 Z (99:1) AH0 D - V AE1 N - S IH0 Z
+99:0
+%and (102:0) AE0 N D (102:1) AH0 N D
+102:0
+%chances, (107:0) CH AE1 N - S AH0 Z (107:1) CH AE1 N - S IH0 Z
+107:0
+%on (110:0) AA1 N (110:1) AO1 N
+110:0
+%the (111:0) DH AH0 (111:1) DH AH1 (111:2) DH IY0
+111:0
+%to (115:0) T UW0 (115:1) T IH0 (115:2) T AH0
+115:0
+%your (116:0) Y AO1 R (116:1) Y UH1 R
+116:0
+%ear (117:0) IH1 R (117:1) IY1 R
+117:0
+%a (119:0) AH0 (119:1) EY1
+119:0
+%don't (122:0) D OW1 N T (122:1) D OW1 N
+122:0
+%that (124:0) DH AE1 T (124:1) DH AH0 T
+124:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Jay-Z (4:0)  JH EY1 Z
+4:0
+%dyin' (14:0)  D AY IH1 N
+14:0
+%ninety-nine (71:0)  N AY1 N- T AH0- N AY1 N
+71:0
+%niggas (104:0)  N IH1- G AH0 Z
+104:0
+%'gram (112:0)  G R AE1 M
+112:0
+%holdin' (113:0)  HH OW1- L D IH1 N
+113:0
+********End******

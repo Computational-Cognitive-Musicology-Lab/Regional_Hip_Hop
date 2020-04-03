@@ -1,0 +1,108 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+BIHG: [Big(0), Big(4), big(6), big(8), Big(17), Big(19)]
+YUW: [you(13), you(69)]
+AH: [a(15), a(60), a(66)]
+GAAT: [got(21), got(59)]
+DHAH: [the(24), the(47), the(97)]
+AYM: [I'm(29), I'm(44), I'm(96)]
+MUWV: [move(36), Move(71)]
+NIHGAHZ: [niggas(41), niggas(74), Niggas(81)]
+SOW: [so(43), so(54)]
+AY: [I(58), I(87)]
+DHEY: [they(77), they(84)]
+BAEK: [back(92), back,(94)]
+
+
+Rule 1: ...-O[NC]'
+IHG: [Big(0), Big(4), big(6), big(8), Big(17), Big(19)]
+AAT: [Shot(1), got(21), got(59)]
+AOT: [O.T.(2), thought(85)]
+IHS: [Genasis(3), this(32)]
+UW: [you(13), who(28), you(69), do(79)]
+AEK: [Mac(18), Crack(65), back(92), back,(94)]
+AAN: [on(23), gon'(30)]
+AYM: [I'm(29), I'm(44), I'm(96)]
+UWV: [move(36), Move(71)]
+IHN: [trippin'(42), summin(72)]
+OW: [so(43), so(54)]
+AY: [my(52), I(58), I(87)]
+EY: [they(77), they(84)]
+AHN: [done(89), one(98)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IHGAHZ: [niggas(41), niggas(74), Niggas(81)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Big(0) Shot(1) 
+O.T.(2) Genasis(3) 
+
+Big(4) watch,(5) big(6) chain,(7) big(8) strap(9) 
+Beef,(10) I'ma(11) put(12) you(13) in(14) a(15) box,(16) Big(17) Mac(18) 
+Big(19) Ghost,(20) got(21) cream(22) on(23) the(24) seat(25) 
+Tryna(26) figure(27) who(28) I'm(29) gon'(30) fuck(31) this(32) week(33) 
+Coke(34) man,(35) move(36) weight(37) like(38) Tony(39) 
+Heard(40) niggas(41) trippin'(42) so(43) I'm(44) bringing(45) all(46) the(47) homies(48) 
+Bands(49) up,(50) yeah,(51) my(52) pockets(53) so(54) thick(55) 
+Cash(56) and(57) I(58) got(59) a(60) good(61) credit(62) score(63) bitch(64) 
+Crack(65) a(66) nigga,(67) where(68) you(69) from?(70) Move(71) summin(72) 
+Dem(73) niggas(74) talk(75) but(76) they(77) never(78) do(79) nothin'(80) 
+Niggas(81) hatin'(82) 'cause(83) they(84) thought(85) that(86) I(87) was(88) done(89) 
+Nah,(90) platinum(91) back(92) to(93) back,(94) motherfucker(95) I'm(96) the(97) one(98) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BigShot_Output_A_uncertainty.txt in the Poems directory
+
+O.T. (2:0) AO1 T (2:1) OW1 - T IY1
+watch, (5:0) W AA1 CH (5:1) W AO1 CH
+in (14:0) IH0 N (14:1) IH1 N
+a (15:0) AH0 (15:1) EY1
+on (23:0) AA1 N (23:1) AO1 N
+the (24:0) DH AH0 (24:1) DH AH1 (24:2) DH IY0
+this (32:0) DH IH1 S (32:1) DH IH0 S
+the (47:0) DH AH0 (47:1) DH AH1 (47:2) DH IY0
+and (57:0) AE0 N D (57:1) AH0 N D
+a (60:0) AH0 (60:1) EY1
+good (61:0) G UH1 D (61:1) G IH0 D
+credit (62:0) K R EH1 - D AH0 T (62:1) K R EH1 - D IH0 T
+a (66:0) AH0 (66:1) EY1
+where (68:0) W EH1 R (68:1) HH W EH1 R
+from? (70:0) F R AH1 M (70:1) F ER0 M
+that (86:0) DH AE1 T (86:1) DH AH0 T
+was (88:0) W AA1 Z (88:1) W AH1 Z (88:2) W AH0 Z (88:3) W AO1 Z
+platinum (91:0) P L AE1 T - N AH0 M (91:1) P L AE1 - T AH0 - N AH0 M
+to (93:0) T UW0 (93:1) T IH0 (93:2) T AH0
+the (97:0) DH AH0 (97:1) DH AH1 (97:2) DH IY0
+one (98:0) W AH1 N (98:1) HH W AH1 N
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BigShot_Output_A_uncertainty.txt in the Poems directory
+
+Genasis (3:0)  JH IY1- N AH0- S IH1 S
+I'ma (11:0)  IH1- M AH0
+Tryna (26:0)  T R IH1- N AH0
+gon' (30:0)  G AA1 N
+niggas (41:0)  N IH1- G AH0 Z
+trippin' (42:0)  T R IH1- P IH1 N
+homies (48:0)  HH AA1- M IY0 Z
+nigga, (67:0)  N IH1- G AH0
+summin (72:0)  S AH1- M IH1 N
+Dem (73:0)  D AH0 M
+niggas (74:0)  N IH1- G AH0 Z
+Niggas (81:0)  N IH1- G AH0 Z
+hatin' (82:0)  HH EY1- T AH0 N
+'cause (83:0)  K AW1 Z
+motherfucker (95:0)  M AH1- DH ER0- F AH1- K ER0

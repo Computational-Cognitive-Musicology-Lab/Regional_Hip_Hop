@@ -1,0 +1,165 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+TAOKIHNG: [Talking(0), talking(138), talking(144)]
+TUW: [To(1), to(15), to(45), to(106), to(139), to(145)]
+MAY: [My(2), my(12), my(57), my(85), my(125), my(140), my(146)]
+DAYERIY: [Diary(3), diary,(141), diary(147)]
+AY: [I(6), I(9), I(36), I(47), I(52), I(75), I(89), I(110), I(120)]
+WEHN: [when(8), When(109)]
+GAAT: [got(10), got(127)]
+BAHT: [But(17), But(35)]
+AH: [a(18), a(38), a(67), a(81), a(100), a(128), a(134)]
+AHV: [of(20), of(33), of(56), of(130)]
+SHIHT: [shit(21), shit(43)]
+DHEHN: [then(24), Then(99)]
+IHN: [in(30), in(108)]
+DHAH: [the(31), the(78), the(131)]
+LEHT: [let(41), let(48), let(90)]
+GEHT: [get(44), get(97)]
+IHT: [it(49), it,(113)]
+DHAET: [that(54), that(74), that(119)]
+AEND: [And(59), And(71), And(124)]
+AYM: [I'm(60), I'm(65), I'm(136), I'm(142)]
+DOWNT: [don't(72), Don't(116)]
+NUW: [new(82), new(101)]
+HHAWS: [house(83), house(126)]
+FAOR: [for(84), for(104)]
+YUW: [you(91), you(105), you(114)]
+JHAHST: [just(103), just(137), just(143)]
+
+
+Rule 1: ...-O[NC]'
+AY: [My(2), I(6), I(9), my(12), I(36), I(47), I(52), my(57), I(75), my(85), I(89), I(110), I(120), my(125), my(140), my(146)]
+EHN: [when(8), then(24), Then(99), When(109)]
+AAT: [got(10), lot(19), got(127)]
+AHT: [But(17), But(35)]
+IHT: [shit(21), shit(43), it(49), it,(113)]
+AHM: [Some(25), from(77)]
+AOR: [more(26), for(84), your(95), for(104)]
+EYM: [became(28), came(76)]
+EHT: [let(41), get(44), let(48), forget(73), let(90), get(97)]
+IY: [me(46), be(117)]
+AET: [that(54), that(74), that(119)]
+AYM: [I'm(60), I'm(65), I'm(136), I'm(142)]
+OWNT: [don't(72), Don't(116)]
+UW: [new(82), you(91), new(101), you(105), you(114), view(129)]
+AWS: [house(83), house(126)]
+AHST: [just(103), just(137), just(143)]
+
+
+Rule 2: ...-O[NC'-ONC]
+AOKIHNG: [Talking(0), talking(138), talking(144)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+AYERIY: [Diary(3), diary,(141), diary(147)]
+
+
+
+
+Poem with word IDs:
+
+Talking(0) To(1) My(2) Diary(3) 
+Dr.(4) Dre(5) 
+
+I(6) remember(7) when(8) I(9) got(10) started(11) my(12) intention(13) was(14) to(15) win(16) 
+But(17) a(18) lot(19) of(20) shit(21) changed(22) since(23) then(24) 
+Some(25) more(26) friends(27) became(28) enemies(29) in(30) the(31) quest(32) of(33) victory(34) 
+But(35) I(36) made(37) a(38) vow,(39) never(40) let(41) this(42) shit(43) get(44) to(45) me(46) 
+I(47) let(48) it(49) pass,(50) so(51) I(52) consider(53) that(54) part(55) of(56) my(57) history(58) 
+And(59) I'm(60) strong;(61) financially,(62) physically(63) 
+Mentally(64) I'm(65) on(66) a(67) whole(68) 'nother(69) level(70) 
+And(71) don't(72) forget(73) that(74) I(75) came(76) from(77) the(78) ghetto(79) 
+Sold(80) a(81) new(82) house(83) for(84) my(85) moms,(86) that's(87) special(88) 
+I(89) let(90) you(91) going(92) shopping(93) till(94) your(95) feet(96) get(97) tired(98) 
+Then(99) a(100) new(101) Benz(102) just(103) for(104) you(105) to(106) ride(107) in(108) 
+When(109) I(110) didn't(111) have(112) it,(113) you(114) provided(115) 
+Don't(116) be(117) surprised(118) that(119) I(120) built(121) an(122) enterprise(123) 
+And(124) my(125) house(126) got(127) a(128) view(129) of(130) the(131) city(132) like(133) a(134) highrise(135) 
+I'm(136) just(137) talking(138) to(139) my(140) diary,(141) I'm(142) just(143) talking(144) to(145) my(146) diary(147) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Diary_Output_A_uncertainty.txt in the Poems directory
+
+To (1:0) T UW0 (1:1) T IH0 (1:2) T AH0
+Diary (3:0) D AY1 - ER0 - IY0 (3:1) D AY1 - R IY0
+Dr. (4:0) D R AY1 V (4:1) D AA1 K - T ER0
+remember (7:0) R IH0 - M EH1 M - B ER0 (7:1) R IY0 - M EH1 M - B ER0
+when (8:0) W EH1 N (8:1) HH W EH1 N (8:2) W IH1 N (8:3) HH W IH1 N
+started (11:0) S T AA1 R - T AH0 D (11:1) S T AA1 R - T IH0 D
+was (14:0) W AA1 Z (14:1) W AH1 Z (14:2) W AH0 Z (14:3) W AO1 Z
+to (15:0) T UW0 (15:1) T IH0 (15:2) T AH0
+a (18:0) AH0 (18:1) EY1
+lot (19:0) L AA1 T (19:1) L AO1 T
+of (20:0) AH0 V (20:1) AH0 V
+friends (27:0) F R EH1 N D Z (27:1) F R EH1 N Z
+became (28:0) B IH0 - K EY1 M (28:1) B IY0 - K EY1 M
+in (30:0) IH0 N (30:1) IH1 N
+the (31:0) DH AH0 (31:1) DH AH1 (31:2) DH IY0
+of (33:0) AH0 V (33:1) AH0 V
+victory (34:0) V IH1 K - T ER0 - IY0 (34:1) V IH1 K - T R IY0
+a (38:0) AH0 (38:1) EY1
+this (42:0) DH IH1 S (42:1) DH IH0 S
+get (44:0) G EH1 T (44:1) G IH1 T
+to (45:0) T UW0 (45:1) T IH0 (45:2) T AH0
+it (49:0) IH1 T (49:1) IH0 T
+that (54:0) DH AE1 T (54:1) DH AH0 T
+of (56:0) AH0 V (56:1) AH0 V
+history (58:0) HH IH1 - S T ER0 - IY0 (58:1) HH IH1 S - T R IY0
+And (59:0) AE0 N D (59:1) AH0 N D
+financially, (62:0) F AH0 - N AE1 N - SH AH0 - L IY0 (62:1) F IH0 - N AE1 N - SH AH0 - L IY0 (62:2) F AY2 - N AE1 N - SH AH0 - L IY0
+physically (63:0) F IH1 - Z IH0 - K AH0 - L IY0 (63:1) F IH1 - Z IH0 K - L IY0
+Mentally (64:0) M EH1 N - T AH0 - L IY0 (64:1) M EH1 - N AH0 - L IY0
+on (66:0) AA1 N (66:1) AO1 N
+a (67:0) AH0 (67:1) EY1
+And (71:0) AE0 N D (71:1) AH0 N D
+don't (72:0) D OW1 N T (72:1) D OW1 N
+forget (73:0) F ER0 - G EH1 T (73:1) F AO0 R - G EH1 T
+that (74:0) DH AE1 T (74:1) DH AH0 T
+from (77:0) F R AH1 M (77:1) F ER0 M
+the (78:0) DH AH0 (78:1) DH AH1 (78:2) DH IY0
+a (81:0) AH0 (81:1) EY1
+new (82:0) N UW1 (82:1) N Y UW1
+for (84:0) F AO1 R (84:1) F ER0 (84:2) F R ER0
+going (92:0) G OW1 - IH0 NG (92:1) G OW1 - IH0 N
+your (95:0) Y AO1 R (95:1) Y UH1 R
+get (97:0) G EH1 T (97:1) G IH1 T
+a (100:0) AH0 (100:1) EY1
+new (101:0) N UW1 (101:1) N Y UW1
+Benz (102:0) B EH1 N Z (102:1) B AE1 N Z
+just (103:0) JH AH1 S T (103:1) JH IH0 S T
+for (104:0) F AO1 R (104:1) F ER0 (104:2) F R ER0
+to (106:0) T UW0 (106:1) T IH0 (106:2) T AH0
+in (108:0) IH0 N (108:1) IH1 N
+When (109:0) W EH1 N (109:1) HH W EH1 N (109:2) W IH1 N (109:3) HH W IH1 N
+didn't (111:0) D IH1 - D AH0 N T (111:1) D IH1 D N T (111:2) D IH1 - D AH0 N (111:3) D IH1 N T
+it, (113:0) IH1 T (113:1) IH0 T
+provided (115:0) P R AH0 - V AY1 - D AH0 D (115:1) P R AH0 - V AY1 - D IH0 D
+Don't (116:0) D OW1 N T (116:1) D OW1 N
+be (117:0) B IY1 (117:1) B IY0
+surprised (118:0) S ER0 - P R AY1 Z D (118:1) S AH0 - P R AY1 Z D
+that (119:0) DH AE1 T (119:1) DH AH0 T
+an (122:0) AE1 N (122:1) AH0 N
+enterprise (123:0) EH1 N - T ER0 - P R AY2 Z (123:1) EH1 - N ER0 - P R AY2 Z
+And (124:0) AE0 N D (124:1) AH0 N D
+a (128:0) AH0 (128:1) EY1
+of (130:0) AH0 V (130:1) AH0 V
+the (131:0) DH AH0 (131:1) DH AH1 (131:2) DH IY0
+a (134:0) AH0 (134:1) EY1
+just (137:0) JH AH1 S T (137:1) JH IH0 S T
+to (139:0) T UW0 (139:1) T IH0 (139:2) T AH0
+diary, (141:0) D AY1 - ER0 - IY0 (141:1) D AY1 - R IY0
+just (143:0) JH AH1 S T (143:1) JH IH0 S T
+to (145:0) T UW0 (145:1) T IH0 (145:2) T AH0
+diary (147:0) D AY1 - ER0 - IY0 (147:1) D AY1 - R IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Diary_Output_A_uncertainty.txt in the Poems directory
+
+Dre (5:0)  D R AH0
+'nother (69:0)  N AA1- DH ER0

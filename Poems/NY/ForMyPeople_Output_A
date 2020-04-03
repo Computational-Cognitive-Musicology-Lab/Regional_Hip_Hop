@@ -1,0 +1,166 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+MAY: [My(1), my(89), my(123), my(132), my(144), my(158)]
+AH: [Uh,(5), a(114), a(118), a(125), a(128), a(156)]
+AOL: [all(7), all(13), all(19)]
+DOWNT: [don't(9), don't(15), don't(24), don't(105), Don't(108), don't(154)]
+AEND: [And(12), And(42), and(100), and(116)]
+GEHT: [get(16), get(122)]
+AY: [I(23), I(57), I(62), I(76), I(92), I(141)]
+BIY: [be(26), be(32), be(106), be(155)]
+NIHGAH: [nigga(28), nigga(159)]
+TUW: [to(31), to(112), to(121), to(146)]
+WEHN: [when(36), when(61), when(84), When(91)]
+YAOR: [your(37), your(49)]
+DHAH: [the(40), the(53), the(59), the(66), the(82), the(85), the(95), the(98)]
+YUW: [you(44), you(71), You(79)]
+AHP: [up(51), up(64), up(137)]
+AAN: [on(52), on(138), on(148)]
+DHAETS: [That's(55), That's(139)]
+WAY: [why(56), why(140)]
+IHN: [in(65), in(88)]
+KAEN: [can(72), can(80), can(135)]
+SIY: [see(73), see(81)]
+IHZ: [is(87), is(103)]
+
+
+Rule 1: ...-O[NC]'
+AOR: [For(0), your(37), your(49), floor(54)]
+AY: [My(1), I(23), why(56), I(57), I(62), I(76), my(89), I(92), my(123), my(132), why(140), I(141), my(144), my(158)]
+AOL: [all(7), all(13), all(19), wall(41)]
+OWNT: [don't(9), don't(15), don't(24), don't(105), Don't(108), don't(154)]
+EHT: [get(16), let(109), get(122)]
+IY: [be(26), be(32), see(73), see(81), be(106), me(110), be(155)]
+EHN: [when(36), when(61), when(84), When(91)]
+UW: [you(44), through(69), you(71), You(79), do(143)]
+AEN: [an(46), can(72), can(80), can(135)]
+AHP: [up(51), up(64), up(137)]
+AAN: [on(52), on(138), on(148)]
+AETS: [That's(55), That's(139)]
+AORN: [morn'(67), born(78), horn,(115)]
+IHZ: [is(87), is(103)]
+AAM: [palm(90), bomb(119), mom(124)]
+AORM: [storm(93), perform(101)]
+AON: [lawn(129), pawn(157)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IHGAH: [nigga(28), nigga(159)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+For(0) My(1) People(2) 
+Joey(3) Bada$$(4) 
+
+Uh,(5) now(6) all(7) heroes(8) don't(9) wear(10) capes(11) 
+And(12) all(13) villains(14) don't(15) get(16) away(17) 
+But(18) all(19) limits(20) eventually(21) fade(22) 
+I(23) don't(24) wanna(25) be(26) good,(27) nigga(28) I'm(29) tryin'(30) to(31) be(32) great(33) 
+It's(34) hard(35) when(36) your(37) back's(38) against(39) the(40) wall(41) 
+And(42) if(43) you(44) got(45) an(46) order(47) keep(48) your(49) feet(50) up(51) on(52) the(53) floor(54) 
+That's(55) why(56) I(57) thank(58) the(59) Lord(60) when(61) I(62) wake(63) up(64) in(65) the(66) morn'(67) 
+'Cause(68) through(69) him(70) you(71) can(72) see(73) every(74) reason(75) I(76) was(77) born(78) 
+You(79) can(80) see(81) the(82) power(83) when(84) the(85) mic(86) is(87) in(88) my(89) palm(90) 
+When(91) I(92) storm(93) across(94) the(95) room,(96) hit(97) the(98) stage(99) and(100) perform(101) 
+Word(102) is(103) bond,(104) don't(105) be(106) alarmed(107) 
+Don't(108) let(109) me(110) have(111) to(112) sound(113) a(114) horn,(115) and(116) drop(117) a(118) bomb(119) 
+Want(120) to(121) get(122) my(123) mom(124) a(125) crib,(126) with(127) a(128) lawn(129) 
+Something(130) that(131) my(132) future(133) kids,(134) can(135) run(136) up(137) on(138) 
+That's(139) why(140) I(141) always(142) do(143) my(144) best(145) to(146) carry(147) on(148) 
+Heaven's(149) like(150) game(151) of(152) chess,(153) don't(154) be(155) a(156) pawn(157) my(158) nigga(159) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see ForMyPeople_Output_A_uncertainty.txt in the Poems directory
+
+For (0:0) F AO1 R (0:1) F ER0 (0:2) F R ER0
+heroes (8:0) HH IH1 - R OW0 Z (8:1) HH IY1 - R OW0 Z
+don't (9:0) D OW1 N T (9:1) D OW1 N
+And (12:0) AE0 N D (12:1) AH0 N D
+don't (15:0) D OW1 N T (15:1) D OW1 N
+get (16:0) G EH1 T (16:1) G IH1 T
+limits (20:0) L IH1 - M AH0 T S (20:1) L IH1 - M IH0 T S
+eventually (21:0) IH0 - V EH1 N - CH AH0 W - AH0 - L IY0 (21:1) IH0 - V EH1 N - SH AH0 - L IY0 (21:2) IY0 - V EH1 N - CH AH0 W - AH0 - L IY0 (21:3) IY0 - V EH1 N - SH AH0 - L IY0
+don't (24:0) D OW1 N T (24:1) D OW1 N
+be (26:0) B IY1 (26:1) B IY0
+good, (27:0) G UH1 D (27:1) G IH0 D
+to (31:0) T UW0 (31:1) T IH0 (31:2) T AH0
+be (32:0) B IY1 (32:1) B IY0
+It's (34:0) IH1 T S (34:1) IH0 T S
+when (36:0) W EH1 N (36:1) HH W EH1 N (36:2) W IH1 N (36:3) HH W IH1 N
+your (37:0) Y AO1 R (37:1) Y UH1 R
+the (40:0) DH AH0 (40:1) DH AH1 (40:2) DH IY0
+And (42:0) AE0 N D (42:1) AH0 N D
+if (43:0) IH1 F (43:1) IH0 F
+an (46:0) AE1 N (46:1) AH0 N
+your (49:0) Y AO1 R (49:1) Y UH1 R
+on (52:0) AA1 N (52:1) AO1 N
+the (53:0) DH AH0 (53:1) DH AH1 (53:2) DH IY0
+why (56:0) W AY1 (56:1) HH W AY1
+the (59:0) DH AH0 (59:1) DH AH1 (59:2) DH IY0
+when (61:0) W EH1 N (61:1) HH W EH1 N (61:2) W IH1 N (61:3) HH W IH1 N
+in (65:0) IH0 N (65:1) IH1 N
+the (66:0) DH AH0 (66:1) DH AH1 (66:2) DH IY0
+him (70:0) HH IH1 M (70:1) IH0 M
+can (72:0) K AE1 N (72:1) K AH0 N
+every (74:0) EH1 - V ER0 - IY0 (74:1) EH1 - V R IY0
+was (77:0) W AA1 Z (77:1) W AH1 Z (77:2) W AH0 Z (77:3) W AO1 Z
+can (80:0) K AE1 N (80:1) K AH0 N
+the (82:0) DH AH0 (82:1) DH AH1 (82:2) DH IY0
+when (84:0) W EH1 N (84:1) HH W EH1 N (84:2) W IH1 N (84:3) HH W IH1 N
+the (85:0) DH AH0 (85:1) DH AH1 (85:2) DH IY0
+is (87:0) IH1 Z (87:1) IH0 Z
+in (88:0) IH0 N (88:1) IH1 N
+palm (90:0) P AA1 M (90:1) P AA1 L M
+When (91:0) W EH1 N (91:1) HH W EH1 N (91:2) W IH1 N (91:3) HH W IH1 N
+the (95:0) DH AH0 (95:1) DH AH1 (95:2) DH IY0
+the (98:0) DH AH0 (98:1) DH AH1 (98:2) DH IY0
+and (100:0) AE0 N D (100:1) AH0 N D
+is (103:0) IH1 Z (103:1) IH0 Z
+don't (105:0) D OW1 N T (105:1) D OW1 N
+be (106:0) B IY1 (106:1) B IY0
+Don't (108:0) D OW1 N T (108:1) D OW1 N
+to (112:0) T UW0 (112:1) T IH0 (112:2) T AH0
+a (114:0) AH0 (114:1) EY1
+and (116:0) AE0 N D (116:1) AH0 N D
+drop (117:0) D R AA1 P (117:1) D R AO1 P
+a (118:0) AH0 (118:1) EY1
+bomb (119:0) B AA1 M (119:1) B AO1 M
+Want (120:0) W AA1 N T (120:1) W AO1 N T
+to (121:0) T UW0 (121:1) T IH0 (121:2) T AH0
+get (122:0) G EH1 T (122:1) G IH1 T
+a (125:0) AH0 (125:1) EY1
+with (127:0) W IH1 DH (127:1) W IH1 TH (127:2) W IH0 TH (127:3) W IH0 DH
+a (128:0) AH0 (128:1) EY1
+that (131:0) DH AE1 T (131:1) DH AH0 T
+can (135:0) K AE1 N (135:1) K AH0 N
+on (138:0) AA1 N (138:1) AO1 N
+why (140:0) W AY1 (140:1) HH W AY1
+always (142:0) AO1 L - W EY2 Z (142:1) AO1 L - W IY0 Z
+to (146:0) T UW0 (146:1) T IH0 (146:2) T AH0
+carry (147:0) K AE1 - R IY0 (147:1) K EH1 - R IY0
+on (148:0) AA1 N (148:1) AO1 N
+of (152:0) AH0 V (152:1) AH0 V
+don't (154:0) D OW1 N T (154:1) D OW1 N
+be (155:0) B IY1 (155:1) B IY0
+a (156:0) AH0 (156:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see ForMyPeople_Output_A_uncertainty.txt in the Poems directory
+
+Bada$$ (4:0)  B AE1- D AH0
+nigga (28:0)  N IH1- G AH0
+back's (38:0)  B AE1 K Z
+morn' (67:0)  M AO1 R N
+'Cause (68:0)  K AW1 Z
+nigga (159:0)  N IH1- G AH0

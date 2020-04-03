@@ -1,0 +1,162 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+IY: [C(4), people(12)]
+IY: [people(12), me(40)]
+IY: [people(12), be(66)]
+IY: [people(12), me(83)]
+IY: [people(12), me(113)]
+IY: [people(12), me(124)]
+EY: [say(13), paper,(30)]
+EY: [They(16), paper,(30)]
+OW: [po(37), doja(107)]
+OW: [po(37), open(118)]
+AHN: [run(59), hundred(87)]
+OW: [No(62), doja(107)]
+OW: [No(62), open(118)]
+OW: [No(99), doja(107)]
+OW: [No(99), open(118)]
+OW: [doja(107), so(120)]
+OW: [open(118), so(120)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [C(4), Jimmy(25)]
+AHN: [cousin(24), run(59)]
+IY: [Jimmy(25), me(40)]
+IY: [Jimmy(25), be(66)]
+IY: [Jimmy(25), me(83)]
+IY: [Jimmy(25), me(113)]
+IY: [Jimmy(25), me(124)]
+AHT: [But(48), Limit,(63)]
+AHT: [But(48), Limit(100)]
+AHN: [run(59), open(118)]
+
+
+Rule 2: ...-ON[C]'-...
+T: [At(1), out(8), caught(39), hot(41), But(48), get(51), caught(52), it,(54), without(56), it(57), 'bout(67), it(68), that(92)]
+LZ: [Walls(3), fools(122)]
+L: [jail,(10), always(33), I'll(69), soldier(96)]
+M: [I'm(14), I'm(18), I'm(32), some(43), I'm(75), I'm(94), Em(103), some(117)]
+D: [said(17), bad(19), I'd(49), had(116)]
+Z: [news,(20), cause(31), po's(38), Pees(104), goes(109)]
+K: [like(21), tuck(71), smoke(106), took(123)]
+DH: [with(42), with(53), with(102)]
+NZ: [guns(44), means(93)]
+N: [then(55), run(59), on(61), hundred(87), again(114)]
+NGK: [tank(73), tank,(91)]
+NT: [don't(79), represent(89)]
+R: [care(80), wear(98), Gear(101), There(108)]
+
+
+Rule 3: ...-O[N]C'-...
+EH: [Staring(0), said(17), messes(35), vest(47), get(51), then(55), better(65), never(70), never(76), care(80), against(84), represent(89), wear(98), Em(103), There(108), sweatin'(112), again(114)]
+AE: [At(1), bad(19), rather(50), tank(73), tank,(91), that(92), had(116)]
+AO: [Walls(3), always(33), warrants(119)]
+IY: [C(4), people(12), me(40), be(66), me(83), means(93), Pees(104), police(111), me(113), me(124)]
+AA: [Hard(6), cause(31), po's(38), caught(39), hot(41), caught(52), on(61)]
+IH: [living(7), finished(15), big(23), Jimmy(25), with(42), with(53), it,(54), it(57), Limit,(63), it(68), if(81), it's(82), Limit(100), Gear(101), with(102)]
+AW: [out(8), without(56), 'bout(67)]
+EY: [jail,(10), say(13), They(16), name's(27), paper,(30)]
+AY: [my(11), I'm(14), I'm(18), like(21), my(22), My(26), I'm(32), I'd(49), I'll(69), my(72), I'm(75), I(78), I(88), I'm(94), I(97), I(115)]
+UW: [news,(20), You(58), you(64), fools(122)]
+AH: [cousin(24), some(43), guns(44), But(48), run(59), up(60), tuck(71), running(77), motherfucking(86), hundred(87), some(117)]
+OW: [po(37), No(62), don't(79), soldier(96), No(99), smoke(106), doja(107), goes(109), open(118), so(120)]
+
+
+Rule 4: ...-[O']N[C']'-...
+T: [At(1), out(8), it,(54), it(57), it(68)]
+S: [C(4), say(13), so(120)]
+M: [Murder(5), my(11), I'm(14), I'm(18), my(22), My(26), I'm(32), messes(35), me(40), my(72), I'm(75), me(83), motherfucking(86), I'm(94), Em(103), me(113), me(124)]
+L: [living(7), always(33), Limit,(63), I'll(69), Limit(100)]
+P: [people(12), paper,(30), po(37), up(60)]
+F: [finished(15), if(81), motherfucking(86)]
+PZ: [po's(38), Pees(104)]
+KT: [caught(39), caught(52)]
+WDH: [with(42), with(53), with(102)]
+SM: [some(43), some(117)]
+BT: [But(48), 'bout(67)]
+D: [I'd(49), doja(107)]
+R: [rather(50), running(77)]
+Y: [You(58), you(64)]
+N: [on(61), No(62), never(70), never(76), No(99)]
+B: [better(65), be(66)]
+TK: [tuck(71), took(123)]
+TNGK: [tank(73), tank,(91)]
+
+
+
+
+Poem with word IDs:
+
+Staring(0) At(1) The(2) Walls(3) 
+C(4) Murder(5) 
+
+Hard(6) living(7) out(8) of(9) jail,(10) my(11) people(12) say(13) I'm(14) finished(15) 
+They(16) said(17) I'm(18) bad(19) news,(20) like(21) my(22) big(23) cousin(24) Jimmy(25) 
+My(26) name's(27) in(28) the(29) paper,(30) cause(31) I'm(32) always(33) in(34) messes(35) 
+The(36) po(37) po's(38) caught(39) me(40) hot(41) with(42) some(43) guns(44) and(45) a(46) vest(47) 
+But(48) I'd(49) rather(50) get(51) caught(52) with(53) it,(54) then(55) without(56) it(57) 
+You(58) run(59) up(60) on(61) No(62) Limit,(63) you(64) better(65) be(66) 'bout(67) it(68) 
+I'll(69) never(70) tuck(71) my(72) tank(73) in,(74) I'm(75) never(76) running(77) 
+I(78) don't(79) care(80) if(81) it's(82) me(83) against(84) a(85) motherfucking(86) hundred(87) 
+I(88) represent(89) the(90) tank,(91) that(92) means(93) I'm(94) a(95) soldier(96) 
+I(97) wear(98) No(99) Limit(100) Gear(101) with(102) Em(103) Pees(104) and(105) smoke(106) doja(107) 
+There(108) goes(109) the(110) police(111) sweatin'(112) me(113) again(114) 
+I(115) had(116) some(117) open(118) warrants(119) so(120) the(121) fools(122) took(123) me(124) in(125) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Walls_Output_B_uncertainty.txt in the Poems directory
+
+The (2:0) DH AH0 (2:1) DH AH1 (2:2) DH IY0
+of (9:0) AH0 V (9:1) AH0 V
+news, (20:0) N UW1 Z (20:1) N Y UW1 Z
+in (28:0) IH0 N (28:1) IH1 N
+the (29:0) DH AH0 (29:1) DH AH1 (29:2) DH IY0
+cause (31:0) K AA1 Z (31:1) K AO1 Z
+always (33:0) AO1 L - W EY2 Z (33:1) AO1 L - W IY0 Z
+in (34:0) IH0 N (34:1) IH1 N
+The (36:0) DH AH0 (36:1) DH AH1 (36:2) DH IY0
+caught (39:0) K AA1 T (39:1) K AO1 T
+with (42:0) W IH1 DH (42:1) W IH1 TH (42:2) W IH0 TH (42:3) W IH0 DH
+and (45:0) AE0 N D (45:1) AH0 N D
+a (46:0) AH0 (46:1) EY1
+rather (50:0) R AE1 - DH ER0 (50:1) R AH1 - DH ER0
+get (51:0) G EH1 T (51:1) G IH1 T
+caught (52:0) K AA1 T (52:1) K AO1 T
+with (53:0) W IH1 DH (53:1) W IH1 TH (53:2) W IH0 TH (53:3) W IH0 DH
+it, (54:0) IH1 T (54:1) IH0 T
+without (56:0) W IH0 - TH AW1 T (56:1) W IH0 DH - AW1 T
+it (57:0) IH1 T (57:1) IH0 T
+on (61:0) AA1 N (61:1) AO1 N
+be (66:0) B IY1 (66:1) B IY0
+it (68:0) IH1 T (68:1) IH0 T
+in, (74:0) IH0 N (74:1) IH1 N
+don't (79:0) D OW1 N T (79:1) D OW1 N
+if (81:0) IH1 F (81:1) IH0 F
+it's (82:0) IH1 T S (82:1) IH0 T S
+a (85:0) AH0 (85:1) EY1
+hundred (87:0) HH AH1 N - D R AH0 D (87:1) HH AH1 N - D R IH0 D (87:2) HH AH1 - N ER0 D (87:3) HH AH1 N - D ER0 D
+represent (89:0) R EH2 - P R AH0 - Z EH1 N T (89:1) R EH2 - P R IH0 - Z EH1 N T
+the (90:0) DH AH0 (90:1) DH AH1 (90:2) DH IY0
+that (92:0) DH AE1 T (92:1) DH AH0 T
+a (95:0) AH0 (95:1) EY1
+with (102:0) W IH1 DH (102:1) W IH1 TH (102:2) W IH0 TH (102:3) W IH0 DH
+and (105:0) AE0 N D (105:1) AH0 N D
+the (110:0) DH AH0 (110:1) DH AH1 (110:2) DH IY0
+again (114:0) AH0 - G EH1 N (114:1) AH0 - G EY1 N
+the (121:0) DH AH0 (121:1) DH AH1 (121:2) DH IY0
+in (125:0) IH0 N (125:1) IH1 N
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Walls_Output_B_uncertainty.txt in the Poems directory
+
+po's (38:0)  P AA1 Z
+'bout (67:0)  B AW1 T
+motherfucking (86:0)  M AH1- DH ER0- F AH1- K IH0 NG
+Pees (104:0)  P IY1 Z
+doja (107:0)  D OW1- Y AH0

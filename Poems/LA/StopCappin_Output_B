@@ -1,0 +1,244 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+UW: [Blueface(2), you(37)]
+UW: [Blueface(2), you(42)]
+UW: [Blueface(2), you(66)]
+UW: [Blueface(2), Two(77)]
+UW: [Blueface(2), too(100)]
+UW: [movie(5), you(37)]
+UW: [movie(5), you(42)]
+UW: [movie(5), you(66)]
+UW: [movie(5), Two(77)]
+UW: [movie(5), too(100)]
+EHN: [extended(10), when(16)]
+IY: [he(13), Aquafina(117)]
+EHN: [when(16), attention(92)]
+EHN: [when(16), pendant(120)]
+EHN: [when(16), dependent(128)]
+EHN: [when(16), forensic,(130)]
+EHN: [when(16), extensions(141)]
+OW: [Jehovah's(28), no(49)]
+OW: [Jehovah's(28), No(105)]
+OW: [Jehovah's(28), no(127)]
+OW: [Jehovah's(28), No(129)]
+OW: [Jehovah's(28), no(131)]
+OW: [Jehovah's(28), no(133)]
+OW: [Jehovah's(28), No(135)]
+IY: [he(30), Aquafina(117)]
+IHT: [witnessed(31), it(32)]
+IHT: [witnessed(31), shit(44)]
+IHT: [witnessed(31), It(84)]
+IHT: [witnessed(31), fit(103)]
+IHT: [it(32), witness,(132)]
+AW: [how(36), Grown-ass(121)]
+UW: [you(37), Blueface(115)]
+AW: [how(41), Grown-ass(121)]
+UW: [you(42), Blueface(115)]
+IHT: [shit(44), witness,(132)]
+EY: [chaser(50), pay(90)]
+EY: [tapers(58), pay(90)]
+AHST: [just(62), bust-down,(116)]
+UW: [you(66), Blueface(115)]
+EY: [later(67), pay(90)]
+EY: [hater(76), pay(90)]
+UW: [Two(77), Blueface(115)]
+UHL: [bullshit(83), full(91)]
+IHT: [It(84), witness,(132)]
+EY: [pay(90), baby,(123)]
+UW: [too(100), Blueface(115)]
+IHT: [fit(103), witness,(132)]
+AW: [now(110), Grown-ass(121)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IHN: [Cappin(1), in(6)]
+IHN: [Cappin(1), givin'(56)]
+IHN: [Cappin(1), in(104)]
+IHN: [Cappin(1), in,(109)]
+IY: [movie(5), he(13)]
+IY: [movie(5), he(30)]
+IHN: [in(6), pissin'(114)]
+IY: [he(13), guilty(15)]
+IY: [he(13), only(55)]
+IY: [he(13), early(61)]
+IY: [he(13), really(113)]
+IY: [he(13), baby,(123)]
+IY: [guilty(15), he(30)]
+IHK: [dick(25), forensic,(130)]
+IY: [he(30), only(55)]
+IY: [he(30), early(61)]
+IY: [he(30), really(113)]
+IY: [he(30), baby,(123)]
+AHST: [witnessed(31), just(62)]
+UW: [you(37), to(46)]
+UW: [you(37), to(63)]
+UW: [you(37), to(102)]
+UW: [you(37), to(107)]
+UW: [you(42), to(46)]
+UW: [you(42), to(63)]
+UW: [you(42), to(102)]
+UW: [you(42), to(107)]
+UW: [to(46), you(66)]
+UW: [to(46), Two(77)]
+UW: [to(46), too(100)]
+IHN: [givin'(56), pissin'(114)]
+UW: [to(63), you(66)]
+UW: [to(63), Two(77)]
+UW: [to(63), too(100)]
+UW: [you(66), to(102)]
+UW: [you(66), to(107)]
+UW: [Two(77), to(102)]
+UW: [Two(77), to(107)]
+IHKS: [dicks,(78), ballistics(134)]
+UW: [too(100), to(102)]
+UW: [too(100), to(107)]
+IHN: [in(104), pissin'(114)]
+IHN: [in,(109), pissin'(114)]
+
+
+Rule 2: ...-ON[C]'-...
+P: [Stop(0), up(60), keep(70)]
+N: [Cappin(1), extended(10), when(16), down(19), only(55), on(65), attention(92), pissin'(114), bust-down,(116), on(118), pendant(120), man,(122), dependent(128), forensic,(130), extensions(141)]
+S: [Blueface(2), this(7), face,(48), piss(108), Blueface(115), Grown-ass(121), this(138)]
+T: [Shoot(3), Bet(12), witnessed(31), it(32), not(34), about(35), 'bout(40), shit(44), out(57), It(84), out,(96), fit(103), pot(106), got(126), witness,(132), but(137), got(140)]
+CH: [bitch(8), attachment,(136)]
+DH: [with(9), with(23), with(80)]
+L: [feel(14), guilty(15), always(69), pole(73), bullshit(83), full(91), always(94)]
+K: [knock(18), Glock(22), dick(25), Fuck(51), Woke(59), make(86), Glock(139)]
+R: [for(26), for(74)]
+TS: [It's(33), it's(39), Shots(45)]
+D: [fade,(53), slide(64), stood(95), ahead(101)]
+M: [I'm(54), I'm(79)]
+ST: [just(62), bust-down,(116)]
+NT: [don't(85), can't(89), ain't(125)]
+Z: ['cause(97), was(99)]
+
+
+Rule 3: ...-O[N]C'-...
+AA: [Stop(0), knock(18), Glock(22), not(34), start,(38), Shots(45), on(65), hard(72), was(99), pot(106), Aquafina(117), on(118), got(126), Glock(139), got(140)]
+IH: [Cappin(1), this(7), bitch(8), with(9), clips(11), guilty(15), innocent(21), with(23), dick(25), if(29), witnessed(31), it(32), It's(33), it's(39), finish(43), shit(44), givin'(56), dicks,(78), with(80), It(84), fit(103), piss(108), really(113), pissin'(114), witness,(132), ballistics(134), this(138)]
+AE: [Cappin(1), can't(89), Grown-ass(121), man,(122), attachment,(136)]
+UW: [Blueface(2), Shoot(3), movie(5), you(37), you(42), you(66), Two(77), too(100), Blueface(115)]
+EY: [Blueface(2), face,(48), chaser(50), fade,(53), tapers(58), later(67), hater(76), make(86), pay(90), Blueface(115), baby,(123), ain't(125)]
+EH: [extended(10), Bet(12), when(16), full-fledged(82), sense,(87), attention(92), ahead(101), pendant(120), dependent(128), forensic,(130), extensions(141)]
+IY: [he(13), feel(14), he(30), keep(70), Aquafina(117)]
+AY: [I(17), I'm(54), slide(64), I(68), I'm(79), I(88), I(93), I(98), my(111), my(119), I(124)]
+AW: [down(19), about(35), how(36), 'bout(40), how(41), out(57), out,(96), 'cause(97), now(110), bust-down,(116), Grown-ass(121)]
+AO: [for(26), always(69), for(74), always(94)]
+OW: [Jehovah's(28), no(49), only(55), Woke(59), pole(73), don't(85), No(105), gold(112), no(127), No(129), no(131), no(133), No(135)]
+AH: [Fuck(51), up(60), just(62), bust-down,(116), but(137)]
+UH: [full-fledged(82), bullshit(83), full(91), stood(95)]
+
+
+Rule 4: ...-[O']N[C']'-...
+PN: [Cappin(1), pendant(120), dependent(128)]
+FS: [Blueface(2), face,(48), Blueface(115)]
+BL: [Blueface(2), bullshit(83), Blueface(115)]
+SHT: [Shoot(3), shit(44)]
+M: [movie(5), I'm(54), I'm(79), my(111), my(119)]
+DHS: [this(7), this(138)]
+WDH: [with(9), with(23), with(80)]
+STN: [extended(10), extensions(141)]
+BT: [Bet(12), about(35), 'bout(40), but(137)]
+HH: [he(13), Jehovah's(28), he(30), how(36), how(41), hater(76)]
+FL: [feel(14), full(91)]
+DN: [down(19), bust-down,(116)]
+GLK: [Glock(22), Glock(139)]
+FR: [for(26), for(74)]
+F: [if(29), finish(43), full-fledged(82), Aquafina(117)]
+WT: [witnessed(31), witness,(132)]
+T: [it(32), out(57), tapers(58), Two(77), It(84), out,(96), too(100)]
+TS: [It's(33), it's(39)]
+NT: [not(34), ain't(125)]
+Y: [you(37), you(42), you(66)]
+N: [no(49), only(55), on(65), No(105), now(110), on(118), no(127), No(129), forensic,(130), no(131), no(133), No(135)]
+P: [up(60), pay(90), pissin'(114)]
+L: [later(67), always(69), always(94), ballistics(134)]
+GT: [got(126), got(140)]
+
+
+
+
+Poem with word IDs:
+
+Stop(0) Cappin(1) 
+Blueface(2) 
+
+Shoot(3) a(4) movie(5) in(6) this(7) bitch(8) with(9) extended(10) clips(11) 
+Bet(12) he(13) feel(14) guilty(15) when(16) I(17) knock(18) down(19) the(20) innocent(21) 
+Glock(22) with(23) a(24) dick(25) for(26) a(27) Jehovah's(28) if(29) he(30) witnessed(31) it(32) 
+It's(33) not(34) about(35) how(36) you(37) start,(38) it's(39) 'bout(40) how(41) you(42) finish(43) shit(44) 
+Shots(45) to(46) the(47) face,(48) no(49) chaser(50) 
+Fuck(51) a(52) fade,(53) I'm(54) only(55) givin'(56) out(57) tapers(58) 
+Woke(59) up(60) early(61) just(62) to(63) slide(64) on(65) you(66) later(67) 
+I(68) always(69) keep(70) a(71) hard(72) pole(73) for(74) a(75) hater(76) 
+Two(77) dicks,(78) I'm(79) with(80) the(81) full-fledged(82) bullshit(83) 
+It(84) don't(85) make(86) sense,(87) I(88) can't(89) pay(90) full(91) attention(92) 
+I(93) always(94) stood(95) out,(96) 'cause(97) I(98) was(99) too(100) ahead(101) to(102) fit(103) in(104) 
+No(105) pot(106) to(107) piss(108) in,(109) now(110) my(111) gold(112) really(113) pissin'(114) 
+Blueface(115) bust-down,(116) Aquafina(117) on(118) my(119) pendant(120) 
+Grown-ass(121) man,(122) baby,(123) I(124) ain't(125) got(126) no(127) dependent(128) 
+No(129) forensic,(130) no(131) witness,(132) no(133) ballistics(134) 
+No(135) attachment,(136) but(137) this(138) Glock(139) got(140) extensions(141) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see StopCappin_Output_B_uncertainty.txt in the Poems directory
+
+a (4:0) AH0 (4:1) EY1
+in (6:0) IH0 N (6:1) IH1 N
+this (7:0) DH IH1 S (7:1) DH IH0 S
+with (9:0) W IH1 DH (9:1) W IH1 TH (9:2) W IH0 TH (9:3) W IH0 DH
+extended (10:0) IH0 K - S T EH1 N - D AH0 D (10:1) IH0 K - S T EH1 N - D IH0 D
+when (16:0) W EH1 N (16:1) HH W EH1 N (16:2) W IH1 N (16:3) HH W IH1 N
+the (20:0) DH AH0 (20:1) DH AH1 (20:2) DH IY0
+with (23:0) W IH1 DH (23:1) W IH1 TH (23:2) W IH0 TH (23:3) W IH0 DH
+a (24:0) AH0 (24:1) EY1
+for (26:0) F AO1 R (26:1) F ER0 (26:2) F R ER0
+a (27:0) AH0 (27:1) EY1
+if (29:0) IH1 F (29:1) IH0 F
+it (32:0) IH1 T (32:1) IH0 T
+It's (33:0) IH1 T S (33:1) IH0 T S
+it's (39:0) IH1 T S (39:1) IH0 T S
+to (46:0) T UW0 (46:1) T IH0 (46:2) T AH0
+the (47:0) DH AH0 (47:1) DH AH1 (47:2) DH IY0
+a (52:0) AH0 (52:1) EY1
+just (62:0) JH AH1 S T (62:1) JH IH0 S T
+to (63:0) T UW0 (63:1) T IH0 (63:2) T AH0
+on (65:0) AA1 N (65:1) AO1 N
+always (69:0) AO1 L - W EY2 Z (69:1) AO1 L - W IY0 Z
+a (71:0) AH0 (71:1) EY1
+for (74:0) F AO1 R (74:1) F ER0 (74:2) F R ER0
+a (75:0) AH0 (75:1) EY1
+with (80:0) W IH1 DH (80:1) W IH1 TH (80:2) W IH0 TH (80:3) W IH0 DH
+the (81:0) DH AH0 (81:1) DH AH1 (81:2) DH IY0
+It (84:0) IH1 T (84:1) IH0 T
+don't (85:0) D OW1 N T (85:1) D OW1 N
+always (94:0) AO1 L - W EY2 Z (94:1) AO1 L - W IY0 Z
+was (99:0) W AA1 Z (99:1) W AH1 Z (99:2) W AH0 Z (99:3) W AO1 Z
+to (102:0) T UW0 (102:1) T IH0 (102:2) T AH0
+in (104:0) IH0 N (104:1) IH1 N
+to (107:0) T UW0 (107:1) T IH0 (107:2) T AH0
+in, (109:0) IH0 N (109:1) IH1 N
+really (113:0) R IH1 - L IY0 (113:1) R IY1 - L IY0
+on (118:0) AA1 N (118:1) AO1 N
+forensic, (130:0) F ER0 - EH1 N - S IH0 K (130:1) F AO2 - R EH1 N - S IH0 K
+this (138:0) DH IH1 S (138:1) DH IH0 S
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see StopCappin_Output_B_uncertainty.txt in the Poems directory
+
+Cappin (1:0)  K AE1- P IH1 N
+Blueface (2:0)  B L UW1- F EY1 S
+'bout (40:0)  B AW1 T
+full-fledged (82:0)  F UH1- L F L EH1 JH D
+'cause (97:0)  K AW1 Z
+pissin' (114:0)  P IH1- S IH1 N
+Blueface (115:0)  B L UW1- F EY1 S
+bust-down, (116:0)  B AH1 S T- D AW1 N
+Aquafina (117:0)  AA1- K W AH0- F IY1- N AH0
+Grown-ass (121:0)  G R AW1- N AE1 S

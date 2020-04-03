@@ -1,0 +1,117 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%the (6:0) DH AH0 (6:1) DH AH1 (6:2) DH IY0
+6:0
+%in (8:0) IH0 N (8:1) IH1 N
+8:0
+%a (9:0) AH0 (9:1) EY1
+9:0
+%be (16:0) B IY1 (16:1) B IY0
+16:0
+%syrup (25:0) S ER1 - AH0 P (25:1) S IH1 - R AH0 P
+25:0
+%in (26:0) IH0 N (26:1) IH1 N
+26:0
+%a (27:0) AH0 (27:1) EY1
+27:0
+%in (31:0) IH0 N (31:1) IH1 N
+31:0
+%the (32:0) DH AH0 (32:1) DH AH1 (32:2) DH IY0
+32:0
+%and (36:0) AE0 N D (36:1) AH0 N D
+36:0
+%Don't (38:0) D OW1 N T (38:1) D OW1 N
+38:0
+%fire (45:0) F AY1 - ER0 (45:1) F AY1 R
+45:0
+%and (47:0) AE0 N D (47:1) AH0 N D
+47:0
+%cannot (50:0) K AE1 - N AA0 T (50:1) K AH0 - N AA1 T
+50:0
+%The (52:0) DH AH0 (52:1) DH AH1 (52:2) DH IY0
+52:0
+%her (55:0) HH ER0 (55:1) HH ER1
+55:0
+%go-to (56:0) G OW1 - T UW2 (56:1) G OW1 - T OW0
+56:0
+%surprise (57:0) S ER0 - P R AY1 Z (57:1) S AH0 - P R AY1 Z
+57:0
+%Don't (58:0) D OW1 N T (58:1) D OW1 N
+58:0
+%on (60:0) AA1 N (60:1) AO1 N
+60:0
+%her (63:0) HH ER0 (63:1) HH ER1
+63:0
+%a (65:0) AH0 (65:1) EY1
+65:0
+%in (68:0) IH0 N (68:1) IH1 N
+68:0
+%her (69:0) HH ER0 (69:1) HH ER1
+69:0
+%while (71:0) W AY1 L (71:1) HH W AY1 L
+71:0
+%her (74:0) HH ER0 (74:1) HH ER1
+74:0
+%this (78:0) DH IH1 S (78:1) DH IH0 S
+78:0
+%regular (80:0) R EH1 - G Y AH0 - L ER0 (80:1) R EY1 - G Y AH0 - L ER0
+80:0
+%really (83:0) R IH1 - L IY0 (83:1) R IY1 - L IY0
+83:0
+%can (94:0) K AE1 N (94:1) K AH0 N
+94:0
+%the (96:0) DH AH0 (96:1) DH AH1 (96:2) DH IY0
+96:0
+%Upgraded (98:0) AH0 P - G R EY1 - D AH0 D (98:1) AH1 P - G R EY2 - D AH0 D (98:2) AH1 P - G R EY2 - D IH0 D
+98:0
+%in (103:0) IH0 N (103:1) IH1 N
+103:0
+%that (104:0) DH AE1 T (104:1) DH AH0 T
+104:0
+%her (111:0) HH ER0 (111:1) HH ER1
+111:0
+%and (112:0) AE0 N D (112:1) AH0 N D
+112:0
+%her (114:0) HH ER0 (114:1) HH ER1
+114:0
+%her (119:0) HH ER0 (119:1) HH ER1
+119:0
+%to (120:0) T UW0 (120:1) T IH0 (120:2) T AH0
+120:0
+%and (122:0) AE0 N D (122:1) AH0 N D
+122:0
+%on (124:0) AA1 N (124:1) AO1 N
+124:0
+%her (125:0) HH ER0 (125:1) HH ER1
+125:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%(Remix) (1:0)  R EH1- M IH0 K S
+1:0
+%Gunna (2:0)  G AH1- N AH0
+2:0
+%Ridin' (30:0)  R AY1- D IH1 N
+30:0
+%Shenenehs (46:0)  SH EH0 N- N AH0 S
+46:0
+%Birkins, (48:0)  B ER1- K IH1 N Z
+48:0
+%grippin' (73:0)  G R IH1- P IH1 N
+73:0
+%Maybach, (77:0)  M EY1- B AA0 K
+77:0
+%baguettes (102:0)  B EY1- G EH1 T S
+102:0
+%gargle (121:0)  G AA1- R G AH0 L
+121:0
+********End******

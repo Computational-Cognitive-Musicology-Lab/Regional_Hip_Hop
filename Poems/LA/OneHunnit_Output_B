@@ -1,0 +1,362 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AHN: [One(0), Hundred(11)]
+AHN: [One(0), Sunlight(102)]
+AHN: [One(0), under(201)]
+IHT: [Hunnit(1), commitment(62)]
+IHP: [Nipsey(2), strip(148)]
+IHP: [Nipsey(2), Crip(152)]
+AHN: [Hundred(11), one(196)]
+OW: [show(14), Rolex(108)]
+OW: [show(14), prolly(139)]
+IHT: [it(30), commitment(62)]
+IHT: [it(40), commitment(62)]
+IHT: [it(55), commitment(62)]
+IHT: [commitment(62), it(72)]
+IHT: [commitment(62), shit(83)]
+IHT: [commitment(62), it(90)]
+IHT: [commitment(62), hit(103)]
+IHT: [commitment(62), split(176)]
+IHT: [commitment(62), shit"(217)]
+EY: [congratulations(87), valet(92)]
+EY: [valet(92), basic,(132)]
+EY: [valet(92), famous(133)]
+EY: [valet(92), naked(135)]
+EY: [valet(92), playin'(140)]
+EY: [valet(92), laces(142)]
+EHN: [Center(101), Then(170)]
+AHN: [Sunlight(102), one(196)]
+AHN: [one(196), under(201)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AHN: [One(0), vision(80)]
+IHT: [Hunnit(1), budget(28)]
+IY: [Nipsey(2), we(97)]
+IY: [Nipsey(2), Vee(105)]
+IY: [Nipsey(2), Vee(106)]
+IY: [Nipsey(2), she(128)]
+IY: [Nipsey(2), She(153)]
+IY: [Nipsey(2), me(155)]
+IY: [Nipsey(2), Cee(180)]
+IY: [Nipsey(2), be(212)]
+IY: [Nipsey(2), me(220)]
+IHN: [Ballin'(4), talkin'(8)]
+IHN: [Ballin'(4), in(74)]
+IHN: [Ballin'(4), in(78)]
+IHN: [Ballin'(4), nothin',(86)]
+IHN: [Ballin'(4), playin'(140)]
+IHN: [Ballin'(4), in(143)]
+IHN: [talkin'(8), been(42)]
+IHN: [talkin'(8), ballin'(43)]
+IHN: [talkin'(8), fallin'(149)]
+IY: [money(10), we(97)]
+IY: [money(10), Vee(105)]
+IY: [money(10), Vee(106)]
+IY: [money(10), she(128)]
+IY: [money(10), She(153)]
+IY: [money(10), me(155)]
+IY: [money(10), Cee(180)]
+IY: [money(10), be(212)]
+IY: [money(10), me(220)]
+OW: [show(14), motto(51)]
+OW: [show(14), follow(60)]
+AHT: [but(15), minute(46)]
+IY: [money(19), we(97)]
+IY: [money(19), Vee(105)]
+IY: [money(19), Vee(106)]
+IY: [money(19), she(128)]
+IY: [money(19), She(153)]
+IY: [money(19), me(155)]
+IY: [money(19), Cee(180)]
+IY: [money(19), be(212)]
+IY: [money(19), me(220)]
+AHT: [but(24), minute(46)]
+IHT: [budget(28), it(30)]
+IHT: [budget(28), it(40)]
+IHT: [budget(28), it(55)]
+IHT: [budget(28), it(72)]
+IHT: [budget(28), shit(83)]
+IHT: [budget(28), it(90)]
+IHT: [budget(28), hit(103)]
+IHT: [budget(28), split(176)]
+IHT: [budget(28), shit"(217)]
+IHN: [been(42), in(74)]
+IHN: [been(42), in(78)]
+IHN: [been(42), nothin',(86)]
+IHN: [been(42), playin'(140)]
+IHN: [been(42), in(143)]
+IHN: [ballin'(43), in(74)]
+IHN: [ballin'(43), in(78)]
+IHN: [ballin'(43), nothin',(86)]
+IHN: [ballin'(43), playin'(140)]
+IHN: [ballin'(43), in(143)]
+AHT: [minute(46), but(193)]
+AHT: [minute(46), but(203)]
+AHT: [minute(46), What(227)]
+UW: [you(59), to(197)]
+IHN: [in(74), fallin'(149)]
+UW: [shoe,(76), to(197)]
+IY: [dynasty(77), we(97)]
+IY: [dynasty(77), Vee(105)]
+IY: [dynasty(77), Vee(106)]
+IY: [dynasty(77), she(128)]
+IY: [dynasty(77), She(153)]
+IY: [dynasty(77), me(155)]
+IY: [dynasty(77), Cee(180)]
+IY: [dynasty(77), be(212)]
+IY: [dynasty(77), me(220)]
+IHN: [in(78), fallin'(149)]
+AHN: [vision(80), one(196)]
+AHM: [from(85), prism,(111)]
+IHN: [nothin',(86), fallin'(149)]
+UW: [you(88), to(197)]
+IY: [we(97), Beverly(100)]
+IY: [we(97), prolly(139)]
+IY: [we(97), money,(158)]
+IY: [we(97), money(192)]
+IY: [Beverly(100), Vee(105)]
+IY: [Beverly(100), Vee(106)]
+IY: [Beverly(100), she(128)]
+IY: [Beverly(100), She(153)]
+IY: [Beverly(100), me(155)]
+IY: [Beverly(100), Cee(180)]
+IY: [Beverly(100), be(212)]
+IY: [Beverly(100), me(220)]
+IY: [Vee(105), prolly(139)]
+IY: [Vee(105), money,(158)]
+IY: [Vee(105), money(192)]
+IY: [Vee(106), prolly(139)]
+IY: [Vee(106), money,(158)]
+IY: [Vee(106), money(192)]
+UW: [two(116), to(197)]
+IY: [she(128), prolly(139)]
+IY: [she(128), money,(158)]
+IY: [she(128), money(192)]
+IY: [prolly(139), She(153)]
+IY: [prolly(139), me(155)]
+IY: [prolly(139), Cee(180)]
+IY: [prolly(139), be(212)]
+IY: [prolly(139), me(220)]
+IHN: [playin'(140), fallin'(149)]
+UW: [blue(141), to(197)]
+IHN: [in(143), fallin'(149)]
+IY: [She(153), money,(158)]
+IY: [She(153), money(192)]
+IY: [me(155), money,(158)]
+IY: [me(155), money(192)]
+IY: [money,(158), Cee(180)]
+IY: [money,(158), be(212)]
+IY: [money,(158), me(220)]
+IY: [Cee(180), money(192)]
+IY: [money(192), be(212)]
+IY: [money(192), me(220)]
+UW: [to(197), do(215)]
+UW: [to(197), you(228)]
+
+
+Rule 2: ...-ON[C]'-...
+N: [One(0), Ballin'(4), Hundred(11), been(42), ballin'(43), shine(64), man(69), Center(101), Sunlight(102), On(113), on(118), on(123), fifteen,(138), fallin'(149), Then(170), one(196), under(201), an(207)]
+T: [Hunnit(1), but(15), but(24), it(30), at(32), it(40), get(54), it(55), commitment(62), it(72), shit(83), it(90), at(98), hit(103), Meet(131), that(147), split(176), Got(191), but(193), but(203), shit"(217), What(227)]
+P: [Nipsey(2), up(84), strip(148), Crip(152)]
+R: [for(5), Four(20), for(44), for(129), for(150), for(156), Are(178), for(181), your(216)]
+L: [real,(6), mall(34), till(52), Full(56), You'll(63), kill(71), real(130), tell(160), real(182), real(210)]
+M: [I'm(7), time,(57), from(85), I'm(91), them(104), I'm(194)]
+TS: [that's(16), that's(25), that's(35), that's(49), that's(66)]
+NT: [rent(18), want(154), ain't(185)]
+ND: [pound(23), grind,(48)]
+K: [smoke(27), Fuck(29), make(109), Black(136), Make(165), fuck(167), clique(169), like(213)]
+F: [off(31), if(58), life(200), if(221)]
+Z: [cause(36), these(37), hoes(38), Cees(117), Hoes(218), was(224)]
+V: [love(39), I've(41), Live(199)]
+D: [could(70), did(89)]
+S: [this(82), Es(107), face,(115), Purse(126), lace(172), Es(179)]
+CH: [bitch(95), match,(127), such(162), rich(164), bitch(189), switch(198), itch(208)]
+ST: [waist(120), bust(206)]
+KS: [spikes(122), sacks(137), six(145), Chucks(174)]
+
+
+Rule 3: ...-O[N]C'-...
+AH: [One(0), Hunnit(1), Hussle(3), money(10), Hundred(11), but(15), money(19), but(24), budget(28), Fuck(29), love(39), up(84), from(85), nothin',(86), Sunlight(102), money,(158), such(162), fuck(167), Chucks(174), loved(187), money(192), but(193), one(196), under(201), but(203), bust(206), "Hussle(214), What(227)]
+IH: [Hunnit(1), Nipsey(2), Ballin'(4), big(9), it(30), it(40), been(42), ballin'(43), minute(46), I'ma(47), till(52), it(55), if(58), commitment(62), nigga,(65), kill(71), it(72), vision(80), Built(81), this(82), shit(83), did(89), it(90), with(93), bitch(95), hit(103), prism,(111), glitter(112), six(145), Bitches(146), strip(148), fallin'(149), Crip(152), rich(164), split(176), I'ma(177), bitch(189), nigga(190), switch(198), itch(208), nigga(211), shit"(217), if(221), pimp(226), think?(229)]
+AE: [Ballin'(4), that's(16), that's(25), at(32), that's(35), ballin'(43), that's(49), that's(66), man(69), Afghanistan(73), at(98), match,(127), Black(136), sacks(137), that(147), fallin'(149), an(207), ask(219)]
+AO: [for(5), talkin'(8), Four(20), off(31), mall(34), for(44), for(129), for(150), for(156), for(181), your(216)]
+IY: [real,(6), these(37), we(97), Vee(105), Vee(106), Cees(117), heels(125), she(128), real(130), Meet(131), fifteen,(138), She(153), me(155), clique(169), Cee(180), real(182), real(210), be(212), me(220)]
+AY: [I'm(7), my(17), my(26), I've(41), grind,(48), my(50), I(53), time,(57), my(61), shine(64), my(75), dynasty(77), my(79), I'm(91), spikes(122), my(157), I(159), my(163), I(171), my(173), I(184), I'm(194), Live(199), life(200), I(204), like(213), I(222)]
+AW: [thousand(12), thousand(21), pound(23)]
+OW: [show(14), smoke(27), hoes(38), Rolex(108), Gold(121), prolly(139), Hoes(218)]
+EH: [rent(18), get(54), Beverly(100), Center(101), them(104), Es(107), tell(160), Then(170), Es(179), never(186), never(195), pressure(202), never(205), ever(223)]
+AA: [cause(36), motto(51), follow(60), promise(68), On(113), on(118), on(123), want(154), Are(178), Got(191), was(224)]
+UH: [Full(56), could(70)]
+UW: [you(59), You'll(63), shoe,(76), you(88), two(116), blue(141), do(215), you(228)]
+EY: [congratulations(87), valet(92), make(109), face,(115), waist(120), basic,(132), famous(133), naked(135), playin'(140), laces(142), Make(165), lace(172), ain't(185)]
+
+
+Rule 4: ...-[O']N[C']'-...
+WN: [One(0), one(196)]
+HH: [Hunnit(1), Hussle(3)]
+NT: [Hunnit(1), ain't(185)]
+B: [Ballin'(4), budget(28), ballin'(43), Beverly(100), basic,(132), Bitches(146), be(212)]
+LN: [Ballin'(4), ballin'(43), fallin'(149)]
+FR: [for(5), Four(20), for(44), for(129), for(150), for(156), for(181)]
+RL: [real,(6), real(130), real(182), real(210)]
+M: [I'm(7), money(10), my(17), money(19), my(26), minute(46), my(50), motto(51), my(61), my(75), my(79), I'm(91), me(155), my(157), money,(158), my(163), my(173), money(192), I'm(194), me(220)]
+T: [talkin'(8), it(30), at(32), it(40), it(55), it(72), it(90), at(98), two(116)]
+TH: [thousand(12), thousand(21)]
+SH: [show(14), shoe,(76), she(128), She(153)]
+BT: [but(15), but(24), but(193), but(203)]
+DHTS: [that's(16), that's(25), that's(35), that's(49), that's(66)]
+FK: [Fuck(29), fuck(167)]
+F: [off(31), if(58), follow(60), famous(133), fallin'(149), if(221)]
+HHZ: [hoes(38), Hoes(218)]
+LV: [love(39), Live(199)]
+V: [I've(41), vision(80), Vee(105), Vee(106)]
+TL: [till(52), tell(160)]
+GT: [get(54), Got(191)]
+Y: [you(59), you(88), you(228)]
+MT: [commitment(62), Meet(131)]
+N: [nigga,(65), nothin',(86), On(113), on(118), on(123), naked(135), never(186), nigga(190), never(195), under(201), never(205), an(207), nigga(211)]
+PR: [promise(68), prism,(111), prolly(139), pressure(202)]
+D: [dynasty(77), do(215)]
+SHT: [shit(83), shit"(217)]
+L: [congratulations(87), valet(92), laces(142)]
+BCH: [bitch(95), bitch(189)]
+SN: [Center(101), Sunlight(102)]
+S: [Es(107), Es(179), Cee(180)]
+R: [Rolex(108), Are(178)]
+MK: [make(109), Make(165)]
+SKS: [sacks(137), six(145)]
+
+
+
+
+Poem with word IDs:
+
+One(0) Hunnit(1) 
+Nipsey(2) Hussle(3) 
+
+Ballin'(4) for(5) real,(6) I'm(7) talkin'(8) big(9) money(10) 
+Hundred(11) thousand(12) a(13) show(14) but(15) that's(16) my(17) rent(18) money(19) 
+Four(20) thousand(21) a(22) pound(23) but(24) that's(25) my(26) smoke(27) budget(28) 
+Fuck(29) it(30) off(31) at(32) the(33) mall(34) that's(35) cause(36) these(37) hoes(38) love(39) it(40) 
+I've(41) been(42) ballin'(43) for(44) a(45) minute(46) 
+I'ma(47) grind,(48) that's(49) my(50) motto(51) till(52) I(53) get(54) it(55) 
+Full(56) time,(57) if(58) you(59) follow(60) my(61) commitment(62) 
+You'll(63) shine(64) nigga,(65) that's(66) a(67) promise(68) man(69) could(70) kill(71) it(72) 
+Afghanistan(73) in(74) my(75) shoe,(76) dynasty(77) in(78) my(79) vision(80) 
+Built(81) this(82) shit(83) up(84) from(85) nothin',(86) congratulations(87) you(88) did(89) it(90) 
+I'm(91) valet(92) with(93) a(94) bitch(95) and(96) we(97) at(98) the(99) Beverly(100) Center(101) 
+Sunlight(102) hit(103) them(104) Vee(105) Vee(106) Es(107) Rolex(108) make(109) a(110) prism,(111) glitter(112) 
+On(113) her(114) face,(115) two(116) Cees(117) on(118) her(119) waist(120) 
+Gold(121) spikes(122) on(123) her(124) heels(125) 
+Purse(126) match,(127) she(128) for(129) real(130) 
+Meet(131) basic,(132) famous(133) and(134) naked(135) 
+Black(136) sacks(137) fifteen,(138) prolly(139) playin'(140) blue(141) laces(142) in(143) the(144) six(145) 
+Bitches(146) that(147) strip(148) fallin'(149) for(150) the(151) Crip(152) 
+She(153) want(154) me(155) for(156) my(157) money,(158) I(159) tell(160) her(161) such(162) my(163) rich(164) 
+Make(165) her(166) fuck(167) the(168) clique(169) 
+Then(170) I(171) lace(172) my(173) Chucks(174) and(175) split(176) 
+I'ma(177) Are(178) Es(179) Cee(180) for(181) real(182) and(183) I(184) ain't(185) never(186) loved(187) a(188) bitch(189) nigga(190) 
+Got(191) money(192) but(193) I'm(194) never(195) one(196) to(197) switch(198) 
+Live(199) life(200) under(201) pressure(202) but(203) I(204) never(205) bust(206) an(207) itch(208) 
+And(209) real(210) nigga(211) be(212) like(213) "Hussle(214) do(215) your(216) shit"(217) 
+Hoes(218) ask(219) me(220) if(221) I(222) ever(223) was(224) a(225) pimp(226) 
+What(227) you(228) think?(229) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see OneHunnit_Output_B_uncertainty.txt in the Poems directory
+
+One (0:0) W AH1 N (0:1) HH W AH1 N
+for (5:0) F AO1 R (5:1) F ER0 (5:2) F R ER0
+Hundred (11:0) HH AH1 N - D R AH0 D (11:1) HH AH1 N - D R IH0 D (11:2) HH AH1 - N ER0 D (11:3) HH AH1 N - D ER0 D
+thousand (12:0) TH AW1 - Z AH0 N D (12:1) TH AW1 - Z AH0 N
+a (13:0) AH0 (13:1) EY1
+thousand (21:0) TH AW1 - Z AH0 N D (21:1) TH AW1 - Z AH0 N
+a (22:0) AH0 (22:1) EY1
+it (30:0) IH1 T (30:1) IH0 T
+the (33:0) DH AH0 (33:1) DH AH1 (33:2) DH IY0
+cause (36:0) K AA1 Z (36:1) K AO1 Z
+it (40:0) IH1 T (40:1) IH0 T
+been (42:0) B IH1 N (42:1) B AH0 N (42:2) B IH0 N
+for (44:0) F AO1 R (44:1) F ER0 (44:2) F R ER0
+a (45:0) AH0 (45:1) EY1
+minute (46:0) M IH1 - N AH0 T (46:1) M AY0 - N UW1 T (46:2) M AY0 - N Y UW1 T
+get (54:0) G EH1 T (54:1) G IH1 T
+it (55:0) IH1 T (55:1) IH0 T
+if (58:0) IH1 F (58:1) IH0 F
+a (67:0) AH0 (67:1) EY1
+it (72:0) IH1 T (72:1) IH0 T
+in (74:0) IH0 N (74:1) IH1 N
+in (78:0) IH0 N (78:1) IH1 N
+this (82:0) DH IH1 S (82:1) DH IH0 S
+from (85:0) F R AH1 M (85:1) F ER0 M
+did (89:0) D IH1 D (89:1) D IH0 D
+it (90:0) IH1 T (90:1) IH0 T
+with (93:0) W IH1 DH (93:1) W IH1 TH (93:2) W IH0 TH (93:3) W IH0 DH
+a (94:0) AH0 (94:1) EY1
+and (96:0) AE0 N D (96:1) AH0 N D
+the (99:0) DH AH0 (99:1) DH AH1 (99:2) DH IY0
+Center (101:0) S EH1 N - T ER0 (101:1) S EH1 - N ER0
+them (104:0) DH EH1 M (104:1) DH AH0 M
+a (110:0) AH0 (110:1) EY1
+On (113:0) AA1 N (113:1) AO1 N
+her (114:0) HH ER0 (114:1) HH ER1
+on (118:0) AA1 N (118:1) AO1 N
+her (119:0) HH ER0 (119:1) HH ER1
+on (123:0) AA1 N (123:1) AO1 N
+her (124:0) HH ER0 (124:1) HH ER1
+for (129:0) F AO1 R (129:1) F ER0 (129:2) F R ER0
+and (134:0) AE0 N D (134:1) AH0 N D
+fifteen, (138:0) F IH0 F - T IY1 N (138:1) F IH1 F - T IY1 N
+laces (142:0) L EY1 - S AH0 Z (142:1) L EY1 - S IH0 Z
+in (143:0) IH0 N (143:1) IH1 N
+the (144:0) DH AH0 (144:1) DH AH1 (144:2) DH IY0
+that (147:0) DH AE1 T (147:1) DH AH0 T
+for (150:0) F AO1 R (150:1) F ER0 (150:2) F R ER0
+the (151:0) DH AH0 (151:1) DH AH1 (151:2) DH IY0
+want (154:0) W AA1 N T (154:1) W AO1 N T
+for (156:0) F AO1 R (156:1) F ER0 (156:2) F R ER0
+her (161:0) HH ER0 (161:1) HH ER1
+her (166:0) HH ER0 (166:1) HH ER1
+the (168:0) DH AH0 (168:1) DH AH1 (168:2) DH IY0
+and (175:0) AE0 N D (175:1) AH0 N D
+Are (178:0) AA1 R (178:1) ER0
+for (181:0) F AO1 R (181:1) F ER0 (181:2) F R ER0
+and (183:0) AE0 N D (183:1) AH0 N D
+a (188:0) AH0 (188:1) EY1
+one (196:0) W AH1 N (196:1) HH W AH1 N
+to (197:0) T UW0 (197:1) T IH0 (197:2) T AH0
+Live (199:0) L AY1 V (199:1) L IH1 V
+an (207:0) AE1 N (207:1) AH0 N
+And (209:0) AE0 N D (209:1) AH0 N D
+be (212:0) B IY1 (212:1) B IY0
+your (216:0) Y AO1 R (216:1) Y UH1 R
+if (221:0) IH1 F (221:1) IH0 F
+was (224:0) W AA1 Z (224:1) W AH1 Z (224:2) W AH0 Z (224:3) W AO1 Z
+a (225:0) AH0 (225:1) EY1
+What (227:0) W AH1 T (227:1) HH W AH1 T
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see OneHunnit_Output_B_uncertainty.txt in the Poems directory
+
+Hunnit (1:0)  HH AH1- N IH1 T
+Nipsey (2:0)  N IH1 P- Z IY0
+Hussle (3:0)  HH AH1- S AH0 L
+Ballin' (4:0)  B AE1- L IH1 N
+ballin' (43:0)  B AE1- L IH1 N
+I'ma (47:0)  IH1- M AH0
+nigga, (65:0)  N IH1- G AH0
+prolly (139:0)  P R OW1- L IY0
+fallin' (149:0)  F AE1- L IH1 N
+Chucks (174:0)  CH AH1 K S
+I'ma (177:0)  IH1- M AH0
+Cee (180:0)  S IY1
+nigga (190:0)  N IH1- G AH0
+nigga (211:0)  N IH1- G AH0
+"Hussle (214:0)  AH1- S AH0 L
+shit" (217:0)  SH IH1 T

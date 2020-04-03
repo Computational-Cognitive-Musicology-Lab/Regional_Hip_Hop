@@ -1,0 +1,168 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+AY: [I(4), I(48), I(51), I(56), I(63), I(72), I(133)]
+LAYK: [like(9), like(44), like(118)]
+DHAH: [the(10), the(19), the(40), the(45), the(69), the(99), the(140), the(152)]
+MEYD: [made(15), made(21)]
+NOW: [no(16), no(86)]
+WAHT: [what(18), what(92)]
+MIY: [me(24), me(147)]
+DHEHM: [them(26), them(124)]
+AEND: [and(28), and(36), and(149)]
+TUW: [to(30), to(138)]
+DHAET: [that(33), that(47), that(71), that(116)]
+MAHNIY: [money(34), money(54)]
+AAN: [on(39), on(121), on(131), on(142), on(154)]
+WEY: [way(46), way(70)]
+AWT: [out(50), out(58), out(66), out(74), out(83), out(110)]
+DAOG: [dog,(62), dog(100)]
+AOL: [all(65), all(79), all(106)]
+FRIY: [Free(75), Free(102)]
+DHOW: [though,(77), though,(104)]
+LEHT: [let(78), let(105)]
+AHV: [of(80), of(107)]
+MAY: [my(81), my(89), my(94), my(108)]
+DAAGZ: [dogs(82), dogs(109)]
+AHP: [up(97), up(114), up(148)]
+IHN: [in(98), in(115)]
+WIY: [We(111), we(119), we(126)]
+GAAN: [gon'(112), gon'(127), gon'(145)]
+AHM: ['em(122), 'em(132)]
+SEHND: [send(134), send(139)]
+HHIHM: [him(143), him(155)]
+
+
+Rule 1: ...-O[NC]'
+AAT: [Hot(0), got(93), thot(137)]
+AY: [I(4), I(48), I(51), I(56), I(63), I(72), my(81), my(89), my(94), my(108), I(133)]
+AEK: [crack(7), back(35)]
+AYK: [like(9), like(44), like(118)]
+EYD: [grade(12), made(15), made(21)]
+OW: [no(16), though,(77), no(86), though,(104)]
+AHT: [what(18), what(92)]
+IHT: [shit(20), it(38)]
+IY: [me(24), be(52), Free(75), Free(102), We(111), we(119), we(126), She(144), me(147)]
+EHM: [them(26), them(124)]
+EHT: [Get(32), let(78), let(105)]
+AET: [that(33), that(47), that(71), that(116)]
+EHND: [spend(37), send(134), send(139)]
+AAN: [on(39), gon'(112), on(121), gon'(127), on(131), on(142), gon'(145), on(154)]
+EY: [way(46), way(70)]
+AOL: [ball(49), fall(57), all(65), all(79), all(106), call(146)]
+AWT: [out(50), out(58), out(66), out(74), out(83), out(110)]
+IHL: ['til(55), lil'(136)]
+AOG: [dog,(62), dog(100)]
+AAGZ: [dogs(82), dogs(109)]
+AATS: [pussycats(87), shots(130), hots(153)]
+AHP: [up(97), up(114), up(148)]
+IHM: [him(143), him(155)]
+
+
+Rule 2: ...-O[NC'-ONC]
+AHNIY: [money(34), money(54)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Hot(0) Nigga(1) 
+Bobby(2) Shmurda(3) 
+
+I(4) been(5) selling(6) crack(7) since(8) like(9) the(10) fifth(11) grade(12) 
+Really(13) never(14) made(15) no(16) difference(17) what(18) the(19) shit(20) made(21) 
+Jaja(22) taught(23) me(24) flip(25) them(26) packs(27) and(28) how(29) to(30) maintain(31) 
+Get(32) that(33) money(34) back(35) and(36) spend(37) it(38) on(39) the(40) same(41) thang(42) 
+Shawty(43) like(44) the(45) way(46) that(47) I(48) ball(49) out(50) 
+I(51) be(52) getting(53) money(54) 'til(55) I(56) fall(57) out(58) 
+You(59) talking(60) cash,(61) dog,(62) I(63) goes(64) all(65) out(66) 
+Shorty(67) love(68) the(69) way(70) that(71) I(72) floss(73) out(74) 
+Free(75) Greezy,(76) though,(77) let(78) all(79) of(80) my(81) dogs(82) out(83) 
+Mama(84) said(85) no(86) pussycats(87) inside(88) my(89) doghouse(90) 
+That's(91) what(92) got(93) my(94) daddy(95) locked(96) up(97) in(98) the(99) dog(100) pound(101) 
+Free(102) Phantom(103) though,(104) let(105) all(106) of(107) my(108) dogs(109) out(110) 
+We(111) gon'(112) pull(113) up(114) in(115) that(116) hooptie(117) like(118) we(119) cops(120) on(121) 'em(122) 
+With(123) them(124) sixteens,(125) we(126) gon'(127) put(128) some(129) shots(130) on(131) 'em(132) 
+I(133) send(134) a(135) lil'(136) thot(137) to(138) send(139) the(140) drop(141) on(142) him(143) 
+She(144) gon'(145) call(146) me(147) up(148) and(149) I'ma(150) sic(151) the(152) hots(153) on(154) him(155) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see HotNigga_Output_A_uncertainty.txt in the Poems directory
+
+been (5:0) B IH1 N (5:1) B AH0 N (5:2) B IH0 N
+the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+fifth (11:0) F IH1 F TH (11:1) F IH1 TH
+Really (13:0) R IH1 - L IY0 (13:1) R IY1 - L IY0
+difference (17:0) D IH1 - F ER0 - AH0 N S (17:1) D IH1 - F R AH0 N S
+what (18:0) W AH1 T (18:1) HH W AH1 T
+the (19:0) DH AH0 (19:1) DH AH1 (19:2) DH IY0
+them (26:0) DH EH1 M (26:1) DH AH0 M
+and (28:0) AE0 N D (28:1) AH0 N D
+to (30:0) T UW0 (30:1) T IH0 (30:2) T AH0
+Get (32:0) G EH1 T (32:1) G IH1 T
+that (33:0) DH AE1 T (33:1) DH AH0 T
+and (36:0) AE0 N D (36:1) AH0 N D
+it (38:0) IH1 T (38:1) IH0 T
+on (39:0) AA1 N (39:1) AO1 N
+the (40:0) DH AH0 (40:1) DH AH1 (40:2) DH IY0
+the (45:0) DH AH0 (45:1) DH AH1 (45:2) DH IY0
+that (47:0) DH AE1 T (47:1) DH AH0 T
+be (52:0) B IY1 (52:1) B IY0
+getting (53:0) G EH1 - T IH0 NG (53:1) G IH1 - T IH0 NG
+fall (57:0) F AO1 L (57:1) F AA1 L
+the (69:0) DH AH0 (69:1) DH AH1 (69:2) DH IY0
+that (71:0) DH AE1 T (71:1) DH AH0 T
+of (80:0) AH0 V (80:1) AH0 V
+dogs (82:0) D AA1 G Z (82:1) D AO1 G Z
+inside (88:0) IH0 N - S AY1 D (88:1) IH1 N - S AY2 D
+what (92:0) W AH1 T (92:1) HH W AH1 T
+in (98:0) IH0 N (98:1) IH1 N
+the (99:0) DH AH0 (99:1) DH AH1 (99:2) DH IY0
+Phantom (103:0) F AE1 N - T AH0 M (103:1) F AE1 - N AH0 M
+of (107:0) AH0 V (107:1) AH0 V
+dogs (109:0) D AA1 G Z (109:1) D AO1 G Z
+in (115:0) IH0 N (115:1) IH1 N
+that (116:0) DH AE1 T (116:1) DH AH0 T
+on (121:0) AA1 N (121:1) AO1 N
+With (123:0) W IH1 DH (123:1) W IH1 TH (123:2) W IH0 TH (123:3) W IH0 DH
+them (124:0) DH EH1 M (124:1) DH AH0 M
+on (131:0) AA1 N (131:1) AO1 N
+a (135:0) AH0 (135:1) EY1
+to (138:0) T UW0 (138:1) T IH0 (138:2) T AH0
+the (140:0) DH AH0 (140:1) DH AH1 (140:2) DH IY0
+drop (141:0) D R AA1 P (141:1) D R AO1 P
+on (142:0) AA1 N (142:1) AO1 N
+him (143:0) HH IH1 M (143:1) IH0 M
+and (149:0) AE0 N D (149:1) AH0 N D
+the (152:0) DH AH0 (152:1) DH AH1 (152:2) DH IY0
+on (154:0) AA1 N (154:1) AO1 N
+him (155:0) HH IH1 M (155:1) IH0 M
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see HotNigga_Output_A_uncertainty.txt in the Poems directory
+
+Nigga (1:0)  N IH1- G AH0
+Shmurda (3:0)  SH M ER1- D AH0
+Jaja (22:0)  JH AA1- JH AH0
+thang (42:0)  TH AE1 NG
+Shawty (43:0)  SH AO1- T IY0
+'til (55:0)  T IH1 L
+Greezy, (76:0)  G R IY1- Z IY0
+pussycats (87:0)  P AH1- S IH1- K AA1 T S
+gon' (112:0)  G AA1 N
+hooptie (117:0)  HH UW1 P- T IY0
+'em (122:0)  AH0 M
+gon' (127:0)  G AA1 N
+'em (132:0)  AH0 M
+lil' (136:0)  L IH1 L
+thot (137:0)  TH AA1 T
+gon' (145:0)  G AA1 N
+I'ma (150:0)  IH1- M AH0

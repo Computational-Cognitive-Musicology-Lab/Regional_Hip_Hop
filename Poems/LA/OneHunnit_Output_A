@@ -1,0 +1,211 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+WAHN: [One(0), one(196)]
+BAELIHN: [Ballin'(4), ballin'(43)]
+FAOR: [for(5), Four(20), for(44), for(129), for(150), for(156), for(181)]
+RIYL: [real,(6), real(130), real(182), real(210)]
+AYM: [I'm(7), I'm(91), I'm(194)]
+MAHNIY: [money(10), money(19), money,(158), money(192)]
+THAWZAHND: [thousand(12), thousand(21)]
+AH: [a(13), a(22), a(45), a(67), a(94), a(110), a(188), a(225)]
+BAHT: [but(15), but(24), but(193), but(203)]
+DHAETS: [that's(16), that's(25), that's(35), that's(49), that's(66)]
+MAY: [my(17), my(26), my(50), my(61), my(75), my(79), my(157), my(163), my(173)]
+FAHK: [Fuck(29), fuck(167)]
+IHT: [it(30), it(40), it(55), it(72), it(90)]
+AET: [at(32), at(98)]
+DHAH: [the(33), the(99), the(144), the(151), the(168)]
+HHOWZ: [hoes(38), Hoes(218)]
+IHMAH: [I'ma(47), I'ma(177)]
+AY: [I(53), I(159), I(171), I(184), I(204), I(222)]
+IHF: [if(58), if(221)]
+YUW: [you(59), you(88), you(228)]
+NIHGAH: [nigga,(65), nigga(190), nigga(211)]
+IHN: [in(74), in(78), in(143)]
+SHIHT: [shit(83), shit"(217)]
+BIHCH: [bitch(95), bitch(189)]
+AEND: [and(96), and(134), and(175), and(183), And(209)]
+VIY: [Vee(105), Vee(106)]
+EHS: [Es(107), Es(179)]
+MEYK: [make(109), Make(165)]
+AAN: [On(113), on(118), on(123)]
+HHER: [her(114), her(119), her(124), her(161), her(166)]
+TUW: [two(116), to(197)]
+SHIY: [she(128), She(153)]
+MIY: [me(155), me(220)]
+NEHVER: [never(186), never(195), never(205)]
+
+
+Rule 1: ...-O[NC]'
+AHN: [One(0), one(196)]
+IHT: [Hunnit(1), it(30), it(40), it(55), it(72), shit(83), it(90), hit(103), split(176), shit"(217)]
+IHN: [Ballin'(4), been(42), ballin'(43), fallin'(149)]
+AOR: [for(5), Four(20), for(44), for(129), for(150), for(156), for(181), your(216)]
+IYL: [real,(6), real(130), real(182), real(210)]
+AYM: [I'm(7), time,(57), I'm(91), I'm(194)]
+AHT: [but(15), but(24), but(193), but(203), What(227)]
+AETS: [that's(16), that's(25), that's(35), that's(49), that's(66)]
+AY: [my(17), my(26), my(50), I(53), my(61), my(75), my(79), my(157), I(159), my(163), I(171), my(173), I(184), I(204), I(222)]
+AHK: [Fuck(29), fuck(167)]
+AET: [at(32), at(98), that(147)]
+AAZ: [cause(36), was(224)]
+IYZ: [these(37), Cees(117)]
+OWZ: [hoes(38), Hoes(218)]
+AYV: [I've(41), Live(199)]
+IHL: [till(52), kill(71)]
+IHF: [if(58), if(221)]
+UW: [you(59), shoe,(76), you(88), two(116), blue(141), do(215), you(228)]
+AEN: [man(69), an(207)]
+IHCH: [bitch(95), rich(164), bitch(189), switch(198), itch(208)]
+IY: [we(97), Vee(105), Vee(106), she(128), She(153), me(155), Cee(180), be(212), me(220)]
+EHS: [Es(107), Es(179)]
+EYK: [make(109), Make(165)]
+AAN: [On(113), on(118), on(123)]
+EYS: [face,(115), lace(172)]
+IHP: [strip(148), Crip(152)]
+
+
+Rule 2: ...-O[NC'-ONC]
+AHSAHL: [Hussle(3), "Hussle(214)]
+AHNIY: [money(10), money(19), money,(158), money(192)]
+AWZAHND: [thousand(12), thousand(21)]
+IHMAH: [I'ma(47), I'ma(177)]
+IHGAH: [nigga,(65), nigga(190), nigga(211)]
+EHVER: [never(186), never(195), never(205), ever(223)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+One(0) Hunnit(1) 
+Nipsey(2) Hussle(3) 
+
+Ballin'(4) for(5) real,(6) I'm(7) talkin'(8) big(9) money(10) 
+Hundred(11) thousand(12) a(13) show(14) but(15) that's(16) my(17) rent(18) money(19) 
+Four(20) thousand(21) a(22) pound(23) but(24) that's(25) my(26) smoke(27) budget(28) 
+Fuck(29) it(30) off(31) at(32) the(33) mall(34) that's(35) cause(36) these(37) hoes(38) love(39) it(40) 
+I've(41) been(42) ballin'(43) for(44) a(45) minute(46) 
+I'ma(47) grind,(48) that's(49) my(50) motto(51) till(52) I(53) get(54) it(55) 
+Full(56) time,(57) if(58) you(59) follow(60) my(61) commitment(62) 
+You'll(63) shine(64) nigga,(65) that's(66) a(67) promise(68) man(69) could(70) kill(71) it(72) 
+Afghanistan(73) in(74) my(75) shoe,(76) dynasty(77) in(78) my(79) vision(80) 
+Built(81) this(82) shit(83) up(84) from(85) nothin',(86) congratulations(87) you(88) did(89) it(90) 
+I'm(91) valet(92) with(93) a(94) bitch(95) and(96) we(97) at(98) the(99) Beverly(100) Center(101) 
+Sunlight(102) hit(103) them(104) Vee(105) Vee(106) Es(107) Rolex(108) make(109) a(110) prism,(111) glitter(112) 
+On(113) her(114) face,(115) two(116) Cees(117) on(118) her(119) waist(120) 
+Gold(121) spikes(122) on(123) her(124) heels(125) 
+Purse(126) match,(127) she(128) for(129) real(130) 
+Meet(131) basic,(132) famous(133) and(134) naked(135) 
+Black(136) sacks(137) fifteen,(138) prolly(139) playin'(140) blue(141) laces(142) in(143) the(144) six(145) 
+Bitches(146) that(147) strip(148) fallin'(149) for(150) the(151) Crip(152) 
+She(153) want(154) me(155) for(156) my(157) money,(158) I(159) tell(160) her(161) such(162) my(163) rich(164) 
+Make(165) her(166) fuck(167) the(168) clique(169) 
+Then(170) I(171) lace(172) my(173) Chucks(174) and(175) split(176) 
+I'ma(177) Are(178) Es(179) Cee(180) for(181) real(182) and(183) I(184) ain't(185) never(186) loved(187) a(188) bitch(189) nigga(190) 
+Got(191) money(192) but(193) I'm(194) never(195) one(196) to(197) switch(198) 
+Live(199) life(200) under(201) pressure(202) but(203) I(204) never(205) bust(206) an(207) itch(208) 
+And(209) real(210) nigga(211) be(212) like(213) "Hussle(214) do(215) your(216) shit"(217) 
+Hoes(218) ask(219) me(220) if(221) I(222) ever(223) was(224) a(225) pimp(226) 
+What(227) you(228) think?(229) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see OneHunnit_Output_A_uncertainty.txt in the Poems directory
+
+One (0:0) W AH1 N (0:1) HH W AH1 N
+for (5:0) F AO1 R (5:1) F ER0 (5:2) F R ER0
+Hundred (11:0) HH AH1 N - D R AH0 D (11:1) HH AH1 N - D R IH0 D (11:2) HH AH1 - N ER0 D (11:3) HH AH1 N - D ER0 D
+thousand (12:0) TH AW1 - Z AH0 N D (12:1) TH AW1 - Z AH0 N
+a (13:0) AH0 (13:1) EY1
+thousand (21:0) TH AW1 - Z AH0 N D (21:1) TH AW1 - Z AH0 N
+a (22:0) AH0 (22:1) EY1
+it (30:0) IH1 T (30:1) IH0 T
+the (33:0) DH AH0 (33:1) DH AH1 (33:2) DH IY0
+cause (36:0) K AA1 Z (36:1) K AO1 Z
+it (40:0) IH1 T (40:1) IH0 T
+been (42:0) B IH1 N (42:1) B AH0 N (42:2) B IH0 N
+for (44:0) F AO1 R (44:1) F ER0 (44:2) F R ER0
+a (45:0) AH0 (45:1) EY1
+minute (46:0) M IH1 - N AH0 T (46:1) M AY0 - N UW1 T (46:2) M AY0 - N Y UW1 T
+get (54:0) G EH1 T (54:1) G IH1 T
+it (55:0) IH1 T (55:1) IH0 T
+if (58:0) IH1 F (58:1) IH0 F
+a (67:0) AH0 (67:1) EY1
+it (72:0) IH1 T (72:1) IH0 T
+in (74:0) IH0 N (74:1) IH1 N
+in (78:0) IH0 N (78:1) IH1 N
+this (82:0) DH IH1 S (82:1) DH IH0 S
+from (85:0) F R AH1 M (85:1) F ER0 M
+did (89:0) D IH1 D (89:1) D IH0 D
+it (90:0) IH1 T (90:1) IH0 T
+with (93:0) W IH1 DH (93:1) W IH1 TH (93:2) W IH0 TH (93:3) W IH0 DH
+a (94:0) AH0 (94:1) EY1
+and (96:0) AE0 N D (96:1) AH0 N D
+the (99:0) DH AH0 (99:1) DH AH1 (99:2) DH IY0
+Center (101:0) S EH1 N - T ER0 (101:1) S EH1 - N ER0
+them (104:0) DH EH1 M (104:1) DH AH0 M
+a (110:0) AH0 (110:1) EY1
+On (113:0) AA1 N (113:1) AO1 N
+her (114:0) HH ER0 (114:1) HH ER1
+on (118:0) AA1 N (118:1) AO1 N
+her (119:0) HH ER0 (119:1) HH ER1
+on (123:0) AA1 N (123:1) AO1 N
+her (124:0) HH ER0 (124:1) HH ER1
+for (129:0) F AO1 R (129:1) F ER0 (129:2) F R ER0
+and (134:0) AE0 N D (134:1) AH0 N D
+fifteen, (138:0) F IH0 F - T IY1 N (138:1) F IH1 F - T IY1 N
+laces (142:0) L EY1 - S AH0 Z (142:1) L EY1 - S IH0 Z
+in (143:0) IH0 N (143:1) IH1 N
+the (144:0) DH AH0 (144:1) DH AH1 (144:2) DH IY0
+that (147:0) DH AE1 T (147:1) DH AH0 T
+for (150:0) F AO1 R (150:1) F ER0 (150:2) F R ER0
+the (151:0) DH AH0 (151:1) DH AH1 (151:2) DH IY0
+want (154:0) W AA1 N T (154:1) W AO1 N T
+for (156:0) F AO1 R (156:1) F ER0 (156:2) F R ER0
+her (161:0) HH ER0 (161:1) HH ER1
+her (166:0) HH ER0 (166:1) HH ER1
+the (168:0) DH AH0 (168:1) DH AH1 (168:2) DH IY0
+and (175:0) AE0 N D (175:1) AH0 N D
+Are (178:0) AA1 R (178:1) ER0
+for (181:0) F AO1 R (181:1) F ER0 (181:2) F R ER0
+and (183:0) AE0 N D (183:1) AH0 N D
+a (188:0) AH0 (188:1) EY1
+one (196:0) W AH1 N (196:1) HH W AH1 N
+to (197:0) T UW0 (197:1) T IH0 (197:2) T AH0
+Live (199:0) L AY1 V (199:1) L IH1 V
+an (207:0) AE1 N (207:1) AH0 N
+And (209:0) AE0 N D (209:1) AH0 N D
+be (212:0) B IY1 (212:1) B IY0
+your (216:0) Y AO1 R (216:1) Y UH1 R
+if (221:0) IH1 F (221:1) IH0 F
+was (224:0) W AA1 Z (224:1) W AH1 Z (224:2) W AH0 Z (224:3) W AO1 Z
+a (225:0) AH0 (225:1) EY1
+What (227:0) W AH1 T (227:1) HH W AH1 T
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see OneHunnit_Output_A_uncertainty.txt in the Poems directory
+
+Hunnit (1:0)  HH AH1- N IH1 T
+Nipsey (2:0)  N IH1 P- Z IY0
+Hussle (3:0)  HH AH1- S AH0 L
+Ballin' (4:0)  B AE1- L IH1 N
+ballin' (43:0)  B AE1- L IH1 N
+I'ma (47:0)  IH1- M AH0
+nigga, (65:0)  N IH1- G AH0
+prolly (139:0)  P R OW1- L IY0
+fallin' (149:0)  F AE1- L IH1 N
+Chucks (174:0)  CH AH1 K S
+I'ma (177:0)  IH1- M AH0
+Cee (180:0)  S IY1
+nigga (190:0)  N IH1- G AH0
+nigga (211:0)  N IH1- G AH0
+"Hussle (214:0)  AH1- S AH0 L
+shit" (217:0)  SH IH1 T

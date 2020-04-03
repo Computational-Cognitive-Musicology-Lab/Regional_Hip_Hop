@@ -1,0 +1,435 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+OW: [Bodak(0), know(21)]
+OW: [Bodak(0), know(26)]
+OW: [Bodak(0), so(51)]
+OW: [Bodak(0), know(54)]
+OW: [Bodak(0), go(163)]
+OW: [Bodak(0), know(181)]
+OW: [Bodak(0), know(197)]
+OW: [Bodak(0), no(210)]
+EY: [say(6), baby(222)]
+OW: [know(21), prolly(183)]
+OW: [know(26), prolly(183)]
+AY: [I(28), tired(56)]
+AY: [I(39), tired(56)]
+AY: [I(44), tired(56)]
+OW: [so(51), prolly(183)]
+AY: [I(53), tired(56)]
+OW: [know(54), prolly(183)]
+AY: [tired(56), I(83)]
+AY: [tired(56), I(108)]
+AY: [tired(56), I(115)]
+AY: [tired(56), I(122)]
+AY: [tired(56), my(129)]
+AY: [tired(56), buy(152)]
+AY: [tired(56), I(162)]
+AY: [tired(56), I(168)]
+AY: [tired(56), my(192)]
+AY: [tired(56), I(202)]
+AY: [tired(56), my(204)]
+AY: [tired(56), I(207)]
+IHKS: [mixtapes(72), six(74)]
+EY: [They(95), baby(222)]
+EY: [they(98), baby(222)]
+EY: [say,(99), baby(222)]
+EY: [they(104), baby(222)]
+EY: ["Okay"(143), baby(222)]
+OW: [go(163), prolly(183)]
+OW: [know(181), prolly(183)]
+OW: [prolly(183), know(197)]
+OW: [prolly(183), no(210)]
+EY: [pay(203), baby(222)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AHK: [Bodak(0), fuck(63)]
+OW: [Yellow(1), know(21)]
+OW: [Yellow(1), know(26)]
+OW: [Yellow(1), so(51)]
+OW: [Yellow(1), know(54)]
+OW: [Yellow(1), go(163)]
+OW: [Yellow(1), know(181)]
+OW: [Yellow(1), know(197)]
+OW: [Yellow(1), no(210)]
+IY: [Cardi(2), B(3)]
+IY: [Cardi(2), she(5)]
+IY: [Cardi(2), she(7)]
+IY: [Cardi(2), see(17)]
+IY: [Cardi(2), B,(19)]
+IY: [Cardi(2), be(29)]
+IY: [Cardi(2), fee(43)]
+IY: [Cardi(2), be(45)]
+IY: [Cardi(2), me(58)]
+IY: [Cardi(2), me(69)]
+IY: [Cardi(2), me?(82)]
+IY: [Cardi(2), me(94)]
+IY: [Cardi(2), see(96)]
+IY: [Cardi(2), be(106)]
+IY: [Cardi(2), He(135)]
+IY: [Cardi(2), he(149)]
+IY: [Cardi(2), he(151)]
+IY: [Cardi(2), me(153)]
+IY: [Cardi(2), me(186)]
+IY: [Cardi(2), be(217)]
+IY: [Cardi(2), me,(220)]
+IY: [B(3), Cardi(18)]
+IY: [B(3), party,(36)]
+IY: [B(3), Honestly,(59)]
+IY: [B(3), pussy(130)]
+IY: [B(3), prolly(183)]
+IY: [B(3), baby(222)]
+IY: [she(5), Cardi(18)]
+IY: [she(5), party,(36)]
+IY: [she(5), Honestly,(59)]
+IY: [she(5), pussy(130)]
+IY: [she(5), prolly(183)]
+IY: [she(5), baby(222)]
+IY: [she(7), Cardi(18)]
+IY: [she(7), party,(36)]
+IY: [she(7), Honestly,(59)]
+IY: [she(7), pussy(130)]
+IY: [she(7), prolly(183)]
+IY: [she(7), baby(222)]
+UW: [do(9), to(11)]
+UW: [do(9), to(35)]
+UW: [do(9), to(212)]
+UW: [to(11), who?(12)]
+UW: [to(11), you(20)]
+UW: [to(11), you(25)]
+UW: [to(11), You(30)]
+UW: [to(11), who(65)]
+UW: [to(11), two(71)]
+UW: [to(11), who(103)]
+UW: [to(11), boo(121)]
+UW: [to(11), new(159)]
+UW: [to(11), you(182)]
+UW: [to(11), you(195)]
+UW: [who?(12), to(35)]
+UW: [who?(12), to(212)]
+IY: [see(17), Cardi(18)]
+IY: [see(17), party,(36)]
+IY: [see(17), Honestly,(59)]
+IY: [see(17), pussy(130)]
+IY: [see(17), prolly(183)]
+IY: [see(17), baby(222)]
+IY: [Cardi(18), B,(19)]
+IY: [Cardi(18), be(29)]
+IY: [Cardi(18), fee(43)]
+IY: [Cardi(18), be(45)]
+IY: [Cardi(18), me(58)]
+IY: [Cardi(18), me(69)]
+IY: [Cardi(18), me?(82)]
+IY: [Cardi(18), me(94)]
+IY: [Cardi(18), see(96)]
+IY: [Cardi(18), be(106)]
+IY: [Cardi(18), He(135)]
+IY: [Cardi(18), he(149)]
+IY: [Cardi(18), he(151)]
+IY: [Cardi(18), me(153)]
+IY: [Cardi(18), me(186)]
+IY: [Cardi(18), be(217)]
+IY: [Cardi(18), me,(220)]
+IY: [B,(19), party,(36)]
+IY: [B,(19), Honestly,(59)]
+IY: [B,(19), pussy(130)]
+IY: [B,(19), prolly(183)]
+IY: [B,(19), baby(222)]
+UW: [you(20), to(35)]
+UW: [you(20), to(212)]
+UW: [you(25), to(35)]
+UW: [you(25), to(212)]
+IY: [be(29), party,(36)]
+IY: [be(29), Honestly,(59)]
+IY: [be(29), pussy(130)]
+IY: [be(29), prolly(183)]
+IY: [be(29), baby(222)]
+UW: [You(30), to(35)]
+UW: [You(30), to(212)]
+AHST: [just(34), hottest(177)]
+UW: [to(35), who(65)]
+UW: [to(35), two(71)]
+UW: [to(35), who(103)]
+UW: [to(35), boo(121)]
+UW: [to(35), new(159)]
+UW: [to(35), you(182)]
+UW: [to(35), you(195)]
+IY: [party,(36), fee(43)]
+IY: [party,(36), be(45)]
+IY: [party,(36), me(58)]
+IY: [party,(36), me(69)]
+IY: [party,(36), me?(82)]
+IY: [party,(36), me(94)]
+IY: [party,(36), see(96)]
+IY: [party,(36), be(106)]
+IY: [party,(36), He(135)]
+IY: [party,(36), he(149)]
+IY: [party,(36), he(151)]
+IY: [party,(36), me(153)]
+IY: [party,(36), me(186)]
+IY: [party,(36), be(217)]
+IY: [party,(36), me,(220)]
+IY: [fee(43), Honestly,(59)]
+IY: [fee(43), pussy(130)]
+IY: [fee(43), prolly(183)]
+IY: [fee(43), baby(222)]
+IY: [be(45), Honestly,(59)]
+IY: [be(45), pussy(130)]
+IY: [be(45), prolly(183)]
+IY: [be(45), baby(222)]
+ERD: [tired(56), heard(184)]
+IY: [me(58), Honestly,(59)]
+IY: [me(58), pussy(130)]
+IY: [me(58), prolly(183)]
+IY: [me(58), baby(222)]
+IY: [Honestly,(59), me(69)]
+IY: [Honestly,(59), me?(82)]
+IY: [Honestly,(59), me(94)]
+IY: [Honestly,(59), see(96)]
+IY: [Honestly,(59), be(106)]
+IY: [Honestly,(59), He(135)]
+IY: [Honestly,(59), he(149)]
+IY: [Honestly,(59), he(151)]
+IY: [Honestly,(59), me(153)]
+IY: [Honestly,(59), me(186)]
+IY: [Honestly,(59), be(217)]
+IY: [Honestly,(59), me,(220)]
+UW: [who(65), to(212)]
+AHNT: [front(67), Laurent(156)]
+IY: [me(69), pussy(130)]
+IY: [me(69), prolly(183)]
+IY: [me(69), baby(222)]
+UW: [two(71), to(212)]
+IY: [me?(82), pussy(130)]
+IY: [me?(82), prolly(183)]
+IY: [me?(82), baby(222)]
+IY: [me(94), pussy(130)]
+IY: [me(94), prolly(183)]
+IY: [me(94), baby(222)]
+IY: [see(96), pussy(130)]
+IY: [see(96), prolly(183)]
+IY: [see(96), baby(222)]
+UW: [who(103), to(212)]
+IY: [be(106), pussy(130)]
+IY: [be(106), prolly(183)]
+IY: [be(106), baby(222)]
+AHST: [just(110), hottest(177)]
+AHST: [just(117), hottest(177)]
+UW: [boo(121), to(212)]
+AHST: [just(124), hottest(177)]
+IY: [pussy(130), He(135)]
+IY: [pussy(130), he(149)]
+IY: [pussy(130), he(151)]
+IY: [pussy(130), me(153)]
+IY: [pussy(130), me(186)]
+IY: [pussy(130), be(217)]
+IY: [pussy(130), me,(220)]
+IY: [He(135), prolly(183)]
+IY: [He(135), baby(222)]
+IY: [he(149), prolly(183)]
+IY: [he(149), baby(222)]
+IY: [he(151), prolly(183)]
+IY: [he(151), baby(222)]
+IY: [me(153), prolly(183)]
+IY: [me(153), baby(222)]
+AHNT: [Laurent(156), front(174)]
+UW: [new(159), to(212)]
+UW: [you(182), to(212)]
+IY: [prolly(183), me(186)]
+IY: [prolly(183), be(217)]
+IY: [prolly(183), me,(220)]
+IY: [me(186), baby(222)]
+UW: [you(195), to(212)]
+IY: [be(217), baby(222)]
+IY: [me,(220), baby(222)]
+
+
+Rule 2: ...-ON[C]'-...
+N: [gon'(8), on(126), when(161), run(224)]
+T: [what(10), out(15), at,(24), get(40), out(48), 'bout(64), what(76), let(90), might(109), might(116), might(123), let(145), get(147), what(148), got(169), street,(180), Got(187), it(198), got(209), at(219)]
+R: [where(22), where(27), party,(36), there,(38), they're(55), your(120), your(127), their(221)]
+M: [I'm(23), I'm(37), them(49), I'm(102), some(113), swim(137), I'm(141), him(146), I'm(175), time(211)]
+B: [club(33), babe,(128)]
+ST: [just(34), just(110), just(117), just(124), fast(164)]
+D: [paid(41), heard(184), mad(218)]
+CH: [much,(52), bitch(77), bitch,(101)]
+NT: [don't(60), front(67), don't(84), don't(89), want,(150), Saint(155), front(174), ain't(199), ain't(208)]
+V: [give(61), Yves(154)]
+K: [fuck(63), pictures,(97), Look,(107), like(132), lake(134), like,(142)]
+KS: [mixtapes(72), six(74)]
+Z: [as(79), as(81), these(87), hoes,(88), these(91), hoes(92), his(139), as(165), hoes(196), these(215), hoes(216)]
+DH: [with(86), with(119), with(138)]
+LZ: ["Goals,"(100), bills,(206)]
+L: [chill(111), chill(118), feel(125), feel(131), I'll(144), chill(213), bill(226)]
+P: [BAPE,(114), whip,(160), hope(194), cheap(200)]
+NGK: [trunk(171), Think(214)]
+
+
+Rule 3: ...-O[N]C'-...
+OW: [Bodak(0), know(21), know(26), so(51), know(54), don't(60), don't(84), hoes,(88), don't(89), hoes(92), "Goals,"(100), go(163), know(181), prolly(183), hope(194), hoes(196), know(197), no(210), hoes(216)]
+EH: [Yellow(1), Let's(13), where(22), where(27), there,(38), get(40), them(49), they're(55), let(90), let(145), get(147), when(161), their(221)]
+AA: [Cardi(2), gon'(8), Cardi(18), party,(36), Honestly,(59), Dropped(70), hard(80), bother(85), bother(93), on(126), wanna(136), want,(150), got(169), hottest(177), Got(187), mama(205), got(209), father(223)]
+IY: [B(3), she(5), she(7), see(17), B,(19), be(29), fee(43), be(45), me(58), me(69), me?(82), these(87), these(91), me(94), see(96), be(106), feel(125), feel(131), He(135), he(149), he(151), me(153), Yves(154), street,(180), me(186), teeth,(193), cheap(200), these(215), be(217), me,(220)]
+AW: [Now(4), out(15), out(48), 'bout(64)]
+EY: [say(6), paid(41), mixtapes(72), They(95), they(98), say,(99), they(104), BAPE,(114), babe,(128), lake(134), face,(140), "Okay"(143), Saint(155), ain't(199), pay(203), ain't(208), baby(222)]
+UW: [do(9), who?(12), you(20), you(25), You(30), who(65), two(71), who(103), boo(121), new(159), you(182), you(195)]
+AH: [what(10), club(33), just(34), much,(52), fuck(63), front(67), months,(75), what(76), just(110), some(113), just(117), just(124), what(148), trunk(171), front(174), run(224)]
+AY: [find(14), I'm(23), I(28), I'm(37), I(39), I(44), I(53), tired(56), I(83), I'm(102), I(108), might(109), I(115), might(116), I(122), might(123), my(129), like(132), I'm(141), like,(142), I'll(144), buy(152), I(162), I(168), I'm(175), my(192), I(202), my(204), I(207), time(211)]
+AE: [at,(24), banks(50), as(79), as(81), fast(164), as(165), bag(189), mad(218), at(219)]
+IH: [give(61), mixtapes(72), six(74), bitch(77), with(86), pictures,(97), bitch,(101), tryna(105), chill(111), chill(118), with(119), swim(137), with(138), his(139), him(146), whip,(160), fixed(191), it(198), bills,(206), chill(213), Think(214), bill(226)]
+ER: [working(78), heard(184)]
+UH: [Look,(107), pussy(130)]
+AO: [your(120), your(127), Laurent(156), horse,(167)]
+
+
+Rule 4: ...-[O']N[C']'-...
+B: [Bodak(0), B(3), B,(19), be(29), be(45), bother(85), bother(93), be(106), boo(121), buy(152), be(217), baby(222)]
+Y: [Yellow(1), you(20), you(25), You(30), you(182), you(195)]
+K: [Cardi(2), Cardi(18), "Okay"(143)]
+N: [Now(4), know(21), know(26), know(54), on(126), new(159), know(181), know(197), no(210)]
+SH: [she(5), she(7)]
+S: [say(6), see(17), so(51), see(96), say,(99)]
+WT: [what(10), what(76), what(148)]
+HH: [who?(12), who(65), who(103), He(135), he(149), he(151), hottest(177)]
+T: [out(15), at,(24), out(48), tired(56), two(71), it(198), at(219)]
+WR: [where(22), where(27)]
+M: [I'm(23), I'm(37), me(58), me(69), me?(82), me(94), I'm(102), my(129), I'm(141), me(153), I'm(175), me(186), my(192), my(204), mama(205), me,(220)]
+JHST: [just(34), just(110), just(117), just(124)]
+PR: [party,(36), prolly(183)]
+DHR: [there,(38), they're(55), their(221)]
+GT: [get(40), get(147), got(169), Got(187), got(209)]
+F: [fee(43), father(223)]
+DNT: [don't(60), don't(84), don't(89)]
+FRNT: [front(67), front(174)]
+BCH: [bitch(77), bitch,(101)]
+W: [working(78), wanna(136)]
+Z: [as(79), as(81), as(165)]
+WDH: [with(86), with(119), with(138)]
+DHZ: [these(87), these(91), these(215)]
+HHZ: [hoes,(88), hoes(92), his(139), hoes(196), hoes(216)]
+LT: [let(90), let(145)]
+DH: [They(95), they(98), they(104)]
+LK: [Look,(107), like(132), lake(134), like,(142)]
+MT: [might(109), might(116), might(123)]
+CHL: [chill(111), chill(118), chill(213)]
+YR: [your(120), your(127)]
+FL: [feel(125), feel(131)]
+P: [pussy(130), pay(203)]
+L: [I'll(144), Laurent(156)]
+NT: [ain't(199), ain't(208)]
+
+
+
+
+Poem with word IDs:
+
+Bodak(0) Yellow(1) 
+Cardi(2) B(3) 
+
+Now(4) she(5) say(6) she(7) gon'(8) do(9) what(10) to(11) who?(12) Let's(13) find(14) out(15) and(16) see(17) 
+Cardi(18) B,(19) you(20) know(21) where(22) I'm(23) at,(24) you(25) know(26) where(27) I(28) be(29) 
+You(30) in(31) the(32) club(33) just(34) to(35) party,(36) I'm(37) there,(38) I(39) get(40) paid(41) a(42) fee(43) 
+I(44) be(45) in(46) and(47) out(48) them(49) banks(50) so(51) much,(52) I(53) know(54) they're(55) tired(56) of(57) me(58) 
+Honestly,(59) don't(60) give(61) a(62) fuck(63) 'bout(64) who(65) in(66) front(67) of(68) me(69) 
+Dropped(70) two(71) mixtapes(72) in(73) six(74) months,(75) what(76) bitch(77) working(78) as(79) hard(80) as(81) me?(82) 
+I(83) don't(84) bother(85) with(86) these(87) hoes,(88) don't(89) let(90) these(91) hoes(92) bother(93) me(94) 
+They(95) see(96) pictures,(97) they(98) say,(99) "Goals,"(100) bitch,(101) I'm(102) who(103) they(104) tryna(105) be(106) 
+Look,(107) I(108) might(109) just(110) chill(111) in(112) some(113) BAPE,(114) I(115) might(116) just(117) chill(118) with(119) your(120) boo(121) 
+I(122) might(123) just(124) feel(125) on(126) your(127) babe,(128) my(129) pussy(130) feel(131) like(132) a(133) lake(134) 
+He(135) wanna(136) swim(137) with(138) his(139) face,(140) I'm(141) like,(142) "Okay"(143) 
+I'll(144) let(145) him(146) get(147) what(148) he(149) want,(150) he(151) buy(152) me(153) Yves(154) Saint(155) Laurent(156) 
+And(157) the(158) new(159) whip,(160) when(161) I(162) go(163) fast(164) as(165) a(166) horse,(167) I(168) got(169) the(170) trunk(171) in(172) the(173) front(174) 
+I'm(175) the(176) hottest(177) in(178) the(179) street,(180) know(181) you(182) prolly(183) heard(184) of(185) me(186) 
+Got(187) a(188) bag(189) and(190) fixed(191) my(192) teeth,(193) hope(194) you(195) hoes(196) know(197) it(198) ain't(199) cheap(200) 
+And(201) I(202) pay(203) my(204) mama(205) bills,(206) I(207) ain't(208) got(209) no(210) time(211) to(212) chill(213) 
+Think(214) these(215) hoes(216) be(217) mad(218) at(219) me,(220) their(221) baby(222) father(223) run(224) a(225) bill(226) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BodakYellow_Output_B_uncertainty.txt in the Poems directory
+
+what (10:0) W AH1 T (10:1) HH W AH1 T
+to (11:0) T UW0 (11:1) T IH0 (11:2) T AH0
+and (16:0) AE0 N D (16:1) AH0 N D
+where (22:0) W EH1 R (22:1) HH W EH1 R
+where (27:0) W EH1 R (27:1) HH W EH1 R
+be (29:0) B IY1 (29:1) B IY0
+in (31:0) IH0 N (31:1) IH1 N
+the (32:0) DH AH0 (32:1) DH AH1 (32:2) DH IY0
+just (34:0) JH AH1 S T (34:1) JH IH0 S T
+to (35:0) T UW0 (35:1) T IH0 (35:2) T AH0
+get (40:0) G EH1 T (40:1) G IH1 T
+a (42:0) AH0 (42:1) EY1
+be (45:0) B IY1 (45:1) B IY0
+in (46:0) IH0 N (46:1) IH1 N
+and (47:0) AE0 N D (47:1) AH0 N D
+them (49:0) DH EH1 M (49:1) DH AH0 M
+of (57:0) AH0 V (57:1) AH0 V
+Honestly, (59:0) AA1 - N AH0 S T - L IY0 (59:1) AA1 - N AH0 S - L IY0
+don't (60:0) D OW1 N T (60:1) D OW1 N
+a (62:0) AH0 (62:1) EY1
+in (66:0) IH0 N (66:1) IH1 N
+of (68:0) AH0 V (68:1) AH0 V
+in (73:0) IH0 N (73:1) IH1 N
+what (76:0) W AH1 T (76:1) HH W AH1 T
+as (79:0) AE1 Z (79:1) EH1 Z
+as (81:0) AE1 Z (81:1) EH1 Z
+don't (84:0) D OW1 N T (84:1) D OW1 N
+with (86:0) W IH1 DH (86:1) W IH1 TH (86:2) W IH0 TH (86:3) W IH0 DH
+don't (89:0) D OW1 N T (89:1) D OW1 N
+be (106:0) B IY1 (106:1) B IY0
+just (110:0) JH AH1 S T (110:1) JH IH0 S T
+in (112:0) IH0 N (112:1) IH1 N
+just (117:0) JH AH1 S T (117:1) JH IH0 S T
+with (119:0) W IH1 DH (119:1) W IH1 TH (119:2) W IH0 TH (119:3) W IH0 DH
+your (120:0) Y AO1 R (120:1) Y UH1 R
+just (124:0) JH AH1 S T (124:1) JH IH0 S T
+on (126:0) AA1 N (126:1) AO1 N
+your (127:0) Y AO1 R (127:1) Y UH1 R
+a (133:0) AH0 (133:1) EY1
+with (138:0) W IH1 DH (138:1) W IH1 TH (138:2) W IH0 TH (138:3) W IH0 DH
+his (139:0) HH IH1 Z (139:1) HH IH0 Z
+him (146:0) HH IH1 M (146:1) IH0 M
+get (147:0) G EH1 T (147:1) G IH1 T
+what (148:0) W AH1 T (148:1) HH W AH1 T
+want, (150:0) W AA1 N T (150:1) W AO1 N T
+And (157:0) AE0 N D (157:1) AH0 N D
+the (158:0) DH AH0 (158:1) DH AH1 (158:2) DH IY0
+new (159:0) N UW1 (159:1) N Y UW1
+whip, (160:0) W IH1 P (160:1) HH W IH1 P
+when (161:0) W EH1 N (161:1) HH W EH1 N (161:2) W IH1 N (161:3) HH W IH1 N
+as (165:0) AE1 Z (165:1) EH1 Z
+a (166:0) AH0 (166:1) EY1
+the (170:0) DH AH0 (170:1) DH AH1 (170:2) DH IY0
+in (172:0) IH0 N (172:1) IH1 N
+the (173:0) DH AH0 (173:1) DH AH1 (173:2) DH IY0
+the (176:0) DH AH0 (176:1) DH AH1 (176:2) DH IY0
+in (178:0) IH0 N (178:1) IH1 N
+the (179:0) DH AH0 (179:1) DH AH1 (179:2) DH IY0
+of (185:0) AH0 V (185:1) AH0 V
+a (188:0) AH0 (188:1) EY1
+and (190:0) AE0 N D (190:1) AH0 N D
+it (198:0) IH1 T (198:1) IH0 T
+And (201:0) AE0 N D (201:1) AH0 N D
+to (212:0) T UW0 (212:1) T IH0 (212:2) T AH0
+be (217:0) B IY1 (217:1) B IY0
+a (225:0) AH0 (225:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BodakYellow_Output_B_uncertainty.txt in the Poems directory
+
+Bodak (0:0)  B OW1- D AH0 K
+Cardi (2:0)  K AA1- R D IY0
+gon' (8:0)  G AA1 N
+Cardi (18:0)  K AA1- R D IY0
+'bout (64:0)  B AW1 T
+mixtapes (72:0)  M IH1 K S- T EY1 P S
+"Goals," (100:0)  G OW1 L Z
+tryna (105:0)  T R IH1- N AH0
+BAPE, (114:0)  B EY1 P
+"Okay" (143:0)  AH0- K EY1
+prolly (183:0)  P R OW1- L IY0

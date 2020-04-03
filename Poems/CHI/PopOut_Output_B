@@ -1,0 +1,284 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+OW: [Polo(2), Show(93)]
+OW: [Polo(2), yo(125)]
+OW: [Polo(2), bro(129)]
+AAK: [doctor(11), Glock(135)]
+OW: [Blowing(16), Show(93)]
+OW: [Blowing(16), yo(125)]
+OW: [Blowing(16), bro(129)]
+AY: [my(18), Diamonds(69)]
+AY: [my(18), tighten(123)]
+OWN: [phone(19), only(112)]
+AY: [my(26), Diamonds(69)]
+AY: [my(26), tighten(123)]
+AY: [bae(28), Diamonds(69)]
+AY: [bae(28), tighten(123)]
+EY: [Heartbreaker,(29), J(36)]
+EY: [Heartbreaker,(29), they(73)]
+EY: [Heartbreaker,(29), way(81)]
+EY: [Heartbreaker,(29), K(92)]
+EY: [Heartbreaker,(29), spray(138)]
+EY: [ladies(30), J(36)]
+EY: [ladies(30), they(73)]
+EY: [ladies(30), way(81)]
+EY: [ladies(30), K(92)]
+EY: [ladies(30), spray(138)]
+IHNG: [cling(40), single(61)]
+AAN: [onto(41), on(107)]
+AAN: [onto(41), gon'(111)]
+AAN: [condoms(55), on(107)]
+AAN: [condoms(55), gon'(111)]
+AY: [my(57), Diamonds(69)]
+AY: [my(57), tighten(123)]
+AY: [Diamonds(69), I(83)]
+AY: [Diamonds(69), I(98)]
+OW: [Rollie,(72), Show(93)]
+OW: [Rollie,(72), yo(125)]
+OW: [Rollie,(72), bro(129)]
+AY: [I(83), tighten(123)]
+AY: [I(98), tighten(123)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+OW: [Polo(2), Show(93)]
+OW: [Polo(2), yo(125)]
+OW: [Polo(2), bro(129)]
+IY: [G(3), body,(8)]
+IY: [G(3), Cali,(52)]
+IY: [G(3), every(60)]
+IY: [G(3), Rollie,(72)]
+IY: [G(3), only(112)]
+IY: [G(3), twenty(136)]
+IY: [She(4), body,(8)]
+IY: [She(4), Cali,(52)]
+IY: [She(4), every(60)]
+IY: [She(4), Rollie,(72)]
+IY: [She(4), only(112)]
+IY: [She(4), twenty(136)]
+IY: [body,(8), she(21)]
+IY: [body,(8), see(23)]
+IY: [body,(8), me(24)]
+IY: [body,(8), me(32)]
+IY: [body,(8), She(37)]
+IY: [body,(8), D(76)]
+IY: [body,(8), we(118)]
+UW: [new(14), onto(41)]
+UW: [new(14), to(51)]
+IHNG: [Blowing(16), cling(40)]
+IY: [she(21), Cali,(52)]
+IY: [she(21), every(60)]
+IY: [she(21), Rollie,(72)]
+IY: [she(21), only(112)]
+IY: [she(21), twenty(136)]
+IY: [see(23), Cali,(52)]
+IY: [see(23), every(60)]
+IY: [see(23), Rollie,(72)]
+IY: [see(23), only(112)]
+IY: [see(23), twenty(136)]
+IY: [me(24), Cali,(52)]
+IY: [me(24), every(60)]
+IY: [me(24), Rollie,(72)]
+IY: [me(24), only(112)]
+IY: [me(24), twenty(136)]
+UW: [new(27), onto(41)]
+UW: [new(27), to(51)]
+IYZ: [ladies(30), these(64)]
+AHV: [love(31), of(90)]
+IY: [me(32), Cali,(52)]
+IY: [me(32), every(60)]
+IY: [me(32), Rollie,(72)]
+IY: [me(32), only(112)]
+IY: [me(32), twenty(136)]
+EY: [J(36), Blu-Ray(79)]
+IY: [She(37), Cali,(52)]
+IY: [She(37), every(60)]
+IY: [She(37), Rollie,(72)]
+IY: [She(37), only(112)]
+IY: [She(37), twenty(136)]
+UW: [onto(41), too(46)]
+UW: [onto(41), blue(67)]
+UW: [onto(41), two(91)]
+UW: [onto(41), new(104)]
+UW: [onto(41), crew(115)]
+UW: [onto(41), shoe(126)]
+UW: [onto(41), two(137)]
+UW: [too(46), to(51)]
+UW: [to(51), blue(67)]
+UW: [to(51), two(91)]
+UW: [to(51), new(104)]
+UW: [to(51), crew(115)]
+UW: [to(51), shoe(126)]
+UW: [to(51), two(137)]
+IY: [Cali,(52), D(76)]
+IY: [Cali,(52), we(118)]
+IHN: [in(56), been(84)]
+IHN: [in(56), ballin'(85)]
+IHN: [in(56), Dissin'(106)]
+IY: [every(60), D(76)]
+IY: [every(60), we(118)]
+IHN: [in(63), been(84)]
+IHN: [in(63), ballin'(85)]
+IHN: [in(63), Dissin'(106)]
+IHN: [in(70), been(84)]
+IHN: [in(70), ballin'(85)]
+IHN: [in(70), Dissin'(106)]
+IY: [Rollie,(72), D(76)]
+IY: [Rollie,(72), we(118)]
+EY: [they(73), Blu-Ray(79)]
+IHN: [in(74), been(84)]
+IHN: [in(74), ballin'(85)]
+IHN: [in(74), Dissin'(106)]
+IY: [D(76), only(112)]
+IY: [D(76), twenty(136)]
+EY: [Blu-Ray(79), way(81)]
+EY: [Blu-Ray(79), K(92)]
+EY: [Blu-Ray(79), spray(138)]
+IHN: [been(84), in(102)]
+IHN: [ballin'(85), in(102)]
+IHN: [in(102), Dissin'(106)]
+IY: [only(112), we(118)]
+IY: [we(118), twenty(136)]
+
+
+Rule 2: ...-ON[C]'-...
+P: [Pop(0), shape(15), up(17), up(101), up(124), up(131)]
+T: [Out(1), but(44), late(47), flight(50), suitcase(58), that(82), out(94), might(99), get(113), shit(120), get(130), let(133)]
+K: [like(6), doctor(11), like(33), like(77), make(87), hawk(119), Glock(135)]
+DH: [with(12), with(25)]
+N: [phone(19), onto(41), condoms(55), been(84), ballin'(85), Dissin'(106), on(107), gon'(111), only(112), down,(121), twenty(136)]
+Z: ['cause(20), was(38), these(64)]
+ST: [just(22), chased(116)]
+L: [Cool(35), pull(100), Lil'(128)]
+NG: [cling(40), single(61), gang(109)]
+TS: [it's(45), it's(78), that's(110)]
+S: [face(68), lace(127), close(132)]
+R: [for(95), your(114)]
+
+
+Rule 3: ...-O[N]C'-...
+AA: [Pop(0), body,(8), doctor(11), Heartbreaker,(29), was(38), onto(41), Cali,(52), condoms(55), dollar(62), gotta(66), on(107), gon'(111), Glock(135)]
+AW: [Out(1), 'cause(20), out(94), down,(121)]
+OW: [Polo(2), don't(5), Blowing(16), phone(19), Rollie,(72), Show(93), only(112), yo(125), bro(129), close(132)]
+IY: [G(3), She(4), she(21), see(23), me(24), me(32), She(37), these(64), D(76), we(118)]
+AY: [like(6), my(18), my(26), bae(28), like(33), I'm(34), flight(50), my(57), Diamonds(69), like(77), I(83), I(98), might(99), tighten(123)]
+EH: [left(9), every(60), get(113), better(122), get(130), let(133), twenty(136)]
+IH: [with(12), with(25), tryna(39), cling(40), nigga,(43), it's(45), single(61), it's(78), been(84), ballin'(85), Dissin'(106), shit(120), Lil'(128)]
+UW: [new(14), new(27), Cool(35), too(46), suitcase(58), blue(67), two(91), new(104), crew(115), shoe(126), two(137)]
+EY: [shape(15), Heartbreaker,(29), ladies(30), J(36), late(47), face(68), they(73), H(75), way(81), make(87), K(92), Wraith(105), chased(116), lace(127), spray(138)]
+AH: [up(17), just(22), love(31), but(44), cover(89), summer(97), up(101), up(124), up(131)]
+UH: [Booked(48), should(86), pull(100)]
+AE: [racks(53), bands(65), that(82), ballin'(85), gang(109), that's(110)]
+AO: [for(95), your(114), hawk(119)]
+
+
+Rule 4: ...-[O']N[C']'-...
+T: [Out(1), too(46), two(91), out(94), tighten(123), two(137)]
+P: [Polo(2), up(17), up(101), up(124), up(131)]
+JH: [G(3), J(36)]
+SH: [She(4), she(21), She(37), Show(93), shoe(126)]
+LK: [like(6), like(33), like(77)]
+B: [body,(8), bae(28), ballin'(85), better(122)]
+WDH: [with(12), with(25)]
+N: [new(14), new(27), onto(41), nigga,(43), new(104), on(107), only(112)]
+BL: [Blowing(16), blue(67)]
+M: [my(18), me(24), my(26), me(32), I'm(34), my(57)]
+S: [see(23), summer(97)]
+BR: [Heartbreaker,(29), bro(129)]
+TS: [it's(45), it's(78)]
+LT: [late(47), let(133)]
+K: [Cali,(52), cover(89), K(92)]
+D: [dollar(62), Diamonds(69), D(76), Dissin'(106)]
+W: [way(81), we(118)]
+GT: [get(113), get(130)]
+
+
+
+
+Poem with word IDs:
+
+Pop(0) Out(1) 
+Polo(2) G(3) 
+
+She(4) don't(5) like(6) her(7) body,(8) left(9) the(10) doctor(11) with(12) a(13) new(14) shape(15) 
+Blowing(16) up(17) my(18) phone(19) 'cause(20) she(21) just(22) see(23) me(24) with(25) my(26) new(27) bae(28) 
+Heartbreaker,(29) ladies(30) love(31) me(32) like(33) I'm(34) Cool(35) J(36) 
+She(37) was(38) tryna(39) cling(40) onto(41) a(42) nigga,(43) but(44) it's(45) too(46) late(47) 
+Booked(48) a(49) flight(50) to(51) Cali,(52) racks(53) and(54) condoms(55) in(56) my(57) suitcase(58) 
+And(59) every(60) single(61) dollar(62) in(63) these(64) bands(65) gotta(66) blue(67) face(68) 
+Diamonds(69) in(70) the(71) Rollie,(72) they(73) in(74) H(75) D(76) like(77) it's(78) Blu-Ray(79) 
+The(80) way(81) that(82) I(83) been(84) ballin'(85) should(86) make(87) the(88) cover(89) of(90) two(91) K(92) 
+Show(93) out(94) for(95) the(96) summer(97) I(98) might(99) pull(100) up(101) in(102) a(103) new(104) Wraith(105) 
+Dissin'(106) on(107) the(108) gang(109) that's(110) gon'(111) only(112) get(113) your(114) crew(115) chased(116) 
+And(117) we(118) hawk(119) shit(120) down,(121) better(122) tighten(123) up(124) yo(125) shoe(126) lace(127) 
+Lil'(128) bro(129) get(130) up(131) close(132) let(133) the(134) Glock(135) twenty(136) two(137) spray(138) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see PopOut_Output_B_uncertainty.txt in the Poems directory
+
+don't (5:0) D OW1 N T (5:1) D OW1 N
+her (7:0) HH ER0 (7:1) HH ER1
+the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+doctor (11:0) D AA1 K - T ER0 (11:1) D AO1 K - T ER0
+with (12:0) W IH1 DH (12:1) W IH1 TH (12:2) W IH0 TH (12:3) W IH0 DH
+a (13:0) AH0 (13:1) EY1
+new (14:0) N UW1 (14:1) N Y UW1
+just (22:0) JH AH1 S T (22:1) JH IH0 S T
+with (25:0) W IH1 DH (25:1) W IH1 TH (25:2) W IH0 TH (25:3) W IH0 DH
+new (27:0) N UW1 (27:1) N Y UW1
+was (38:0) W AA1 Z (38:1) W AH1 Z (38:2) W AH0 Z (38:3) W AO1 Z
+onto (41:0) AA1 N - T UW0 (41:1) AO1 N - T UW0
+a (42:0) AH0 (42:1) EY1
+it's (45:0) IH1 T S (45:1) IH0 T S
+a (49:0) AH0 (49:1) EY1
+to (51:0) T UW0 (51:1) T IH0 (51:2) T AH0
+Cali, (52:0) K AA1 - L IY0 (52:1) K AE1 - L IY0
+and (54:0) AE0 N D (54:1) AH0 N D
+in (56:0) IH0 N (56:1) IH1 N
+And (59:0) AE0 N D (59:1) AH0 N D
+every (60:0) EH1 - V ER0 - IY0 (60:1) EH1 - V R IY0
+dollar (62:0) D AA1 - L ER0 (62:1) D AO1 - L ER0
+in (63:0) IH0 N (63:1) IH1 N
+in (70:0) IH0 N (70:1) IH1 N
+the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+Rollie, (72:0) R OW1 - L IY0 (72:1) R AO1 - L IY0
+in (74:0) IH0 N (74:1) IH1 N
+it's (78:0) IH1 T S (78:1) IH0 T S
+The (80:0) DH AH0 (80:1) DH AH1 (80:2) DH IY0
+that (82:0) DH AE1 T (82:1) DH AH0 T
+been (84:0) B IH1 N (84:1) B AH0 N (84:2) B IH0 N
+the (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+of (90:0) AH0 V (90:1) AH0 V
+for (95:0) F AO1 R (95:1) F ER0 (95:2) F R ER0
+the (96:0) DH AH0 (96:1) DH AH1 (96:2) DH IY0
+in (102:0) IH0 N (102:1) IH1 N
+a (103:0) AH0 (103:1) EY1
+new (104:0) N UW1 (104:1) N Y UW1
+on (107:0) AA1 N (107:1) AO1 N
+the (108:0) DH AH0 (108:1) DH AH1 (108:2) DH IY0
+get (113:0) G EH1 T (113:1) G IH1 T
+your (114:0) Y AO1 R (114:1) Y UH1 R
+And (117:0) AE0 N D (117:1) AH0 N D
+get (130:0) G EH1 T (130:1) G IH1 T
+close (132:0) K L OW1 S (132:1) K L OW1 Z
+the (134:0) DH AH0 (134:1) DH AH1 (134:2) DH IY0
+twenty (136:0) T W EH1 N - T IY0 (136:1) T W EH1 - N IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see PopOut_Output_B_uncertainty.txt in the Poems directory
+
+'cause (20:0)  K AW1 Z
+Heartbreaker, (29:0)  HH AA1 R T- B R EY1- K ER0
+tryna (39:0)  T R IH1- N AH0
+nigga, (43:0)  N IH1- G AH0
+Blu-Ray (79:0)  B L R EY0
+ballin' (85:0)  B AE1- L IH1 N
+Wraith (105:0)  R EY1 TH
+Dissin' (106:0)  D IH1- S IH1 N
+gon' (111:0)  G AA1 N
+Lil' (128:0)  L IH1 L

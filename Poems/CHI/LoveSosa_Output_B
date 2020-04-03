@@ -1,0 +1,216 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+OW: [Sosa(1), Know(14)]
+OW: [Sosa(1), go(23)]
+OW: [Sosa(1), No(25)]
+OW: [Sosa(1), know(28)]
+OW: [Sosa(1), know(32)]
+OW: [Sosa(1), know(44)]
+OW: [Sosa(1), O(57)]
+OW: [Sosa(1), No(70)]
+OW: [Sosa(1), No(76)]
+OW: [Sosa(1), yo(95)]
+OW: [Sosa(7), Know(14)]
+OW: [Sosa(7), go(23)]
+OW: [Sosa(7), No(25)]
+OW: [Sosa(7), know(28)]
+OW: [Sosa(7), know(32)]
+OW: [Sosa(7), know(44)]
+OW: [Sosa(7), O(57)]
+OW: [Sosa(7), No(70)]
+OW: [Sosa(7), No(76)]
+OW: [Sosa(7), yo(95)]
+EY: [they(9), playing(68)]
+AA: [Glo'(12), commas(91)]
+AA: [Glo'(12), mama(96)]
+AA: [Glo'(12), drama(101)]
+AA: [Glo'(12), llama(106)]
+AA: [Glo'(12), honored(125)]
+OW: [Know(14), Rovers(39)]
+OW: [Know(14), Sosa(119)]
+OW: [go(23), Rovers(39)]
+OW: [go(23), Sosa(119)]
+OW: [No(25), Rovers(39)]
+OW: [No(25), Sosa(119)]
+AY: [I(26), Riding(107)]
+OW: [know(28), Rovers(39)]
+OW: [know(28), Sosa(119)]
+AY: [I(31), Riding(107)]
+OW: [know(32), Rovers(39)]
+OW: [know(32), Sosa(119)]
+OW: [Rovers(39), know(44)]
+OW: [Rovers(39), O(57)]
+OW: [Rovers(39), No(70)]
+OW: [Rovers(39), No(76)]
+OW: [Rovers(39), yo(95)]
+OW: [know(44), Sosa(119)]
+AY: [I(45), Riding(107)]
+AAT: [got(46), lotsa(90)]
+AY: [my(52), Riding(107)]
+OW: [O(57), Sosa(119)]
+EY: [playing(68), they(124)]
+OW: [No(70), Sosa(119)]
+OW: [No(76), Sosa(119)]
+AY: [I(88), Riding(107)]
+AY: [I(92), Riding(107)]
+OW: [yo(95), Sosa(119)]
+AY: [I(97), Riding(107)]
+AY: [my(105), Riding(107)]
+AY: [Riding(107), I(120)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AEND: [And(8), land(86)]
+OW: [Know(14), 'Go(18)]
+OW: ['Go(18), go(23)]
+OW: ['Go(18), No(25)]
+OW: ['Go(18), know(28)]
+OW: ['Go(18), know(32)]
+OW: ['Go(18), know(44)]
+OW: ['Go(18), O(57)]
+OW: ['Go(18), No(70)]
+OW: ['Go(18), No(76)]
+OW: ['Go(18), yo(95)]
+AAT: [cannot(22), got(46)]
+AEND: [and(38), land(86)]
+UW: [You(43), to(122)]
+AEND: [And(49), land(86)]
+UW: [You(59), to(122)]
+UW: [do(79), to(122)]
+UW: [You(102), to(122)]
+
+
+Rule 2: ...-ON[C]'-...
+V: [Love(0), love(6), love(10)]
+F: [Chief(2), Keef(3), Chief(118)]
+Z: [These(4), Boys(13), he's(33), Lambos(41), Boys(58), These(115)]
+M: [them(11), from(16), Lambos(41), them(56), I'm(67), I'm(84)]
+T: [But(20), got(46), that(66), lotsa(90), meet(104)]
+NT: [don't(27), won't(60), Don't(64), don't(72), don't(78), ain't(98)]
+K: [broke(35), speak(61), fuck(94)]
+S: [Raris(37), use(73)]
+NDZ: [bands(47), hands(74), friends(80), bands(83)]
+TS: [it's(50), gets(89)]
+KT: [Disrespect(55), Collect(82)]
+N: [again(62), can(93), can(103), hundred(113)]
+DH: [with(99), with(108), With(111)]
+
+
+Rule 3: ...-O[N]C'-...
+AH: [Love(0), love(6), love(10), from(16), But(20), fuck(94), hunna(110), hundred(113)]
+OW: [Sosa(1), Sosa(7), Know(14), go(23), No(25), don't(27), know(28), old(29), know(32), broke(35), Rovers(39), Lambos(41), know(44), O(57), won't(60), Don't(64), No(70), don't(72), No(76), don't(78), yo(95), Sosa(119)]
+IY: [Chief(2), Keef(3), These(4), we(15), we(21), he's(33), speak(61), we(71), we(77), meet(104), three(109), three(112), These(115), see(117), Chief(118)]
+IH: [bitches(5), Raris(37), it's(50), think(65), with(99), with(108), With(111), bitches(116)]
+EY: [they(9), playing(68), ain't(98), they(124)]
+EH: [them(11), Raris(37), Disrespect(55), them(56), again(62), friends(80), Collect(82), gets(89), swear(121)]
+AA: [Glo'(12), got(46), lotsa(90), commas(91), mama(96), drama(101), llama(106), god(123), honored(125)]
+OY: [Boys(13), boy(19), boy(24), boy(30), boy(36), boy(42), boy(48), boy(54), Boys(58), boy(63), boy(69), boy(75), boy(81)]
+AE: [cannot(22), Lambos(41), bands(47), pants(53), that(66), hands(74), bands(83), land(86), can(93), can(103)]
+AY: [I(26), I(31), I(45), my(52), I'm(67), I'm(84), I(88), I(92), I(97), my(105), Riding(107), I(120)]
+UW: [You(43), You(59), use(73), do(79), You(102)]
+AO: [lord(87), foreigns(114)]
+
+
+Rule 4: ...-[O']N[C']'-...
+LV: [Love(0), love(6), love(10)]
+S: [Sosa(1), Sosa(7), see(117), Sosa(119)]
+CHF: [Chief(2), Chief(118)]
+DHZ: [These(4), These(115)]
+B: [bitches(5), boy(19), boy(24), boy(30), boy(36), boy(42), boy(48), boy(54), boy(63), boy(69), boy(75), boy(81), bitches(116)]
+DH: [they(9), they(124)]
+DHM: [them(11), them(56)]
+BZ: [Boys(13), Lambos(41), Boys(58)]
+N: [Know(14), No(25), know(28), know(32), know(44), No(70), No(76)]
+W: [we(15), we(21), we(71), we(77)]
+K: [cannot(22), commas(91)]
+DNT: [don't(27), Don't(64), don't(72), don't(78)]
+R: [Raris(37), Rovers(39), Riding(107)]
+Y: [You(43), You(59), yo(95), You(102)]
+BNDZ: [bands(47), bands(83)]
+M: [my(52), I'm(67), I'm(84), mama(96), my(105)]
+KN: [can(93), can(103)]
+WDH: [with(99), with(108), With(111)]
+THR: [three(109), three(112)]
+
+
+
+
+Poem with word IDs:
+
+Love(0) Sosa(1) 
+Chief(2) Keef(3) 
+
+These(4) bitches(5) love(6) Sosa(7) 
+And(8) they(9) love(10) them(11) Glo'(12) Boys(13) 
+Know(14) we(15) from(16) the(17) 'Go(18) boy(19) 
+But(20) we(21) cannot(22) go(23) boy(24) 
+No(25) I(26) don't(27) know(28) old(29) boy(30) 
+I(31) know(32) he's(33) a(34) broke(35) boy(36) 
+Raris(37) and(38) Rovers(39) 
+Convertible(40) Lambos(41) boy(42) 
+You(43) know(44) I(45) got(46) bands(47) boy(48) 
+And(49) it's(50) in(51) my(52) pants(53) boy(54) 
+Disrespect(55) them(56) O(57) Boys(58) 
+You(59) won't(60) speak(61) again(62) boy(63) 
+Don't(64) think(65) that(66) I'm(67) playing(68) boy(69) 
+No(70) we(71) don't(72) use(73) hands(74) boy(75) 
+No(76) we(77) don't(78) do(79) friends(80) boy(81) 
+Collect(82) bands(83) I'm(84) a(85) land(86) lord(87) 
+I(88) gets(89) lotsa(90) commas(91) 
+I(92) can(93) fuck(94) yo(95) mama(96) 
+I(97) ain't(98) with(99) the(100) drama(101) 
+You(102) can(103) meet(104) my(105) llama(106) 
+Riding(107) with(108) three(109) hunna(110) 
+With(111) three(112) hundred(113) foreigns(114) 
+These(115) bitches(116) see(117) Chief(118) Sosa(119) 
+I(120) swear(121) to(122) god(123) they(124) honored(125) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see LoveSosa_Output_B_uncertainty.txt in the Poems directory
+
+And (8:0) AE0 N D (8:1) AH0 N D
+them (11:0) DH EH1 M (11:1) DH AH0 M
+from (16:0) F R AH1 M (16:1) F ER0 M
+the (17:0) DH AH0 (17:1) DH AH1 (17:2) DH IY0
+cannot (22:0) K AE1 - N AA0 T (22:1) K AH0 - N AA1 T
+don't (27:0) D OW1 N T (27:1) D OW1 N
+a (34:0) AH0 (34:1) EY1
+and (38:0) AE0 N D (38:1) AH0 N D
+And (49:0) AE0 N D (49:1) AH0 N D
+it's (50:0) IH1 T S (50:1) IH0 T S
+in (51:0) IH0 N (51:1) IH1 N
+them (56:0) DH EH1 M (56:1) DH AH0 M
+again (62:0) AH0 - G EH1 N (62:1) AH0 - G EY1 N
+Don't (64:0) D OW1 N T (64:1) D OW1 N
+that (66:0) DH AE1 T (66:1) DH AH0 T
+don't (72:0) D OW1 N T (72:1) D OW1 N
+use (73:0) Y UW1 S (73:1) Y UW1 Z
+hands (74:0) HH AE1 N D Z (74:1) HH AE1 N Z
+don't (78:0) D OW1 N T (78:1) D OW1 N
+friends (80:0) F R EH1 N D Z (80:1) F R EH1 N Z
+a (85:0) AH0 (85:1) EY1
+gets (89:0) G EH1 T S (89:1) G IH1 T S
+can (93:0) K AE1 N (93:1) K AH0 N
+with (99:0) W IH1 DH (99:1) W IH1 TH (99:2) W IH0 TH (99:3) W IH0 DH
+the (100:0) DH AH0 (100:1) DH AH1 (100:2) DH IY0
+can (103:0) K AE1 N (103:1) K AH0 N
+with (108:0) W IH1 DH (108:1) W IH1 TH (108:2) W IH0 TH (108:3) W IH0 DH
+With (111:0) W IH1 DH (111:1) W IH1 TH (111:2) W IH0 TH (111:3) W IH0 DH
+hundred (113:0) HH AH1 N - D R AH0 D (113:1) HH AH1 N - D R IH0 D (113:2) HH AH1 - N ER0 D (113:3) HH AH1 N - D ER0 D
+to (122:0) T UW0 (122:1) T IH0 (122:2) T AH0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see LoveSosa_Output_B_uncertainty.txt in the Poems directory
+
+Glo' (12:0)  G L AA1
+'Go (18:0)  G OW0
+Raris (37:0)  R EH1- R IH1 S
+Lambos (41:0)  L AE1 M- B OW1 Z
+lotsa (90:0)  L AA1 T- S AH0
+hunna (110:0)  HH AH1- N AH0
+foreigns (114:0)  F AO1- R AH0 N Z

@@ -1,0 +1,219 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+EY: [they(11), Taking(84)]
+IY: [he(18), Fredo(31)]
+IY: [Fredo(31), be(63)]
+IY: [Fredo(31), three(75)]
+IY: [Fredo(31), we(78)]
+IY: [Fredo(31), we(80)]
+IY: [Fredo(31), we(87)]
+IY: [Fredo(31), see(95)]
+IY: [Fredo(31), we(97)]
+IY: [Fredo(31), T(101)]
+IY: [Fredo(31), G(103)]
+IY: [Fredo(31), B(104)]
+IY: [Fredo(31), E,(105)]
+AHN: [youngings(58), done(81)]
+EY: [they(62), Taking(84)]
+OW: [totin'(64), O(100)]
+OW: [Floating(66), O(100)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [Broski(14), he(18)]
+IY: [Broski(14), be(63)]
+IY: [Broski(14), three(75)]
+IY: [Broski(14), we(78)]
+IY: [Broski(14), we(80)]
+IY: [Broski(14), we(87)]
+IY: [Broski(14), see(95)]
+IY: [Broski(14), we(97)]
+IY: [Broski(14), T(101)]
+IY: [Broski(14), G(103)]
+IY: [Broski(14), B(104)]
+IY: [Broski(14), E,(105)]
+IY: [thirty(17), he(18)]
+IY: [thirty(17), be(63)]
+IY: [thirty(17), three(75)]
+IY: [thirty(17), we(78)]
+IY: [thirty(17), we(80)]
+IY: [thirty(17), we(87)]
+IY: [thirty(17), see(95)]
+IY: [thirty(17), we(97)]
+IY: [thirty(17), T(101)]
+IY: [thirty(17), G(103)]
+IY: [thirty(17), B(104)]
+IY: [thirty(17), E,(105)]
+IY: [he(18), scary(37)]
+IY: [he(18), only(49)]
+IY: [he(18), Thirsty(92)]
+IHN: [hittin(27), in(32)]
+OW: [Fredo(31), O(100)]
+IHN: [in(32), totin'(64)]
+IY: [scary(37), be(63)]
+IY: [scary(37), three(75)]
+IY: [scary(37), we(78)]
+IY: [scary(37), we(80)]
+IY: [scary(37), we(87)]
+IY: [scary(37), see(95)]
+IY: [scary(37), we(97)]
+IY: [scary(37), T(101)]
+IY: [scary(37), G(103)]
+IY: [scary(37), B(104)]
+IY: [scary(37), E,(105)]
+IY: [only(49), be(63)]
+IY: [only(49), three(75)]
+IY: [only(49), we(78)]
+IY: [only(49), we(80)]
+IY: [only(49), we(87)]
+IY: [only(49), see(95)]
+IY: [only(49), we(97)]
+IY: [only(49), T(101)]
+IY: [only(49), G(103)]
+IY: [only(49), B(104)]
+IY: [only(49), E,(105)]
+IY: [be(63), Thirsty(92)]
+IY: [three(75), Thirsty(92)]
+IY: [we(78), Thirsty(92)]
+IY: [we(80), Thirsty(92)]
+IY: [we(87), Thirsty(92)]
+IY: [Thirsty(92), see(95)]
+IY: [Thirsty(92), we(97)]
+IY: [Thirsty(92), T(101)]
+IY: [Thirsty(92), G(103)]
+IY: [Thirsty(92), B(104)]
+IY: [Thirsty(92), E,(105)]
+
+
+Rule 2: ...-ON[C]'-...
+NT: [Don't(1), don't(12), ain't(19), want(50), ain't(54), ain't(88), don't(98)]
+K: [Like(2), like(13), take(72), took(82), like(89), like(99), like(108)]
+L: [Lil(3), all(29)]
+S: [Reese(4), Broski(14), price(91), ass(93)]
+M: [I'm(5), Them(57)]
+Z: [these(7), was(26)]
+T: [shit(9), that(10), got(15), fight(21), Got(22), it(28), night(30), cut,(34), sight(38), not(40), tonight(47), flat,(69), might(71), flight(74), hot,(79), flight(83), shit(85), that(96)]
+IY: [tryina(20), tryina(55)]
+R: [your(23), your(106)]
+CH: [bitch,(24), bitch(77), bitch(107)]
+N: [hittin(27), can(45), only(49), youngings(58), totin'(64), done(81), down(86)]
+TS: [that's(35), shits,(43), shits,(61)]
+DH: [with(41), with(59)]
+P: [top,(52), pipe(56), pipe(65)]
+F: [off(67), F(102)]
+
+
+Rule 3: ...-O[N]C'-...
+AY: [I(0), Like(2), I'm(5), like(13), fight(21), I(25), night(30), sight(38), die(46), tonight(47), I(48), I(53), pipe(56), pipe(65), I(70), might(71), flight(74), flight(83), like(89), price(91), like(99), like(108)]
+OW: [Don't(1), don't(12), only(49), totin'(64), Floating(66), don't(98), O(100)]
+IH: [Lil(3), killing(6), niggas,(8), shit(9), bitch,(24), hittin(27), it(28), with(41), shits,(43), with(59), shits,(61), totin'(64), bitch(77), shit(85), bitches(94), bitch(107)]
+IY: [Reese(4), these(7), he(18), tryina(20), Fredo(31), tryina(55), be(63), three(75), we(78), we(80), we(87), see(95), we(97), T(101), G(103), B(104), E,(105)]
+AE: [that(10), that's(35), can(45), flat,(69), ass(93), that(96)]
+EY: [they(11), ain't(19), ain't(54), they(62), take(72), Taking(84), ain't(88)]
+AW: [Broski(14), down(86)]
+AA: [got(15), Got(22), was(26), not(40), want(50), top,(52), hot,(79)]
+ER: [thirty(17), Thirsty(92)]
+AO: [your(23), all(29), off(67), your(106)]
+AH: [cut,(34), youngings(58), Hunna(76), done(81)]
+EH: [scary(37), Them(57), F(102)]
+UW: [You(39), you(44)]
+
+
+Rule 4: ...-[O']N[C']'-...
+DNT: [Don't(1), don't(12), don't(98)]
+LK: [Like(2), like(13), like(89), like(99), like(108)]
+N: [niggas,(8), only(49)]
+SHT: [shit(9), shit(85)]
+DHT: [that(10), that(96)]
+DH: [they(11), they(62)]
+GT: [got(15), Got(22)]
+TH: [thirty(17), Thirsty(92)]
+HH: [he(18), hittin(27), Hunna(76)]
+NT: [ain't(19), night(30), not(40), tonight(47), ain't(54), ain't(88)]
+TRIY: [tryina(20), tryina(55)]
+YR: [your(23), your(106)]
+BCH: [bitch,(24), bitch(77), bitch(107)]
+TN: [hittin(27), totin'(64)]
+T: [it(28), totin'(64), Taking(84), T(101)]
+Y: [You(39), you(44)]
+WDH: [with(41), with(59)]
+SHTS: [shits,(43), shits,(61)]
+PP: [pipe(56), pipe(65)]
+B: [be(63), bitches(94), B(104)]
+F: [off(67), F(102)]
+FLT: [flat,(69), flight(74), flight(83)]
+TK: [take(72), took(82)]
+W: [we(78), we(80), we(87), we(97)]
+DN: [done(81), down(86)]
+S: [ass(93), see(95)]
+
+
+
+
+Poem with word IDs:
+
+I(0) Don't(1) Like(2) 
+Lil(3) Reese(4) 
+
+I'm(5) killing(6) these(7) niggas,(8) shit(9) that(10) they(11) don't(12) like(13) 
+Broski(14) got(15) the(16) thirty(17) he(18) ain't(19) tryina(20) fight(21) 
+Got(22) your(23) bitch,(24) I(25) was(26) hittin(27) it(28) all(29) night(30) 
+Fredo(31) in(32) the(33) cut,(34) that's(35) a(36) scary(37) sight(38) 
+You(39) not(40) with(41) the(42) shits,(43) you(44) can(45) die(46) tonight(47) 
+I(48) only(49) want(50) the(51) top,(52) I(53) ain't(54) tryina(55) pipe(56) 
+Them(57) youngings(58) with(59) the(60) shits,(61) they(62) be(63) totin'(64) pipe(65) 
+Floating(66) off(67) a(68) flat,(69) I(70) might(71) take(72) a(73) flight(74) 
+three(75) Hunna(76) bitch(77) we(78) hot,(79) we(80) done(81) took(82) flight(83) 
+Taking(84) shit(85) down(86) we(87) ain't(88) like(89) the(90) price(91) 
+Thirsty(92) ass(93) bitches(94) see(95) that(96) we(97) don't(98) like(99) 
+O(100) T(101) F(102) G(103) B(104) E,(105) your(106) bitch(107) like(108) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see IDon'tLike_Output_B_uncertainty.txt in the Poems directory
+
+Don't (1:0) D OW1 N T (1:1) D OW1 N
+that (10:0) DH AE1 T (10:1) DH AH0 T
+don't (12:0) D OW1 N T (12:1) D OW1 N
+the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+thirty (17:0) TH ER1 - D IY0 (17:1) TH ER1 - T IY2
+your (23:0) Y AO1 R (23:1) Y UH1 R
+was (26:0) W AA1 Z (26:1) W AH1 Z (26:2) W AH0 Z (26:3) W AO1 Z
+it (28:0) IH1 T (28:1) IH0 T
+in (32:0) IH0 N (32:1) IH1 N
+the (33:0) DH AH0 (33:1) DH AH1 (33:2) DH IY0
+a (36:0) AH0 (36:1) EY1
+with (41:0) W IH1 DH (41:1) W IH1 TH (41:2) W IH0 TH (41:3) W IH0 DH
+the (42:0) DH AH0 (42:1) DH AH1 (42:2) DH IY0
+can (45:0) K AE1 N (45:1) K AH0 N
+tonight (47:0) T AH0 - N AY1 T (47:1) T UW0 - N AY1 T
+want (50:0) W AA1 N T (50:1) W AO1 N T
+the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+top, (52:0) T AA1 P (52:1) T AO1 P
+Them (57:0) DH EH1 M (57:1) DH AH0 M
+with (59:0) W IH1 DH (59:1) W IH1 TH (59:2) W IH0 TH (59:3) W IH0 DH
+the (60:0) DH AH0 (60:1) DH AH1 (60:2) DH IY0
+be (63:0) B IY1 (63:1) B IY0
+a (68:0) AH0 (68:1) EY1
+a (73:0) AH0 (73:1) EY1
+the (90:0) DH AH0 (90:1) DH AH1 (90:2) DH IY0
+that (96:0) DH AE1 T (96:1) DH AH0 T
+don't (98:0) D OW1 N T (98:1) D OW1 N
+your (106:0) Y AO1 R (106:1) Y UH1 R
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see IDon'tLike_Output_B_uncertainty.txt in the Poems directory
+
+niggas, (8:0)  N IH1- G AH0 Z
+tryina (20:0)  T R AY IY1- N AH0
+hittin (27:0)  HH IH1- T IH1 N
+shits, (43:0)  SH IH1 T S
+tryina (55:0)  T R AY IY1- N AH0
+youngings (58:0)  Y AH1 N- JH IH0 NG Z
+shits, (61:0)  SH IH1 T S
+totin' (64:0)  T OW1- T IH1 N
+Hunna (76:0)  HH AH1- N AH0

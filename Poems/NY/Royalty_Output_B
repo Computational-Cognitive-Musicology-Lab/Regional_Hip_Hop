@@ -1,0 +1,255 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+EY: [lady's(22), stay(94)]
+EY: [crazy,(23), stay(94)]
+IY: [me(26), beatin'(45)]
+IY: [me(26), speaker(58)]
+IY: [she(32), beatin'(45)]
+IY: [she(32), speaker(58)]
+EY: [baby(37), stay(94)]
+IYK: [week(42), cheekbone,(74)]
+OW: [ago,(43), holdin'(80)]
+OW: [ago,(43), smokin'(111)]
+IY: [beatin'(45), he(51)]
+IY: [beatin'(45), he(62)]
+IY: [beatin'(45), He(79)]
+IY: [beatin'(45), he(83)]
+IY: [beatin'(45), She(87)]
+IYK: [freak(50), cheekbone,(74)]
+IY: [he(51), speaker(58)]
+OW: [know(52), holdin'(80)]
+OW: [know(52), smokin'(111)]
+IY: [speaker(58), he(62)]
+IY: [speaker(58), He(79)]
+IY: [speaker(58), he(83)]
+IY: [speaker(58), She(87)]
+AOR: [before(61), corner,(146)]
+IHN: [holdin'(80), window,(91)]
+AOR: [door(86), corner,(146)]
+IHN: [window,(91), smokin'(111)]
+AOR: [store,(110), corner,(146)]
+AOR: [more(115), corner,(146)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [Royalty(0), me(26)]
+IY: [Royalty(0), she(32)]
+IY: [Royalty(0), he(51)]
+IY: [Royalty(0), he(62)]
+IY: [Royalty(0), He(79)]
+IY: [Royalty(0), he(83)]
+IY: [Royalty(0), She(87)]
+IY: [Scrawny(11), me(26)]
+IY: [Scrawny(11), she(32)]
+IY: [Scrawny(11), he(51)]
+IY: [Scrawny(11), he(62)]
+IY: [Scrawny(11), He(79)]
+IY: [Scrawny(11), he(83)]
+IY: [Scrawny(11), She(87)]
+IYZ: [lady's(22), he's(44)]
+IY: [crazy,(23), me(26)]
+IY: [crazy,(23), she(32)]
+IY: [crazy,(23), he(51)]
+IY: [crazy,(23), he(62)]
+IY: [crazy,(23), He(79)]
+IY: [crazy,(23), he(83)]
+IY: [crazy,(23), She(87)]
+IY: [me(26), baby(37)]
+IY: [me(26), ugly(38)]
+IY: [me(26), dirty(54)]
+IY: [me(26), body,(141)]
+IY: [me(26), body(151)]
+IY: [she(32), baby(37)]
+IY: [she(32), ugly(38)]
+IY: [she(32), dirty(54)]
+IY: [she(32), body,(141)]
+IY: [she(32), body(151)]
+IY: [baby(37), he(51)]
+IY: [baby(37), he(62)]
+IY: [baby(37), He(79)]
+IY: [baby(37), he(83)]
+IY: [baby(37), She(87)]
+IY: [ugly(38), he(51)]
+IY: [ugly(38), he(62)]
+IY: [ugly(38), He(79)]
+IY: [ugly(38), he(83)]
+IY: [ugly(38), She(87)]
+OW: [ago,(43), window,(91)]
+AHN: [beatin'(45), gun(133)]
+UW: [to(48), "You(92)]
+UW: [to(48), who(119)]
+IY: [he(51), dirty(54)]
+IY: [he(51), body,(141)]
+IY: [he(51), body(151)]
+OW: [know(52), window,(91)]
+IHN: [Talkin'(53), holdin'(80)]
+IHN: [Talkin'(53), smokin'(111)]
+IY: [dirty(54), he(62)]
+IY: [dirty(54), He(79)]
+IY: [dirty(54), he(83)]
+IY: [dirty(54), She(87)]
+UW: [to(55), "You(92)]
+UW: [to(55), who(119)]
+IY: [he(62), body,(141)]
+IY: [he(62), body(151)]
+IY: [He(79), body,(141)]
+IY: [He(79), body(151)]
+IHN: [holdin'(80), yellin'(88)]
+IY: [he(83), body,(141)]
+IY: [he(83), body(151)]
+IY: [She(87), body,(141)]
+IY: [She(87), body(151)]
+IHN: [yellin'(88), smokin'(111)]
+UW: ["You(92), to(121)]
+UW: ["You(92), to(144)]
+AHN: [Gettin'(106), gun(133)]
+UW: [who(119), to(121)]
+UW: [who(119), to(144)]
+
+
+Rule 2: ...-ON[C]'-...
+N: [known(3), on(7), own(9), on(17), own(19), than(40), on(57), phone(59), holdin'(80), window,(91), smokin'(111), on(128), gun(133)]
+D: [fraud(4), broad(20), made(75), could(93), Fraud(116)]
+L: [fell(6), he'll(15), tell(16), call(33), girl(66), whole(150)]
+Z: [his(8), as(12), his(18), His(21), he's(44), his(46), his(65), his(73), his(81), gauze(105), his(149)]
+ND: [fiend,(14), Behind(27), friend(36), cleaned(63)]
+T: [that(24), Right(60), hit(72), cut(78), out(84), out(89), that(96), let(131), out(147)]
+ST: [best(29), best(35), past,(100)]
+K: [back,(31), week(42), dick(47), freak(50), cheekbone,(74), like(120), talk,(125)]
+G: [ugly(38), big(124), Big(135)]
+S: [Less(39), face,(82), ass(117)]
+M: [him(56), some(114)]
+R: [before(61), door(86), store,(110), more(115), corner,(146)]
+P: [up,(64), up(68), deep(77), up(102), up(143)]
+NG: [Swung(69), swung(127)]
+DH: [with(95), with(103), with(113), with(138)]
+NT: [went(99), front(122)]
+
+
+Rule 3: ...-O[N]C'-...
+OW: [known(3), own(9), own(19), ago,(43), know(52), phone(59), holdin'(80), smokin'(111), nobody(129), old(140), whole(150)]
+AO: [fraud(4), sword(10), Scrawny(11), broad(20), call(33), Talkin'(53), before(61), door(86), whore"(97), gauze(105), store,(110), more(115), Fraud(116), talk,(125), corner,(146)]
+AH: [once(5), bugs(25), ugly(38), up,(64), up(68), Swung(69), cut(78), up(102), drunk(107), blunts(112), some(114), front(122), swung(127), gun(133), up(143), jumps(148)]
+EH: [fell(6), tell(16), best(29), friends(30), best(35), friend(36), Less(39), yellin'(88), went(99), never(126), Never(130), let(131), Benz(137)]
+AA: [on(7), on(17), on(57), on(128), spark(134), body,(141), body(151)]
+IH: [his(8), his(18), His(21), his(46), dick(47), him(56), his(65), hit(72), his(73), holdin'(80), his(81), window,(91), with(95), stitched(101), with(103), Gettin'(106), smokin'(111), with(113), niggas(118), big(124), Big(135), with(138), his(149)]
+AE: [as(12), that(24), back,(31), than(40), that(96), past,(100), ass(117)]
+IY: [fiend,(14), he'll(15), me(26), she(32), week(42), he's(44), beatin'(45), freak(50), he(51), speaker(58), he(62), cleaned(63), creeped(67), cheekbone,(74), deep(77), He(79), he(83), She(87)]
+EY: [lady's(22), crazy,(23), baby(37), made(75), face,(82), stay(94)]
+AY: [Behind(27), Right(60), knife,(71), by(108), like(120)]
+ER: [dirty(54), girl(66)]
+AW: [out(84), out(89), Hours(98), out(147)]
+UW: ["You(92), who(119)]
+UH: [could(93), pulls(142)]
+
+
+Rule 4: ...-[O']N[C']'-...
+FRD: [fraud(4), Fraud(116)]
+N: [on(7), own(9), on(17), own(19), know(52), on(57), niggas(118), never(126), on(128), nobody(129), Never(130)]
+HHZ: [his(8), his(18), His(21), he's(44), his(46), his(65), his(73), his(81), his(149)]
+HHL: [he'll(15), whole(150)]
+KR: [crazy,(23), corner,(146)]
+DHT: [that(24), that(96)]
+BST: [best(29), best(35)]
+SH: [she(32), She(87)]
+B: [baby(37), beatin'(45), by(108), body,(141), body(151)]
+G: [ugly(38), ago,(43), Gettin'(106)]
+HH: [he(51), he(62), He(79), holdin'(80), he(83), whore"(97), who(119)]
+T: [Talkin'(53), out(84), out(89), out(147)]
+P: [up,(64), up(68), up(102), up(143)]
+SWNG: [Swung(69), swung(127)]
+Y: [yellin'(88), "You(92)]
+WDH: [with(95), with(103), with(113), with(138)]
+SM: [smokin'(111), some(114)]
+BG: [big(124), Big(135)]
+
+
+
+
+Poem with word IDs:
+
+Royalty(0) 
+Nas(1) 
+
+A(2) known(3) fraud(4) once(5) fell(6) on(7) his(8) own(9) sword(10) 
+Scrawny(11) as(12) a(13) fiend,(14) he'll(15) tell(16) on(17) his(18) own(19) broad(20) 
+His(21) lady's(22) crazy,(23) that(24) bugs(25) me(26) 
+Behind(27) her(28) best(29) friends(30) back,(31) she(32) call(33) her(34) best(35) friend(36) baby(37) ugly(38) 
+Less(39) than(40) a(41) week(42) ago,(43) he's(44) beatin'(45) his(46) dick(47) to(48) a(49) freak(50) he(51) know(52) 
+Talkin'(53) dirty(54) to(55) him(56) on(57) speaker(58) phone(59) 
+Right(60) before(61) he(62) cleaned(63) up,(64) his(65) girl(66) creeped(67) up(68) 
+Swung(69) a(70) knife,(71) hit(72) his(73) cheekbone,(74) made(75) a(76) deep(77) cut(78) 
+He(79) holdin'(80) his(81) face,(82) he(83) out(84) the(85) door(86) 
+She(87) yellin'(88) out(89) the(90) window,(91) "You(92) could(93) stay(94) with(95) that(96) whore"(97) 
+Hours(98) went(99) past,(100) stitched(101) up(102) with(103) the(104) gauze(105) 
+Gettin'(106) drunk(107) by(108) the(109) store,(110) smokin'(111) blunts(112) with(113) some(114) more(115) 
+Fraud(116) ass(117) niggas(118) who(119) like(120) to(121) front(122) and(123) big(124) talk,(125) never(126) swung(127) on(128) nobody(129) 
+Never(130) let(131) a(132) gun(133) spark(134) 
+Big(135) '97(136) Benz(137) with(138) the(139) old(140) body,(141) pulls(142) up(143) to(144) the(145) corner,(146) out(147) jumps(148) his(149) whole(150) body(151) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Royalty_Output_B_uncertainty.txt in the Poems directory
+
+A (2:0) AH0 (2:1) EY1
+on (7:0) AA1 N (7:1) AO1 N
+his (8:0) HH IH1 Z (8:1) HH IH0 Z
+as (12:0) AE1 Z (12:1) EH1 Z
+a (13:0) AH0 (13:1) EY1
+on (17:0) AA1 N (17:1) AO1 N
+his (18:0) HH IH1 Z (18:1) HH IH0 Z
+His (21:0) HH IH1 Z (21:1) HH IH0 Z
+that (24:0) DH AE1 T (24:1) DH AH0 T
+her (28:0) HH ER0 (28:1) HH ER1
+friends (30:0) F R EH1 N D Z (30:1) F R EH1 N Z
+her (34:0) HH ER0 (34:1) HH ER1
+than (40:0) DH AE1 N (40:1) DH AH0 N
+a (41:0) AH0 (41:1) EY1
+his (46:0) HH IH1 Z (46:1) HH IH0 Z
+to (48:0) T UW0 (48:1) T IH0 (48:2) T AH0
+a (49:0) AH0 (49:1) EY1
+to (55:0) T UW0 (55:1) T IH0 (55:2) T AH0
+him (56:0) HH IH1 M (56:1) IH0 M
+on (57:0) AA1 N (57:1) AO1 N
+before (61:0) B IH0 - F AO1 R (61:1) B IY2 - F AO1 R
+his (65:0) HH IH1 Z (65:1) HH IH0 Z
+a (70:0) AH0 (70:1) EY1
+his (73:0) HH IH1 Z (73:1) HH IH0 Z
+a (76:0) AH0 (76:1) EY1
+his (81:0) HH IH1 Z (81:1) HH IH0 Z
+the (85:0) DH AH0 (85:1) DH AH1 (85:2) DH IY0
+the (90:0) DH AH0 (90:1) DH AH1 (90:2) DH IY0
+with (95:0) W IH1 DH (95:1) W IH1 TH (95:2) W IH0 TH (95:3) W IH0 DH
+that (96:0) DH AE1 T (96:1) DH AH0 T
+Hours (98:0) AW1 - ER0 Z (98:1) AW1 R Z
+with (103:0) W IH1 DH (103:1) W IH1 TH (103:2) W IH0 TH (103:3) W IH0 DH
+the (104:0) DH AH0 (104:1) DH AH1 (104:2) DH IY0
+the (109:0) DH AH0 (109:1) DH AH1 (109:2) DH IY0
+with (113:0) W IH1 DH (113:1) W IH1 TH (113:2) W IH0 TH (113:3) W IH0 DH
+to (121:0) T UW0 (121:1) T IH0 (121:2) T AH0
+and (123:0) AE0 N D (123:1) AH0 N D
+on (128:0) AA1 N (128:1) AO1 N
+nobody (129:0) N OW1 - B AA2 - D IY2 (129:1) N OW1 - B AH0 - D IY0
+a (132:0) AH0 (132:1) EY1
+Benz (137:0) B EH1 N Z (137:1) B AE1 N Z
+with (138:0) W IH1 DH (138:1) W IH1 TH (138:2) W IH0 TH (138:3) W IH0 DH
+the (139:0) DH AH0 (139:1) DH AH1 (139:2) DH IY0
+to (144:0) T UW0 (144:1) T IH0 (144:2) T AH0
+the (145:0) DH AH0 (145:1) DH AH1 (145:2) DH IY0
+his (149:0) HH IH1 Z (149:1) HH IH0 Z
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Royalty_Output_B_uncertainty.txt in the Poems directory
+
+Nas (1:0)  N AH0 Z
+beatin' (45:0)  B IY1- T AH0 N
+creeped (67:0)  K R IY1 P T
+holdin' (80:0)  HH OW1- L D IH1 N
+"You (92:0)  Y UW1
+whore" (97:0)  HH AO1- R AH0
+smokin' (111:0)  S M OW1- K IH1 N
+niggas (118:0)  N IH1- G AH0 Z

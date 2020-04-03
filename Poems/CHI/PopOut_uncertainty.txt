@@ -1,0 +1,129 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%don't (5:0) D OW1 N T (5:1) D OW1 N
+5:0
+%her (7:0) HH ER0 (7:1) HH ER1
+7:0
+%the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+10:0
+%doctor (11:0) D AA1 K - T ER0 (11:1) D AO1 K - T ER0
+11:0
+%with (12:0) W IH1 DH (12:1) W IH1 TH (12:2) W IH0 TH (12:3) W IH0 DH
+12:0
+%a (13:0) AH0 (13:1) EY1
+13:0
+%new (14:0) N UW1 (14:1) N Y UW1
+14:0
+%just (22:0) JH AH1 S T (22:1) JH IH0 S T
+22:0
+%with (25:0) W IH1 DH (25:1) W IH1 TH (25:2) W IH0 TH (25:3) W IH0 DH
+25:0
+%new (27:0) N UW1 (27:1) N Y UW1
+27:0
+%was (38:0) W AA1 Z (38:1) W AH1 Z (38:2) W AH0 Z (38:3) W AO1 Z
+38:0
+%onto (41:0) AA1 N - T UW0 (41:1) AO1 N - T UW0
+41:0
+%a (42:0) AH0 (42:1) EY1
+42:0
+%it's (45:0) IH1 T S (45:1) IH0 T S
+45:0
+%a (49:0) AH0 (49:1) EY1
+49:0
+%to (51:0) T UW0 (51:1) T IH0 (51:2) T AH0
+51:0
+%Cali, (52:0) K AA1 - L IY0 (52:1) K AE1 - L IY0
+52:0
+%and (54:0) AE0 N D (54:1) AH0 N D
+54:0
+%in (56:0) IH0 N (56:1) IH1 N
+56:0
+%And (59:0) AE0 N D (59:1) AH0 N D
+59:0
+%every (60:0) EH1 - V ER0 - IY0 (60:1) EH1 - V R IY0
+60:0
+%dollar (62:0) D AA1 - L ER0 (62:1) D AO1 - L ER0
+62:0
+%in (63:0) IH0 N (63:1) IH1 N
+63:0
+%in (70:0) IH0 N (70:1) IH1 N
+70:0
+%the (71:0) DH AH0 (71:1) DH AH1 (71:2) DH IY0
+71:0
+%Rollie, (72:0) R OW1 - L IY0 (72:1) R AO1 - L IY0
+72:0
+%in (74:0) IH0 N (74:1) IH1 N
+74:0
+%it's (78:0) IH1 T S (78:1) IH0 T S
+78:0
+%The (80:0) DH AH0 (80:1) DH AH1 (80:2) DH IY0
+80:0
+%that (82:0) DH AE1 T (82:1) DH AH0 T
+82:0
+%been (84:0) B IH1 N (84:1) B AH0 N (84:2) B IH0 N
+84:0
+%the (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+88:0
+%of (90:0) AH0 V (90:1) AH0 V
+90:0
+%for (95:0) F AO1 R (95:1) F ER0 (95:2) F R ER0
+95:0
+%the (96:0) DH AH0 (96:1) DH AH1 (96:2) DH IY0
+96:0
+%in (102:0) IH0 N (102:1) IH1 N
+102:0
+%a (103:0) AH0 (103:1) EY1
+103:0
+%new (104:0) N UW1 (104:1) N Y UW1
+104:0
+%on (107:0) AA1 N (107:1) AO1 N
+107:0
+%the (108:0) DH AH0 (108:1) DH AH1 (108:2) DH IY0
+108:0
+%get (113:0) G EH1 T (113:1) G IH1 T
+113:0
+%your (114:0) Y AO1 R (114:1) Y UH1 R
+114:0
+%And (117:0) AE0 N D (117:1) AH0 N D
+117:0
+%get (130:0) G EH1 T (130:1) G IH1 T
+130:0
+%close (132:0) K L OW1 S (132:1) K L OW1 Z
+132:0
+%the (134:0) DH AH0 (134:1) DH AH1 (134:2) DH IY0
+134:0
+%twenty (136:0) T W EH1 N - T IY0 (136:1) T W EH1 - N IY0
+136:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%'cause (20:0)  K AW1 Z
+20:0
+%Heartbreaker, (29:0)  HH AA1 R T- B R EY1- K ER0
+29:0
+%tryna (39:0)  T R IH1- N AH0
+39:0
+%nigga, (43:0)  N IH1- G AH0
+43:0
+%Blu-Ray (79:0)  B L R EY0
+79:0
+%ballin' (85:0)  B AE1- L IH1 N
+85:0
+%Wraith (105:0)  R EY1 TH
+105:0
+%Dissin' (106:0)  D IH1- S IH1 N
+106:0
+%gon' (111:0)  G AA1 N
+111:0
+%Lil' (128:0)  L IH1 L
+128:0
+********End******

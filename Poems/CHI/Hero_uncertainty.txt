@@ -1,0 +1,139 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Hero (1:0) HH IH1 - R OW0 (1:1) HH IY1 - R OW0
+1:0
+%That (4:0) DH AE1 T (4:1) DH AH0 T
+4:0
+%don't (8:0) D OW1 N T (8:1) D OW1 N
+8:0
+%reply (9:0) R IH0 - P L AY1 (9:1) R IY0 - P L AY1
+9:0
+%to (10:0) T UW0 (10:1) T IH0 (10:2) T AH0
+10:0
+%with (12:0) W IH1 DH (12:1) W IH1 TH (12:2) W IH0 TH (12:3) W IH0 DH
+12:0
+%that (13:0) DH AE1 T (13:1) DH AH0 T
+13:0
+%don't (23:0) D OW1 N T (23:1) D OW1 N
+23:0
+%it (25:0) IH1 T (25:1) IH0 T
+25:0
+%caught (29:0) K AA1 T (29:1) K AO1 T
+29:0
+%a (30:0) AH0 (30:1) EY1
+30:0
+%it (35:0) IH1 T (35:1) IH0 T
+35:0
+%to (38:0) T UW0 (38:1) T IH0 (38:2) T AH0
+38:0
+%his (39:0) HH IH1 Z (39:1) HH IH0 Z
+39:0
+%it (44:0) IH1 T (44:1) IH0 T
+44:0
+%facts, (46:0) F AE1 K T S (46:1) F AE1 K S
+46:0
+%and (51:0) AE0 N D (51:1) AH0 N D
+51:0
+%fall (53:0) F AO1 L (53:1) F AA1 L
+53:0
+%what (64:0) W AH1 T (64:1) HH W AH1 T
+64:0
+%that? (67:0) DH AE1 T (67:1) DH AH0 T
+67:0
+%cheated (69:0) CH IY1 - T AH0 D (69:1) CH IY1 - T IH0 D
+69:0
+%on (70:0) AA1 N (70:1) AO1 N
+70:0
+%with (76:0) W IH1 DH (76:1) W IH1 TH (76:2) W IH0 TH (76:3) W IH0 DH
+76:0
+%her (82:0) HH ER0 (82:1) HH ER1
+82:0
+%it, (86:0) IH1 T (86:1) IH0 T
+86:0
+%where (92:0) W EH1 R (92:1) HH W EH1 R
+92:0
+%the (93:0) DH AH0 (93:1) DH AH1 (93:2) DH IY0
+93:0
+%don't (95:0) D OW1 N T (95:1) D OW1 N
+95:0
+%Last (98:0) L AE1 S T (98:1) L AO1 S T (98:2) L AE1 S
+98:0
+%with (101:0) W IH1 DH (101:1) W IH1 TH (101:2) W IH0 TH (101:3) W IH0 DH
+101:0
+%in (104:0) IH0 N (104:1) IH1 N
+104:0
+%a (105:0) AH0 (105:1) EY1
+105:0
+%with (110:0) W IH1 DH (110:1) W IH1 TH (110:2) W IH0 TH (110:3) W IH0 DH
+110:0
+%If (118:0) IH1 F (118:1) IH0 F
+118:0
+%where (126:0) W EH1 R (126:1) HH W EH1 R
+126:0
+%from, (128:0) F R AH1 M (128:1) F ER0 M
+128:0
+%a (131:0) AH0 (131:1) EY1
+131:0
+%a (135:0) AH0 (135:1) EY1
+135:0
+%When (139:0) W EH1 N (139:1) HH W EH1 N (139:2) W IH1 N (139:3) HH W IH1 N
+139:0
+%the (142:0) DH AH0 (142:1) DH AH1 (142:2) DH IY0
+142:0
+%before, (154:0) B IH0 - F AO1 R (154:1) B IY2 - F AO1 R
+154:0
+%want (156:0) W AA1 N T (156:1) W AO1 N T
+156:0
+%a (157:0) AH0 (157:1) EY1
+157:0
+%Phantom (158:0) F AE1 N - T AH0 M (158:1) F AE1 - N AH0 M
+158:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Durk (3:0)  D ER1 K
+3:0
+%niggas (11:0)  N IH1- G AH0 Z
+11:0
+%nigga (18:0)  N IH1- G AH0
+18:0
+%foenem (28:0)  F OW1- N AH0 M
+28:0
+%gon' (33:0)  G AA1 N
+33:0
+%nigga (47:0)  N IH1- G AH0
+47:0
+%snaked (48:0)  S N EY1 K T
+48:0
+%I'ma (52:0)  IH1- M AH0
+52:0
+%Nigga (55:0)  N IH1- G AH0
+55:0
+%snaked (62:0)  S N EY1 K T
+62:0
+%'cause (87:0)  K AW1 Z
+87:0
+%Chiraq, (91:0)  CH IH0- R AE0 K
+91:0
+%nigga (99:0)  N IH1- G AH0
+99:0
+%Durkio, (102:0)  D ER1- K IY OW0
+102:0
+%backwood (106:0)  B AE1- K W UH1 D
+106:0
+%niggas (108:0)  N IH1- G AH0 Z
+108:0
+%throwin' (148:0)  TH R OW IH1 N
+148:0
+%'cause (163:0)  K AW1 Z
+163:0
+********End******

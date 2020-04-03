@@ -1,0 +1,361 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: O[NC]'&...-O[NC]'-ONC
+AOR: [for(9), quarter(52)]
+UW: [You(24), shooters(163)]
+AOR: [for(27), quarter(52)]
+UW: [you(30), shooters(163)]
+EY: [makin'(39), Say(133)]
+UW: [you(44), shooters(163)]
+AOR: [quarter(52), for(142)]
+AOR: [quarter(52), your(149)]
+AOL: [always(57), all(76)]
+UW: [through(111), shooters(163)]
+EY: [Say(133), baby(138)]
+UW: [you(134), shooters(163)]
+UW: [do(140), shooters(163)]
+UW: [two(162), shooters(163)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IY: [Money(0), me(12)]
+IY: [Money(0), me(16)]
+IY: [Money(0), three(49)]
+IY: [Money(0), she(87)]
+IY: [Money(0), She(94)]
+IY: [Money(0), she(122)]
+IY: [Money(0), she(126)]
+IY: [Money(0), me(128)]
+IY: [Money(0), she(131)]
+IY: [Money(0), me,(136)]
+IY: [Money(0), me(143)]
+IY: [Money(0), me(165)]
+IY: [Curren$y(3), me(12)]
+IY: [Curren$y(3), me(16)]
+IY: [Curren$y(3), three(49)]
+IY: [Curren$y(3), she(87)]
+IY: [Curren$y(3), She(94)]
+IY: [Curren$y(3), she(122)]
+IY: [Curren$y(3), she(126)]
+IY: [Curren$y(3), me(128)]
+IY: [Curren$y(3), she(131)]
+IY: [Curren$y(3), me,(136)]
+IY: [Curren$y(3), me(143)]
+IY: [Curren$y(3), me(165)]
+IHN: [lettin'(11), lookin'(26)]
+IHN: [lettin'(11), makin'(39)]
+IHN: [lettin'(11), in(55)]
+IHN: [lettin'(11), in(71)]
+IHN: [lettin'(11), in(101)]
+IHN: [lettin'(11), somethin'(141)]
+IHN: [lettin'(11), nothin'(145)]
+IHN: [lettin'(11), somethin',(147)]
+IY: [me(12), legendary(48)]
+IY: [me(12), February(56)]
+IY: [me(12), ready,(64)]
+IY: [me(12), Chevy(73)]
+IY: [me(12), Fifty(74)]
+IY: [me(12), Shawty(85)]
+IY: [me(12), baby(138)]
+IY: [me(12), daddy(150)]
+IY: [me(12), Bentley(152)]
+IY: [me(12), blueberry(153)]
+IY: [me(16), legendary(48)]
+IY: [me(16), February(56)]
+IY: [me(16), ready,(64)]
+IY: [me(16), Chevy(73)]
+IY: [me(16), Fifty(74)]
+IY: [me(16), Shawty(85)]
+IY: [me(16), baby(138)]
+IY: [me(16), daddy(150)]
+IY: [me(16), Bentley(152)]
+IY: [me(16), blueberry(153)]
+IHN: [lookin'(26), stuntin'(151)]
+IHN: [lookin'(26), puffin'(160)]
+IHN: [makin'(39), stuntin'(151)]
+IHN: [makin'(39), puffin'(160)]
+IY: [legendary(48), three(49)]
+IY: [legendary(48), she(87)]
+IY: [legendary(48), She(94)]
+IY: [legendary(48), she(122)]
+IY: [legendary(48), she(126)]
+IY: [legendary(48), me(128)]
+IY: [legendary(48), she(131)]
+IY: [legendary(48), me,(136)]
+IY: [legendary(48), me(143)]
+IY: [legendary(48), me(165)]
+IY: [three(49), February(56)]
+IY: [three(49), ready,(64)]
+IY: [three(49), Chevy(73)]
+IY: [three(49), Fifty(74)]
+IY: [three(49), Shawty(85)]
+IY: [three(49), baby(138)]
+IY: [three(49), daddy(150)]
+IY: [three(49), Bentley(152)]
+IY: [three(49), blueberry(153)]
+ERZ: [Furs(54), shooters(163)]
+IHN: [in(55), stuntin'(151)]
+IHN: [in(55), puffin'(160)]
+IY: [February(56), she(87)]
+IY: [February(56), She(94)]
+IY: [February(56), she(122)]
+IY: [February(56), she(126)]
+IY: [February(56), me(128)]
+IY: [February(56), she(131)]
+IY: [February(56), me,(136)]
+IY: [February(56), me(143)]
+IY: [February(56), me(165)]
+IY: [ready,(64), she(87)]
+IY: [ready,(64), She(94)]
+IY: [ready,(64), she(122)]
+IY: [ready,(64), she(126)]
+IY: [ready,(64), me(128)]
+IY: [ready,(64), she(131)]
+IY: [ready,(64), me,(136)]
+IY: [ready,(64), me(143)]
+IY: [ready,(64), me(165)]
+IHN: [in(71), stuntin'(151)]
+IHN: [in(71), puffin'(160)]
+IY: [Chevy(73), she(87)]
+IY: [Chevy(73), She(94)]
+IY: [Chevy(73), she(122)]
+IY: [Chevy(73), she(126)]
+IY: [Chevy(73), me(128)]
+IY: [Chevy(73), she(131)]
+IY: [Chevy(73), me,(136)]
+IY: [Chevy(73), me(143)]
+IY: [Chevy(73), me(165)]
+IY: [Fifty(74), she(87)]
+IY: [Fifty(74), She(94)]
+IY: [Fifty(74), she(122)]
+IY: [Fifty(74), she(126)]
+IY: [Fifty(74), me(128)]
+IY: [Fifty(74), she(131)]
+IY: [Fifty(74), me,(136)]
+IY: [Fifty(74), me(143)]
+IY: [Fifty(74), me(165)]
+IY: [Shawty(85), she(87)]
+IY: [Shawty(85), She(94)]
+IY: [Shawty(85), she(122)]
+IY: [Shawty(85), she(126)]
+IY: [Shawty(85), me(128)]
+IY: [Shawty(85), she(131)]
+IY: [Shawty(85), me,(136)]
+IY: [Shawty(85), me(143)]
+IY: [Shawty(85), me(165)]
+IY: [she(87), baby(138)]
+IY: [she(87), daddy(150)]
+IY: [she(87), Bentley(152)]
+IY: [she(87), blueberry(153)]
+IY: [She(94), baby(138)]
+IY: [She(94), daddy(150)]
+IY: [She(94), Bentley(152)]
+IY: [She(94), blueberry(153)]
+IHN: [in(101), stuntin'(151)]
+IHN: [in(101), puffin'(160)]
+AHV: [of(107), love(135)]
+IY: [she(122), baby(138)]
+IY: [she(122), daddy(150)]
+IY: [she(122), Bentley(152)]
+IY: [she(122), blueberry(153)]
+IY: [she(126), baby(138)]
+IY: [she(126), daddy(150)]
+IY: [she(126), Bentley(152)]
+IY: [she(126), blueberry(153)]
+IY: [me(128), baby(138)]
+IY: [me(128), daddy(150)]
+IY: [me(128), Bentley(152)]
+IY: [me(128), blueberry(153)]
+IY: [she(131), baby(138)]
+IY: [she(131), daddy(150)]
+IY: [she(131), Bentley(152)]
+IY: [she(131), blueberry(153)]
+IY: [me,(136), baby(138)]
+IY: [me,(136), daddy(150)]
+IY: [me,(136), Bentley(152)]
+IY: [me,(136), blueberry(153)]
+IY: [baby(138), me(143)]
+IY: [baby(138), me(165)]
+IHN: [somethin'(141), stuntin'(151)]
+IHN: [somethin'(141), puffin'(160)]
+IY: [me(143), daddy(150)]
+IY: [me(143), Bentley(152)]
+IY: [me(143), blueberry(153)]
+IHN: [nothin'(145), stuntin'(151)]
+IHN: [nothin'(145), puffin'(160)]
+IHN: [somethin',(147), stuntin'(151)]
+IHN: [somethin',(147), puffin'(160)]
+IY: [daddy(150), me(165)]
+IY: [Bentley(152), me(165)]
+IY: [blueberry(153), me(165)]
+
+
+Rule 2: ...-ON[C]'-...
+N: [Machine(1), lettin'(11), man(35), man,(43), on(58), on(82), when(125), Turn(144), stuntin'(151), puffin'(160)]
+K: [Fuck(4), fuck(89), Like(118), like(157)]
+ND: [around(5), around(15), around(90)]
+T: [get(7), not(10), Shit(14), that(17), that(22), That(33), right(37), about(46), it(61), lit(66), that(92), that(98), set,(113), wet,(115), let(127), out(156)]
+LD: [killed(8), gold(117)]
+R: [for(9), for(27), here,(38), disappear(41), quarter(52), here(102), for(142), your(149)]
+V: [live(13), love(135)]
+L: [real,(18), trill(23), always(57), all(76), well,(137), girl,(139)]
+Z: [is(21), was(25), was(36), Furs(54), was(62), 'cause(97)]
+NT: [ain't(31), point(59), joint(68), don't(88), want(95), paint(114), Bentley(152)]
+D: [heard(45), said(86), made(104)]
+PT: [dipped(70), hopped(155)]
+P: [hardtop,(78), drop(84), up(124), keep(148)]
+DH: [with(91), with(164)]
+M: [came(100), came(110), championship(120), somethin'(141), somethin',(147)]
+LT: [belt,(121), felt(132)]
+
+
+Rule 3: ...-O[N]C'-...
+AH: [Money(0), Fuck(4), plug,(29), fuck(89), fucked(123), up(124), love(135), somethin'(141), nothin'(145), somethin',(147), stuntin'(151), muffins,(154), puffin'(160), Brung(161)]
+IY: [Machine(1), me(12), me(16), real,(18), three(49), she(87), She(94), she(122), she(126), me(128), she(131), me,(136), me(143), keep(148), me(165)]
+AW: [around(5), around(15), about(46), around(90), 'cause(97), how(130), out(156)]
+EH: [get(7), lettin'(11), squares(40), legendary(48), length(53), February(56), never(63), ready,(64), Chevy(73), seven,(75), said(86), help(93), himself(108), set,(113), wet,(115), belt,(121), when(125), let(127), felt(132), well,(137), Bentley(152)]
+IH: [killed(8), lettin'(11), Shit(14), niggas(20), is(21), trill(23), here,(38), disappear(41), it(61), lit(66), dipped(70), Fifty(74), switches(81), with(91), Spitta(96), nigga(99), here(102), rims(116), stuntin'(151), puffin'(160), with(164)]
+AO: [for(9), for(27), quarter(52), always(57), all(76), Shawty(85), for(142), your(149)]
+AA: [not(10), was(25), was(36), on(58), was(62), stocks,(77), hardtop,(78), on(82), drop(84), want(95), boss(106), hopped(155)]
+AY: [live(13), my(19), right(37), I(65), my(67), my(72), I(79), my(83), I(109), Like(118), like(157), my(167)]
+AE: [that(17), that(22), That(33), man(35), Magic(42), man,(43), that(92), that(98), championship(120), daddy(150), dragon(159), baddest(168)]
+UW: [You(24), you(30), you(44), through(111), you(134), do(140), into(146), blueberry(153), two(162), shooters(163)]
+UH: [lookin'(26), woman(169)]
+EY: [ain't(31), makin'(39), came(100), made(104), came(110), paint(114), Say(133), baby(138)]
+OW: [know(32), throw(80), don't(88), gold(117), know(129)]
+ER: [heard(45), Furs(54), girl,(139), Turn(144)]
+OY: [point(59), joint(68)]
+
+
+Rule 4: ...-[O']N[C']'-...
+M: [Money(0), me(12), me(16), my(19), makin'(39), Magic(42), my(67), my(72), my(83), me(128), me,(136), me(143), muffins,(154), me(165), my(167)]
+FK: [Fuck(4), fuck(89)]
+ND: [around(5), around(15), around(90)]
+FR: [for(9), for(27), for(142)]
+NT: [not(10), ain't(31)]
+L: [lettin'(11), lookin'(26), legendary(48), always(57), all(76)]
+TN: [lettin'(11), Turn(144), stuntin'(151)]
+LV: [live(13), love(135)]
+DHT: [that(17), that(22), That(33), that(92), that(98)]
+N: [niggas(20), know(32), on(58), never(63), on(82), nigga(99), know(129), nothin'(145)]
+Y: [You(24), you(30), you(44), you(134)]
+WZ: [was(25), was(36), was(62)]
+MN: [man(35), man,(43)]
+HHR: [here,(38), here(102)]
+THR: [three(49), throw(80), through(111)]
+PNT: [point(59), paint(114)]
+T: [it(61), into(146), out(156), two(162)]
+LT: [lit(66), let(127)]
+S: [seven,(75), Say(133)]
+HH: [hardtop,(78), how(130)]
+SH: [Shawty(85), she(87), She(94), she(122), she(126), she(131), shooters(163)]
+WDH: [with(91), with(164)]
+KM: [came(100), came(110)]
+LK: [Like(118), like(157)]
+P: [up(124), puffin'(160)]
+B: [baby(138), baddest(168)]
+D: [do(140), daddy(150)]
+SM: [somethin'(141), somethin',(147)]
+
+
+
+
+Poem with word IDs:
+
+Money(0) Machine(1) 3(2) 
+Curren$y(3) 
+
+Fuck(4) around(5) and(6) get(7) killed(8) for(9) not(10) lettin'(11) me(12) live(13) 
+Shit(14) around(15) me(16) that(17) real,(18) my(19) niggas(20) is(21) that(22) trill(23) 
+You(24) was(25) lookin'(26) for(27) a(28) plug,(29) you(30) ain't(31) know(32) 
+That(33) the(34) man(35) was(36) right(37) here,(38) makin'(39) squares(40) disappear(41) 
+Magic(42) man,(43) you(44) heard(45) about(46) the(47) legendary(48) three(49) and(50) a(51) quarter(52) length(53) 
+Furs(54) in(55) February(56) always(57) on(58) point(59) 
+And(60) it(61) was(62) never(63) ready,(64) I(65) lit(66) my(67) joint(68) and(69) dipped(70) in(71) my(72) Chevy(73) 
+Fifty(74) seven,(75) all(76) stocks,(77) hardtop,(78) I(79) throw(80) switches(81) on(82) my(83) drop(84) 
+Shawty(85) said(86) she(87) don't(88) fuck(89) around(90) with(91) that(92) help(93) 
+She(94) want(95) Spitta(96) 'cause(97) that(98) nigga(99) came(100) in(101) here(102) and(103) made(104) a(105) boss(106) of(107) himself(108) 
+I(109) came(110) through(111) the(112) set,(113) paint(114) wet,(115) rims(116) gold(117) 
+Like(118) a(119) championship(120) belt,(121) she(122) fucked(123) up(124) when(125) she(126) let(127) me(128) know(129) how(130) she(131) felt(132) 
+Say(133) you(134) love(135) me,(136) well,(137) baby(138) girl,(139) do(140) somethin'(141) for(142) me(143) 
+Turn(144) nothin'(145) into(146) somethin',(147) keep(148) your(149) daddy(150) stuntin'(151) 
+Bentley(152) blueberry(153) muffins,(154) hopped(155) out(156) like(157) a(158) dragon(159) puffin'(160) 
+Brung(161) two(162) shooters(163) with(164) me(165) and(166) my(167) baddest(168) woman(169) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see MoneyMachine_Output_B_uncertainty.txt in the Poems directory
+
+around (5:0) ER0 - AW1 N D (5:1) ER0 - AW1 N
+and (6:0) AE0 N D (6:1) AH0 N D
+get (7:0) G EH1 T (7:1) G IH1 T
+for (9:0) F AO1 R (9:1) F ER0 (9:2) F R ER0
+live (13:0) L AY1 V (13:1) L IH1 V
+around (15:0) ER0 - AW1 N D (15:1) ER0 - AW1 N
+that (17:0) DH AE1 T (17:1) DH AH0 T
+is (21:0) IH1 Z (21:1) IH0 Z
+that (22:0) DH AE1 T (22:1) DH AH0 T
+was (25:0) W AA1 Z (25:1) W AH1 Z (25:2) W AH0 Z (25:3) W AO1 Z
+for (27:0) F AO1 R (27:1) F ER0 (27:2) F R ER0
+a (28:0) AH0 (28:1) EY1
+That (33:0) DH AE1 T (33:1) DH AH0 T
+the (34:0) DH AH0 (34:1) DH AH1 (34:2) DH IY0
+was (36:0) W AA1 Z (36:1) W AH1 Z (36:2) W AH0 Z (36:3) W AO1 Z
+disappear (41:0) D IH2 S - AH0 - P IH1 R (41:1) D IH2 - S AH0 - P IY1 R
+the (47:0) DH AH0 (47:1) DH AH1 (47:2) DH IY0
+and (50:0) AE0 N D (50:1) AH0 N D
+a (51:0) AH0 (51:1) EY1
+quarter (52:0) K W AO1 R - T ER0 (52:1) K AO1 R - T ER0
+length (53:0) L EH1 NG K TH (53:1) L EH1 NG TH
+in (55:0) IH0 N (55:1) IH1 N
+February (56:0) F EH1 - B Y AH0 W - EH2 - R IY0 (56:1) F EH1 - B AH0 - W EH2 - R IY0 (56:2) F EH1 - B R UW0 W - EH2 - R IY0 (56:3) F EH1 - B UW0 - W EH2 - R IY0
+always (57:0) AO1 L - W EY2 Z (57:1) AO1 L - W IY0 Z
+on (58:0) AA1 N (58:1) AO1 N
+And (60:0) AE0 N D (60:1) AH0 N D
+it (61:0) IH1 T (61:1) IH0 T
+was (62:0) W AA1 Z (62:1) W AH1 Z (62:2) W AH0 Z (62:3) W AO1 Z
+and (69:0) AE0 N D (69:1) AH0 N D
+in (71:0) IH0 N (71:1) IH1 N
+Chevy (73:0) CH EH1 - V IY0 (73:1) SH EH1 - V IY0
+switches (81:0) S W IH1 - CH AH0 Z (81:1) S W IH1 - CH IH0 Z
+on (82:0) AA1 N (82:1) AO1 N
+drop (84:0) D R AA1 P (84:1) D R AO1 P
+don't (88:0) D OW1 N T (88:1) D OW1 N
+around (90:0) ER0 - AW1 N D (90:1) ER0 - AW1 N
+with (91:0) W IH1 DH (91:1) W IH1 TH (91:2) W IH0 TH (91:3) W IH0 DH
+that (92:0) DH AE1 T (92:1) DH AH0 T
+want (95:0) W AA1 N T (95:1) W AO1 N T
+that (98:0) DH AE1 T (98:1) DH AH0 T
+in (101:0) IH0 N (101:1) IH1 N
+and (103:0) AE0 N D (103:1) AH0 N D
+a (105:0) AH0 (105:1) EY1
+boss (106:0) B AA1 S (106:1) B AO1 S
+of (107:0) AH0 V (107:1) AH0 V
+the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+a (119:0) AH0 (119:1) EY1
+when (125:0) W EH1 N (125:1) HH W EH1 N (125:2) W IH1 N (125:3) HH W IH1 N
+for (142:0) F AO1 R (142:1) F ER0 (142:2) F R ER0
+into (146:0) IH0 N - T UW1 (146:1) IH1 N - T UW0 (146:2) IH0 N - T AH0
+your (149:0) Y AO1 R (149:1) Y UH1 R
+a (158:0) AH0 (158:1) EY1
+with (164:0) W IH1 DH (164:1) W IH1 TH (164:2) W IH0 TH (164:3) W IH0 DH
+and (166:0) AE0 N D (166:1) AH0 N D
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see MoneyMachine_Output_B_uncertainty.txt in the Poems directory
+
+Curren$y (3:0)  K ER AH0- N IY0
+lettin' (11:0)  L EH1- T IH1 N
+niggas (20:0)  N IH1- G AH0 Z
+hardtop, (78:0)  HH AA1- R T AA1 P
+Shawty (85:0)  SH AO1- T IY0
+Spitta (96:0)  S P IH1- T AH0
+'cause (97:0)  K AW1 Z
+nigga (99:0)  N IH1- G AH0
+stuntin' (151:0)  S T AH1 N- T IH1 N
+puffin' (160:0)  P AH1- F IH1 N
+Brung (161:0)  B R AH1 NG
+baddest (168:0)  B AE1- D AH0 S T

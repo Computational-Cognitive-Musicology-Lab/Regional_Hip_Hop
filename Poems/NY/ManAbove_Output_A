@@ -1,0 +1,150 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+AYM: [I'm(3), I'm(95), I'm(104)]
+DHAH: [the(5), the(93)]
+LAYF: [life(11), life(70), life(129)]
+IHZ: [is(12), is(19)]
+FAOR: [for(14), for(128)]
+SOW: [so(17), so(108)]
+BAHT: [but(22), But(131)]
+ERAWND: [around,(24), around(71)]
+LAYK: [like(26), like(118)]
+AWT: [out(29), out(47), out(53)]
+DHAET: [that(31), That(101)]
+IHN: [in(33), in(51)]
+AH: [a(37), a(40), a(90), a(119), a(133), a(137)]
+AEZ: [As(39), as(56)]
+AY: [I(42), I(45), I(79)]
+RAEN: [ran(43), ran(46)]
+AHV: [of(48), of(54)]
+AEND: [and(52), and(75), and(82), And(114)]
+MAY: [My(59), my(69), my(73)]
+TIHL: [til(64), Til(78)]
+GEHT: [get(80), get(124), get(136)]
+WEHN: [when(110), when(115)]
+YUW: [you(116), you(123)]
+
+
+Rule 1: ...-O[NC]'
+AEN: [Man(0), ran(43), ran(46), an(57)]
+AYM: [I'm(3), I'm(95), I'm(104)]
+AYF: [life(11), life(70), life(129)]
+IHZ: [is(12), is(19)]
+AOR: [for(14), for(128)]
+OW: [so(17), go(76), so(108)]
+AHT: [but(22), But(131)]
+UWZ: [blues(23), confuse(36)]
+AWND: [around,(24), around(71)]
+AYK: [like(26), like(118)]
+AWT: [out(29), out(47), out(53)]
+AET: [that(31), at(92), That(101)]
+AYLD: [child(38), wild(44)]
+AEZ: [As(39), as(56)]
+AY: [I(42), I(45), My(59), my(69), my(73), I(79)]
+IHL: [til(64), Til(78), still(132)]
+EHT: [get(80), get(124), get(136)]
+AARD: [hard(109), scarred(127)]
+EHN: [when(110), when(115)]
+UW: [you(116), you(123)]
+
+
+Rule 2: ...-O[NC'-ONC]
+IHNIHNG: [sinning(9), winning(20)]
+AATAH: [stigmata(130), gotta(135)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Man(0) Above(1) 
+Rakim(2) 
+
+I'm(3) from(4) the(5) hood(6) that's(7) forever(8) sinning(9) 
+Where(10) life(11) is(12) took(13) for(14) granted(15) here(16) so(17) death(18) is(19) winning(20) 
+Nothing(21) but(22) blues(23) around,(24) feels(25) like(26) we're(27) losing(28) out(29) 
+Times(30) that(31) spent(32) in(33) this(34) environment(35) confuse(36) a(37) child(38) 
+As(39) a(40) juvenile(41) I(42) ran(43) wild(44) I(45) ran(46) out(47) of(48) blessings(49) 
+Been(50) in(51) and(52) out(53) of(54) prison(55) as(56) an(57) adolescent(58) 
+My(59) goal(60) was(61) getting(62) it,(63) til(64) something(65) said(66) to(67) turn(68) my(69) life(70) around(71) 
+Redirect(72) my(73) hustle,(74) and(75) go(76) legitimate(77) 
+Til(78) I(79) get(80) corporate(81) and(82) invest(83) fortunes(84) 
+With(85) exec(86) bosses(87) sitting(88) behind(89) a(90) desk(91) at(92) the(93) office(94) 
+I'm(95) left(96) jobless,(97) nobody(98) hiring(99) ex-convicts(100) 
+That(101) don't(102) mean(103) I'm(104) less(105) conscious(106) 
+It's(107) so(108) hard(109) when(110) they(111) close(112) doors(113) 
+And(114) when(115) you(116) looking(117) like(118) a(119) so-called(120) hip(121) hoppa(122) you(123) get(124) nada(125) 
+Stereotyped,(126) scarred(127) for(128) life(129) stigmata(130) 
+But(131) still(132) a(133) kid's(134) gotta(135) get(136) a(137) dolla(138) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see ManAbove_Output_A_uncertainty.txt in the Poems directory
+
+from (4:0) F R AH1 M (4:1) F ER0 M
+the (5:0) DH AH0 (5:1) DH AH1 (5:2) DH IY0
+Where (10:0) W EH1 R (10:1) HH W EH1 R
+is (12:0) IH1 Z (12:1) IH0 Z
+for (14:0) F AO1 R (14:1) F ER0 (14:2) F R ER0
+granted (15:0) G R AE1 N - T AH0 D (15:1) G R AE1 N - T IH0 D (15:2) G R AE1 - N AH0 D (15:3) G R AE1 - N IH0 D
+is (19:0) IH1 Z (19:1) IH0 Z
+around, (24:0) ER0 - AW1 N D (24:1) ER0 - AW1 N
+we're (27:0) W IY1 R (27:1) W IH1 R (27:2) W ER1
+that (31:0) DH AE1 T (31:1) DH AH0 T
+in (33:0) IH0 N (33:1) IH1 N
+this (34:0) DH IH1 S (34:1) DH IH0 S
+a (37:0) AH0 (37:1) EY1
+As (39:0) AE1 Z (39:1) EH1 Z
+a (40:0) AH0 (40:1) EY1
+juvenile (41:0) JH UW1 - V AH0 - N AH0 L (41:1) JH UW1 - V AH0 - N AY2 L
+of (48:0) AH0 V (48:1) AH0 V
+Been (50:0) B IH1 N (50:1) B AH0 N (50:2) B IH0 N
+in (51:0) IH0 N (51:1) IH1 N
+and (52:0) AE0 N D (52:1) AH0 N D
+of (54:0) AH0 V (54:1) AH0 V
+as (56:0) AE1 Z (56:1) EH1 Z
+an (57:0) AE1 N (57:1) AH0 N
+adolescent (58:0) AE2 - D AH0 - L EH1 - S AH0 N T (58:1) AE2 - D OW0 - L EH1 - S AH0 N T
+was (61:0) W AA1 Z (61:1) W AH1 Z (61:2) W AH0 Z (61:3) W AO1 Z
+getting (62:0) G EH1 - T IH0 NG (62:1) G IH1 - T IH0 NG
+it, (63:0) IH1 T (63:1) IH0 T
+to (67:0) T UW0 (67:1) T IH0 (67:2) T AH0
+around (71:0) ER0 - AW1 N D (71:1) ER0 - AW1 N
+and (75:0) AE0 N D (75:1) AH0 N D
+get (80:0) G EH1 T (80:1) G IH1 T
+corporate (81:0) K AO1 R - P ER0 - AH0 T (81:1) K AO1 R - P R AH0 T
+and (82:0) AE0 N D (82:1) AH0 N D
+fortunes (84:0) F AO1 R - CH AH0 N Z (84:1) F AO1 R - CH UW0 N Z
+With (85:0) W IH1 DH (85:1) W IH1 TH (85:2) W IH0 TH (85:3) W IH0 DH
+a (90:0) AH0 (90:1) EY1
+the (93:0) DH AH0 (93:1) DH AH1 (93:2) DH IY0
+nobody (98:0) N OW1 - B AA2 - D IY2 (98:1) N OW1 - B AH0 - D IY0
+That (101:0) DH AE1 T (101:1) DH AH0 T
+don't (102:0) D OW1 N T (102:1) D OW1 N
+It's (107:0) IH1 T S (107:1) IH0 T S
+when (110:0) W EH1 N (110:1) HH W EH1 N (110:2) W IH1 N (110:3) HH W IH1 N
+close (112:0) K L OW1 S (112:1) K L OW1 Z
+And (114:0) AE0 N D (114:1) AH0 N D
+when (115:0) W EH1 N (115:1) HH W EH1 N (115:2) W IH1 N (115:3) HH W IH1 N
+a (119:0) AH0 (119:1) EY1
+get (124:0) G EH1 T (124:1) G IH1 T
+Stereotyped, (126:0) S T EH1 - R IY0 - AH0 - T AY2 P T (126:1) S T EH1 - R IY0 - OW0 - T AY2 P T
+for (128:0) F AO1 R (128:1) F ER0 (128:2) F R ER0
+a (133:0) AH0 (133:1) EY1
+get (136:0) G EH1 T (136:1) G IH1 T
+a (137:0) AH0 (137:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see ManAbove_Output_A_uncertainty.txt in the Poems directory
+
+Rakim (2:0)  R AA0- K IY1 M
+ex-convicts (100:0)  EH1 K S- K AH0 N- V IH1 K T S
+stigmata (130:0)  S T IH1 G- M AA1- T AH0
+dolla (138:0)  D AA1- L AH0

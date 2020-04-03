@@ -1,0 +1,199 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+BAED: [Bad(0), bad(114)]
+AEND: [And(1), and(55), and(125), and(127)]
+BJHIY: [Boujee(2), boujee(130)]
+RAEKIHNGZ: [Rackings(4), rackings,(6), Rackings(139), rackings,(141)]
+AAN: [on(5), on(9), on(62), on(99), on(140), on(144)]
+GAAT: [got(7), got(142), got(155)]
+BAEKEHNDZ: [backends(8), backends(10), backends(143), backends(145)]
+AYM: [I'm(11), I'm(25), I'm(123), I'm(129), I'm(131)]
+IHN: [in(14), in(35), in(74), in(170), in(181)]
+AH: [a(15), a(26), a(79), a(93), a(96), a(113), a(156), a(185), a(193)]
+AY: [I(17), I(39), I(47), I(117), I(135), I(188)]
+TEYK: [take(18), take(192)]
+BIHCH: [bitch(20), Bitch(24), bitch(42), bitch(115), bitch(120)]
+FRAHM: [from(22), from(161)]
+YUW: [you(23), You(153)]
+DHAH: [the(30), the(36), the(56), the(69), the(82), The(88), the(102), the(106), the(119), the(137), the(162), the(171), the(182)]
+HHAAP: [Hop(34), Hop(180)]
+TUW: [to(43), Two(174)]
+MIY: [me(46), me(52), me(60), me(63), me(65)]
+NIHGAHZ: [niggas(50), niggas(154)]
+KIYP: [keep(58), keep(64), keep(136)]
+WIY: [We(67), We(160)]
+YAE: [yeah(71), yeah(76), yeah(164)]
+MAY: [My(77), my(147), my(150)]
+DAYMAHNDZ: [diamonds(78), diamonds(90)]
+WIHDH: [with(84), with(105), with(112)]
+NAAT: [not(95), not(132)]
+SOW: [so(134), So(146)]
+
+
+Rule 1: ...-O[NC]'
+AED: [Bad(0), bad(114)]
+AAN: [on(5), on(9), on(62), on(99), on(140), on(144)]
+AAT: [got(7), not(95), not(132), got(142), got(155)]
+EHNDZ: [backends(8), backends(10), backends(143), backends(145)]
+AYM: [I'm(11), I'm(25), I'm(123), I'm(129), I'm(131)]
+IHN: [ridin'(12), jumpin'(59), Holdin'(81), Dabbin'(98)]
+AY: [I(17), I(39), I(47), My(77), I(117), I(135), my(147), my(150), I(188), bae(195)]
+EYK: [take(18), ache(152), take(192)]
+AOR: [your(19), for(45)]
+IHCH: [bitch(20), Bitch(24), bitch(42), bitch(115), bitch(120), rich(126)]
+AHM: [from(22), come(44), from(161)]
+UW: [you(23), do(108), through(121), You(153), Two(174)]
+OW: [ho(31), woah(38), no(85), so(134), So(146), low(157)]
+AAP: [Hop(34), Hop(180)]
+AET: [that(41), dat(165), Fat(167)]
+IY: [me(46), me(52), me(60), me(63), me(65), We(67), We(160)]
+EY: [They(53), way(166), tray(173), day(179)]
+EYT: [hate(54), rate(159)]
+IYP: [keep(58), keep(64), keep(136)]
+AE: [yeah(71), yeah(76), yeah(164)]
+IHDH: [with(84), with(105), with(112)]
+IHK: [Rick(87), brick,(107)]
+AESH: [ash(172), smash(178)]
+
+
+Rule 2: ...-O[NC'-ONC]
+AEKIHNGZ: [Rackings(4), rackings,(6), Rackings(139), rackings,(141)]
+IHGAHZ: [niggas(50), niggas(154)]
+AYMAHNDZ: [diamonds(78), diamonds(90)]
+UWLER: [Ruler,(89), cooler(91), Mueller(97)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Bad(0) And(1) Boujee(2) 
+Migos(3) 
+
+Rackings(4) on(5) rackings,(6) got(7) backends(8) on(9) backends(10) 
+I'm(11) ridin'(12) around(13) in(14) a(15) coupe(16) 
+I(17) take(18) your(19) bitch(20) right(21) from(22) you(23) 
+Bitch(24) I'm(25) a(26) dog,(27) woof(28) 
+Beat(29) the(30) ho(31) walls(32) loose(33) 
+Hop(34) in(35) the(36) frog,(37) woah(38) 
+I(39) tell(40) that(41) bitch(42) to(43) come(44) for(45) me(46) 
+I(47) swear(48) these(49) niggas(50) under(51) me(52) 
+They(53) hate(54) and(55) the(56) devil(57) keep(58) jumpin'(59) me(60) 
+Bankrolls(61) on(62) me(63) keep(64) me(65) company(66) 
+We(67) did(68) the(69) most,(70) yeah(71) 
+Pull(72) up(73) in(74) Ghosts,(75) yeah(76) 
+My(77) diamonds(78) a(79) choker(80) 
+Holdin'(81) the(82) fire(83) with(84) no(85) holster(86) 
+Rick(87) The(88) Ruler,(89) diamonds(90) cooler(91) 
+This(92) a(93) Rollie(94) not(95) a(96) Mueller(97) 
+Dabbin'(98) on(99) 'em(100) like(101) the(102) usual(103) 
+Magic(104) with(105) the(106) brick,(107) do(108) voodoo(109) 
+Court(110) side(111) with(112) a(113) bad(114) bitch(115) 
+Then(116) I(117) send(118) the(119) bitch(120) through(121) Uber(122) 
+I'm(123) young(124) and(125) rich(126) and(127) plus(128) I'm(129) boujee(130) 
+I'm(131) not(132) stupid(133) so(134) I(135) keep(136) the(137) Uzi(138) 
+Rackings(139) on(140) rackings,(141) got(142) backends(143) on(144) backends(145) 
+So(146) my(147) money(148) makin'(149) my(150) back(151) ache(152) 
+You(153) niggas(154) got(155) a(156) low(157) Act'(158) rate(159) 
+We(160) from(161) the(162) Nawf,(163) yeah(164) dat(165) way(166) 
+Fat(167) cookie(168) blunt(169) in(170) the(171) ash(172) tray(173) 
+Two(174) bitches,(175) just(176) national(177) smash(178) day(179) 
+Hop(180) in(181) the(182) Lamb',(183) have(184) a(185) drag(186) race(187) 
+I(188) let(189) them(190) birds(191) take(192) a(193) bath(194) bae(195) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BadAndBoujee_Output_A_uncertainty.txt in the Poems directory
+
+And (1:0) AE0 N D (1:1) AH0 N D
+on (5:0) AA1 N (5:1) AO1 N
+on (9:0) AA1 N (9:1) AO1 N
+around (13:0) ER0 - AW1 N D (13:1) ER0 - AW1 N
+in (14:0) IH0 N (14:1) IH1 N
+a (15:0) AH0 (15:1) EY1
+your (19:0) Y AO1 R (19:1) Y UH1 R
+from (22:0) F R AH1 M (22:1) F ER0 M
+a (26:0) AH0 (26:1) EY1
+the (30:0) DH AH0 (30:1) DH AH1 (30:2) DH IY0
+in (35:0) IH0 N (35:1) IH1 N
+the (36:0) DH AH0 (36:1) DH AH1 (36:2) DH IY0
+that (41:0) DH AE1 T (41:1) DH AH0 T
+to (43:0) T UW0 (43:1) T IH0 (43:2) T AH0
+for (45:0) F AO1 R (45:1) F ER0 (45:2) F R ER0
+and (55:0) AE0 N D (55:1) AH0 N D
+the (56:0) DH AH0 (56:1) DH AH1 (56:2) DH IY0
+on (62:0) AA1 N (62:1) AO1 N
+did (68:0) D IH1 D (68:1) D IH0 D
+the (69:0) DH AH0 (69:1) DH AH1 (69:2) DH IY0
+most, (70:0) M OW1 S T (70:1) M OW1 S
+in (74:0) IH0 N (74:1) IH1 N
+Ghosts, (75:0) G OW1 S T S (75:1) G OW1 S S (75:2) G OW1 S
+a (79:0) AH0 (79:1) EY1
+the (82:0) DH AH0 (82:1) DH AH1 (82:2) DH IY0
+fire (83:0) F AY1 - ER0 (83:1) F AY1 R
+with (84:0) W IH1 DH (84:1) W IH1 TH (84:2) W IH0 TH (84:3) W IH0 DH
+The (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+This (92:0) DH IH1 S (92:1) DH IH0 S
+a (93:0) AH0 (93:1) EY1
+Rollie (94:0) R OW1 - L IY0 (94:1) R AO1 - L IY0
+a (96:0) AH0 (96:1) EY1
+on (99:0) AA1 N (99:1) AO1 N
+the (102:0) DH AH0 (102:1) DH AH1 (102:2) DH IY0
+usual (103:0) Y UW1 - ZH AH0 - W AH0 L (103:1) Y UW1 - ZH UW0 - AH0 L
+with (105:0) W IH1 DH (105:1) W IH1 TH (105:2) W IH0 TH (105:3) W IH0 DH
+the (106:0) DH AH0 (106:1) DH AH1 (106:2) DH IY0
+with (112:0) W IH1 DH (112:1) W IH1 TH (112:2) W IH0 TH (112:3) W IH0 DH
+a (113:0) AH0 (113:1) EY1
+the (119:0) DH AH0 (119:1) DH AH1 (119:2) DH IY0
+and (125:0) AE0 N D (125:1) AH0 N D
+and (127:0) AE0 N D (127:1) AH0 N D
+stupid (133:0) S T UW1 - P AH0 D (133:1) S T UW1 - P IH0 D
+the (137:0) DH AH0 (137:1) DH AH1 (137:2) DH IY0
+on (140:0) AA1 N (140:1) AO1 N
+on (144:0) AA1 N (144:1) AO1 N
+a (156:0) AH0 (156:1) EY1
+from (161:0) F R AH1 M (161:1) F ER0 M
+the (162:0) DH AH0 (162:1) DH AH1 (162:2) DH IY0
+in (170:0) IH0 N (170:1) IH1 N
+the (171:0) DH AH0 (171:1) DH AH1 (171:2) DH IY0
+just (176:0) JH AH1 S T (176:1) JH IH0 S T
+national (177:0) N AE1 - SH AH0 - N AH0 L (177:1) N AE1 SH - N AH0 L
+in (181:0) IH0 N (181:1) IH1 N
+the (182:0) DH AH0 (182:1) DH AH1 (182:2) DH IY0
+a (185:0) AH0 (185:1) EY1
+them (190:0) DH EH1 M (190:1) DH AH0 M
+a (193:0) AH0 (193:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BadAndBoujee_Output_A_uncertainty.txt in the Poems directory
+
+Boujee (2:0)  B JH IY0
+Migos (3:0)  M IH1- G OW0 Z
+Rackings (4:0)  R AE1- K IH0 NG Z
+rackings, (6:0)  R AE1- K IH0 NG Z
+backends (8:0)  B AE1- K EH1 N D Z
+backends (10:0)  B AE1- K EH1 N D Z
+ridin' (12:0)  R AY1- D IH1 N
+woah (38:0)  W OW1
+niggas (50:0)  N IH1- G AH0 Z
+jumpin' (59:0)  JH AH1 M- P IH1 N
+choker (80:0)  CH OW1- K ER0
+Holdin' (81:0)  HH OW1- L D IH1 N
+Dabbin' (98:0)  D AE1- B IH1 N
+'em (100:0)  AH0 M
+boujee (130:0)  B JH IY0
+Rackings (139:0)  R AE1- K IH0 NG Z
+rackings, (141:0)  R AE1- K IH0 NG Z
+backends (143:0)  B AE1- K EH1 N D Z
+backends (145:0)  B AE1- K EH1 N D Z
+niggas (154:0)  N IH1- G AH0 Z
+Act' (158:0)  AE1 K T
+Nawf, (163:0)  N AO1 F
+Lamb', (183:0)  L AE1 M B

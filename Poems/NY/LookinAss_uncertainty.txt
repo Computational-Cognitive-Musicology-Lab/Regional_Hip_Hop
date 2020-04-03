@@ -1,0 +1,149 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%one (8:0) W AH1 N (8:1) HH W AH1 N
+8:0
+%in (10:0) IH0 N (10:1) IH1 N
+10:0
+%the (11:0) DH AH0 (11:1) DH AH1 (11:2) DH IY0
+11:0
+%One (13:0) W AH1 N (13:1) HH W AH1 N
+13:0
+%of (16:0) AH0 V (16:1) AH0 V
+16:0
+%a (31:0) AH0 (31:1) EY1
+31:0
+%in (37:0) IH0 N (37:1) IH1 N
+37:0
+%the (38:0) DH AH0 (38:1) DH AH1 (38:2) DH IY0
+38:0
+%In (42:0) IH0 N (42:1) IH1 N
+42:0
+%the (43:0) DH AH0 (43:1) DH AH1 (43:2) DH IY0
+43:0
+%with (45:0) W IH1 DH (45:1) W IH1 TH (45:2) W IH0 TH (45:3) W IH0 DH
+45:0
+%a (46:0) AH0 (46:1) EY1
+46:0
+%credit (47:0) K R EH1 - D AH0 T (47:1) K R EH1 - D IH0 T
+47:0
+%in (54:0) IH0 N (54:1) IH1 N
+54:0
+%the (55:0) DH AH0 (55:1) DH AH1 (55:2) DH IY0
+55:0
+%be (60:0) B IY1 (60:1) B IY0
+60:0
+%if (62:0) IH1 F (62:1) IH0 F
+62:0
+%a (65:0) AH0 (65:1) EY1
+65:0
+%will, (70:0) W IH1 L (70:1) W AH0 L
+70:0
+%will, (72:0) W IH1 L (72:1) W AH0 L
+72:0
+%will (74:0) W IH1 L (74:1) W AH0 L
+74:0
+%a (77:0) AH0 (77:1) EY1
+77:0
+%if (86:0) IH1 F (86:1) IH0 F
+86:0
+%that (87:0) DH AE1 T (87:1) DH AH0 T
+87:0
+%and (91:0) AE0 N D (91:1) AH0 N D
+91:0
+%the (95:0) DH AH0 (95:1) DH AH1 (95:2) DH IY0
+95:0
+%to (98:0) T UW0 (98:1) T IH0 (98:2) T AH0
+98:0
+%hundred (116:0) HH AH1 N - D R AH0 D (116:1) HH AH1 N - D R IH0 D (116:2) HH AH1 - N ER0 D (116:3) HH AH1 N - D ER0 D
+116:0
+%on (117:0) AA1 N (117:1) AO1 N
+117:0
+%the (118:0) DH AH0 (118:1) DH AH1 (118:2) DH IY0
+118:0
+%on (123:0) AA1 N (123:1) AO1 N
+123:0
+%the (124:0) DH AH0 (124:1) DH AH1 (124:2) DH IY0
+124:0
+%that (139:0) DH AE1 T (139:1) DH AH0 T
+139:0
+%be (140:0) B IY1 (140:1) B IY0
+140:0
+%in (143:0) IH0 N (143:1) IH1 N
+143:0
+%them (144:0) DH EH1 M (144:1) DH AH0 M
+144:0
+%it's (150:0) IH1 T S (150:1) IH0 T S
+150:0
+%in (152:0) IH0 N (152:1) IH1 N
+152:0
+%the (153:0) DH AH0 (153:1) DH AH1 (153:2) DH IY0
+153:0
+%really (157:0) R IH1 - L IY0 (157:1) R IY1 - L IY0
+157:0
+%and (160:0) AE0 N D (160:1) AH0 N D
+160:0
+%it (163:0) IH1 T (163:1) IH0 T
+163:0
+%with (164:0) W IH1 DH (164:1) W IH1 TH (164:2) W IH0 TH (164:3) W IH0 DH
+164:0
+%his (165:0) HH IH1 Z (165:1) HH IH0 Z
+165:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Minaj (3:0)  M IH1- N AE0 JH
+3:0
+%sharin' (7:0)  SH EH1- R IH1 N
+7:0
+%bub' (17:0)  B AH1 B
+17:0
+%niggas (19:0)  N IH1- G AH0 Z
+19:0
+%niggas (27:0)  N IH1- G AH0 Z
+27:0
+%niggas (29:0)  N IH1- G AH0 Z
+29:0
+%niggas (34:0)  N IH1- G AH0 Z
+34:0
+%nigga (41:0)  N IH1- G AH0
+41:0
+%nigga (51:0)  N IH1- G AH0
+51:0
+%nigga (58:0)  N IH1- G AH0
+58:0
+%non-man (66:0)  N AA1 N- M AH0 N
+66:0
+%nigga (68:0)  N IH1- G AH0
+68:0
+%non-man (78:0)  N AA1 N- M AH0 N
+78:0
+%nigga (80:0)  N IH1- G AH0
+80:0
+%nigga (88:0)  N IH1- G AH0
+88:0
+%nigga (105:0)  N IH1- G AH0
+105:0
+%nigga, (110:0)  N IH1- G AH0
+110:0
+%Basqui, (126:0)  B AE0 S- K W IY0
+126:0
+%niggas (138:0)  N IH1- G AH0 Z
+138:0
+%movin' (141:0)  M UW1- V IH1 N
+141:0
+%'bout (147:0)  B AW1 T
+147:0
+%ki's, (148:0)  K IH1 Z
+148:0
+%ki's (151:0)  K IH1 Z
+151:0
+********End******

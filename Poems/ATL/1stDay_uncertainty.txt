@@ -1,0 +1,173 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%while (12:0) W AY1 L (12:1) HH W AY1 L
+12:0
+%get (18:0) G EH1 T (18:1) G IH1 T
+18:0
+%it's (23:0) IH1 T S (23:1) IH0 T S
+23:0
+%getting (24:0) G EH1 - T IH0 NG (24:1) G IH1 - T IH0 NG
+24:0
+%to (26:0) T UW0 (26:1) T IH0 (26:2) T AH0
+26:0
+%don't (31:0) D OW1 N T (31:1) D OW1 N
+31:0
+%don't (34:0) D OW1 N T (34:1) D OW1 N
+34:0
+%just (36:0) JH AH1 S T (36:1) JH IH0 S T
+36:0
+%and (42:0) AE0 N D (42:1) AH0 N D
+42:0
+%don't (44:0) D OW1 N T (44:1) D OW1 N
+44:0
+%and (50:0) AE0 N D (50:1) AH0 N D
+50:0
+%a (52:0) AH0 (52:1) EY1
+52:0
+%sharpening (57:0) SH AA1 R - P AH0 - N IH0 NG (57:1) SH AA1 R P - N IH0 NG
+57:0
+%focus (60:0) F OW1 - K AH0 S (60:1) F OW1 - K IH0 S
+60:0
+%every (61:0) EH1 - V ER0 - IY0 (61:1) EH1 - V R IY0
+61:0
+%is (63:0) IH1 Z (63:1) IH0 Z
+63:0
+%it (65:0) IH1 T (65:1) IH0 T
+65:0
+%a (70:0) AH0 (70:1) EY1
+70:0
+%in (72:0) IH0 N (72:1) IH1 N
+72:0
+%and (75:0) AE0 N D (75:1) AH0 N D
+75:0
+%to (77:0) T UW0 (77:1) T IH0 (77:2) T AH0
+77:0
+%in (79:0) IH0 N (79:1) IH1 N
+79:0
+%Last (82:0) L AE1 S T (82:1) L AO1 S T (82:2) L AE1 S
+82:0
+%a (86:0) AH0 (86:1) EY1
+86:0
+%in (91:0) IH0 N (91:1) IH1 N
+91:0
+%Trying (94:0) T R AY1 - IH0 NG (94:1) T R AY1 NG
+94:0
+%to (95:0) T UW0 (95:1) T IH0 (95:2) T AH0
+95:0
+%be (96:0) B IY1 (96:1) B IY0
+96:0
+%On (103:0) AA1 N (103:1) AO1 N
+103:0
+%the (104:0) DH AH0 (104:1) DH AH1 (104:2) DH IY0
+104:0
+%to (106:0) T UW0 (106:1) T IH0 (106:2) T AH0
+106:0
+%and (110:0) AE0 N D (110:1) AH0 N D
+110:0
+%when (115:0) W EH1 N (115:1) HH W EH1 N (115:2) W IH1 N (115:3) HH W IH1 N
+115:0
+%either (128:0) IY1 - DH ER0 (128:1) AY1 - DH ER0
+128:0
+%with (129:0) W IH1 DH (129:1) W IH1 TH (129:2) W IH0 TH (129:3) W IH0 DH
+129:0
+%or (131:0) AO1 R (131:1) ER0
+131:0
+%or (134:0) AO1 R (134:1) ER0
+134:0
+%in (136:0) IH0 N (136:1) IH1 N
+136:0
+%a (141:0) AH0 (141:1) EY1
+141:0
+%of (143:0) AH0 V (143:1) AH0 V
+143:0
+%and (146:0) AE0 N D (146:1) AH0 N D
+146:0
+%if (147:0) IH1 F (147:1) IH0 F
+147:0
+%don't (149:0) D OW1 N T (149:1) D OW1 N
+149:0
+%on (156:0) AA1 N (156:1) AO1 N
+156:0
+%don't (161:0) D OW1 N T (161:1) D OW1 N
+161:0
+%the (166:0) DH AH0 (166:1) DH AH1 (166:2) DH IY0
+166:0
+%don't (172:0) D OW1 N T (172:1) D OW1 N
+172:0
+%It's (175:0) IH1 T S (175:1) IH0 T S
+175:0
+%a (176:0) AH0 (176:1) EY1
+176:0
+%lot (177:0) L AA1 T (177:1) L AO1 T
+177:0
+%of (178:0) AH0 V (178:1) AH0 V
+178:0
+%of (181:0) AH0 V (181:1) AH0 V
+181:0
+%and (183:0) AE0 N D (183:1) AH0 N D
+183:0
+%to (198:0) T UW0 (198:1) T IH0 (198:2) T AH0
+198:0
+%did (202:0) D IH1 D (202:1) D IH0 D
+202:0
+%to (205:0) T UW0 (205:1) T IH0 (205:2) T AH0
+205:0
+%that (208:0) DH AE1 T (208:1) DH AH0 T
+208:0
+%was (209:0) W AA1 Z (209:1) W AH1 Z (209:2) W AH0 Z (209:3) W AO1 Z
+209:0
+%Is (213:0) IH1 Z (213:1) IH0 Z
+213:0
+%it (214:0) IH1 T (214:1) IH0 T
+214:0
+%to (218:0) T UW0 (218:1) T IH0 (218:2) T AH0
+218:0
+%her (227:0) HH ER0 (227:1) HH ER1
+227:0
+%on (229:0) AA1 N (229:1) AO1 N
+229:0
+%and (231:0) AE0 N D (231:1) AH0 N D
+231:0
+%close (239:0) K L OW1 S (239:1) K L OW1 Z
+239:0
+%to (240:0) T UW0 (240:1) T IH0 (240:2) T AH0
+240:0
+%in (242:0) IH0 N (242:1) IH1 N
+242:0
+%one (243:0) W AH1 N (243:1) HH W AH1 N
+243:0
+%years (246:0) Y IH1 R Z (246:1) Y ER0 Z
+246:0
+%don't (249:0) D OW1 N T (249:1) D OW1 N
+249:0
+%don't (259:0) D OW1 N T (259:1) D OW1 N
+259:0
+%don't (262:0) D OW1 N T (262:1) D OW1 N
+262:0
+%and (268:0) AE0 N D (268:1) AH0 N D
+268:0
+%it's (272:0) IH1 T S (272:1) IH0 T S
+272:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Tha (3:0)  TH AH0
+3:0
+%'em (56:0)  AH0 M
+56:0
+%nigga (99:0)  N IH1- G AH0
+99:0
+%'em (123:0)  AH0 M
+123:0
+%nigga (271:0)  N IH1- G AH0
+271:0
+********End******

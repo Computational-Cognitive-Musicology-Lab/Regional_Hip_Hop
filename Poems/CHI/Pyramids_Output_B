@@ -1,0 +1,338 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+IY: [me(5), people(164)]
+IY: [he(6), people(164)]
+IY: [me(41), people(164)]
+AY: [my(48), dying(165)]
+AY: [my(48), rhymin'(201)]
+AY: [I(56), dying(165)]
+AY: [I(56), rhymin'(201)]
+IHK: [pictured(62), kick(86)]
+IHZ: [wisdom(80), is(84)]
+IHZ: [wisdom(80), is(100)]
+IHZ: [wisdom(80), is(136)]
+IHZ: [wisdom(80), is(212)]
+AY: [my(82), dying(165)]
+AY: [my(82), rhymin'(201)]
+IHK: [kick(86), depicted(105)]
+AY: [I(90), dying(165)]
+AY: [I(90), rhymin'(201)]
+AY: [I(109), dying(165)]
+AY: [I(109), rhymin'(201)]
+EY: [reincarnation(118), day,(145)]
+EY: [reincarnation(118), stay(150)]
+EY: [reincarnation(118), they(156)]
+EY: [reincarnation(118), spray(157)]
+EY: [reincarnation(118), way,(163)]
+EY: [reincarnation(118), everyday(166)]
+EY: [reincarnation(118), say?(171)]
+EY: [reincarnation(118), away(176)]
+EY: [reincarnation(118), Chevrolet(178)]
+EY: [reincarnation(118), pray(191)]
+EY: [reincarnation(118), gray,(194)]
+EY: [reincarnation(118), they(196)]
+EY: [Nation(123), day,(145)]
+EY: [Nation(123), stay(150)]
+EY: [Nation(123), they(156)]
+EY: [Nation(123), spray(157)]
+EY: [Nation(123), way,(163)]
+EY: [Nation(123), everyday(166)]
+EY: [Nation(123), say?(171)]
+EY: [Nation(123), away(176)]
+EY: [Nation(123), Chevrolet(178)]
+EY: [Nation(123), pray(191)]
+EY: [Nation(123), gray,(194)]
+EY: [Nation(123), they(196)]
+OWL: [coldest(130), whole(204)]
+IY: [me(133), people(164)]
+AY: [I(149), dying(165)]
+AY: [I(149), rhymin'(201)]
+IY: [be(160), people(164)]
+AY: [dying(165), I(186)]
+AHN: [Wonder(167), sun,(216)]
+AY: [I(186), rhymin'(201)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+AHN: [Common(1), sun,(216)]
+IY: [me(5), only(7)]
+IY: [me(5), theory,(31)]
+IY: [me(5), fifty(193)]
+IY: [he(6), only(7)]
+IY: [he(6), theory,(31)]
+IY: [he(6), fifty(193)]
+IY: [only(7), me(41)]
+IY: [only(7), me(133)]
+IY: [only(7), be(160)]
+UW: [you(12), to(42)]
+UW: [you(12), To(126)]
+UW: [you(12), to(174)]
+UW: [you(12), to(179)]
+UW: [you(12), to(183)]
+UW: [you(12), to(224)]
+AHT: [spirit(17), what(168)]
+AHT: [spirit(17), but(195)]
+AHM: [from(27), wisdom(80)]
+AHM: [from(27), system(83)]
+IHN: [In(30), riddlin'(97)]
+IHN: [In(30), been(114)]
+IHN: [In(30), rhymin'(201)]
+IY: [theory,(31), me(41)]
+IY: [theory,(31), me(133)]
+IY: [theory,(31), be(160)]
+OW: [though,(32), scenario(35)]
+OW: [low(33), scenario(35)]
+OW: [scenario(35), below(63)]
+OW: [scenario(35), flow,(68)]
+OW: [scenario(35), go(78)]
+OW: [scenario(35), though(98)]
+OW: [scenario(35), low(107)]
+IY: [me(41), fifty(193)]
+UW: [to(42), blew(47)]
+IHK: [classic(43), kick(86)]
+UW: [blew(47), To(126)]
+UW: [blew(47), to(174)]
+UW: [blew(47), to(179)]
+UW: [blew(47), to(183)]
+UW: [blew(47), to(224)]
+AHM: [wisdom(80), from(152)]
+AHM: [wisdom(80), From(177)]
+AHM: [wisdom(80), from(181)]
+IHN: [in(81), riddlin'(97)]
+IHN: [in(81), been(114)]
+IHN: [in(81), rhymin'(201)]
+AHM: [system(83), from(152)]
+AHM: [system(83), From(177)]
+AHM: [system(83), from(181)]
+IHN: [in(87), riddlin'(97)]
+IHN: [in(87), been(114)]
+IHN: [in(87), rhymin'(201)]
+IHN: [riddlin'(97), in(143)]
+IHN: [riddlin'(97), in(206)]
+IHN: [been(114), in(143)]
+IHN: [been(114), in(206)]
+AHN: [reincarnation(118), sun,(216)]
+AHN: [Nation(123), sun,(216)]
+IY: [me(133), fifty(193)]
+IHN: [in(143), rhymin'(201)]
+IY: [be(160), fifty(193)]
+AHN: [heaven(170), sun,(216)]
+IHN: [rhymin'(201), in(206)]
+
+
+Rule 2: ...-ON[C]'-...
+LD: [told(4), Hold(127), world(142)]
+N: [only(7), man,(61), on(69), riddlin'(97), been(114), Wonder(167), Seen(192), rhymin'(201), on(211), when(214), sun,(216), moon(217), explain(225)]
+M: [rhyme(8), rhyme(14), from(27), Supreme(79), rhyme(92), I'm(151), from(152), From(177), from(181), I'm(210)]
+R: [for(9), Here(19), are(25), For(53), where(72), door(89), for(93), for(103), here(115), before(116), For(132), where(155), where(188), their(203)]
+D: [should(13), would(77), would(169), need(173), Escalade,(180), need(197)]
+Z: [goes(18), goes,(21), These(24), wisdom(80), is(84), is(100), those(104), as(106), is(136), is(212), was(220), these(227)]
+T: [it(20), out(50), write(57), Kemet(76), It(120), what(168), get(175), but(195)]
+ND: [end(34), sound(37), mind(49), Around(140), find(146)]
+TS: [It's(36), nights(46), heights,(55), It's(222)]
+V: [drove(40), I've(113)]
+K: [like(58), pictured(62), kick(86), sake(95), depicted(105), like(112), Back,(129), like(137), like(202), like(213)]
+S: [This(99), Us(128), Escalade,(180)]
+F: [life(111), fifty(193)]
+L: [coldest(130), kneel(187), whole(204), style(205)]
+RZ: [There's(158), stars(219)]
+
+
+Rule 3: ...-O[N]C'-...
+IH: [Pyramids(0), nigga(3), 19-year-olds(10), Nigga,(11), spirit(17), Here(19), it(20), lyrical(22), miracles(23), pyramids(26), imperial(29), theory,(31), It's(36), material(44), ethereal(54), Pritchard(59), Invisible(60), pictured(62), with(64), hieroglyphicable(66), mystics(74), wisdom(80), system(83), is(84), kick(86), riddlin'(97), This(99), is(100), ritual(102), depicted(105), been(114), here(115), It(120), Millions(125), is(136), fifty(193), Niggas(200), rhymin'(201), is(212), It's(222), pyramids(228)]
+AA: [Common(1), are(25), on(69), gotta(159), on(211), stars(219), was(220), hard(223)]
+OW: [told(4), only(7), goes(18), goes,(21), though,(32), low(33), drove(40), below(63), flow,(68), go(78), don't(91), though(98), those(104), low(107), Hold(127), coldest(130), globe(135), whole(204)]
+IY: [me(5), he(6), These(24), me(41), Supreme(79), me(133), be(160), people(164), need(173), kneel(187), Seen(192), need(197), these(227)]
+AY: [rhyme(8), rhyme(14), nights(46), my(48), mind(49), heights,(55), I(56), write(57), like(58), hieroglyphicable(66), my(82), I(90), rhyme(92), I(109), life(111), like(112), I've(113), like(137), find(146), I(149), I'm(151), dying(165), I(186), rhymin'(201), like(202), style(205), I'm(210), like(213)]
+AO: [for(9), For(53), walls(71), door(89), for(93), for(103), before(116), For(132), born(221), formed(229)]
+UW: [you(12), blew(47), moon(217)]
+UH: [should(13), would(77), would(169)]
+EH: [wherever(15), end(34), scenario(35), burial(39), Aerial(45), stereotypes(52), where(72), Kemet(76), forever(147), weather(154), where(155), There's(158), better(162), everyday(166), heaven(170), Devils(172), get(175), Escalade,(180), evergreen(182), everglades(185), where(188), rebels(190), better(198), their(203), retrograde(207), escapade(209), when(214)]
+AH: [from(27), Us(128), culdesac(139), from(152), Wonder(167), what(168), From(177), from(181), but(195), sun,(216)]
+AW: [sound(37), out(50), Now(108), Around(140), how(226)]
+AE: [classic(43), man,(61), as(106), passed(110), Back,(129), raps(131)]
+EY: [sake(95), reincarnation(118), Takes(121), Nation(123), day,(145), stay(150), they(156), spray(157), way,(163), everyday(166), say?(171), away(176), Chevrolet(178), Escalade,(180), pray(191), gray,(194), they(196), shades(199), explain(225)]
+
+
+Rule 4: ...-[O']N[C']'-...
+P: [Pyramids(0), pyramids(26), imperial(29), people(164), pyramids(228)]
+K: [Common(1), Kemet(76), culdesac(139)]
+N: [nigga(3), only(7), Nigga,(11), scenario(35), on(69), Now(108), reincarnation(118), Nation(123), Niggas(200), on(211)]
+M: [me(5), miracles(23), me(41), my(48), mystics(74), my(82), Millions(125), me(133), I'm(151), I'm(210)]
+HH: [he(6), hieroglyphicable(66), heaven(170), how(226)]
+RM: [rhyme(8), rhyme(14), rhyme(92)]
+FR: [for(9), For(53), for(93), for(103), before(116), For(132)]
+R: [wherever(15), are(25), riddlin'(97), ritual(102), rebels(190), rhymin'(201), retrograde(207)]
+GZ: [goes(18), goes,(21)]
+HHR: [Here(19), here(115)]
+T: [it(20), material(44), out(50), It(120)]
+L: [lyrical(22), low(33), below(63), low(107), Chevrolet(178)]
+DHZ: [These(24), those(104), these(227)]
+FRM: [from(27), from(152), From(177), from(181)]
+TH: [theory,(31), ethereal(54)]
+DH: [though,(32), though(98), they(156), they(196)]
+ND: [end(34), Around(140), need(173), need(197)]
+TS: [It's(36), It's(222)]
+B: [boy(38), burial(39), be(160), better(162), better(198)]
+KL: [classic(43), coldest(130)]
+ST: [stereotypes(52), stay(150)]
+LK: [like(58), like(112), like(137), like(202), like(213)]
+PR: [Pritchard(59), pray(191)]
+V: [Invisible(60), I've(113)]
+MN: [man,(61), rhymin'(201), moon(217)]
+PK: [pictured(62), depicted(105)]
+WR: [where(72), where(155), where(188)]
+WD: [would(77), would(169)]
+G: [go(78), gotta(159)]
+WZ: [wisdom(80), was(220)]
+S: [system(83), Us(128), say?(171), Escalade,(180)]
+Z: [is(84), is(100), as(106), is(136), is(212)]
+D: [day,(145), dying(165), everyday(166), Devils(172)]
+W: [weather(154), way,(163), away(176)]
+WN: [Wonder(167), when(214)]
+SN: [Seen(192), sun,(216)]
+
+
+
+
+Poem with word IDs:
+
+Pyramids(0) 
+Common(1) 
+
+A(2) nigga(3) told(4) me(5) he(6) only(7) rhyme(8) for(9) 19-year-olds(10) 
+Nigga,(11) you(12) should(13) rhyme(14) wherever(15) the(16) spirit(17) goes(18) 
+Here(19) it(20) goes,(21) lyrical(22) miracles(23) 
+These(24) are(25) pyramids(26) from(27) the(28) imperial(29) 
+In(30) theory,(31) though,(32) low(33) end(34) scenario(35) 
+It's(36) sound(37) boy(38) burial(39) drove(40) me(41) to(42) classic(43) material(44) 
+Aerial(45) nights(46) blew(47) my(48) mind(49) out(50) of(51) stereotypes(52) 
+For(53) ethereal(54) heights,(55) I(56) write(57) like(58) Pritchard(59) 
+Invisible(60) man,(61) pictured(62) below(63) with(64) the(65) hieroglyphicable(66) 
+Prolifical(67) flow,(68) on(69) the(70) walls(71) where(72) the(73) mystics(74) of(75) Kemet(76) would(77) go(78) 
+Supreme(79) wisdom(80) in(81) my(82) system(83) is(84) the(85) kick(86) in(87) the(88) door(89) 
+I(90) don't(91) rhyme(92) for(93) the(94) sake(95) of(96) riddlin'(97) though(98) 
+This(99) is(100) a(101) ritual(102) for(103) those(104) depicted(105) as(106) low(107) 
+Now(108) I(109) passed(110) life(111) like(112) I've(113) been(114) here(115) before(116) 
+The(117) reincarnation(118) of(119) It(120) Takes(121) A(122) Nation(123) Of(124) Millions(125) To(126) Hold(127) 
+Us(128) Back,(129) coldest(130) raps(131) 
+For(132) me(133) the(134) globe(135) is(136) like(137) a(138) culdesac(139) 
+Around(140) the(141) world(142) in(143) a(144) day,(145) find(146) forever(147) and(148) I(149) stay(150) 
+I'm(151) from(152) the(153) weather(154) where(155) they(156) spray(157) 
+There's(158) gotta(159) be(160) a(161) better(162) way,(163) people(164) dying(165) everyday(166) 
+Wonder(167) what(168) would(169) heaven(170) say?(171) Devils(172) need(173) to(174) get(175) away(176) 
+From(177) Chevrolet(178) to(179) Escalade,(180) from(181) evergreen(182) to(183) the(184) everglades(185) 
+I(186) kneel(187) where(188) the(189) rebels(190) pray(191) 
+Seen(192) fifty(193) gray,(194) but(195) they(196) need(197) better(198) shades(199) 
+Niggas(200) rhymin'(201) like(202) their(203) whole(204) style(205) in(206) retrograde(207) 
+The(208) escapade(209) I'm(210) on(211) is(212) like(213) when(214) the(215) sun,(216) moon(217) and(218) stars(219) was(220) born(221) 
+It's(222) hard(223) to(224) explain(225) how(226) these(227) pyramids(228) formed(229) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Pyramids_Output_B_uncertainty.txt in the Poems directory
+
+A (2:0) AH0 (2:1) EY1
+for (9:0) F AO1 R (9:1) F ER0 (9:2) F R ER0
+wherever (15:0) W EH0 - R EH1 - V ER0 (15:1) HH W EH0 - R EH1 - V ER0
+the (16:0) DH AH0 (16:1) DH AH1 (16:2) DH IY0
+spirit (17:0) S P IH1 - R AH0 T (17:1) S P IH1 - R IH0 T
+it (20:0) IH1 T (20:1) IH0 T
+are (25:0) AA1 R (25:1) ER0
+from (27:0) F R AH1 M (27:1) F ER0 M
+the (28:0) DH AH0 (28:1) DH AH1 (28:2) DH IY0
+In (30:0) IH0 N (30:1) IH1 N
+theory, (31:0) TH IH1 - R IY0 (31:1) TH IY1 - ER0 - IY0
+It's (36:0) IH1 T S (36:1) IH0 T S
+to (42:0) T UW0 (42:1) T IH0 (42:2) T AH0
+of (51:0) AH0 V (51:1) AH0 V
+stereotypes (52:0) S T EH1 - R IY0 - AH0 - T AY2 P S (52:1) S T EH1 - R IY0 - OW0 - T AY2 P S
+For (53:0) F AO1 R (53:1) F ER0 (53:2) F R ER0
+below (63:0) B IH0 - L OW1 (63:1) B IY0 - L OW1
+with (64:0) W IH1 DH (64:1) W IH1 TH (64:2) W IH0 TH (64:3) W IH0 DH
+the (65:0) DH AH0 (65:1) DH AH1 (65:2) DH IY0
+on (69:0) AA1 N (69:1) AO1 N
+the (70:0) DH AH0 (70:1) DH AH1 (70:2) DH IY0
+where (72:0) W EH1 R (72:1) HH W EH1 R
+the (73:0) DH AH0 (73:1) DH AH1 (73:2) DH IY0
+of (75:0) AH0 V (75:1) AH0 V
+Supreme (79:0) S AH0 - P R IY1 M (79:1) S ER0 - P R IY1 M
+in (81:0) IH0 N (81:1) IH1 N
+is (84:0) IH1 Z (84:1) IH0 Z
+the (85:0) DH AH0 (85:1) DH AH1 (85:2) DH IY0
+in (87:0) IH0 N (87:1) IH1 N
+the (88:0) DH AH0 (88:1) DH AH1 (88:2) DH IY0
+don't (91:0) D OW1 N T (91:1) D OW1 N
+for (93:0) F AO1 R (93:1) F ER0 (93:2) F R ER0
+the (94:0) DH AH0 (94:1) DH AH1 (94:2) DH IY0
+of (96:0) AH0 V (96:1) AH0 V
+This (99:0) DH IH1 S (99:1) DH IH0 S
+is (100:0) IH1 Z (100:1) IH0 Z
+a (101:0) AH0 (101:1) EY1
+for (103:0) F AO1 R (103:1) F ER0 (103:2) F R ER0
+depicted (105:0) D IH0 - P IH1 K - T AH0 D (105:1) D IH0 - P IH1 K - T IH0 D
+as (106:0) AE1 Z (106:1) EH1 Z
+been (114:0) B IH1 N (114:1) B AH0 N (114:2) B IH0 N
+before (116:0) B IH0 - F AO1 R (116:1) B IY2 - F AO1 R
+The (117:0) DH AH0 (117:1) DH AH1 (117:2) DH IY0
+of (119:0) AH0 V (119:1) AH0 V
+It (120:0) IH1 T (120:1) IH0 T
+A (122:0) AH0 (122:1) EY1
+Of (124:0) AH0 V (124:1) AH0 V
+To (126:0) T UW0 (126:1) T IH0 (126:2) T AH0
+Us (128:0) AH1 S (128:1) Y UW1 - EH1 S
+For (132:0) F AO1 R (132:1) F ER0 (132:2) F R ER0
+the (134:0) DH AH0 (134:1) DH AH1 (134:2) DH IY0
+is (136:0) IH1 Z (136:1) IH0 Z
+a (138:0) AH0 (138:1) EY1
+Around (140:0) ER0 - AW1 N D (140:1) ER0 - AW1 N
+the (141:0) DH AH0 (141:1) DH AH1 (141:2) DH IY0
+in (143:0) IH0 N (143:1) IH1 N
+a (144:0) AH0 (144:1) EY1
+and (148:0) AE0 N D (148:1) AH0 N D
+from (152:0) F R AH1 M (152:1) F ER0 M
+the (153:0) DH AH0 (153:1) DH AH1 (153:2) DH IY0
+where (155:0) W EH1 R (155:1) HH W EH1 R
+be (160:0) B IY1 (160:1) B IY0
+a (161:0) AH0 (161:1) EY1
+what (168:0) W AH1 T (168:1) HH W AH1 T
+to (174:0) T UW0 (174:1) T IH0 (174:2) T AH0
+get (175:0) G EH1 T (175:1) G IH1 T
+From (177:0) F R AH1 M (177:1) F ER0 M
+Chevrolet (178:0) SH EH2 - V R AH0 - L EY1 (178:1) SH EH2 - V R OW0 - L EY1
+to (179:0) T UW0 (179:1) T IH0 (179:2) T AH0
+from (181:0) F R AH1 M (181:1) F ER0 M
+to (183:0) T UW0 (183:1) T IH0 (183:2) T AH0
+the (184:0) DH AH0 (184:1) DH AH1 (184:2) DH IY0
+where (188:0) W EH1 R (188:1) HH W EH1 R
+the (189:0) DH AH0 (189:1) DH AH1 (189:2) DH IY0
+rebels (190:0) R EH1 - B AH0 L Z (190:1) R IH0 - B EH1 L Z
+in (206:0) IH0 N (206:1) IH1 N
+The (208:0) DH AH0 (208:1) DH AH1 (208:2) DH IY0
+on (211:0) AA1 N (211:1) AO1 N
+is (212:0) IH1 Z (212:1) IH0 Z
+when (214:0) W EH1 N (214:1) HH W EH1 N (214:2) W IH1 N (214:3) HH W IH1 N
+the (215:0) DH AH0 (215:1) DH AH1 (215:2) DH IY0
+and (218:0) AE0 N D (218:1) AH0 N D
+was (220:0) W AA1 Z (220:1) W AH1 Z (220:2) W AH0 Z (220:3) W AO1 Z
+It's (222:0) IH1 T S (222:1) IH0 T S
+to (224:0) T UW0 (224:1) T IH0 (224:2) T AH0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see Pyramids_Output_B_uncertainty.txt in the Poems directory
+
+nigga (3:0)  N IH1- G AH0
+19-year-olds (10:0)  AY IH1- R AH0 L D Z
+Nigga, (11:0)  N IH1- G AH0
+hieroglyphicable (66:0)  HH AY1- R OW0- G L IH1- F IH0- K AH0- B AH0 L
+Prolifical (67:0)  P R OW0- L AH0- F IH0- K AH0 L
+Kemet (76:0)  K EH1- M EH1 T
+riddlin' (97:0)  R IH1- D L IH1 N
+culdesac (139:0)  K AH1- L D AH0- S AH0 K
+Escalade, (180:0)  EH1 S- K AH0- L EY1 D
+Niggas (200:0)  N IH1- G AH0 Z
+rhymin' (201:0)  R AY1- M IH1 N

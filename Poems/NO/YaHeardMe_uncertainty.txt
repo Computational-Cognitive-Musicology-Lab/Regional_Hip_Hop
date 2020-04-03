@@ -1,0 +1,145 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%It's (5:0) IH1 T S (5:1) IH0 T S
+5:0
+%the (9:0) DH AH0 (9:1) DH AH1 (9:2) DH IY0
+9:0
+%a (18:0) AH0 (18:1) EY1
+18:0
+%to (20:0) T UW0 (20:1) T IH0 (20:2) T AH0
+20:0
+%the (21:0) DH AH0 (21:1) DH AH1 (21:2) DH IY0
+21:0
+%It's (31:0) IH1 T S (31:1) IH0 T S
+31:0
+%one (33:0) W AH1 N (33:1) HH W AH1 N
+33:0
+%always (36:0) AO1 L - W EY2 Z (36:1) AO1 L - W IY0 Z
+36:0
+%a (38:0) AH0 (38:1) EY1
+38:0
+%It (41:0) IH1 T (41:1) IH0 T
+41:0
+%secret (44:0) S IY1 - K R AH0 T (44:1) S IY1 - K R IH0 T
+44:0
+%can (46:0) K AE1 N (46:1) K AH0 N
+46:0
+%the (50:0) DH AH0 (50:1) DH AH1 (50:2) DH IY0
+50:0
+%a (54:0) AH0 (54:1) EY1
+54:0
+%a (56:0) AH0 (56:1) EY1
+56:0
+%on (58:0) AA1 N (58:1) AO1 N
+58:0
+%to (60:0) T UW0 (60:1) T IH0 (60:2) T AH0
+60:0
+%the (63:0) DH AH0 (63:1) DH AH1 (63:2) DH IY0
+63:0
+%what's (71:0) W AH1 T S (71:1) HH W AH1 T S
+71:0
+%in (72:0) IH0 N (72:1) IH1 N
+72:0
+%them (73:0) DH EH1 M (73:1) DH AH0 M
+73:0
+%A (75:0) AH0 (75:1) EY1
+75:0
+%lot (76:0) L AA1 T (76:1) L AO1 T
+76:0
+%of (77:0) AH0 V (77:1) AH0 V
+77:0
+%a (79:0) AH0 (79:1) EY1
+79:0
+%lot (80:0) L AA1 T (80:1) L AO1 T
+80:0
+%of (81:0) AH0 V (81:1) AH0 V
+81:0
+%and (83:0) AE0 N D (83:1) AH0 N D
+83:0
+%it (92:0) IH1 T (92:1) IH0 T
+92:0
+%been (93:0) B IH1 N (93:1) B AH0 N (93:2) B IH0 N
+93:0
+%a (98:0) AH0 (98:1) EY1
+98:0
+%been (101:0) B IH1 N (101:1) B AH0 N (101:2) B IH0 N
+101:0
+%a (107:0) AH0 (107:1) EY1
+107:0
+%been (110:0) B IH1 N (110:1) B AH0 N (110:2) B IH0 N
+110:0
+%of (112:0) AH0 V (112:1) AH0 V
+112:0
+%with (116:0) W IH1 DH (116:1) W IH1 TH (116:2) W IH0 TH (116:3) W IH0 DH
+116:0
+%a (117:0) AH0 (117:1) EY1
+117:0
+%the (120:0) DH AH0 (120:1) DH AH1 (120:2) DH IY0
+120:0
+%of (122:0) AH0 V (122:1) AH0 V
+122:0
+%for (127:0) F AO1 R (127:1) F ER0 (127:2) F R ER0
+127:0
+%the (130:0) DH AH0 (130:1) DH AH1 (130:2) DH IY0
+130:0
+%for (133:0) F AO1 R (133:1) F ER0 (133:2) F R ER0
+133:0
+%a (139:0) AH0 (139:1) EY1
+139:0
+%in (141:0) IH0 N (141:1) IH1 N
+141:0
+%of (144:0) AH0 V (144:1) AH0 V
+144:0
+%on (148:0) AA1 N (148:1) AO1 N
+148:0
+%the (149:0) DH AH0 (149:1) DH AH1 (149:2) DH IY0
+149:0
+%been (151:0) B IH1 N (151:1) B AH0 N (151:2) B IH0 N
+151:0
+%A (152:0) AH0 (152:1) EY1
+152:0
+%one (153:0) W AH1 N (153:1) HH W AH1 N
+153:0
+%the (155:0) DH AH0 (155:1) DH AH1 (155:2) DH IY0
+155:0
+%been (161:0) B IH1 N (161:1) B AH0 N (161:2) B IH0 N
+161:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%Gizzle, (8:0)  JH IH1- Z AH0 L
+8:0
+%reppin (15:0)  R EH1- P IH1 N
+15:0
+%nigga, (16:0)  N IH1- G AH0
+16:0
+%gutta (51:0)  G AH1- T AH0
+51:0
+%dufflebags (74:0)  D AH1- F L B AE1 G Z
+74:0
+%gats, (78:0)  G AE1 T S
+78:0
+%repping, (105:0)  R EH1- P IH0 NG
+105:0
+%playin (115:0)  P L EY IH1 N
+115:0
+%homie (119:0)  HH AA1- M IY0
+119:0
+%lookin (126:0)  L UH1- K IH1 N
+126:0
+%homie (131:0)  HH AA1- M IY0
+131:0
+%lookin (132:0)  L UH1- K IH1 N
+132:0
+%nigga (159:0)  N IH1- G AH0
+159:0
+********End******

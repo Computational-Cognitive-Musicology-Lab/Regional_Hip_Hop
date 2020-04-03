@@ -1,0 +1,137 @@
+IMPORTANT: please make sure to save and close file before rerunning program
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%remember (5:0) R IH0 - M EH1 M - B ER0 (5:1) R IY0 - M EH1 M - B ER0
+5:0
+%syrup (6:0) S ER1 - AH0 P (6:1) S IH1 - R AH0 P
+6:0
+%sandwiches (7:0) S AE1 N D - W IH0 - CH IH0 Z (7:1) S AE1 N - W IH0 - CH IH0 Z (7:2) S AE1 M - W IH0 - CH IH0 Z
+7:0
+%and (8:0) AE0 N D (8:1) AH0 N D
+8:0
+%a (12:0) AH0 (12:1) EY1
+12:0
+%with (14:0) W IH1 DH (14:1) W IH1 TH (14:2) W IH0 TH (14:3) W IH0 DH
+14:0
+%counterfeits (16:0) K AW1 N - T ER0 - F IH2 T S (16:1) K AW1 - N ER0 - F IH2 T S
+16:0
+%counting (20:0) K AW1 N - T IH0 NG (20:1) K AW1 - N IH0 NG
+20:0
+%this (21:0) DH IH1 S (21:1) DH IH0 S
+21:0
+%where (23:0) W EH1 R (23:1) HH W EH1 R
+23:0
+%lives (26:0) L IH1 V Z (26:1) L AY1 V Z
+26:0
+%in (27:0) IH0 N (27:1) IH1 N
+27:0
+%this (32:0) DH IH1 S (32:1) DH IH0 S
+32:0
+%with (34:0) W IH1 DH (34:1) W IH1 TH (34:2) W IH0 TH (34:3) W IH0 DH
+34:0
+%for (42:0) F AO1 R (42:1) F ER0 (42:2) F R ER0
+42:0
+%the (43:0) DH AH0 (43:1) DH AH1 (43:2) DH IY0
+43:0
+%analysts (44:0) AE1 - N AH0 - L AH0 S T S (44:1) AE1 - N AH0 - L IH0 S T S (44:2) AE1 - N AH0 - L AH0 S S (44:3) AE1 - N AH0 - L IH0 S S
+44:0
+%can (47:0) K AE1 N (47:1) K AH0 N
+47:0
+%your (49:0) Y AO1 R (49:1) Y UH1 R
+49:0
+%the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+51:0
+%with (53:0) W IH1 DH (53:1) W IH1 TH (53:2) W IH0 TH (53:3) W IH0 DH
+53:0
+%that (57:0) DH AE1 T (57:1) DH AH0 T
+57:0
+%good, (59:0) G UH1 D (59:1) G IH0 D
+59:0
+%it (63:0) IH1 T (63:1) IH0 T
+63:0
+%on (64:0) AA1 N (64:1) AO1 N
+64:0
+%get (69:0) G EH1 T (69:1) G IH1 T
+69:0
+%the (78:0) DH AH0 (78:1) DH AH1 (78:2) DH IY0
+78:0
+%on (82:0) AA1 N (82:1) AO1 N
+82:0
+%your (83:0) Y AO1 R (83:1) Y UH1 R
+83:0
+%it (87:0) IH1 T (87:1) IH0 T
+87:0
+%A (92:0) AH0 (92:1) EY1
+92:0
+%to (94:0) T UW0 (94:1) T IH0 (94:2) T AH0
+94:0
+%the (95:0) DH AH0 (95:1) DH AH1 (95:2) DH IY0
+95:0
+%to (100:0) T UW0 (100:1) T IH0 (100:2) T AH0
+100:0
+%the (101:0) DH AH0 (101:1) DH AH1 (101:2) DH IY0
+101:0
+%A (102:0) AH0 (102:1) EY1
+102:0
+%your (107:0) Y AO1 R (107:1) Y UH1 R
+107:0
+%just (111:0) JH AH1 S T (111:1) JH IH0 S T
+111:0
+%If (116:0) IH1 F (116:1) IH0 F
+116:0
+%your (119:0) Y AO1 R (119:1) Y UH1 R
+119:0
+%If (127:0) IH1 F (127:1) IH0 F
+127:0
+%this (130:0) DH IH1 S (130:1) DH IH0 S
+130:0
+%be (134:0) B IY1 (134:1) B IY0
+134:0
+%the (135:0) DH AH0 (135:1) DH AH1 (135:2) DH IY0
+135:0
+%just (141:0) JH AH1 S T (141:1) JH IH0 S T
+141:0
+%in (149:0) IH0 N (149:1) IH1 N
+149:0
+%a (150:0) AH0 (150:1) EY1
+150:0
+%Soprano (152:0) S AH0 - P R AA1 - N OW0 (152:1) S AH0 - P R AE1 - N OW0
+152:0
+%to (156:0) T UW0 (156:1) T IH0 (156:2) T AH0
+156:0
+%it (158:0) IH1 T (158:1) IH0 T
+158:0
+%on (159:0) AA1 N (159:1) AO1 N
+159:0
+%a (160:0) AH0 (160:1) EY1
+160:0
+%It's (163:0) IH1 T S (163:1) IH0 T S
+163:0
+%to (165:0) T UW0 (165:1) T IH0 (165:2) T AH0
+165:0
+%it, (166:0) IH1 T (166:1) IH0 T
+166:0
+%and (168:0) AE0 N D (168:1) AH0 N D
+168:0
+%be (172:0) B IY1 (172:1) B IY0
+172:0
+********End******
+
+
+Out-of-dictionary words: (word ID: pronunciation number)
+To change any of the current pronunciations, replace the "pronunciation number" (in the uncommented line) the number of your choice
+********Modifications******
+
+%nigga (13:0)  N IH1- G AH0
+13:0
+%D'usśe (33:0)  D AH1 S
+33:0
+%paystub (55:0)  P EY1 S- T AH1 B
+55:0
+%Tetris (91:0)  T EH1- T R IH1 S
+91:0
+********End******

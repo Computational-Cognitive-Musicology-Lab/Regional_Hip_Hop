@@ -1,0 +1,200 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+KAARDIY: [Cardi(2), Cardi(18)]
+BIY: [B(3), B,(19), be(29), be(45), be(106), be(217)]
+SHIY: [she(5), she(7)]
+SEY: [say(6), say,(99)]
+WAHT: [what(10), what(76), what(148)]
+TUW: [to(11), to(35), two(71), to(212)]
+HHUW: [who?(12), who(65), who(103)]
+AWT: [out(15), out(48)]
+AEND: [and(16), and(47), And(157), and(190), And(201)]
+SIY: [see(17), see(96)]
+YUW: [you(20), you(25), You(30), you(182), you(195)]
+NOW: [know(21), know(26), know(54), know(181), know(197), no(210)]
+WEHR: [where(22), where(27)]
+AYM: [I'm(23), I'm(37), I'm(102), I'm(141), I'm(175)]
+AET: [at,(24), at(219)]
+AY: [I(28), I(39), I(44), I(53), I(83), I(108), I(115), I(122), I(162), I(168), I(202), I(207)]
+IHN: [in(31), in(46), in(66), in(73), in(112), in(172), in(178)]
+DHAH: [the(32), the(158), the(170), the(173), the(176), the(179)]
+JHAHST: [just(34), just(110), just(117), just(124)]
+DHEHR: [there,(38), they're(55), their(221)]
+GEHT: [get(40), get(147)]
+AH: [a(42), a(62), a(133), a(166), a(188), a(225)]
+AHV: [of(57), of(68), of(185)]
+MIY: [me(58), me(69), me?(82), me(94), me(153), me(186), me,(220)]
+DOWNT: [don't(60), don't(84), don't(89)]
+FRAHNT: [front(67), front(174)]
+BIHCH: [bitch(77), bitch,(101)]
+AEZ: [as(79), as(81), as(165)]
+BAADHER: [bother(85), bother(93)]
+WIHDH: [with(86), with(119), with(138)]
+DHIYZ: [these(87), these(91), these(215)]
+HHOWZ: [hoes,(88), hoes(92), hoes(196), hoes(216)]
+LEHT: [let(90), let(145)]
+DHEY: [They(95), they(98), they(104)]
+MAYT: [might(109), might(116), might(123)]
+CHIHL: [chill(111), chill(118), chill(213)]
+YAOR: [your(120), your(127)]
+FIYL: [feel(125), feel(131)]
+MAY: [my(129), my(192), my(204)]
+LAYK: [like(132), like,(142)]
+HHIY: [He(135), he(149), he(151)]
+GAAT: [got(169), Got(187), got(209)]
+EYNT: [ain't(199), ain't(208)]
+
+
+Rule 1: ...-O[NC]'
+IY: [B(3), she(5), she(7), see(17), B,(19), be(29), fee(43), be(45), me(58), me(69), me?(82), me(94), see(96), be(106), He(135), he(149), he(151), me(153), me(186), be(217), me,(220)]
+EY: [say(6), They(95), they(98), say,(99), they(104), "Okay"(143), pay(203)]
+AAN: [gon'(8), on(126)]
+UW: [do(9), who?(12), you(20), you(25), You(30), who(65), two(71), who(103), boo(121), new(159), you(182), you(195)]
+AHT: [what(10), what(76), what(148)]
+AWT: [out(15), out(48), 'bout(64)]
+OW: [know(21), know(26), so(51), know(54), go(163), know(181), know(197), no(210)]
+EHR: [where(22), where(27), there,(38), they're(55), their(221)]
+AYM: [I'm(23), I'm(37), I'm(102), I'm(141), I'm(175), time(211)]
+AET: [at,(24), at(219)]
+AY: [I(28), I(39), I(44), I(53), I(83), I(108), I(115), I(122), my(129), buy(152), I(162), I(168), my(192), I(202), my(204), I(207)]
+AHST: [just(34), just(110), just(117), just(124)]
+EHT: [get(40), let(90), let(145), get(147)]
+OWNT: [don't(60), don't(84), don't(89)]
+AHNT: [front(67), front(174)]
+IHCH: [bitch(77), bitch,(101)]
+AEZ: [as(79), as(81), as(165)]
+IHDH: [with(86), with(119), with(138)]
+IYZ: [these(87), these(91), these(215)]
+OWZ: [hoes,(88), hoes(92), hoes(196), hoes(216)]
+AYT: [might(109), might(116), might(123)]
+IHL: [chill(111), chill(118), chill(213), bill(226)]
+AOR: [your(120), your(127)]
+IYL: [feel(125), feel(131)]
+AYK: [like(132), like,(142)]
+IHM: [swim(137), him(146)]
+EYNT: [Saint(155), ain't(199), ain't(208)]
+AAT: [got(169), Got(187), got(209)]
+
+
+Rule 2: ...-O[NC'-ONC]
+AARDIY: [Cardi(2), Cardi(18)]
+AADHER: [bother(85), bother(93), father(223)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+
+
+
+
+Poem with word IDs:
+
+Bodak(0) Yellow(1) 
+Cardi(2) B(3) 
+
+Now(4) she(5) say(6) she(7) gon'(8) do(9) what(10) to(11) who?(12) Let's(13) find(14) out(15) and(16) see(17) 
+Cardi(18) B,(19) you(20) know(21) where(22) I'm(23) at,(24) you(25) know(26) where(27) I(28) be(29) 
+You(30) in(31) the(32) club(33) just(34) to(35) party,(36) I'm(37) there,(38) I(39) get(40) paid(41) a(42) fee(43) 
+I(44) be(45) in(46) and(47) out(48) them(49) banks(50) so(51) much,(52) I(53) know(54) they're(55) tired(56) of(57) me(58) 
+Honestly,(59) don't(60) give(61) a(62) fuck(63) 'bout(64) who(65) in(66) front(67) of(68) me(69) 
+Dropped(70) two(71) mixtapes(72) in(73) six(74) months,(75) what(76) bitch(77) working(78) as(79) hard(80) as(81) me?(82) 
+I(83) don't(84) bother(85) with(86) these(87) hoes,(88) don't(89) let(90) these(91) hoes(92) bother(93) me(94) 
+They(95) see(96) pictures,(97) they(98) say,(99) "Goals,"(100) bitch,(101) I'm(102) who(103) they(104) tryna(105) be(106) 
+Look,(107) I(108) might(109) just(110) chill(111) in(112) some(113) BAPE,(114) I(115) might(116) just(117) chill(118) with(119) your(120) boo(121) 
+I(122) might(123) just(124) feel(125) on(126) your(127) babe,(128) my(129) pussy(130) feel(131) like(132) a(133) lake(134) 
+He(135) wanna(136) swim(137) with(138) his(139) face,(140) I'm(141) like,(142) "Okay"(143) 
+I'll(144) let(145) him(146) get(147) what(148) he(149) want,(150) he(151) buy(152) me(153) Yves(154) Saint(155) Laurent(156) 
+And(157) the(158) new(159) whip,(160) when(161) I(162) go(163) fast(164) as(165) a(166) horse,(167) I(168) got(169) the(170) trunk(171) in(172) the(173) front(174) 
+I'm(175) the(176) hottest(177) in(178) the(179) street,(180) know(181) you(182) prolly(183) heard(184) of(185) me(186) 
+Got(187) a(188) bag(189) and(190) fixed(191) my(192) teeth,(193) hope(194) you(195) hoes(196) know(197) it(198) ain't(199) cheap(200) 
+And(201) I(202) pay(203) my(204) mama(205) bills,(206) I(207) ain't(208) got(209) no(210) time(211) to(212) chill(213) 
+Think(214) these(215) hoes(216) be(217) mad(218) at(219) me,(220) their(221) baby(222) father(223) run(224) a(225) bill(226) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BodakYellow_Output_A_uncertainty.txt in the Poems directory
+
+what (10:0) W AH1 T (10:1) HH W AH1 T
+to (11:0) T UW0 (11:1) T IH0 (11:2) T AH0
+and (16:0) AE0 N D (16:1) AH0 N D
+where (22:0) W EH1 R (22:1) HH W EH1 R
+where (27:0) W EH1 R (27:1) HH W EH1 R
+be (29:0) B IY1 (29:1) B IY0
+in (31:0) IH0 N (31:1) IH1 N
+the (32:0) DH AH0 (32:1) DH AH1 (32:2) DH IY0
+just (34:0) JH AH1 S T (34:1) JH IH0 S T
+to (35:0) T UW0 (35:1) T IH0 (35:2) T AH0
+get (40:0) G EH1 T (40:1) G IH1 T
+a (42:0) AH0 (42:1) EY1
+be (45:0) B IY1 (45:1) B IY0
+in (46:0) IH0 N (46:1) IH1 N
+and (47:0) AE0 N D (47:1) AH0 N D
+them (49:0) DH EH1 M (49:1) DH AH0 M
+of (57:0) AH0 V (57:1) AH0 V
+Honestly, (59:0) AA1 - N AH0 S T - L IY0 (59:1) AA1 - N AH0 S - L IY0
+don't (60:0) D OW1 N T (60:1) D OW1 N
+a (62:0) AH0 (62:1) EY1
+in (66:0) IH0 N (66:1) IH1 N
+of (68:0) AH0 V (68:1) AH0 V
+in (73:0) IH0 N (73:1) IH1 N
+what (76:0) W AH1 T (76:1) HH W AH1 T
+as (79:0) AE1 Z (79:1) EH1 Z
+as (81:0) AE1 Z (81:1) EH1 Z
+don't (84:0) D OW1 N T (84:1) D OW1 N
+with (86:0) W IH1 DH (86:1) W IH1 TH (86:2) W IH0 TH (86:3) W IH0 DH
+don't (89:0) D OW1 N T (89:1) D OW1 N
+be (106:0) B IY1 (106:1) B IY0
+just (110:0) JH AH1 S T (110:1) JH IH0 S T
+in (112:0) IH0 N (112:1) IH1 N
+just (117:0) JH AH1 S T (117:1) JH IH0 S T
+with (119:0) W IH1 DH (119:1) W IH1 TH (119:2) W IH0 TH (119:3) W IH0 DH
+your (120:0) Y AO1 R (120:1) Y UH1 R
+just (124:0) JH AH1 S T (124:1) JH IH0 S T
+on (126:0) AA1 N (126:1) AO1 N
+your (127:0) Y AO1 R (127:1) Y UH1 R
+a (133:0) AH0 (133:1) EY1
+with (138:0) W IH1 DH (138:1) W IH1 TH (138:2) W IH0 TH (138:3) W IH0 DH
+his (139:0) HH IH1 Z (139:1) HH IH0 Z
+him (146:0) HH IH1 M (146:1) IH0 M
+get (147:0) G EH1 T (147:1) G IH1 T
+what (148:0) W AH1 T (148:1) HH W AH1 T
+want, (150:0) W AA1 N T (150:1) W AO1 N T
+And (157:0) AE0 N D (157:1) AH0 N D
+the (158:0) DH AH0 (158:1) DH AH1 (158:2) DH IY0
+new (159:0) N UW1 (159:1) N Y UW1
+whip, (160:0) W IH1 P (160:1) HH W IH1 P
+when (161:0) W EH1 N (161:1) HH W EH1 N (161:2) W IH1 N (161:3) HH W IH1 N
+as (165:0) AE1 Z (165:1) EH1 Z
+a (166:0) AH0 (166:1) EY1
+the (170:0) DH AH0 (170:1) DH AH1 (170:2) DH IY0
+in (172:0) IH0 N (172:1) IH1 N
+the (173:0) DH AH0 (173:1) DH AH1 (173:2) DH IY0
+the (176:0) DH AH0 (176:1) DH AH1 (176:2) DH IY0
+in (178:0) IH0 N (178:1) IH1 N
+the (179:0) DH AH0 (179:1) DH AH1 (179:2) DH IY0
+of (185:0) AH0 V (185:1) AH0 V
+a (188:0) AH0 (188:1) EY1
+and (190:0) AE0 N D (190:1) AH0 N D
+it (198:0) IH1 T (198:1) IH0 T
+And (201:0) AE0 N D (201:1) AH0 N D
+to (212:0) T UW0 (212:1) T IH0 (212:2) T AH0
+be (217:0) B IY1 (217:1) B IY0
+a (225:0) AH0 (225:1) EY1
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see BodakYellow_Output_A_uncertainty.txt in the Poems directory
+
+Bodak (0:0)  B OW1- D AH0 K
+Cardi (2:0)  K AA1- R D IY0
+gon' (8:0)  G AA1 N
+Cardi (18:0)  K AA1- R D IY0
+'bout (64:0)  B AW1 T
+mixtapes (72:0)  M IH1 K S- T EY1 P S
+"Goals," (100:0)  G OW1 L Z
+tryna (105:0)  T R IH1- N AH0
+BAPE, (114:0)  B EY1 P
+"Okay" (143:0)  AH0- K EY1
+prolly (183:0)  P R OW1- L IY0

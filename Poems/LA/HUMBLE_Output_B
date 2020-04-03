@@ -1,0 +1,294 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+AHM: [HUMBLE(0), some(15)]
+EHN: [Kendrick(1), then(85)]
+AY: [Aye,(3), viral(143)]
+AY: [Aye,(3), spiral(151)]
+AY: [I(4), viral(143)]
+AY: [I(4), spiral(151)]
+EHM: [remember(5), M(93)]
+EHM: [remember(5), M,(97)]
+EHM: [remember(5), M(99)]
+EHM: [remember(5), M(103)]
+EHM: [remember(5), em,(114)]
+EHM: [remember(5), M(121)]
+ER: [syrup(6), per(108)]
+AHM: [some(15), humble(173)]
+AWN: [counting(20), down(30)]
+AWN: [counting(20), down(88)]
+AY: [my(24), viral(143)]
+AY: [my(24), spiral(151)]
+AWN: [accountant(25), down(30)]
+AWN: [accountant(25), down(88)]
+AY: [my(35), viral(143)]
+AY: [my(35), spiral(151)]
+AY: [bae,(37), viral(143)]
+AY: [bae,(37), spiral(151)]
+AY: [I(46), viral(143)]
+AY: [I(46), spiral(151)]
+AY: [buy(48), viral(143)]
+AY: [buy(48), spiral(151)]
+AY: [my(54), viral(143)]
+AY: [my(54), spiral(151)]
+AY: [my(65), viral(143)]
+AY: [my(65), spiral(151)]
+AY: [I(68), viral(143)]
+AY: [I(68), spiral(151)]
+EY: [way(70), playing(90)]
+EY: [way(70), Mercedes,(125)]
+EY: [way(70), greatest,(136)]
+EY: [way(70), baby(148)]
+IY: [me(76), season(131)]
+IY: [we(89), season(131)]
+IY: [P(96), season(131)]
+IY: [P(98), season(131)]
+AY: [I(117), viral(143)]
+AY: [I(117), spiral(151)]
+IY: [B(120), season(131)]
+AY: [I(122), viral(143)]
+AY: [I(122), spiral(151)]
+AY: [I(128), viral(143)]
+AY: [I(128), spiral(151)]
+IY: [season(131), be(134)]
+IY: [season(131), C,(153)]
+IY: [season(131), we(154)]
+IY: [season(131), be(172)]
+AY: [I(132), viral(143)]
+AY: [I(132), spiral(151)]
+AY: [My(138), viral(143)]
+AY: [My(138), spiral(151)]
+AY: [viral(143), high(161)]
+AY: [viral(143), I(169)]
+AY: [spiral(151), high(161)]
+AY: [spiral(151), I(169)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+ER: [remember(5), per(108)]
+AHP: [syrup(6), up(81)]
+UW: [boo(36), to(94)]
+UW: [boo(36), to(100)]
+UW: [boo(36), to(156)]
+UW: [boo(36), to(165)]
+UW: [Ooh(56), to(94)]
+UW: [Ooh(56), to(100)]
+UW: [Ooh(56), to(156)]
+UW: [Ooh(56), to(165)]
+IY: [pussy(58), me(76)]
+IY: [pussy(58), we(89)]
+IY: [pussy(58), P(96)]
+IY: [pussy(58), P(98)]
+IY: [pussy(58), B(120)]
+IY: [pussy(58), be(134)]
+IY: [pussy(58), C,(153)]
+IY: [pussy(58), we(154)]
+IY: [pussy(58), be(172)]
+UW: [you(61), to(94)]
+UW: [you(61), to(100)]
+UW: [you(61), to(156)]
+UW: [you(61), to(165)]
+UW: [too(71), to(94)]
+UW: [too(71), to(100)]
+UW: [too(71), to(156)]
+UW: [too(71), to(165)]
+IY: [petty(72), me(76)]
+IY: [petty(72), we(89)]
+IY: [petty(72), P(96)]
+IY: [petty(72), P(98)]
+IY: [petty(72), B(120)]
+IY: [petty(72), be(134)]
+IY: [petty(72), C,(153)]
+IY: [petty(72), we(154)]
+IY: [petty(72), be(172)]
+UW: [you(74), to(94)]
+UW: [you(74), to(100)]
+UW: [you(74), to(156)]
+UW: [you(74), to(165)]
+IY: [me(76), baby(148)]
+UW: [do(77), to(94)]
+UW: [do(77), to(100)]
+UW: [do(77), to(156)]
+UW: [do(77), to(165)]
+IY: [we(89), baby(148)]
+UW: [to(94), you(110)]
+UW: [to(94), you(167)]
+IY: [P(96), baby(148)]
+IY: [P(98), baby(148)]
+UW: [to(100), you(110)]
+UW: [to(100), you(167)]
+UW: [you(110), to(156)]
+UW: [you(110), to(165)]
+AHST: [just(111), greatest,(136)]
+IY: [B(120), baby(148)]
+IY: [be(134), baby(148)]
+AHST: [greatest,(136), just(141)]
+IY: [baby(148), C,(153)]
+IY: [baby(148), we(154)]
+IY: [baby(148), be(172)]
+OW: [Soprano(152), know,(170)]
+UW: [to(156), you(167)]
+UW: [to(165), you(167)]
+
+
+Rule 2: ...-ON[C]'-...
+M: [HUMBLE(0), remember(5), crime(9), some(15), I'm(19), I'm(29), M(93), M,(97), M(99), M(103), diem(109), em,(114), M(121), humble(173)]
+N: [Kendrick(1), counterfeits(16), counting(20), accountant(25), down(30), can(47), on(64), on(82), then(85), down(88), on(159)]
+R: [Lamar(2), Parmesan(22), where(23), for(42), your(49), your(83), your(107), your(119)]
+S: [Finesse(11), this(21), this(32), D'usśe(33), ass(50), paystub(55), Tetris(91), Piss(105), this(130)]
+DH: [with(14), with(34), with(53)]
+T: [But(17), at(31), that(57), sit(62), it(63), get(69), let(75), it(87), out(106), hate(113), quit(118), quit(129), Right(144), put(146), it(158), note(162), it,(166)]
+K: [like(39), extras(79), block,(84), break(86), stroke(140), stroke(145), like(155)]
+L: [kool(40), Girl,(45), Pull(80), still(123), still(133), lil(147)]
+D: [aid(41), good,(59), ride(124)]
+NT: [won't(60), went(142)]
+ST: [taste(66), just(111), just(141)]
+P: [up(81), keep(157)]
+NGK: [funk(104), funk(115), funk(126), funk(137)]
+F: [If(116), If(127)]
+
+
+Rule 3: ...-O[N]C'-...
+AH: [HUMBLE(0), some(15), But(17), D'usśe(33), paystub(55), bloods(67), once(73), up(81), funk(104), just(111), funk(115), funk(126), funk(137), just(141), humble(173)]
+EH: [Kendrick(1), remember(5), Finesse(11), where(23), get(69), petty(72), let(75), extras(79), then(85), Tetris(91), M(93), M,(97), M(99), M(103), em,(114), M(121), left(139), went(142), levels(164)]
+AA: [Lamar(2), Parmesan(22), on(64), on(82), block,(84), gotta(112), Soprano(152), on(159)]
+AY: [Aye,(3), I(4), crime(9), I'm(19), my(24), I'm(29), my(35), bae,(37), like(39), I(46), buy(48), my(54), my(65), I(68), I(117), I(122), ride(124), I(128), I(132), My(138), viral(143), Right(144), spiral(151), like(155), high(161), I(169)]
+ER: [syrup(6), Girl,(45), world(52), per(108)]
+AE: [sandwiches(7), fact(28), at(31), analysts(44), can(47), ass(50), that(57)]
+AW: [allowances(10), counterfeits(16), now(18), counting(20), accountant(25), down(30), down(88), out(106)]
+IH: [nigga(13), with(14), this(21), lives(26), this(32), with(34), with(53), sit(62), it(63), it(87), Tetris(91), Piss(105), If(116), quit(118), still(123), If(127), quit(129), this(130), still(133), lil(147), it(158), It's(163), it,(166), bitch(171)]
+UW: [boo(36), kool(40), Ooh(56), you(61), too(71), you(74), do(77), you(110), you(167)]
+EY: [tastes(38), aid(41), paystub(55), taste(66), way(70), break(86), playing(90), hate(113), Mercedes,(125), greatest,(136), baby(148)]
+AO: [for(42), your(49), your(83), your(107), your(119)]
+UH: [pussy(58), good,(59), Pull(80), put(146)]
+OW: [won't(60), stroke(140), stroke(145), note(162), know,(170)]
+IY: [me(76), we(89), P(96), P(98), diem(109), B(120), season(131), be(134), C,(153), we(154), keep(157), be(172)]
+
+
+Rule 4: ...-[O']N[C']'-...
+HHM: [HUMBLE(0), humble(173)]
+KN: [Kendrick(1), counterfeits(16), counting(20), accountant(25), can(47)]
+S: [syrup(6), ass(50), Mercedes,(125), season(131), C,(153)]
+L: [allowances(10), levels(164)]
+N: [nigga(13), now(18), on(64), on(82), on(159), know,(170)]
+WDH: [with(14), with(34), with(53)]
+M: [I'm(19), my(24), I'm(29), my(35), my(54), my(65), me(76), M(93), M,(97), M(99), M(103), em,(114), M(121), My(138)]
+DHS: [this(21), this(32), this(130)]
+PR: [Parmesan(22), Soprano(152)]
+DN: [down(30), down(88)]
+T: [at(31), it(63), too(71), it(87), Tetris(91), out(106), it(158), it,(166)]
+B: [boo(36), bae,(37), buy(48), B(120), be(134), baby(148), be(172)]
+LK: [like(39), like(155)]
+D: [aid(41), do(77)]
+YR: [your(49), your(83), your(107), your(119)]
+PS: [paystub(55), Piss(105)]
+P: [pussy(58), petty(72), up(81), P(96), P(98), per(108)]
+WNT: [won't(60), went(142)]
+Y: [you(61), you(74), you(110), you(167)]
+W: [way(70), we(89), we(154)]
+PL: [Pull(80), playing(90)]
+FNGK: [funk(104), funk(115), funk(126), funk(137)]
+JHST: [just(111), just(141)]
+F: [If(116), If(127)]
+KWT: [quit(118), quit(129)]
+STL: [still(123), still(133)]
+STRK: [stroke(140), stroke(145)]
+
+
+
+
+Poem with word IDs:
+
+HUMBLE(0) 
+Kendrick(1) Lamar(2) 
+
+Aye,(3) I(4) remember(5) syrup(6) sandwiches(7) and(8) crime(9) allowances(10) 
+Finesse(11) a(12) nigga(13) with(14) some(15) counterfeits(16) 
+But(17) now(18) I'm(19) counting(20) this(21) 
+Parmesan(22) where(23) my(24) accountant(25) lives(26) in(27) fact(28) I'm(29) down(30) at(31) this(32) 
+D'usśe(33) with(34) my(35) boo(36) bae,(37) tastes(38) like(39) kool(40) aid(41) for(42) the(43) analysts(44) 
+Girl,(45) I(46) can(47) buy(48) your(49) ass(50) the(51) world(52) with(53) my(54) paystub(55) 
+Ooh(56) that(57) pussy(58) good,(59) won't(60) you(61) sit(62) it(63) on(64) my(65) taste(66) bloods(67) 
+I(68) get(69) way(70) too(71) petty(72) once(73) you(74) let(75) me(76) do(77) the(78) extras(79) 
+Pull(80) up(81) on(82) your(83) block,(84) then(85) break(86) it(87) down(88) we(89) playing(90) Tetris(91) 
+A(92) M(93) to(94) the(95) P(96) M,(97) P(98) M(99) to(100) the(101) A(102) M(103) funk(104) 
+Piss(105) out(106) your(107) per(108) diem(109) you(110) just(111) gotta(112) hate(113) em,(114) funk(115) 
+If(116) I(117) quit(118) your(119) B(120) M(121) I(122) still(123) ride(124) Mercedes,(125) funk(126) 
+If(127) I(128) quit(129) this(130) season(131) I(132) still(133) be(134) the(135) greatest,(136) funk(137) 
+My(138) left(139) stroke(140) just(141) went(142) viral(143) 
+Right(144) stroke(145) put(146) lil(147) baby(148) in(149) a(150) spiral(151) 
+Soprano(152) C,(153) we(154) like(155) to(156) keep(157) it(158) on(159) a(160) high(161) note(162) 
+It's(163) levels(164) to(165) it,(166) you(167) and(168) I(169) know,(170) bitch(171) be(172) humble(173) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see HUMBLE_Output_B_uncertainty.txt in the Poems directory
+
+remember (5:0) R IH0 - M EH1 M - B ER0 (5:1) R IY0 - M EH1 M - B ER0
+syrup (6:0) S ER1 - AH0 P (6:1) S IH1 - R AH0 P
+sandwiches (7:0) S AE1 N D - W IH0 - CH IH0 Z (7:1) S AE1 N - W IH0 - CH IH0 Z (7:2) S AE1 M - W IH0 - CH IH0 Z
+and (8:0) AE0 N D (8:1) AH0 N D
+a (12:0) AH0 (12:1) EY1
+with (14:0) W IH1 DH (14:1) W IH1 TH (14:2) W IH0 TH (14:3) W IH0 DH
+counterfeits (16:0) K AW1 N - T ER0 - F IH2 T S (16:1) K AW1 - N ER0 - F IH2 T S
+counting (20:0) K AW1 N - T IH0 NG (20:1) K AW1 - N IH0 NG
+this (21:0) DH IH1 S (21:1) DH IH0 S
+where (23:0) W EH1 R (23:1) HH W EH1 R
+lives (26:0) L IH1 V Z (26:1) L AY1 V Z
+in (27:0) IH0 N (27:1) IH1 N
+this (32:0) DH IH1 S (32:1) DH IH0 S
+with (34:0) W IH1 DH (34:1) W IH1 TH (34:2) W IH0 TH (34:3) W IH0 DH
+for (42:0) F AO1 R (42:1) F ER0 (42:2) F R ER0
+the (43:0) DH AH0 (43:1) DH AH1 (43:2) DH IY0
+analysts (44:0) AE1 - N AH0 - L AH0 S T S (44:1) AE1 - N AH0 - L IH0 S T S (44:2) AE1 - N AH0 - L AH0 S S (44:3) AE1 - N AH0 - L IH0 S S
+can (47:0) K AE1 N (47:1) K AH0 N
+your (49:0) Y AO1 R (49:1) Y UH1 R
+the (51:0) DH AH0 (51:1) DH AH1 (51:2) DH IY0
+with (53:0) W IH1 DH (53:1) W IH1 TH (53:2) W IH0 TH (53:3) W IH0 DH
+that (57:0) DH AE1 T (57:1) DH AH0 T
+good, (59:0) G UH1 D (59:1) G IH0 D
+it (63:0) IH1 T (63:1) IH0 T
+on (64:0) AA1 N (64:1) AO1 N
+get (69:0) G EH1 T (69:1) G IH1 T
+the (78:0) DH AH0 (78:1) DH AH1 (78:2) DH IY0
+on (82:0) AA1 N (82:1) AO1 N
+your (83:0) Y AO1 R (83:1) Y UH1 R
+it (87:0) IH1 T (87:1) IH0 T
+A (92:0) AH0 (92:1) EY1
+to (94:0) T UW0 (94:1) T IH0 (94:2) T AH0
+the (95:0) DH AH0 (95:1) DH AH1 (95:2) DH IY0
+to (100:0) T UW0 (100:1) T IH0 (100:2) T AH0
+the (101:0) DH AH0 (101:1) DH AH1 (101:2) DH IY0
+A (102:0) AH0 (102:1) EY1
+your (107:0) Y AO1 R (107:1) Y UH1 R
+just (111:0) JH AH1 S T (111:1) JH IH0 S T
+If (116:0) IH1 F (116:1) IH0 F
+your (119:0) Y AO1 R (119:1) Y UH1 R
+If (127:0) IH1 F (127:1) IH0 F
+this (130:0) DH IH1 S (130:1) DH IH0 S
+be (134:0) B IY1 (134:1) B IY0
+the (135:0) DH AH0 (135:1) DH AH1 (135:2) DH IY0
+just (141:0) JH AH1 S T (141:1) JH IH0 S T
+in (149:0) IH0 N (149:1) IH1 N
+a (150:0) AH0 (150:1) EY1
+Soprano (152:0) S AH0 - P R AA1 - N OW0 (152:1) S AH0 - P R AE1 - N OW0
+to (156:0) T UW0 (156:1) T IH0 (156:2) T AH0
+it (158:0) IH1 T (158:1) IH0 T
+on (159:0) AA1 N (159:1) AO1 N
+a (160:0) AH0 (160:1) EY1
+It's (163:0) IH1 T S (163:1) IH0 T S
+to (165:0) T UW0 (165:1) T IH0 (165:2) T AH0
+it, (166:0) IH1 T (166:1) IH0 T
+and (168:0) AE0 N D (168:1) AH0 N D
+be (172:0) B IY1 (172:1) B IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see HUMBLE_Output_B_uncertainty.txt in the Poems directory
+
+nigga (13:0)  N IH1- G AH0
+D'usśe (33:0)  D AH1 S
+paystub (55:0)  P EY1 S- T AH1 B
+Tetris (91:0)  T EH1- T R IH1 S

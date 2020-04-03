@@ -1,0 +1,175 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: ...-O[NC]'&...-O[NC]'-ONC
+OW: [Oh(12), notice(55)]
+IY: [she(26), Jeezy(38)]
+IY: [she(26), tweezers(51)]
+IY: [she(26), Even(110)]
+IY: [Jeezy(38), Three(58)]
+IY: [Jeezy(38), we(114)]
+IY: [tweezers(51), Three(58)]
+IY: [tweezers(51), we(114)]
+OW: [notice(55), go(92)]
+IY: [Three(58), Even(110)]
+IY: [Even(110), we(114)]
+
+
+Rule 1: ...-O[NC]'&...-O[NC]
+IHT: [It(1), pulpit(95)]
+IHN: [in(9), been(28)]
+IHN: [in(9), shoppin'(29)]
+UW: [do(15), to(48)]
+UW: [do(15), to(91)]
+UW: [do(15), to(93)]
+UW: [do(15), to(98)]
+IHT: [it(16), pulpit(95)]
+IY: [she(26), Jeezy(38)]
+IHN: [been(28), nothin'(36)]
+IHN: [been(28), Even(110)]
+IHN: [shoppin'(29), nothin'(36)]
+IHN: [shoppin'(29), Even(110)]
+IHT: [shit(31), pulpit(95)]
+UW: [do(35), to(48)]
+UW: [do(35), to(91)]
+UW: [do(35), to(93)]
+UW: [do(35), to(98)]
+IY: [Jeezy(38), Three(58)]
+IY: [Jeezy(38), we(114)]
+IHT: [lit(57), pulpit(95)]
+AHN: [seven(60), one(67)]
+IHT: [it(76), pulpit(95)]
+IHT: [pulpit(95), sit(99)]
+
+
+Rule 2: ...-ON[C]'-...
+T: [Light(0), It(1), it(16), shit(31), lit(57), it(76), got(97), sit(99), got(104), at(108), at(111)]
+P: [Up(2), up(22), up(107)]
+ST: [just(6), just(19), just(27), just(54)]
+S: [sauce(8), yes,(13), this(45), worse(84)]
+NZ: [Benz(11), ones(70)]
+N: [again(17), been(28), shoppin'(29), plan(41), on(42), Balmain(49), one(67), than(85)]
+NT: [turnt(21), can't(34), Ain't(89)]
+M: [Damn,(32), I'm(56), 'nem(64), 'nem(73), team(106)]
+DH: [with(37), with(71), with(78), with(100)]
+D: [had(47), had(90)]
+L: [Balmain(49), pulpit(95)]
+R: [for(61), your(86), airport,(113)]
+Z: [was(66), ties(116)]
+
+
+Rule 3: ...-O[N]C'-...
+AY: [Light(0), I(5), I(18), my(23), I(33), I(40), like(44), I(46), my(50), I'm(56), five(59), my(62), I(65), I(74), my(79), I(96), I(103), ties(116)]
+IH: [It(1), spilled(7), I'ma(14), it(16), bitch(24), been(28), shoppin'(29), shit(31), with(37), dyin'(43), this(45), lit(57), with(71), it(76), with(78), niggas(83), sit(99), with(100)]
+AH: [Up(2), Young(3), Thug(4), just(6), just(19), up(22), just(27), nothin'(36), just(54), one(67), ones(70), government(102), up(107)]
+AO: [sauce(8), for(61), your(86)]
+EH: [Benz(11), yes,(13), again(17), seven(60), 'nem(64), 'nem(73), airport,(113)]
+OW: [Oh(12), notice(55), go(92)]
+UW: [do(15), do(35)]
+AW: [now(20), Now(52), now(81), now(88)]
+ER: [turnt(21), worse(84)]
+IY: [she(26), Jeezy(38), tweezers(51), Three(58), team(106), Even(110), we(114)]
+AA: [shoppin'(29), on(42), mama(63), was(66), Obama(72), commas(80), mamas(87), got(97), got(104), Popeye's(109), mob(115)]
+AE: [Damn,(32), can't(34), plan(41), had(47), Balmain(49), than(85), had(90), at(108), at(111)]
+EY: [Balmain(49), they(53), play(75), safe(77), Ain't(89)]
+
+
+Rule 4: ...-[O']N[C']'-...
+LT: [Light(0), lit(57)]
+T: [It(1), it(16), it(76), at(108), at(111)]
+P: [Up(2), up(22), up(107), Popeye's(109)]
+JHST: [just(6), just(19), just(27), just(54)]
+D: [do(15), do(35)]
+N: [now(20), nothin'(36), on(42), Now(52), notice(55), now(81), niggas(83), now(88)]
+M: [my(23), my(50), I'm(56), my(62), mama(63), my(79), mamas(87)]
+SH: [she(26), shoppin'(29)]
+WDH: [with(37), with(71), with(78), with(100)]
+HHD: [had(47), had(90)]
+NM: ['nem(64), 'nem(73)]
+PL: [play(75), pulpit(95)]
+G: [go(92), government(102)]
+GT: [got(97), got(104)]
+
+
+
+
+Poem with word IDs:
+
+Light(0) It(1) Up(2) 
+Young(3) Thug(4) 
+
+I(5) just(6) spilled(7) sauce(8) in(9) the(10) Benz(11) 
+Oh(12) yes,(13) I'ma(14) do(15) it(16) again(17) 
+I(18) just(19) now(20) turnt(21) up(22) my(23) bitch(24) 
+And(25) she(26) just(27) been(28) shoppin'(29) and(30) shit(31) 
+Damn,(32) I(33) can't(34) do(35) nothin'(36) with(37) Jeezy(38) 
+And(39) I(40) plan(41) on(42) dyin'(43) like(44) this(45) 
+I(46) had(47) to(48) Balmain(49) my(50) tweezers(51) 
+Now(52) they(53) just(54) notice(55) I'm(56) lit(57) 
+Three(58) five(59) seven(60) for(61) my(62) mama(63) 'nem(64) 
+I(65) was(66) one(67) of(68) the(69) ones(70) with(71) Obama(72) 'nem(73) 
+I(74) play(75) it(76) safe(77) with(78) my(79) commas(80) now(81) 
+Y'all(82) niggas(83) worse(84) than(85) your(86) mamas(87) now(88) 
+Ain't(89) had(90) to(91) go(92) to(93) the(94) pulpit(95) 
+I(96) got(97) to(98) sit(99) with(100) the(101) government(102) 
+I(103) got(104) a(105) team(106) up(107) at(108) Popeye's(109) 
+Even(110) at(111) the(112) airport,(113) we(114) mob(115) ties(116) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see LightItUp_Output_B_uncertainty.txt in the Poems directory
+
+It (1:0) IH1 T (1:1) IH0 T
+just (6:0) JH AH1 S T (6:1) JH IH0 S T
+in (9:0) IH0 N (9:1) IH1 N
+the (10:0) DH AH0 (10:1) DH AH1 (10:2) DH IY0
+Benz (11:0) B EH1 N Z (11:1) B AE1 N Z
+it (16:0) IH1 T (16:1) IH0 T
+again (17:0) AH0 - G EH1 N (17:1) AH0 - G EY1 N
+just (19:0) JH AH1 S T (19:1) JH IH0 S T
+And (25:0) AE0 N D (25:1) AH0 N D
+just (27:0) JH AH1 S T (27:1) JH IH0 S T
+been (28:0) B IH1 N (28:1) B AH0 N (28:2) B IH0 N
+and (30:0) AE0 N D (30:1) AH0 N D
+with (37:0) W IH1 DH (37:1) W IH1 TH (37:2) W IH0 TH (37:3) W IH0 DH
+And (39:0) AE0 N D (39:1) AH0 N D
+on (42:0) AA1 N (42:1) AO1 N
+this (45:0) DH IH1 S (45:1) DH IH0 S
+to (48:0) T UW0 (48:1) T IH0 (48:2) T AH0
+just (54:0) JH AH1 S T (54:1) JH IH0 S T
+notice (55:0) N OW1 - T AH0 S (55:1) N OW1 - T IH0 S
+for (61:0) F AO1 R (61:1) F ER0 (61:2) F R ER0
+was (66:0) W AA1 Z (66:1) W AH1 Z (66:2) W AH0 Z (66:3) W AO1 Z
+one (67:0) W AH1 N (67:1) HH W AH1 N
+of (68:0) AH0 V (68:1) AH0 V
+the (69:0) DH AH0 (69:1) DH AH1 (69:2) DH IY0
+with (71:0) W IH1 DH (71:1) W IH1 TH (71:2) W IH0 TH (71:3) W IH0 DH
+it (76:0) IH1 T (76:1) IH0 T
+with (78:0) W IH1 DH (78:1) W IH1 TH (78:2) W IH0 TH (78:3) W IH0 DH
+than (85:0) DH AE1 N (85:1) DH AH0 N
+your (86:0) Y AO1 R (86:1) Y UH1 R
+to (91:0) T UW0 (91:1) T IH0 (91:2) T AH0
+to (93:0) T UW0 (93:1) T IH0 (93:2) T AH0
+the (94:0) DH AH0 (94:1) DH AH1 (94:2) DH IY0
+to (98:0) T UW0 (98:1) T IH0 (98:2) T AH0
+with (100:0) W IH1 DH (100:1) W IH1 TH (100:2) W IH0 TH (100:3) W IH0 DH
+the (101:0) DH AH0 (101:1) DH AH1 (101:2) DH IY0
+government (102:0) G AH1 - V ER0 - M AH0 N T (102:1) G AH1 - V ER0 N - M AH0 N T
+a (105:0) AH0 (105:1) EY1
+the (112:0) DH AH0 (112:1) DH AH1 (112:2) DH IY0
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see LightItUp_Output_B_uncertainty.txt in the Poems directory
+
+I'ma (14:0)  IH1- M AH0
+turnt (21:0)  T ER1 N T
+shoppin' (29:0)  SH AA1- P IH1 N
+Jeezy (38:0)  JH IY1- Z IY0
+dyin' (43:0)  D AY IH1 N
+Balmain (49:0)  B AE1 L- M EY1 N
+'nem (64:0)  N EH1 M
+Obama (72:0)  OW0- B AA1- M AH0
+'nem (73:0)  N EH1 M
+niggas (83:0)  N IH1- G AH0 Z

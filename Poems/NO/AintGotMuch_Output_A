@@ -1,0 +1,185 @@
+IMPORTANT: please make sure to close file before rerunning program
+
+Detected Rhymes
+
+Rule 0: [...-ONC^-...]
+WIY: [We(0), we(52), we(62), we(70), we(76), we(144), we(164), we(170)]
+EYNT: [Ain't(1), ain't(145)]
+WEHN: [When(6), When(34), when(39)]
+AY: [I(7), I(35), I(40), I(47), I(60), I(95), I(106), I(173)]
+WAAZ: [was(8), was(13), was(36), was(48), was(117), was(165)]
+MAY: [my(10), my(180)]
+KSAHN: [Cousin'(15), cousin'(181)]
+TUW: [to(17), to(83), to(148)]
+AOF: [off(22), off(127)]
+FAHKIHN: [Fuckin'(25), fuckin'(130), fuckin'(150)]
+DHAH: [the(27), the(31), the(45), the(57), the(84), the(103), the(110), the(114), the(120), the(140), the(149), the(154), the(159), the(168), the(185)]
+HHUHD: [hood(28), hood,(46)]
+HHAED: [had(41), had(53), had(66), had(72), had(77), had(80), had(172)]
+NOW: [no(42), Know(122)]
+EHVERIY: [every(50), every(177)]
+NAYT: [night(51), night(178)]
+AOL: [all(63), all(71), all(113)]
+AH: [a(67), a(91), a(175)]
+NEHVER: [never(79), never(171)]
+AEND: [and(87), and(134), and(136), And(187)]
+FAOR: ['fore(94), for(167)]
+IHT: [it(97), it(126)]
+AAN: [on(119), on(139), on(184)]
+AHP: [up(157), up(183)]
+
+
+Rule 1: ...-O[NC]'
+IY: [We(0), be(20), we(52), we(62), we(70), we(76), see(102), we(144), we(164), we(170)]
+EYNT: [Ain't(1), ain't(145)]
+AAZ: [Badazz(5), was(8), was(13), was(36), was(48), was(117), was(165)]
+EHN: [When(6), When(34), when(39), then(143)]
+AY: [I(7), my(10), I(35), I(40), I(47), I(60), I(95), I(106), I(173), my(180)]
+OW: [go(16), no(42), so(105), Know(122)]
+AOF: [off(22), off(127)]
+IHN: [Fuckin'(25), swimmin'(33), swaggin',(38), Diggin'(112), ballin'(118), fuckin'(130), fuckin'(150)]
+UHD: [hood(28), hood,(46)]
+AET: [at(30), that(179)]
+AED: [had(41), had(53), had(66), had(72), had(77), had(80), Mad,(152), dad?(162), had(172)]
+AORN: [born,(49), corn'(111)]
+AYT: [night(51), night(178)]
+IHL: ['til(56), Still,(163)]
+AHN: [sun(58), one(156)]
+AHM: [come,(59), some(190)]
+AOL: [all(63), all(71), all(113)]
+AAP: [stop(86), pop(125)]
+AOR: ['fore(94), for(167)]
+IHT: [it(97), it(126), hit(182)]
+EHT: [let(100), Sweat(138), get(188)]
+AAN: [on(119), gon'(124), on(139), on(184)]
+EY: [they(123), say(174)]
+AHP: [up(157), up(183)]
+
+
+Rule 2: ...-O[NC'-ONC]
+EHNAHS: [Menace(14), tennis(24)]
+EHVER: [never(79), never(171)]
+IYCHERZ: [teachers(151), bleachers,(160)]
+
+
+Rule 3: ...-O[NC'-ONC-ONC...]
+EHVERIY: [every(50), every(177)]
+
+
+
+
+Poem with word IDs:
+
+We(0) Ain't(1) Got(2) Much(3) 
+Boosie(4) Badazz(5) 
+
+When(6) I(7) was(8) young(9) my(10) favorite(11) movie(12) was(13) Menace(14) 
+Cousin'(15) go(16) to(17) sleep,(18) I'd(19) be(20) takin'(21) off(22) his(23) tennis(24) 
+Fuckin'(25) with(26) the(27) hood(28) girls(29) at(30) the(31) pool(32) swimmin'(33) 
+When(34) I(35) was(36) half(37) swaggin',(38) when(39) I(40) had(41) no(42) rhythm(43) 
+It's(44) the(45) hood,(46) I(47) was(48) born,(49) every(50) night(51) we(52) had(53) suppers(54) 
+Gamble(55) 'til(56) the(57) sun(58) come,(59) I(60) guess(61) we(62) all(63) hustlers(64) 
+Everybody(65) had(66) a(67) flame,(68) mane,(69) we(70) all(71) had(72) crushes(73) 
+Happy(74) if(75) we(76) had(77) mayonaisse,(78) never(79) had(80) mustard(81) 
+Walked(82) to(83) the(84) movies,(85) stop(86) and(87) eat,(88) Louie's(89) 
+Steal(90) a(91) couple(92) bicycles(93) 'fore(94) I(95) make(96) it(97) home(98) 
+Can't(99) let(100) mama(101) see(102) the(103) bikes,(104) so(105) I(106) park(107) 'em(108) 'round(109) the(110) corn'(111) 
+Diggin'(112) all(113) the(114) gangsters(115) who(116) was(117) ballin'(118) on(119) the(120) corner(121) 
+Know(122) they(123) gon'(124) pop(125) it(126) off(127) 'cause(128) our(129) fuckin'(130) block(131) rolled(132) 
+Daytons(133) and(134) Vogues(135) and(136) Keith(137) Sweat(138) on(139) the(140) speakers(141) 
+Back(142) then(143) we(144) ain't(145) even(146) listen(147) to(148) the(149) fuckin'(150) teachers(151) 
+Mad,(152) mom(153) the(154) only(155) one(156) up(157) in(158) the(159) bleachers,(160) where's(161) dad?(162) 
+Still,(163) we(164) was(165) grateful(166) for(167) the(168) times(169) we(170) never(171) had(172) 
+I(173) say(174) a(175) prayer(176) every(177) night(178) that(179) my(180) cousin'(181) hit(182) up(183) on(184) the(185) dice(186) 
+And(187) get(188) him(189) some(190) cash(191) 
+
+
+Words with multiple pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see AintGotMuch_Output_A_uncertainty.txt in the Poems directory
+
+When (6:0) W EH1 N (6:1) HH W EH1 N (6:2) W IH1 N (6:3) HH W IH1 N
+was (8:0) W AA1 Z (8:1) W AH1 Z (8:2) W AH0 Z (8:3) W AO1 Z
+favorite (11:0) F EY1 - V ER0 - IH0 T (11:1) F EY1 - V R AH0 T
+was (13:0) W AA1 Z (13:1) W AH1 Z (13:2) W AH0 Z (13:3) W AO1 Z
+Menace (14:0) M EH1 - N AH0 S (14:1) M EH1 - N IH0 S
+to (17:0) T UW0 (17:1) T IH0 (17:2) T AH0
+be (20:0) B IY1 (20:1) B IY0
+his (23:0) HH IH1 Z (23:1) HH IH0 Z
+tennis (24:0) T EH1 - N AH0 S (24:1) T EH1 - N IH0 S
+with (26:0) W IH1 DH (26:1) W IH1 TH (26:2) W IH0 TH (26:3) W IH0 DH
+the (27:0) DH AH0 (27:1) DH AH1 (27:2) DH IY0
+the (31:0) DH AH0 (31:1) DH AH1 (31:2) DH IY0
+When (34:0) W EH1 N (34:1) HH W EH1 N (34:2) W IH1 N (34:3) HH W IH1 N
+was (36:0) W AA1 Z (36:1) W AH1 Z (36:2) W AH0 Z (36:3) W AO1 Z
+when (39:0) W EH1 N (39:1) HH W EH1 N (39:2) W IH1 N (39:3) HH W IH1 N
+It's (44:0) IH1 T S (44:1) IH0 T S
+the (45:0) DH AH0 (45:1) DH AH1 (45:2) DH IY0
+was (48:0) W AA1 Z (48:1) W AH1 Z (48:2) W AH0 Z (48:3) W AO1 Z
+every (50:0) EH1 - V ER0 - IY0 (50:1) EH1 - V R IY0
+the (57:0) DH AH0 (57:1) DH AH1 (57:2) DH IY0
+hustlers (64:0) HH AH1 - S AH0 - L ER0 Z (64:1) HH AH1 S - L ER0 Z
+a (67:0) AH0 (67:1) EY1
+if (75:0) IH1 F (75:1) IH0 F
+to (83:0) T UW0 (83:1) T IH0 (83:2) T AH0
+the (84:0) DH AH0 (84:1) DH AH1 (84:2) DH IY0
+and (87:0) AE0 N D (87:1) AH0 N D
+a (91:0) AH0 (91:1) EY1
+it (97:0) IH1 T (97:1) IH0 T
+the (103:0) DH AH0 (103:1) DH AH1 (103:2) DH IY0
+the (110:0) DH AH0 (110:1) DH AH1 (110:2) DH IY0
+the (114:0) DH AH0 (114:1) DH AH1 (114:2) DH IY0
+was (117:0) W AA1 Z (117:1) W AH1 Z (117:2) W AH0 Z (117:3) W AO1 Z
+on (119:0) AA1 N (119:1) AO1 N
+the (120:0) DH AH0 (120:1) DH AH1 (120:2) DH IY0
+it (126:0) IH1 T (126:1) IH0 T
+our (129:0) AW1 - ER0 (129:1) AW1 R (129:2) AA1 R
+and (134:0) AE0 N D (134:1) AH0 N D
+and (136:0) AE0 N D (136:1) AH0 N D
+on (139:0) AA1 N (139:1) AO1 N
+the (140:0) DH AH0 (140:1) DH AH1 (140:2) DH IY0
+to (148:0) T UW0 (148:1) T IH0 (148:2) T AH0
+the (149:0) DH AH0 (149:1) DH AH1 (149:2) DH IY0
+the (154:0) DH AH0 (154:1) DH AH1 (154:2) DH IY0
+one (156:0) W AH1 N (156:1) HH W AH1 N
+in (158:0) IH0 N (158:1) IH1 N
+the (159:0) DH AH0 (159:1) DH AH1 (159:2) DH IY0
+where's (161:0) W EH1 R Z (161:1) HH W EH1 R Z
+was (165:0) W AA1 Z (165:1) W AH1 Z (165:2) W AH0 Z (165:3) W AO1 Z
+for (167:0) F AO1 R (167:1) F ER0 (167:2) F R ER0
+the (168:0) DH AH0 (168:1) DH AH1 (168:2) DH IY0
+a (175:0) AH0 (175:1) EY1
+prayer (176:0) P R EH1 R (176:1) P R EY1 - ER0
+every (177:0) EH1 - V ER0 - IY0 (177:1) EH1 - V R IY0
+that (179:0) DH AE1 T (179:1) DH AH0 T
+on (184:0) AA1 N (184:1) AO1 N
+the (185:0) DH AH0 (185:1) DH AH1 (185:2) DH IY0
+And (187:0) AE0 N D (187:1) AH0 N D
+get (188:0) G EH1 T (188:1) G IH1 T
+him (189:0) HH IH1 M (189:1) IH0 M
+
+
+Out-of-dictionary words & pronunciations: (word ID: pronunciation number)
+To change any of the current pronunciations, please see AintGotMuch_Output_A_uncertainty.txt in the Poems directory
+
+Boosie (4:0)  B UW1- S IY0
+Badazz (5:0)  B AE1- D AA1 Z
+Cousin' (15:0)  K S AH0 N
+Fuckin' (25:0)  F AH1- K IH1 N
+swimmin' (33:0)  S W IH1- M IH1 N
+swaggin', (38:0)  S W AE1- G IH1 N
+'til (56:0)  T IH1 L
+mayonaisse, (78:0)  M EY AH0- N EY1 S
+Louie's (89:0)  L W IY1 Z
+'fore (94:0)  F AO1 R
+'em (108:0)  AH0 M
+'round (109:0)  R AW1 N D
+corn' (111:0)  K AO1 R N
+Diggin' (112:0)  D IH1- G IH1 N
+ballin' (118:0)  B AE1- L IH1 N
+gon' (124:0)  G AA1 N
+'cause (128:0)  K AW1 Z
+fuckin' (130:0)  F AH1- K IH1 N
+Daytons (133:0)  D EY1- T AH0 N Z
+Vogues (135:0)  V OW1 G Z
+fuckin' (150:0)  F AH1- K IH1 N
+cousin' (181:0)  K S AH0 N
