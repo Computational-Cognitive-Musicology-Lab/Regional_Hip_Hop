@@ -5,7 +5,7 @@ library(humdrumR)
 corpus <- readHumdrum('Rhythmic Transcriptions/^[1-5]/*.txt')
 
 as.data.frame(as.matrix(corpus), stringsAsFactors = FALSE) -> data
-colnames(data) <- c('NoteValue', 'Stress', 'Rest', 'Lyrics')
+colnames(data) <- c('NoteValue', 'Stress', 'Rest', 'Lyrics', 'Break')
 
 data$Rhythm <- as.decimal(data$NoteValue)
 

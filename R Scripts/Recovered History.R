@@ -3,7 +3,7 @@ mtcars
 mean(mtcars$qsec[mtcars$cyl == 8])
 median(mtcars$hp)
 #Separater Comment
-regions <- table(rhymeData$City)
+regions <- table(RhymeData$City)
 barplot(regions)
 
 barplot(data$NoteValue)
@@ -76,6 +76,14 @@ subset(data, ARE == 'Atlanta')$Rhythm %>% table
 subset(data, ARE == 'Atlanta')$Rhythm %>% table %>% barplot
 subset(data, ARE == 'New York')$Rhythm %>% table %>% barplot
 subset(data, ARE == 'Atlanta')$NoteValue %>% table %>% barplot
+subset(data, ARE == 'New York')$NoteValue %>% table %>% barplot
+subset(data, ARE == 'Chicago')$NoteValue %>% table %>% barplot
+subset(data, ARE == 'New Orleans')$NoteValue %>% table %>% barplot
+subset(data, ARE == 'LosAngeles')$NoteValue %>% table %>% barplot
+
+
+
+
 subset(data, ARE == 'Atlanta')$NoteValue
 subset(data, ARE == 'Atlanta')$NoteValue %>% table
 table(data$ARE,data$NoteValue)
@@ -103,12 +111,12 @@ data[Bar == 1]
 data[Bar == 1,]
 data[data$Bar == 1,]
 data$OTL
-data[data$Bar == 1 & data$OTL == 'LookinAss',]
+
 data$Rhythm
 cumsum(data$Rhythm)
 cumsum(subset(data, OTL =='LookinAss')$Rhythm)
-cumsum(subset(data, OTL =='LookinAss')$Rhythm) %% 1
-barplot(table(cumsum(subset(data, OTL =='LookinAss')$Rhythm) %% 1))
+cumsum(subset(data, ARE =='Atlanta')$Rhythm) %% 1
+barplot(table(cumsum(subset(data, ARE =='Atlanta')$Rhythm) %% 1))
 read.table('Rhyme_Analyzer_Rhyme_DataSet.txt')
 read.table('Rhyme_Analyzer_Rhyme_DataSet.txt', sep = ',')
 read.table('Regional Hip Hop_Rhyme_Analysis_Data.csv', sep = ',')
@@ -118,77 +126,78 @@ tapply(X = data$ARE, INDEX = data$Rhythm, FUN = mean)
 tapply(X = data$Rhythm, INDEX = data$ARE, FUN = mean)
 barplot(tapply(X = data$Rhythm, INDEX = data$ARE, FUN = mean))
 barplot(tapply(X = data$Rhythm, INDEX = data$ARE, FUN = mean), xlab = data$ARE)
-rhymeData <- read.table('Regional Hip Hop_Rhyme_Analysis_Data.csv', sep = ',', header=T)
-rhymeData$City
+RhymeData <- read.table('Regional Hip Hop_Rhyme_Analysis_Data.csv', sep = ',', header=T)
+RhymeData$City
 library(readr)
 Regional_Hip_Hop_Rhyme_Analysis_Data <- read_csv("Regional Hip Hop_Rhyme_Analysis_Data.csv")
 View(Regional_Hip_Hop_Rhyme_Analysis_Data)
-View(rhymeData)
-View(rhymeData)
-View(rhymeData)
-View(rhymeData)
-View(rhymeData)
-View(rhymeData)
+View(RhymeData)
+View(RhymeData)
+View(RhymeData)
+View(RhymeData)
+View(RhymeData)
+View(RhymeData)
 View(Regional_Hip_Hop_Rhyme_Analysis_Data)
-rhymeData <- Regional_Hip_Hop_Rhyme_Analysis_Data
-rhymeData$City
+RhymeData <- Regional_Hip_Hop_Rhyme_Analysis_Data
+RhymeData$City
 library(readr)
 Regional_Hip_Hop_Rhyme_Analysis_Data <- read_csv("Regional Hip Hop_Rhyme_Analysis_Data.csv")
 View(Regional_Hip_Hop_Rhyme_Analysis_Data)
-rhymeData <- Regional_Hip_Hop_Rhyme_Analysis_Data
-rhymeData$City
-tapply(X = rhymeData$`Tempo in BPM`, INDEX = rhymeData$City, FUN = mean)
-rhymeData$`Tempo in BPM`
+RhymeData <- Regional_Hip_Hop_Rhyme_Analysis_Data
+RhymeData$City
+tapply(X = RhymeData$`Tempo in BPM`, INDEX = RhymeData$City, FUN = mean)
+RhymeData$`Tempo in BPM`
 library(readr)
 Regional_Hip_Hop_Rhyme_Analysis_Data <- read_csv("Regional Hip Hop_Rhyme_Analysis_Data.csv")
 View(Regional_Hip_Hop_Rhyme_Analysis_Data)
-rhymeData <- Regional_Hip_Hop_Rhyme_Analysis_Data
-rhymeData$`Tempo in BPM`
-tapply(X = rhymeData$`Tempo in BPM`, INDEX = rhymeData$City, FUN = mean)
-barplot(tapply(X = rhymeData$`Tempo in BPM`, INDEX = rhymeData$City, FUN = mean))
-rhymeData$`Syllables per line`
-barplot(tapply(X = rhymeData$`Syllables per line`, INDEX = rhymeData$City, FUN = mean))
-tapply(X = rhymeData$`Syllables per line`, INDEX = rhymeData$City, FUN = mean)
-tapply(X = rhymeData$`Syllables per word`, INDEX = rhymeData$City, FUN = mean)
-tapply(X = rhymeData$`Syllable Variation`, INDEX = rhymeData$City, FUN = mean)
-barplot(tapply(X = rhymeData$`Syllable Variation`, INDEX = rhymeData$City, FUN = mean))
-tapply(X = rhymeData$`Novel Word Proportion`, INDEX = rhymeData$City, FUN = mean)
-barplot(tapply(X = rhymeData$`Novel Word Proportion`, INDEX = rhymeData$City, FUN = mean))
-barplot(tapply(X = rhymeData$`Rhymes per line`, INDEX = rhymeData$City, FUN = mean))
-(tapply(X = rhymeData$`Rhymes per line`, INDEX = rhymeData$City, FUN = mean)
-  tapply(X = rhymeData$`Rhymes per line`, INDEX = rhymeData$City, FUN = mean)
-  tapply(X = rhymeData$`Rhymes per syllable`, INDEX = rhymeData$City, FUN = mean)
-  tapply(X = rhymeData$`Rhyme Density`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`Rhyme Density`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`End Pairs Per Line`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`End Pairs Per Line`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`End Pairs Grown`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`End Pairs Grown`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`End Pairs Shrunk`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`End Pairs Shrunk`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`End Pairs Even`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`End Pairs Even`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`Average End Score`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`Average End Score`, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`Average End Syllable Score`, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`Singles per Rhyme`, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`Doubles per Rhyme`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`Doubles per Rhyme`, INDEX = rhymeData$City, FUN = mean)
-  tapply(X = rhymeData$`Triples per Rhyme`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`Triples per Rhyme`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`Quads per Rhyme`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`Quads per Rhyme`, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`Longs per Rhyme`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`Longs per Rhyme`, INDEX = rhymeData$City, FUN = mean)
-  tapply(X = rhymeData$`Perfect Rhymes`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`Perfect Rhymes, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`Longs per Rhyme`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`Perfect Rhymes`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`Perfect Rhymes`, INDEX = rhymeData$City, FUN = mean))
-  tapply(X = rhymeData$`Line Internals per Line`, INDEX = rhymeData$City, FUN = mean)
-  barplot(tapply(X = rhymeData$`Line Internals per Line`, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`Links per line`, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`bridges per line`, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`Compounds per line`, INDEX = rhymeData$City, FUN = mean))
-  barplot(tapply(X = rhymeData$`Chaining per line`, INDEX = rhymeData$City, FUN = mean))
+RhymeData <- Regional_Hip_Hop_Rhyme_Analysis_Data
+RhymeData$`Tempo in BPM`
+tapply(X = RhymeData$`Tempo in BPM`, INDEX = RhymeData$City, FUN = mean)
+barplot(tapply(X = RhymeData$`Tempo in BPM`, INDEX = RhymeData$City, FUN = mean))
+RhymeData$`Syllables per line`
+barplot(tapply(X = RhymeData$`Syllables per line`, INDEX = RhymeData$City, FUN = mean))
+tapply(X = RhymeData$`Syllables per line`, INDEX = RhymeData$City, FUN = mean)
+tapply(X = RhymeData$`Syllables per word`, INDEX = RhymeData$City, FUN = mean)
+tapply(X = RhymeData$`Syllable Variation`, INDEX = RhymeData$City, FUN = mean)
+barplot(tapply(X = RhymeData$`Syllable Variation`, INDEX = RhymeData$City, FUN = mean))
+tapply(X = RhymeData$`Novel Word Proportion`, INDEX = RhymeData$City, FUN = mean)
+barplot(tapply(X = RhymeData$`Novel Word Proportion`, INDEX = RhymeData$City, FUN = mean))
+barplot(tapply(X = RhymeData$`Rhymes per line`, INDEX = RhymeData$City, FUN = mean))
+(tapply(X = RhymeData$`Rhymes per line`, INDEX = RhymeData$City, FUN = mean)
+  tapply(X = RhymeData$`Rhymes per line`, INDEX = RhymeData$City, FUN = mean)
+  tapply(X = RhymeData$`Rhymes per syllable`, INDEX = RhymeData$City, FUN = mean)
+  tapply(X = RhymeData$`Rhyme Density`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`Rhyme Density`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`End Pairs Per Line`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`End Pairs Per Line`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`End Pairs Grown`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`End Pairs Grown`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`End Pairs Shrunk`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`End Pairs Shrunk`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`End Pairs Even`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`End Pairs Even`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`Average End Score`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`Average End Score`, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`Average End Syllable Score`, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`Singles per Rhyme`, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`Doubles per Rhyme`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`Doubles per Rhyme`, INDEX = RhymeData$City, FUN = mean)
+  tapply(X = RhymeData$`Triples per Rhyme`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`Triples per Rhyme`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`Quads per Rhyme`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`Quads per Rhyme`, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`Longs per Rhyme`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`Longs per Rhyme`, INDEX = RhymeData$City, FUN = mean)
+  tapply(X = RhymeData$`Perfect Rhymes`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`Perfect Rhymes, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`Longs per Rhyme`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`Perfect Rhymes`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`Perfect Rhymes`, INDEX = RhymeData$City, FUN = mean))
+  tapply(X = RhymeData$`Line Internals per Line`, INDEX = RhymeData$City, FUN = mean)
+  barplot(tapply(X = RhymeData$`Line Internals per Line`, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`Links per line`, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`bridges per line`, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`Compounds per line`, INDEX = RhymeData$City, FUN = mean))
+  barplot(tapply(X = RhymeData$`Chaining per line`, INDEX = RhymeData$City, FUN = mean))
+  (60/128)/(4/)
   
